@@ -1,0 +1,71 @@
+{
+  "editor": "Sol / current Codex editorial pass",
+  "groups": [
+    {
+      "start_ms": 12923850,
+      "end_ms": 12925550,
+      "lines": [
+        "Ну и мне пришло мясо,"
+      ],
+      "source_word_ids": [
+        "w017",
+        "w018",
+        "w019",
+        "w020",
+        "w021",
+        "w022",
+        "w023"
+      ]
+    },
+    {
+      "start_ms": 12925550,
+      "end_ms": 12929210,
+      "lines": [
+        "какие-то овощи и уголь."
+      ],
+      "source_word_ids": [
+        "w024",
+        "w025",
+        "w026",
+        "w027",
+        "w028",
+        "w029",
+        "w030"
+      ]
+    },
+    {
+      "start_ms": 12929210,
+      "end_ms": 12931530,
+      "lines": [
+        "Ну и я подумал:",
+        "шашлыки ебану."
+      ],
+      "source_word_ids": [
+        "w031",
+        "w032",
+        "w033",
+        "w034",
+        "w035",
+        "w036",
+        "w037",
+        "w038"
+      ]
+    },
+    {
+      "start_ms": 12931610,
+      "end_ms": 12933190,
+      "lines": [
+        "Нахуй ссориться,",
+        "да, согласны?"
+      ],
+      "source_word_ids": [
+        "w039",
+        "w040",
+        "w041",
+        "w042",
+        "w043"
+      ]
+    }
+  ],
+  "policy": "Remove false repetitions and recognizer noise, keep semantic content. Whole phrases; unknown internal word boundaries not invented."
+}

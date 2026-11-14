@@ -1,0 +1,435 @@
+{
+  "draft": {
+    "schema_version": 1,
+    "vod_id": "2876630043",
+    "clip_id": "PUB_05c",
+    "source_segments_ms": [
+      [
+        2975130,
+        2977030
+      ],
+      [
+        2977030,
+        2977910
+      ],
+      [
+        2978870,
+        2981050
+      ],
+      [
+        2981800,
+        2985310
+      ]
+    ],
+    "words": [
+      {
+        "id": "w001",
+        "segment": 1,
+        "start_ms": 0,
+        "end_ms": 440,
+        "text": "Максон,"
+      },
+      {
+        "id": "w002",
+        "segment": 1,
+        "start_ms": 560,
+        "end_ms": 620,
+        "text": "ты"
+      },
+      {
+        "id": "w003",
+        "segment": 1,
+        "start_ms": 620,
+        "end_ms": 880,
+        "text": "знаешь,"
+      },
+      {
+        "id": "w004",
+        "segment": 1,
+        "start_ms": 1060,
+        "end_ms": 1100,
+        "text": "что"
+      },
+      {
+        "id": "w005",
+        "segment": 1,
+        "start_ms": 1100,
+        "end_ms": 1140,
+        "text": "-то"
+      },
+      {
+        "id": "w006",
+        "segment": 1,
+        "start_ms": 1140,
+        "end_ms": 1300,
+        "text": "две"
+      },
+      {
+        "id": "w007",
+        "segment": 1,
+        "start_ms": 1300,
+        "end_ms": 1600,
+        "text": "тысячи"
+      },
+      {
+        "id": "w008",
+        "segment": 1,
+        "start_ms": 1600,
+        "end_ms": 1800,
+        "text": "рублей?"
+      },
+      {
+        "id": "w009",
+        "segment": 2,
+        "start_ms": 2040,
+        "end_ms": 2120,
+        "text": "Ты"
+      },
+      {
+        "id": "w010",
+        "segment": 2,
+        "start_ms": 2120,
+        "end_ms": 2300,
+        "text": "когда"
+      },
+      {
+        "id": "w011",
+        "segment": 2,
+        "start_ms": 2300,
+        "end_ms": 2400,
+        "text": "-то"
+      },
+      {
+        "id": "w012",
+        "segment": 2,
+        "start_ms": 2400,
+        "end_ms": 2620,
+        "text": "видел?"
+      },
+      {
+        "id": "w013",
+        "segment": 3,
+        "start_ms": 2880,
+        "end_ms": 3060,
+        "text": "Да,"
+      },
+      {
+        "id": "w014",
+        "segment": 3,
+        "start_ms": 3420,
+        "end_ms": 3520,
+        "text": "ну,"
+      },
+      {
+        "id": "w015",
+        "segment": 3,
+        "start_ms": 3840,
+        "end_ms": 4320,
+        "text": "вообще"
+      },
+      {
+        "id": "w016",
+        "segment": 3,
+        "start_ms": 4320,
+        "end_ms": 4520,
+        "text": "да,"
+      },
+      {
+        "id": "w017",
+        "segment": 3,
+        "start_ms": 4660,
+        "end_ms": 4820,
+        "text": "иногда."
+      },
+      {
+        "id": "w018",
+        "segment": 4,
+        "start_ms": 5180,
+        "end_ms": 5440,
+        "text": "Это"
+      },
+      {
+        "id": "w019",
+        "segment": 4,
+        "start_ms": 5440,
+        "end_ms": 5600,
+        "text": "по"
+      },
+      {
+        "id": "w020",
+        "segment": 4,
+        "start_ms": 5600,
+        "end_ms": 5740,
+        "text": "сути,"
+      },
+      {
+        "id": "w021",
+        "segment": 4,
+        "start_ms": 5940,
+        "end_ms": 6040,
+        "text": "вы,"
+      },
+      {
+        "id": "w022",
+        "segment": 4,
+        "start_ms": 6100,
+        "end_ms": 6380,
+        "text": "курьеру,"
+      },
+      {
+        "id": "w023",
+        "segment": 4,
+        "start_ms": 6500,
+        "end_ms": 6660,
+        "text": "правильно,"
+      },
+      {
+        "id": "w024",
+        "segment": 4,
+        "start_ms": 6800,
+        "end_ms": 6940,
+        "text": "понимаете?"
+      },
+      {
+        "id": "w025",
+        "segment": 4,
+        "start_ms": 8000,
+        "end_ms": 8180,
+        "text": "А"
+      },
+      {
+        "id": "w026",
+        "segment": 4,
+        "start_ms": 8180,
+        "end_ms": 8300,
+        "text": "да."
+      }
+    ]
+  },
+  "edits": {
+    "schema_version": 1,
+    "editor": "Sol",
+    "model": "gpt-6.1-sol",
+    "draft_sha256": "d9d0624880a73d11a0c887504c08424940a0a39aa6a826a3f0d6f8bff30521cd",
+    "edits": [
+      {
+        "word_ids": [
+          "w004",
+          "w005"
+        ],
+        "text": "что такое"
+      },
+      {
+        "word_ids": [
+          "w010",
+          "w011"
+        ],
+        "text": "когда-то"
+      },
+      {
+        "word_ids": [
+          "w021"
+        ],
+        "text": "чаевые"
+      }
+    ]
+  },
+  "draft_sha256": "d9d0624880a73d11a0c887504c08424940a0a39aa6a826a3f0d6f8bff30521cd",
+  "edits_sha256": "e82e686d08afa1a6476b9254b5cb8badc426957469ba1e3d7d6f427ac344d9ec",
+  "source_items": [
+    {
+      "start_ms": 2975130,
+      "end_ms": 2975570,
+      "text": "Максон,",
+      "source_word_ids": [
+        "w001"
+      ]
+    },
+    {
+      "start_ms": 2975690,
+      "end_ms": 2975750,
+      "text": "ты",
+      "source_word_ids": [
+        "w002"
+      ]
+    },
+    {
+      "start_ms": 2975750,
+      "end_ms": 2976010,
+      "text": "знаешь,",
+      "source_word_ids": [
+        "w003"
+      ]
+    },
+    {
+      "start_ms": 2976190,
+      "end_ms": 2976270,
+      "text": "что такое",
+      "source_word_ids": [
+        "w004",
+        "w005"
+      ]
+    },
+    {
+      "start_ms": 2976270,
+      "end_ms": 2976430,
+      "text": "две",
+      "source_word_ids": [
+        "w006"
+      ]
+    },
+    {
+      "start_ms": 2976430,
+      "end_ms": 2976730,
+      "text": "тысячи",
+      "source_word_ids": [
+        "w007"
+      ]
+    },
+    {
+      "start_ms": 2976730,
+      "end_ms": 2976930,
+      "text": "рублей?",
+      "source_word_ids": [
+        "w008"
+      ]
+    },
+    {
+      "start_ms": 2977170,
+      "end_ms": 2977250,
+      "text": "Ты",
+      "source_word_ids": [
+        "w009"
+      ]
+    },
+    {
+      "start_ms": 2977250,
+      "end_ms": 2977530,
+      "text": "когда-то",
+      "source_word_ids": [
+        "w010",
+        "w011"
+      ]
+    },
+    {
+      "start_ms": 2977530,
+      "end_ms": 2977750,
+      "text": "видел?",
+      "source_word_ids": [
+        "w012"
+      ]
+    },
+    {
+      "start_ms": 2978970,
+      "end_ms": 2979150,
+      "text": "Да,",
+      "source_word_ids": [
+        "w013"
+      ]
+    },
+    {
+      "start_ms": 2979510,
+      "end_ms": 2979610,
+      "text": "ну,",
+      "source_word_ids": [
+        "w014"
+      ]
+    },
+    {
+      "start_ms": 2979930,
+      "end_ms": 2980410,
+      "text": "вообще",
+      "source_word_ids": [
+        "w015"
+      ]
+    },
+    {
+      "start_ms": 2980410,
+      "end_ms": 2980610,
+      "text": "да,",
+      "source_word_ids": [
+        "w016"
+      ]
+    },
+    {
+      "start_ms": 2980750,
+      "end_ms": 2980910,
+      "text": "иногда.",
+      "source_word_ids": [
+        "w017"
+      ]
+    },
+    {
+      "start_ms": 2982020,
+      "end_ms": 2982280,
+      "text": "Это",
+      "source_word_ids": [
+        "w018"
+      ]
+    },
+    {
+      "start_ms": 2982280,
+      "end_ms": 2982440,
+      "text": "по",
+      "source_word_ids": [
+        "w019"
+      ]
+    },
+    {
+      "start_ms": 2982440,
+      "end_ms": 2982580,
+      "text": "сути,",
+      "source_word_ids": [
+        "w020"
+      ]
+    },
+    {
+      "start_ms": 2982780,
+      "end_ms": 2982880,
+      "text": "чаевые",
+      "source_word_ids": [
+        "w021"
+      ]
+    },
+    {
+      "start_ms": 2982940,
+      "end_ms": 2983220,
+      "text": "курьеру,",
+      "source_word_ids": [
+        "w022"
+      ]
+    },
+    {
+      "start_ms": 2983340,
+      "end_ms": 2983500,
+      "text": "правильно,",
+      "source_word_ids": [
+        "w023"
+      ]
+    },
+    {
+      "start_ms": 2983640,
+      "end_ms": 2983780,
+      "text": "понимаете?",
+      "source_word_ids": [
+        "w024"
+      ]
+    },
+    {
+      "start_ms": 2984840,
+      "end_ms": 2985020,
+      "text": "А",
+      "source_word_ids": [
+        "w025"
+      ]
+    },
+    {
+      "start_ms": 2985020,
+      "end_ms": 2985140,
+      "text": "да.",
+      "source_word_ids": [
+        "w026"
+      ]
+    }
+  ]
+}

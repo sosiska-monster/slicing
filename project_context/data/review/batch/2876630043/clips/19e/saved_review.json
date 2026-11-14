@@ -1,0 +1,682 @@
+{
+  "draft": {
+    "schema_version": 1,
+    "vod_id": "2876630043",
+    "clip_id": "PUB_19e",
+    "source_segments_ms": [
+      [
+        12917010,
+        12923830
+      ],
+      [
+        12923830,
+        12934100
+      ]
+    ],
+    "words": [
+      {
+        "id": "w001",
+        "segment": 1,
+        "start_ms": 0,
+        "end_ms": 300,
+        "text": "Путают"
+      },
+      {
+        "id": "w002",
+        "segment": 1,
+        "start_ms": 300,
+        "end_ms": 720,
+        "text": "заказы,"
+      },
+      {
+        "id": "w003",
+        "segment": 1,
+        "start_ms": 780,
+        "end_ms": 840,
+        "text": "да"
+      },
+      {
+        "id": "w004",
+        "segment": 1,
+        "start_ms": 840,
+        "end_ms": 940,
+        "text": "мне"
+      },
+      {
+        "id": "w005",
+        "segment": 1,
+        "start_ms": 940,
+        "end_ms": 1220,
+        "text": "вообще"
+      },
+      {
+        "id": "w006",
+        "segment": 1,
+        "start_ms": 1220,
+        "end_ms": 1640,
+        "text": "похуй,"
+      },
+      {
+        "id": "w007",
+        "segment": 1,
+        "start_ms": 1740,
+        "end_ms": 1960,
+        "text": "блядь."
+      },
+      {
+        "id": "w008",
+        "segment": 1,
+        "start_ms": 2340,
+        "end_ms": 2680,
+        "text": "Прикиньте"
+      },
+      {
+        "id": "w009",
+        "segment": 1,
+        "start_ms": 2680,
+        "end_ms": 2820,
+        "text": "один"
+      },
+      {
+        "id": "w010",
+        "segment": 1,
+        "start_ms": 2820,
+        "end_ms": 2980,
+        "text": "раз"
+      },
+      {
+        "id": "w011",
+        "segment": 1,
+        "start_ms": 2980,
+        "end_ms": 3200,
+        "text": "блять"
+      },
+      {
+        "id": "w012",
+        "segment": 1,
+        "start_ms": 3200,
+        "end_ms": 3860,
+        "text": "заказываю"
+      },
+      {
+        "id": "w013",
+        "segment": 1,
+        "start_ms": 3860,
+        "end_ms": 4520,
+        "text": "сладости"
+      },
+      {
+        "id": "w014",
+        "segment": 1,
+        "start_ms": 4520,
+        "end_ms": 4820,
+        "text": "блять,"
+      },
+      {
+        "id": "w015",
+        "segment": 1,
+        "start_ms": 5280,
+        "end_ms": 5760,
+        "text": "молоко"
+      },
+      {
+        "id": "w016",
+        "segment": 1,
+        "start_ms": 5760,
+        "end_ms": 6220,
+        "text": "блять."
+      },
+      {
+        "id": "w017",
+        "segment": 2,
+        "start_ms": 6840,
+        "end_ms": 6940,
+        "text": "Ну"
+      },
+      {
+        "id": "w018",
+        "segment": 2,
+        "start_ms": 6940,
+        "end_ms": 7000,
+        "text": "и"
+      },
+      {
+        "id": "w019",
+        "segment": 2,
+        "start_ms": 7000,
+        "end_ms": 7100,
+        "text": "мне"
+      },
+      {
+        "id": "w020",
+        "segment": 2,
+        "start_ms": 7100,
+        "end_ms": 7540,
+        "text": "пришло"
+      },
+      {
+        "id": "w021",
+        "segment": 2,
+        "start_ms": 7540,
+        "end_ms": 7780,
+        "text": "блять"
+      },
+      {
+        "id": "w022",
+        "segment": 2,
+        "start_ms": 7780,
+        "end_ms": 8360,
+        "text": "мясо"
+      },
+      {
+        "id": "w023",
+        "segment": 2,
+        "start_ms": 8360,
+        "end_ms": 8540,
+        "text": "блять"
+      },
+      {
+        "id": "w024",
+        "segment": 2,
+        "start_ms": 8540,
+        "end_ms": 8860,
+        "text": "какие"
+      },
+      {
+        "id": "w025",
+        "segment": 2,
+        "start_ms": 8860,
+        "end_ms": 9060,
+        "text": "-то"
+      },
+      {
+        "id": "w026",
+        "segment": 2,
+        "start_ms": 9060,
+        "end_ms": 9660,
+        "text": "овощи"
+      },
+      {
+        "id": "w027",
+        "segment": 2,
+        "start_ms": 9660,
+        "end_ms": 9880,
+        "text": "блять"
+      },
+      {
+        "id": "w028",
+        "segment": 2,
+        "start_ms": 9880,
+        "end_ms": 11480,
+        "text": "и"
+      },
+      {
+        "id": "w029",
+        "segment": 2,
+        "start_ms": 11480,
+        "end_ms": 11920,
+        "text": "уголь"
+      },
+      {
+        "id": "w030",
+        "segment": 2,
+        "start_ms": 11920,
+        "end_ms": 12200,
+        "text": "блять"
+      },
+      {
+        "id": "w031",
+        "segment": 2,
+        "start_ms": 12200,
+        "end_ms": 12800,
+        "text": "Ну"
+      },
+      {
+        "id": "w032",
+        "segment": 2,
+        "start_ms": 12800,
+        "end_ms": 12920,
+        "text": "и"
+      },
+      {
+        "id": "w033",
+        "segment": 2,
+        "start_ms": 12920,
+        "end_ms": 12960,
+        "text": "я"
+      },
+      {
+        "id": "w034",
+        "segment": 2,
+        "start_ms": 12960,
+        "end_ms": 13360,
+        "text": "подумал,"
+      },
+      {
+        "id": "w035",
+        "segment": 2,
+        "start_ms": 13420,
+        "end_ms": 13480,
+        "text": "ну"
+      },
+      {
+        "id": "w036",
+        "segment": 2,
+        "start_ms": 13480,
+        "end_ms": 13920,
+        "text": "шашлыки"
+      },
+      {
+        "id": "w037",
+        "segment": 2,
+        "start_ms": 13920,
+        "end_ms": 14160,
+        "text": "и"
+      },
+      {
+        "id": "w038",
+        "segment": 2,
+        "start_ms": 14160,
+        "end_ms": 14520,
+        "text": "банублять,"
+      },
+      {
+        "id": "w039",
+        "segment": 2,
+        "start_ms": 14600,
+        "end_ms": 14680,
+        "text": "ну"
+      },
+      {
+        "id": "w040",
+        "segment": 2,
+        "start_ms": 14680,
+        "end_ms": 14800,
+        "text": "ах"
+      },
+      {
+        "id": "w041",
+        "segment": 2,
+        "start_ms": 14800,
+        "end_ms": 15260,
+        "text": "высорится,"
+      },
+      {
+        "id": "w042",
+        "segment": 2,
+        "start_ms": 15340,
+        "end_ms": 15400,
+        "text": "да,"
+      },
+      {
+        "id": "w043",
+        "segment": 2,
+        "start_ms": 15580,
+        "end_ms": 16180,
+        "text": "согласны?"
+      }
+    ]
+  },
+  "edits": {
+    "schema_version": 1,
+    "editor": "Sol",
+    "model": "gpt-6.1-sol",
+    "draft_sha256": "172ed93790811d1897ad3651d2595fa7c7da4011d85c3b2aacaff5c940882f48",
+    "edits": [
+      {
+        "word_ids": [
+          "w008"
+        ],
+        "text": "Прикиньте,"
+      },
+      {
+        "word_ids": [
+          "w024",
+          "w025"
+        ],
+        "text": "какие-то"
+      },
+      {
+        "word_ids": [
+          "w038"
+        ],
+        "text": "ебану, блять."
+      },
+      {
+        "word_ids": [
+          "w039",
+          "w040",
+          "w041"
+        ],
+        "text": "Нахуй ссориться,"
+      }
+    ]
+  },
+  "draft_sha256": "172ed93790811d1897ad3651d2595fa7c7da4011d85c3b2aacaff5c940882f48",
+  "edits_sha256": "29faef85c4c070711d3a224c7df6c89d1781da26c5ca23286a89a40cb12f3da9",
+  "source_items": [
+    {
+      "start_ms": 12917010,
+      "end_ms": 12917310,
+      "text": "Путают",
+      "source_word_ids": [
+        "w001"
+      ]
+    },
+    {
+      "start_ms": 12917310,
+      "end_ms": 12917730,
+      "text": "заказы,",
+      "source_word_ids": [
+        "w002"
+      ]
+    },
+    {
+      "start_ms": 12917790,
+      "end_ms": 12917850,
+      "text": "да",
+      "source_word_ids": [
+        "w003"
+      ]
+    },
+    {
+      "start_ms": 12917850,
+      "end_ms": 12917950,
+      "text": "мне",
+      "source_word_ids": [
+        "w004"
+      ]
+    },
+    {
+      "start_ms": 12917950,
+      "end_ms": 12918230,
+      "text": "вообще",
+      "source_word_ids": [
+        "w005"
+      ]
+    },
+    {
+      "start_ms": 12918230,
+      "end_ms": 12918650,
+      "text": "похуй,",
+      "source_word_ids": [
+        "w006"
+      ]
+    },
+    {
+      "start_ms": 12918750,
+      "end_ms": 12918970,
+      "text": "блядь.",
+      "source_word_ids": [
+        "w007"
+      ]
+    },
+    {
+      "start_ms": 12919350,
+      "end_ms": 12919690,
+      "text": "Прикиньте,",
+      "source_word_ids": [
+        "w008"
+      ]
+    },
+    {
+      "start_ms": 12919690,
+      "end_ms": 12919830,
+      "text": "один",
+      "source_word_ids": [
+        "w009"
+      ]
+    },
+    {
+      "start_ms": 12919830,
+      "end_ms": 12919990,
+      "text": "раз",
+      "source_word_ids": [
+        "w010"
+      ]
+    },
+    {
+      "start_ms": 12919990,
+      "end_ms": 12920210,
+      "text": "блять",
+      "source_word_ids": [
+        "w011"
+      ]
+    },
+    {
+      "start_ms": 12920210,
+      "end_ms": 12920870,
+      "text": "заказываю",
+      "source_word_ids": [
+        "w012"
+      ]
+    },
+    {
+      "start_ms": 12920870,
+      "end_ms": 12921530,
+      "text": "сладости",
+      "source_word_ids": [
+        "w013"
+      ]
+    },
+    {
+      "start_ms": 12921530,
+      "end_ms": 12921830,
+      "text": "блять,",
+      "source_word_ids": [
+        "w014"
+      ]
+    },
+    {
+      "start_ms": 12922290,
+      "end_ms": 12922770,
+      "text": "молоко",
+      "source_word_ids": [
+        "w015"
+      ]
+    },
+    {
+      "start_ms": 12922770,
+      "end_ms": 12923230,
+      "text": "блять.",
+      "source_word_ids": [
+        "w016"
+      ]
+    },
+    {
+      "start_ms": 12923850,
+      "end_ms": 12923950,
+      "text": "Ну",
+      "source_word_ids": [
+        "w017"
+      ]
+    },
+    {
+      "start_ms": 12923950,
+      "end_ms": 12924010,
+      "text": "и",
+      "source_word_ids": [
+        "w018"
+      ]
+    },
+    {
+      "start_ms": 12924010,
+      "end_ms": 12924110,
+      "text": "мне",
+      "source_word_ids": [
+        "w019"
+      ]
+    },
+    {
+      "start_ms": 12924110,
+      "end_ms": 12924550,
+      "text": "пришло",
+      "source_word_ids": [
+        "w020"
+      ]
+    },
+    {
+      "start_ms": 12924550,
+      "end_ms": 12924790,
+      "text": "блять",
+      "source_word_ids": [
+        "w021"
+      ]
+    },
+    {
+      "start_ms": 12924790,
+      "end_ms": 12925370,
+      "text": "мясо",
+      "source_word_ids": [
+        "w022"
+      ]
+    },
+    {
+      "start_ms": 12925370,
+      "end_ms": 12925550,
+      "text": "блять",
+      "source_word_ids": [
+        "w023"
+      ]
+    },
+    {
+      "start_ms": 12925550,
+      "end_ms": 12926070,
+      "text": "какие-то",
+      "source_word_ids": [
+        "w024",
+        "w025"
+      ]
+    },
+    {
+      "start_ms": 12926070,
+      "end_ms": 12926670,
+      "text": "овощи",
+      "source_word_ids": [
+        "w026"
+      ]
+    },
+    {
+      "start_ms": 12926670,
+      "end_ms": 12926890,
+      "text": "блять",
+      "source_word_ids": [
+        "w027"
+      ]
+    },
+    {
+      "start_ms": 12926890,
+      "end_ms": 12928490,
+      "text": "и",
+      "source_word_ids": [
+        "w028"
+      ]
+    },
+    {
+      "start_ms": 12928490,
+      "end_ms": 12928930,
+      "text": "уголь",
+      "source_word_ids": [
+        "w029"
+      ]
+    },
+    {
+      "start_ms": 12928930,
+      "end_ms": 12929210,
+      "text": "блять",
+      "source_word_ids": [
+        "w030"
+      ]
+    },
+    {
+      "start_ms": 12929210,
+      "end_ms": 12929810,
+      "text": "Ну",
+      "source_word_ids": [
+        "w031"
+      ]
+    },
+    {
+      "start_ms": 12929810,
+      "end_ms": 12929930,
+      "text": "и",
+      "source_word_ids": [
+        "w032"
+      ]
+    },
+    {
+      "start_ms": 12929930,
+      "end_ms": 12929970,
+      "text": "я",
+      "source_word_ids": [
+        "w033"
+      ]
+    },
+    {
+      "start_ms": 12929970,
+      "end_ms": 12930370,
+      "text": "подумал,",
+      "source_word_ids": [
+        "w034"
+      ]
+    },
+    {
+      "start_ms": 12930430,
+      "end_ms": 12930490,
+      "text": "ну",
+      "source_word_ids": [
+        "w035"
+      ]
+    },
+    {
+      "start_ms": 12930490,
+      "end_ms": 12930930,
+      "text": "шашлыки",
+      "source_word_ids": [
+        "w036"
+      ]
+    },
+    {
+      "start_ms": 12930930,
+      "end_ms": 12931170,
+      "text": "и",
+      "source_word_ids": [
+        "w037"
+      ]
+    },
+    {
+      "start_ms": 12931170,
+      "end_ms": 12931530,
+      "text": "ебану, блять.",
+      "source_word_ids": [
+        "w038"
+      ]
+    },
+    {
+      "start_ms": 12931610,
+      "end_ms": 12932270,
+      "text": "Нахуй ссориться,",
+      "source_word_ids": [
+        "w039",
+        "w040",
+        "w041"
+      ]
+    },
+    {
+      "start_ms": 12932350,
+      "end_ms": 12932410,
+      "text": "да,",
+      "source_word_ids": [
+        "w042"
+      ]
+    },
+    {
+      "start_ms": 12932590,
+      "end_ms": 12933190,
+      "text": "согласны?",
+      "source_word_ids": [
+        "w043"
+      ]
+    }
+  ]
+}

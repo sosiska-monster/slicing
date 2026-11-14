@@ -1,0 +1,80 @@
+{
+  "editor": "Sol / current Codex editorial pass",
+  "groups": [
+    {
+      "start_ms": 11210340,
+      "end_ms": 11212160,
+      "lines": [
+        "Какую-то хуйню",
+        "у вас поспрашивать."
+      ],
+      "source_word_ids": [
+        "w020",
+        "w021",
+        "w022",
+        "w023",
+        "w024",
+        "w025",
+        "w026",
+        "w027"
+      ]
+    },
+    {
+      "start_ms": 11212600,
+      "end_ms": 11214780,
+      "lines": [
+        "Я сижу, думаю:",
+        "у вас спросить..."
+      ],
+      "source_word_ids": [
+        "w028",
+        "w029",
+        "w030",
+        "w031",
+        "w032",
+        "w033",
+        "w034",
+        "w035",
+        "w036",
+        "w037"
+      ]
+    },
+    {
+      "start_ms": 11214780,
+      "end_ms": 11216660,
+      "lines": [
+        "Вот это или вот это",
+        "мнение, знаете, типа..."
+      ],
+      "source_word_ids": [
+        "w038",
+        "w039",
+        "w040",
+        "w041",
+        "w042",
+        "w043",
+        "w044",
+        "w045"
+      ]
+    },
+    {
+      "start_ms": 11217180,
+      "end_ms": 11219320,
+      "lines": [
+        "И просто не стримлю,",
+        "не спрашиваю."
+      ],
+      "source_word_ids": [
+        "w046",
+        "w047",
+        "w048",
+        "w049",
+        "w050",
+        "w051",
+        "w052",
+        "w053"
+      ]
+    }
+  ],
+  "policy": "Remove false repetitions and recognizer noise, keep semantic content. Whole phrases; unknown internal word boundaries not invented."
+}

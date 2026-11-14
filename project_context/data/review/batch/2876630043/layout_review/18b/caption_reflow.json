@@ -1,0 +1,65 @@
+{
+  "source_review": "data/review/batch/2876630043/clips/18b/saved_review.json",
+  "source_review_sha256": "2472a5e94cd248e280626cbcc645338455b61e95c6ac0dfba5faf20fbf350def",
+  "text_changed": false,
+  "new_whisper_calls": 0,
+  "split_source_word_ids": [
+    "w012",
+    "w013"
+  ],
+  "split_clip_ms": 6400,
+  "source_captions": [
+    {
+      "start_ms": 11781420,
+      "end_ms": 11782920,
+      "lines": [
+        "3 200 за телефон?"
+      ]
+    },
+    {
+      "start_ms": 11783540,
+      "end_ms": 11786270,
+      "lines": [
+        "3 200 за телефон."
+      ]
+    },
+    {
+      "start_ms": 11786560,
+      "end_ms": 11790300,
+      "lines": [
+        "То есть 3 200 —",
+        "это прям ПК уже."
+      ]
+    }
+  ],
+  "captions": [
+    {
+      "start_ms": 11781420,
+      "end_ms": 11782920,
+      "lines": [
+        "3 200 за телефон?"
+      ]
+    },
+    {
+      "start_ms": 11783540,
+      "end_ms": 11786270,
+      "lines": [
+        "3 200 за телефон."
+      ]
+    },
+    {
+      "start_ms": 11786560,
+      "end_ms": 11787820,
+      "lines": [
+        "То есть 3 200 —"
+      ]
+    },
+    {
+      "start_ms": 11787820,
+      "end_ms": 11790300,
+      "lines": [
+        "это прям ПК уже."
+      ]
+    }
+  ]
+}

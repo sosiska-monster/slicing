@@ -1,0 +1,114 @@
+{
+  "source_sha256": "bff60b9e5e240406ca76ba5a816f19af90d24be4d2a8d73fa7816a56530577b3",
+  "indexed_copy": [
+    {
+      "stream": "video",
+      "window_ms": [
+        87000,
+        97500
+      ],
+      "packets": 636,
+      "pts_dts_payload_equal": true
+    },
+    {
+      "stream": "video",
+      "window_ms": [
+        2915660,
+        2945950
+      ],
+      "packets": 1824,
+      "pts_dts_payload_equal": true
+    },
+    {
+      "stream": "video",
+      "window_ms": [
+        6779000,
+        6791000
+      ],
+      "packets": 726,
+      "pts_dts_payload_equal": true
+    },
+    {
+      "stream": "video",
+      "window_ms": [
+        11297000,
+        11311000
+      ],
+      "packets": 846,
+      "pts_dts_payload_equal": true
+    },
+    {
+      "stream": "video",
+      "window_ms": [
+        12917000,
+        12934500
+      ],
+      "packets": 1056,
+      "pts_dts_payload_equal": true
+    },
+    {
+      "stream": "audio",
+      "window_ms": [
+        87000,
+        97500
+      ],
+      "packets": 497,
+      "pts_dts_payload_equal": true
+    },
+    {
+      "stream": "audio",
+      "window_ms": [
+        2915660,
+        2945950
+      ],
+      "packets": 1424,
+      "pts_dts_payload_equal": true
+    },
+    {
+      "stream": "audio",
+      "window_ms": [
+        6779000,
+        6791000
+      ],
+      "packets": 567,
+      "pts_dts_payload_equal": true
+    },
+    {
+      "stream": "audio",
+      "window_ms": [
+        11297000,
+        11311000
+      ],
+      "packets": 661,
+      "pts_dts_payload_equal": true
+    },
+    {
+      "stream": "audio",
+      "window_ms": [
+        12917000,
+        12934500
+      ],
+      "packets": 825,
+      "pts_dts_payload_equal": true
+    }
+  ],
+  "old_480p_audio_alignment": [
+    {
+      "start_s": 650,
+      "hq_relative_to_480p_ms": -42.6875,
+      "correlation": 0.9545450036808667
+    },
+    {
+      "start_s": 6800,
+      "hq_relative_to_480p_ms": -42.6875,
+      "correlation": 0.8878860123885048
+    },
+    {
+      "start_s": 11298,
+      "hq_relative_to_480p_ms": -42.6875,
+      "correlation": 0.9397269149345582
+    }
+  ],
+  "hq_word_times": "No offset applied to saved HQ word drafts",
+  "old_transcript_time_policy": "Legacy audio is about 42.7 ms later; guide only; cuts and captions use HQ audio"
+}

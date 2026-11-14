@@ -1,0 +1,39 @@
+{
+  "editor": "Sol / current Codex editorial pass",
+  "groups": [
+    {
+      "start_ms": 11783540,
+      "end_ms": 11786120,
+      "lines": [
+        "3 200 за телефон."
+      ],
+      "source_word_ids": [
+        "w003",
+        "w004",
+        "w005",
+        "w006",
+        "w007",
+        "w008"
+      ]
+    },
+    {
+      "start_ms": 11786560,
+      "end_ms": 11790200,
+      "lines": [
+        "То есть 3 200 —",
+        "это прям ПК уже."
+      ],
+      "source_word_ids": [
+        "w009",
+        "w010",
+        "w011",
+        "w012",
+        "w013",
+        "w014",
+        "w015",
+        "w016"
+      ]
+    }
+  ],
+  "policy": "Remove false repetitions and recognizer noise, keep semantic content. Whole phrases; unknown internal word boundaries not invented."
+}

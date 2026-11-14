@@ -1,0 +1,137 @@
+{
+  "schema_version": 1,
+  "source": {
+    "vod_id": "2876630043",
+    "file": "data/vods/2876630043.mp4"
+  },
+  "editorial": {
+    "candidate_id": "18d",
+    "hero": "Evelone",
+    "source_plan": "data/review/codex_pilot/full_hq/data/review/contest/clips/PUB_18d/edit_plan.json",
+    "source_plan_sha256": "534c1968112b5a0de1f1d9f5dc0bbf9127a670e1ab88986ec8d6a9625fb93e04",
+    "layout_family": "solo",
+    "layout_choice": "SQUARE",
+    "static_layout": true,
+    "caption_mode": "whole phrases",
+    "source_ad_rects": [],
+    "source_timebase": "HQ playback milliseconds",
+    "caption_timing": "saved HQ words as-is; no 480p shift",
+    "changes": "Reuse approved sound intervals; static image and whole-phrase captions"
+  },
+  "clips": [
+    {
+      "id": "BATCH_18d",
+      "title": "Стал бы ты пропускать скучное время",
+      "export_size": [
+        1080,
+        1920
+      ],
+      "safe_margins": {
+        "left": 0.07222222222222222,
+        "right": 0.21666666666666667,
+        "top": 0,
+        "bottom": 0.3046875
+      },
+      "segments": [
+        {
+          "start_ms": 11907490,
+          "end_ms": 11913270,
+          "framing": {
+            "name": "solo_square",
+            "panels": [
+              {
+                "crop": [
+                  104,
+                  0,
+                  280,
+                  280
+                ],
+                "place": [
+                  40,
+                  180,
+                  540,
+                  540
+                ]
+              }
+            ]
+          },
+          "captions": [
+            {
+              "start_ms": 11907490,
+              "end_ms": 11908990,
+              "lines": [
+                "А ты бы перематывал",
+                "скучное время?"
+              ]
+            },
+            {
+              "start_ms": 11910230,
+              "end_ms": 11913270,
+              "lines": [
+                "Скипать время —",
+                "вы бы скипали?"
+              ]
+            }
+          ]
+        },
+        {
+          "start_ms": 11960100,
+          "end_ms": 11972980,
+          "framing": {
+            "name": "solo_square",
+            "panels": [
+              {
+                "crop": [
+                  104,
+                  0,
+                  280,
+                  280
+                ],
+                "place": [
+                  40,
+                  180,
+                  540,
+                  540
+                ]
+              }
+            ]
+          },
+          "captions": [
+            {
+              "start_ms": 11960460,
+              "end_ms": 11963030,
+              "lines": [
+                "Ну, смотрите, вы бы",
+                "скипали часть, например:"
+              ]
+            },
+            {
+              "start_ms": 11963100,
+              "end_ms": 11965730,
+              "lines": [
+                "либо работу,",
+                "либо школу, да, например."
+              ]
+            },
+            {
+              "start_ms": 11965980,
+              "end_ms": 11969330,
+              "lines": [
+                "Потом пришлось бы",
+                "ещё спать часов 7–8."
+              ]
+            },
+            {
+              "start_ms": 11969460,
+              "end_ms": 11972950,
+              "lines": [
+                "Для жизни оставалось,",
+                "дай бог, пять часов."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

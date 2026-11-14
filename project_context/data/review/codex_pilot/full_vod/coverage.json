@@ -1,0 +1,1177 @@
+{
+  "schema_version": 1,
+  "vod_id": "2876630043",
+  "source": "data/vods/2876630043.mp4",
+  "source_duration_ms": 13367602,
+  "ffprobe_format_duration_ms": 13429635,
+  "stream_start_pts_us": 62016333,
+  "last_video_pts_ms": 13367567,
+  "transcript": "data/review/transcript_2876630043.json",
+  "transcript_sha256": "258f0dfd74c4cd00921a03e2baebc4cd037cae2f9d860dd2074081c1796e9a96",
+  "total_cues": 3797,
+  "core_size": 200,
+  "overlap_cues_each_side": 15,
+  "cue_numbering": "1-based inclusive",
+  "core_cues_reviewed": 3797,
+  "completed_blocks": 19,
+  "total_blocks": 19,
+  "next_block": null,
+  "blocks": [
+    {
+      "block": 1,
+      "core_cues": [
+        1,
+        200
+      ],
+      "read_cues": [
+        1,
+        215
+      ],
+      "read_count": 215,
+      "core_start_ms": 17510,
+      "core_end_ms": 754820,
+      "read_start_ms": 17510,
+      "read_end_ms": 806090,
+      "topics": [
+        "Вступление, музыкальный мем и красная подсветка",
+        "Реакция на ролик Ромы и недосказанность медиаконфликтов",
+        "История сбора состава WT, Дэн, Баз и предложение проходки на мейджор",
+        "Переход к разбору матча Dota"
+      ],
+      "carry": [
+        "Разбор матча начинается с 0189–0194. Финал искать после 0215."
+      ],
+      "candidate_ids": [
+        "01a",
+        "01b",
+        "01c",
+        "01d",
+        "01e",
+        "01f",
+        "01g"
+      ],
+      "merged_candidates": {
+        "01a": "18e"
+      }
+    },
+    {
+      "block": 2,
+      "core_cues": [
+        201,
+        400
+      ],
+      "read_cues": [
+        186,
+        415
+      ],
+      "read_count": 230,
+      "core_start_ms": 754820,
+      "core_end_ms": 1401980,
+      "read_start_ms": 707080,
+      "read_end_ms": 1450260,
+      "topics": [
+        "График матча Dota и шутка про фарм",
+        "Неожиданный уход Тёмы, лидерство и поддержка",
+        "Реакция на публичный пост и разговор в личке",
+        "Вопрос из чата об отношениях со Строго, FACEIT и разница в Elo",
+        "Многократный повтор распознавания около 20:00 просмотрен в контексте"
+      ],
+      "carry": [
+        "0401–0415: договорились кастить мейджор, в TeamSpeak вошли другие, Ваня замьютился. Проверить исход рассказа."
+      ],
+      "candidate_ids": [
+        "02a",
+        "02b",
+        "02c",
+        "02d",
+        "02e"
+      ]
+    },
+    {
+      "block": 3,
+      "core_cues": [
+        401,
+        600
+      ],
+      "read_cues": [
+        386,
+        615
+      ],
+      "read_count": 230,
+      "core_start_ms": 1405840,
+      "core_end_ms": 2151350,
+      "read_start_ms": 1354700,
+      "read_end_ms": 2208350,
+      "topics": [
+        "Несостоявшийся совместный каст мейджора",
+        "Вопросы чата о составе и публичном конфликте, рейд",
+        "Шутки о свадьбе, донатах и TikTok",
+        "Подготовка пробной викторины и звонок Максиму"
+      ],
+      "carry": [
+        "0603–0615: спор о смысле пробной игры и призах продолжается в 4-м блоке. Реплики 0595–0602 содержат длинный повтор ASR."
+      ],
+      "candidate_ids": [
+        "03a",
+        "03b",
+        "03c",
+        "03d",
+        "03e",
+        "03f",
+        "03g",
+        "03h",
+        "03i"
+      ]
+    },
+    {
+      "block": 4,
+      "core_cues": [
+        601,
+        800
+      ],
+      "read_cues": [
+        586,
+        815
+      ],
+      "read_count": 230,
+      "core_start_ms": 2151350,
+      "core_end_ms": 2810210,
+      "read_start_ms": 2099920,
+      "read_end_ms": 2859220,
+      "topics": [
+        "Правила тестовой викторины, возможность забрать приз и настройка камер",
+        "Реплики про фейки и поиск выпусков телеигры",
+        "Торг о несгораемых суммах и объяснение подсказок",
+        "Начало вопроса про закон Ома"
+      ],
+      "carry": [
+        "0797–0815: вопрос про закон Ома; развязка после повтора ASR. Проверить табло на выборе и результате."
+      ],
+      "candidate_ids": [
+        "04a",
+        "04b",
+        "04c",
+        "04d",
+        "04e",
+        "04f"
+      ]
+    },
+    {
+      "block": 5,
+      "core_cues": [
+        801,
+        1000
+      ],
+      "read_cues": [
+        786,
+        1015
+      ],
+      "read_count": 230,
+      "core_start_ms": 2811740,
+      "core_end_ms": 3464300,
+      "read_start_ms": 2769720,
+      "read_end_ms": 3509530,
+      "topics": [
+        "Закон Ома и первый выигрыш",
+        "Правило вывода денег, ставка в две тысячи и первый Major",
+        "Fnatic, обманка о неверном ответе",
+        "Ближайшая планета, Меркурий и вторая жизнь",
+        "Вопрос про Будапешт начался в перекрытии"
+      ],
+      "carry": [
+        "1013–1015: Будапешт и Бухарест. Зафиксировать исход в следующем блоке."
+      ],
+      "candidate_ids": [
+        "05a",
+        "05b",
+        "05c",
+        "05d",
+        "05e"
+      ]
+    },
+    {
+      "block": 6,
+      "core_cues": [
+        1001,
+        1200
+      ],
+      "read_cues": [
+        986,
+        1215
+      ],
+      "read_count": 230,
+      "core_start_ms": 3464730,
+      "core_end_ms": 4142010,
+      "read_start_ms": 3415600,
+      "read_end_ms": 4184860,
+      "topics": [
+        "Будапешт, Бухарест и воспоминание о поездках",
+        "Договорённость закрывать чат на вопросе",
+        "Поговорка о пиве, 50/50 и несгораемая десятка",
+        "Памятник в Саратове и Бык-Солевоз в Энгельсе",
+        "Разговор о ставке 50 тысяч и начало вопроса об аль денте"
+      ],
+      "carry": [
+        "1209–1215: вопрос об аль денте и ранний ответ. Проверить выбор и исход в следующем блоке; предыдущий раунд про быка уже зарегистрирован."
+      ],
+      "candidate_ids": [
+        "06a",
+        "06b",
+        "06c",
+        "06d",
+        "06e",
+        "06f",
+        "06g"
+      ]
+    },
+    {
+      "block": 7,
+      "core_cues": [
+        1201,
+        1400
+      ],
+      "read_cues": [
+        1186,
+        1415
+      ],
+      "read_count": 230,
+      "core_start_ms": 4142930,
+      "core_end_ms": 4812460,
+      "read_start_ms": 4082390,
+      "read_end_ms": 4863570,
+      "topics": [
+        "Аль денте и подставной вариант про жарку мяса",
+        "Эмблема Audi, скорость в вакууме и Сербия",
+        "Память о числе π и мем «67»",
+        "Начало вопроса о французских соусах"
+      ],
+      "carry": [
+        "1407–1415: вопрос на 300 000 ₽ о материнских соусах, концовка в блоке 8."
+      ],
+      "candidate_ids": [
+        "07a",
+        "07b",
+        "07c",
+        "07d",
+        "07e"
+      ]
+    },
+    {
+      "block": 8,
+      "core_cues": [
+        1401,
+        1600
+      ],
+      "read_cues": [
+        1386,
+        1615
+      ],
+      "read_count": 230,
+      "core_start_ms": 4812460,
+      "core_end_ms": 5512870,
+      "read_start_ms": 4763720,
+      "read_end_ms": 5559510,
+      "topics": [
+        "Спор о французских соусах, неверный выбор и вторая жизнь",
+        "Спор о правилах и переход к вопросу о попытках",
+        "Подсказка зала и голосование за три попытки",
+        "Шутка о поясах, воспоминание о дедушке и начало вопроса про УАЗ"
+      ],
+      "carry": [
+        "1610–1615: индекс УАЗа «Буханки». Развязка после границы."
+      ],
+      "candidate_ids": [
+        "08a",
+        "08b",
+        "08c",
+        "08d"
+      ]
+    },
+    {
+      "block": 9,
+      "core_cues": [
+        1601,
+        1800
+      ],
+      "read_cues": [
+        1586,
+        1815
+      ],
+      "read_count": 230,
+      "core_start_ms": 5514790,
+      "core_end_ms": 6292540,
+      "read_start_ms": 5469260,
+      "read_end_ms": 6339620,
+      "topics": [
+        "Воспоминание о дедушке в перекрытии",
+        "УАЗ «Буханка», звонок Рафику и ответ 452",
+        "Веллингтон через ассоциацию с блюдом, выигрыш 750 тысяч",
+        "Выбор идти на миллион и начало вопроса о двигателях"
+      ],
+      "carry": [
+        "1758–1815: решение рискнуть 750 000 ₽ и финальный вопрос про свечи зажигания. Рассматривать вместе до результата."
+      ],
+      "candidate_ids": [
+        "09a",
+        "09b"
+      ]
+    },
+    {
+      "block": 10,
+      "core_cues": [
+        1801,
+        2000
+      ],
+      "read_cues": [
+        1786,
+        2015
+      ],
+      "read_count": 230,
+      "core_start_ms": 6292790,
+      "core_end_ms": 6927900,
+      "read_start_ms": 6244430,
+      "read_end_ms": 6972810,
+      "topics": [
+        "Финал Максима: роторный и дизельный двигатели, несгораемые 300 тысяч",
+        "Обсуждение баланса вопросов",
+        "Почему не хотел брать приз и договорённость о розыгрыше",
+        "Шутки о свадьбе и смена игрока"
+      ],
+      "carry": [
+        "2004–2015: переход к игроку Илье. Начинается отдельный заход викторины."
+      ],
+      "candidate_ids": [
+        "10a",
+        "10b",
+        "10c",
+        "10d"
+      ]
+    },
+    {
+      "block": 11,
+      "core_cues": [
+        2001,
+        2200
+      ],
+      "read_cues": [
+        1986,
+        2215
+      ],
+      "read_count": 230,
+      "core_start_ms": 6927980,
+      "core_end_ms": 7556920,
+      "read_start_ms": 6875760,
+      "read_end_ms": 7608100,
+      "topics": [
+        "Илья вспоминает статистику своего канала перед игрой",
+        "«Копатыч», Чоппер, геофизика и Наруто",
+        "Свадебный ультиматум и изменённая механика второй жизни",
+        "Шутка о выходе с десяткой, начало вопроса о роликах из Дубая"
+      ],
+      "carry": [
+        "2021–2036: Илья проверил цифры канала. Если позже есть вопрос про его канал, учитывать как подводку. 2202–2215: вопрос о роликах из Дубая продолжается."
+      ],
+      "candidate_ids": [
+        "11a",
+        "11b",
+        "11c",
+        "11d",
+        "11e",
+        "11f"
+      ]
+    },
+    {
+      "block": 12,
+      "core_cues": [
+        2201,
+        2400
+      ],
+      "read_cues": [
+        2186,
+        2415
+      ],
+      "read_count": 230,
+      "core_start_ms": 7556920,
+      "core_end_ms": 8181920,
+      "read_start_ms": 7508900,
+      "read_end_ms": 8233450,
+      "topics": [
+        "Видео из Дубая и шутка о бургере на десятку",
+        "Именная косметика и второе имя Эксайла",
+        "Выбор невесты, разговор о лёгких вопросах",
+        "Второе по просмотрам видео на канале",
+        "Визуально восстановлен вопрос 9, потерянный в повторах ASR"
+      ],
+      "carry": [
+        "Вопрос о статистике своего канала реально встречается в 12a и 12f. Проверить кадр длинного повтора смеха 2368–2374 на переходе между раундами."
+      ],
+      "candidate_ids": [
+        "12a",
+        "12b",
+        "12c",
+        "12d",
+        "12e",
+        "12f",
+        "12g"
+      ]
+    },
+    {
+      "block": 13,
+      "core_cues": [
+        2401,
+        2600
+      ],
+      "read_cues": [
+        2386,
+        2615
+      ],
+      "read_count": 230,
+      "core_start_ms": 8181920,
+      "core_end_ms": 8833750,
+      "read_start_ms": 8140180,
+      "read_end_ms": 8876510,
+      "topics": [
+        "BPM и татуировка из школьных лет",
+        "Автор Hunter × Hunter методом исключения",
+        "Имя Marshmello",
+        "Запрет подсказок на финальном вопросе",
+        "Начало длинного спора о Google и Firefox"
+      ],
+      "carry": [
+        "2507–2615: вопрос о том, что появилось раньше, Google или Firefox. После паузы 50/50 оставляет два трудных варианта; проверить исход и экран."
+      ],
+      "candidate_ids": [
+        "13a",
+        "13b",
+        "13c",
+        "13d"
+      ]
+    },
+    {
+      "block": 14,
+      "core_cues": [
+        2601,
+        2800
+      ],
+      "read_cues": [
+        2586,
+        2815
+      ],
+      "read_count": 230,
+      "core_start_ms": 8833750,
+      "core_end_ms": 9481900,
+      "read_start_ms": 8795640,
+      "read_end_ms": 9544900,
+      "topics": [
+        "50/50 на вопросе про браузеры и неожиданный засчитанный ответ",
+        "Министр одиночества и подсказка зала",
+        "Разговор о сумке перед 750 тысячами",
+        "Столица Камеруна, звонки друзьям"
+      ],
+      "carry": [
+        "2722–2815: столица Камеруна. Одни друзья не берут трубку или не знают ответ; дождаться решения и результата."
+      ],
+      "candidate_ids": [
+        "14a",
+        "14b"
+      ]
+    },
+    {
+      "block": 15,
+      "core_cues": [
+        2801,
+        3000
+      ],
+      "read_cues": [
+        2786,
+        3015
+      ],
+      "read_count": 230,
+      "core_start_ms": 9481900,
+      "core_end_ms": 10155340,
+      "read_start_ms": 9432290,
+      "read_end_ms": 10196940,
+      "topics": [
+        "Звонки о столице Камеруна и ответ Яунде",
+        "Решение Ильи сыграть на миллион",
+        "Чат оспаривает ответ про Firefox",
+        "Полет на «Матизе», восстановление даты и неверный финальный ответ"
+      ],
+      "carry": [
+        "2995–3015: финал Ильи. Проверить после границы, какая сумма зафиксирована и появится ли доказательство даты. 2860–2865: поздняя оговорка про Firefox относится к 14a, не считать ещё одним моментом."
+      ],
+      "candidate_ids": [
+        "15a",
+        "15b"
+      ]
+    },
+    {
+      "block": 16,
+      "core_cues": [
+        3001,
+        3200
+      ],
+      "read_cues": [
+        2986,
+        3215
+      ],
+      "read_count": 230,
+      "core_start_ms": 10156760,
+      "core_end_ms": 10796710,
+      "read_start_ms": 10102920,
+      "read_end_ms": 10849510,
+      "topics": [
+        "Разбор финального промаха Ильи и объявление 300 000 ₽",
+        "Итоги пилота и идея парной игры",
+        "Звонок участнику полёта на «Матизе»",
+        "Почему в прямом эфире нельзя переиграть ранний вылет"
+      ],
+      "carry": [
+        "Финал Ильи остаётся 15b; упоминание 300 000 ₽ около реплики 3048 уточняет исход. Дальше обсуждение будущих гостей."
+      ],
+      "candidate_ids": [
+        "16a",
+        "16b",
+        "16c"
+      ]
+    },
+    {
+      "block": 17,
+      "core_cues": [
+        3201,
+        3400
+      ],
+      "read_cues": [
+        3186,
+        3415
+      ],
+      "read_count": 230,
+      "core_start_ms": 10797570,
+      "core_end_ms": 11507980,
+      "read_start_ms": 10737300,
+      "read_end_ms": 11560110,
+      "topics": [
+        "Планы по гостям и собственным вопросам для будущих выпусков",
+        "Почему сложно регулярно стримить и что даёт разговор с чатом",
+        "Складной телефон и сравнение iPhone",
+        "Начало истории о «дешёвом» подарке"
+      ],
+      "carry": [
+        "3402–3415: показывает желанные часы и ремешок. Следующий блок должен дать сумму, реакцию и проверку экрана."
+      ],
+      "candidate_ids": [
+        "17a",
+        "17b",
+        "17c",
+        "17d",
+        "17e"
+      ]
+    },
+    {
+      "block": 18,
+      "core_cues": [
+        3401,
+        3600
+      ],
+      "read_cues": [
+        3386,
+        3615
+      ],
+      "read_count": 230,
+      "core_start_ms": 11507980,
+      "core_end_ms": 12447100,
+      "read_start_ms": 11454920,
+      "read_end_ms": 12543310,
+      "topics": [
+        "Часы Hermès как якобы дешёвый подарок, цены телефонов и сравнение с ПК",
+        "Гипотетический розыгрыш с ремонтом",
+        "Вопрос к чату о пропуске скучного времени",
+        "Dota, поиск таунта и имитация танца",
+        "Попытка показать TikTok и длинные паузы в ASR",
+        "В паузе ASR виден визуальный гэг с танком на Mirage"
+      ],
+      "carry": [
+        "3585–3615: попытка вывести TikTok. Смотреть и паузы 03:23:58.690–03:27:00.300 и 03:28:06.390–03:28:50.010, и то, что реально появилось после «я сделал это»."
+      ],
+      "candidate_ids": [
+        "18a",
+        "18b",
+        "18c",
+        "18d",
+        "18e",
+        "18f"
+      ]
+    },
+    {
+      "block": 19,
+      "core_cues": [
+        3601,
+        3797
+      ],
+      "read_cues": [
+        3586,
+        3797
+      ],
+      "read_count": 212,
+      "core_start_ms": 12448760,
+      "core_end_ms": 13367090,
+      "read_start_ms": 12218530,
+      "read_end_ms": 13367090,
+      "topics": [
+        "Захват TikTok, проблема переключения окна и вывод целого браузера",
+        "Реакции на ролики, путаница с превью и история про чужой заказ",
+        "Шутка про мечту и очки, последний ролик и комментарии",
+        "Рейд Юле и прощание"
+      ],
+      "carry": [],
+      "candidate_ids": [
+        "19a",
+        "19b",
+        "19c",
+        "19d",
+        "19e",
+        "19f",
+        "19g",
+        "19h"
+      ]
+    }
+  ],
+  "survey_frames": [
+    {
+      "time_ms": 0,
+      "timecode": "00:00:00.000",
+      "observed": "Начало VOD: камера стримера на чёрном холсте."
+    },
+    {
+      "time_ms": 45000,
+      "timecode": "00:00:45.000",
+      "observed": "В начальном разрыве расшифровки видна камера на чёрном холсте."
+    },
+    {
+      "time_ms": 62000,
+      "timecode": "00:01:02.000",
+      "observed": "В конце того же разрыва остаётся камера, отдельное окно с клипом не видно."
+    },
+    {
+      "time_ms": 12255017,
+      "timecode": "03:24:15.017",
+      "seek_ms": 12255000,
+      "observed": "В начале длинного пробела ASR открыт демонстрационный режим Dota.",
+      "basis": "video_pts"
+    },
+    {
+      "time_ms": 12310017,
+      "timecode": "03:25:10.017",
+      "seek_ms": 12310000,
+      "observed": "В пробеле открыта страница чехла iPhone Air Bumper.",
+      "basis": "video_pts"
+    },
+    {
+      "time_ms": 12370017,
+      "timecode": "03:26:10.017",
+      "seek_ms": 12370000,
+      "observed": "К концу пробела открыт короткий ролик с танком на Mirage.",
+      "basis": "video_pts"
+    },
+    {
+      "time_ms": 12410017,
+      "timecode": "03:26:50.017",
+      "seek_ms": 12410000,
+      "observed": "Показ снова вернулся к странице чехла.",
+      "basis": "video_pts"
+    },
+    {
+      "time_ms": 12497017,
+      "timecode": "03:28:17.017",
+      "seek_ms": 12497000,
+      "observed": "В следующем пробеле открыт вертикальный ролик с англоязычной надписью «Other mommy looks insane».",
+      "basis": "video_pts"
+    },
+    {
+      "time_ms": 12516017,
+      "timecode": "03:28:36.017",
+      "seek_ms": 12516000,
+      "observed": "К концу того же пробела виден вертикальный клип Dota в браузере.",
+      "basis": "video_pts"
+    },
+    {
+      "time_ms": 13366983,
+      "timecode": "03:42:46.983",
+      "seek_ms": 13366950,
+      "observed": "Около последней реплики открыт YouTube с роликом про складной телефон; камера ведущего видна.",
+      "basis": "video_pts"
+    },
+    {
+      "time_ms": 13367567,
+      "timecode": "03:42:47.567",
+      "seek_ms": 13367560,
+      "observed": "Последний декодированный кадр: та же страница YouTube и камера.",
+      "basis": "video_pts"
+    },
+    {
+      "time_ms": 12350017,
+      "timecode": "03:25:50.017",
+      "seek_ms": 12350000,
+      "observed": "В пробеле ASR виден отдельный TikTok со статичным кадром кабины SkyWest и подписью Two baddies in charge.",
+      "basis": "video_pts"
+    },
+    {
+      "time_ms": 12357517,
+      "timecode": "03:25:57.517",
+      "seek_ms": 12357500,
+      "observed": "При следующей проверке та же кабина и комментарии, отдельного происшествия в кадре не показано.",
+      "basis": "video_pts"
+    },
+    {
+      "time_ms": 12390017,
+      "timecode": "03:26:30.017",
+      "seek_ms": 12390000,
+      "observed": "После роликов снова открыта страница чехла; отдельная реакция в этой точке не читается.",
+      "basis": "video_pts"
+    }
+  ],
+  "candidate_keyframes_checked": 147,
+  "review_complete": true,
+  "reviewed_cues_with_overlap": 4337,
+  "quiz_rounds_verified": 34,
+  "unique_source_frames_logged": 161,
+  "survey_frames_checked": 14,
+  "selection_frozen_before_comparison": {
+    "sha256": "288fd60be4f5e0d6cdb43a1e409fe5fbebfb4406173c88ddd376147967da272a",
+    "frozen_at": "2026-11-08T05:28:11+03:00"
+  },
+  "frame_review_scope": "Точечные исходные кадры у визуальных хуков и развязок, кадры в длинных паузах и в конце. Метка video_pts отсчитывается от первого пакета. Ранние кадры без basis подписаны временем запроса FFmpeg.",
+  "deduplication_notes": [
+    "В перекрытии повторно прочитаны соседние реплики. Уже заведённый раунд не добавлялся вторично.",
+    "Решения рискнуть и результаты финальных вопросов объединены по игроку; позднее обсуждение браузеров прикреплено к тому же раунду.",
+    "Вступительное упоминание 01a объединено с демонстрацией того же танца Dota в 18e.",
+    "Звонок очевидцу после финала 16a сохранён как отдельное действие, а не другой монтаж финального ответа 15b."
+  ],
+  "comparison": {
+    "previous_plan": "data/review/edit_plan_2876630043.json",
+    "previous_plan_sha256": "085232edf06941231afab34f024d0e8dc36ed11be4f60b9a3dd48f1ef42552fd",
+    "method": "Сопоставление по событию, формулировке и исходным отрезкам после фиксации независимого списка. Смежные разговоры на одной шкале не считаются тем же событием.",
+    "clip_entries_matched": 22,
+    "clip_events_matched": 21,
+    "review_entries_matched": 13,
+    "review_events_matched": 13,
+    "unique_events_matched": 34,
+    "independent_ready_without_previous_match": 39,
+    "unmatched_previous_ids": [],
+    "matches": [
+      {
+        "previous_section": "clips",
+        "previous_entries": [
+          {
+            "id": "A01",
+            "title": "Предсказал, что Макс будет злой",
+            "overlap_pct_of_previous_intervals": 100.0
+          }
+        ],
+        "candidate_id": "03g",
+        "candidate_status": "ready"
+      },
+      {
+        "previous_section": "clips",
+        "previous_entries": [
+          {
+            "id": "A02",
+            "title": "Первый вопрос — закон Ома",
+            "overlap_pct_of_previous_intervals": 100.0
+          }
+        ],
+        "candidate_id": "05a",
+        "candidate_status": "ready"
+      },
+      {
+        "previous_section": "clips",
+        "previous_entries": [
+          {
+            "id": "A21",
+            "title": "Первый Major по CS:GO за 2 000 ₽",
+            "overlap_pct_of_previous_intervals": 100.0
+          }
+        ],
+        "candidate_id": "05d",
+        "candidate_status": "ready"
+      },
+      {
+        "previous_section": "clips",
+        "previous_entries": [
+          {
+            "id": "A03",
+            "title": "Будапешт или Бухарест",
+            "overlap_pct_of_previous_intervals": 100.0
+          }
+        ],
+        "candidate_id": "06a",
+        "candidate_status": "ready"
+      },
+      {
+        "previous_section": "clips",
+        "previous_entries": [
+          {
+            "id": "A04",
+            "title": "Бык-солевоз за 25 тысяч",
+            "overlap_pct_of_previous_intervals": 89.0
+          }
+        ],
+        "candidate_id": "06e",
+        "candidate_status": "ready"
+      },
+      {
+        "previous_section": "clips",
+        "previous_entries": [
+          {
+            "id": "A05",
+            "title": "Аль денте до вариантов",
+            "overlap_pct_of_previous_intervals": 100.0
+          },
+          {
+            "id": "CX01",
+            "title": "Аль денте за 50 000 ₽",
+            "overlap_pct_of_previous_intervals": 98.2
+          }
+        ],
+        "candidate_id": "07a",
+        "candidate_status": "ready"
+      },
+      {
+        "previous_section": "clips",
+        "previous_entries": [
+          {
+            "id": "A06",
+            "title": "В Сербию на море никто не ездит",
+            "overlap_pct_of_previous_intervals": 100.0
+          }
+        ],
+        "candidate_id": "07d",
+        "candidate_status": "ready"
+      },
+      {
+        "previous_section": "clips",
+        "previous_entries": [
+          {
+            "id": "A07",
+            "title": "Песто и потерянная вторая жизнь",
+            "overlap_pct_of_previous_intervals": 100.0
+          }
+        ],
+        "candidate_id": "08a",
+        "candidate_status": "ready"
+      },
+      {
+        "previous_section": "clips",
+        "previous_entries": [
+          {
+            "id": "A08",
+            "title": "Звонок другу про «Буханку»",
+            "overlap_pct_of_previous_intervals": 100.0
+          }
+        ],
+        "candidate_id": "09a",
+        "candidate_status": "ready"
+      },
+      {
+        "previous_section": "clips",
+        "previous_entries": [
+          {
+            "id": "A09",
+            "title": "Веллингтон по названию блюда",
+            "overlap_pct_of_previous_intervals": 100.0
+          }
+        ],
+        "candidate_id": "09b",
+        "candidate_status": "ready"
+      },
+      {
+        "previous_section": "clips",
+        "previous_entries": [
+          {
+            "id": "A10",
+            "title": "750 тысяч или вопрос на миллион",
+            "overlap_pct_of_previous_intervals": 100.0
+          }
+        ],
+        "candidate_id": "10a",
+        "candidate_status": "ready"
+      },
+      {
+        "previous_section": "clips",
+        "previous_entries": [
+          {
+            "id": "A11",
+            "title": "Обсуждают розыгрыш приза на 300 тысяч",
+            "overlap_pct_of_previous_intervals": 100.0
+          }
+        ],
+        "candidate_id": "10c",
+        "candidate_status": "ready"
+      },
+      {
+        "previous_section": "clips",
+        "previous_entries": [
+          {
+            "id": "A12",
+            "title": "Чоппер и сравнение с законом Ома",
+            "overlap_pct_of_previous_intervals": 100.0
+          }
+        ],
+        "candidate_id": "11b",
+        "candidate_status": "ready"
+      },
+      {
+        "previous_section": "clips",
+        "previous_entries": [
+          {
+            "id": "A13",
+            "title": "Вопрос про BPM и татуировка",
+            "overlap_pct_of_previous_intervals": 100.0
+          }
+        ],
+        "candidate_id": "13a",
+        "candidate_status": "ready"
+      },
+      {
+        "previous_section": "clips",
+        "previous_entries": [
+          {
+            "id": "A14",
+            "title": "Чат выбирает министра одиночества",
+            "overlap_pct_of_previous_intervals": 100.0
+          }
+        ],
+        "candidate_id": "14b",
+        "candidate_status": "ready"
+      },
+      {
+        "previous_section": "clips",
+        "previous_entries": [
+          {
+            "id": "A15",
+            "title": "«Я уже стал миллионером» и звонок про Камерун",
+            "overlap_pct_of_previous_intervals": 100.0
+          }
+        ],
+        "candidate_id": "15a",
+        "candidate_status": "ready"
+      },
+      {
+        "previous_section": "clips",
+        "previous_entries": [
+          {
+            "id": "A16",
+            "title": "Финал Ильи и дата полёта на «Матизе»",
+            "overlap_pct_of_previous_intervals": 100.0
+          }
+        ],
+        "candidate_id": "15b",
+        "candidate_status": "ready"
+      },
+      {
+        "previous_section": "clips",
+        "previous_entries": [
+          {
+            "id": "A17",
+            "title": "Участник полёта сам не помнит дату",
+            "overlap_pct_of_previous_intervals": 100.0
+          }
+        ],
+        "candidate_id": "16a",
+        "candidate_status": "ready"
+      },
+      {
+        "previous_section": "clips",
+        "previous_entries": [
+          {
+            "id": "A18",
+            "title": "Не выбрал цвет и заказал три телефона",
+            "overlap_pct_of_previous_intervals": 100.0
+          }
+        ],
+        "candidate_id": "17e",
+        "candidate_status": "ready"
+      },
+      {
+        "previous_section": "clips",
+        "previous_entries": [
+          {
+            "id": "A19",
+            "title": "Что останется, если скипать скучное",
+            "overlap_pct_of_previous_intervals": 100.0
+          }
+        ],
+        "candidate_id": "18d",
+        "candidate_status": "ready"
+      },
+      {
+        "previous_section": "clips",
+        "previous_entries": [
+          {
+            "id": "A20",
+            "title": "Вместо сладкого привезли набор для шашлыка",
+            "overlap_pct_of_previous_intervals": 100.0
+          }
+        ],
+        "candidate_id": "19e",
+        "candidate_status": "ready"
+      },
+      {
+        "previous_section": "review_candidates",
+        "previous_entries": [
+          {
+            "id": "B01",
+            "title": "Почему зрители додумывают конфликт",
+            "overlap_pct_of_previous_intervals": 100.0
+          }
+        ],
+        "candidate_id": "01d",
+        "candidate_status": "ready"
+      },
+      {
+        "previous_section": "review_candidates",
+        "previous_entries": [
+          {
+            "id": "B02",
+            "title": "Как два друга не поняли друг друга перед кастом",
+            "overlap_pct_of_previous_intervals": 100.0
+          }
+        ],
+        "candidate_id": "03a",
+        "candidate_status": "ready"
+      },
+      {
+        "previous_section": "review_candidates",
+        "previous_entries": [
+          {
+            "id": "B04",
+            "title": "Меркурий и шутка про космос",
+            "overlap_pct_of_previous_intervals": 100.0
+          }
+        ],
+        "candidate_id": "05e",
+        "candidate_status": "ready"
+      },
+      {
+        "previous_section": "review_candidates",
+        "previous_entries": [
+          {
+            "id": "B05",
+            "title": "Поговорка о пиве и потраченная 50:50",
+            "overlap_pct_of_previous_intervals": 100.0
+          }
+        ],
+        "candidate_id": "06c",
+        "candidate_status": "ready"
+      },
+      {
+        "previous_section": "review_candidates",
+        "previous_entries": [
+          {
+            "id": "B06",
+            "title": "Книга в руках памятника",
+            "overlap_pct_of_previous_intervals": 100.0
+          }
+        ],
+        "candidate_id": "06d",
+        "candidate_status": "ready"
+      },
+      {
+        "previous_section": "review_candidates",
+        "previous_entries": [
+          {
+            "id": "B07",
+            "title": "Помощь зала на вопросе про попытки",
+            "overlap_pct_of_previous_intervals": 100.0
+          }
+        ],
+        "candidate_id": "08b",
+        "candidate_status": "ready"
+      },
+      {
+        "previous_section": "review_candidates",
+        "previous_entries": [
+          {
+            "id": "B09",
+            "title": "Условие для гостей свадьбы",
+            "overlap_pct_of_previous_intervals": 81.9
+          }
+        ],
+        "candidate_id": "11d",
+        "candidate_status": "ready"
+      },
+      {
+        "previous_section": "review_candidates",
+        "previous_entries": [
+          {
+            "id": "B08",
+            "title": "Подготовил статистику своего канала",
+            "overlap_pct_of_previous_intervals": 100.0
+          }
+        ],
+        "candidate_id": "12a",
+        "candidate_status": "ready"
+      },
+      {
+        "previous_section": "review_candidates",
+        "previous_entries": [
+          {
+            "id": "B10",
+            "title": "Подсказка 50:50 и спор про Firefox",
+            "overlap_pct_of_previous_intervals": 100.0
+          }
+        ],
+        "candidate_id": "14a",
+        "candidate_status": "ready"
+      },
+      {
+        "previous_section": "review_candidates",
+        "previous_entries": [
+          {
+            "id": "B11",
+            "title": "Как стример снимает себя на складной телефон",
+            "overlap_pct_of_previous_intervals": 100.0
+          }
+        ],
+        "candidate_id": "17d",
+        "candidate_status": "ready"
+      },
+      {
+        "previous_section": "review_candidates",
+        "previous_entries": [
+          {
+            "id": "B12",
+            "title": "«Недорогой» подарок Apple Watch Hermès",
+            "overlap_pct_of_previous_intervals": 100.0
+          }
+        ],
+        "candidate_id": "18a",
+        "candidate_status": "ready"
+      },
+      {
+        "previous_section": "review_candidates",
+        "previous_entries": [
+          {
+            "id": "B13",
+            "title": "Танец героя в Dota",
+            "overlap_pct_of_previous_intervals": 100.0
+          }
+        ],
+        "candidate_id": "18e",
+        "candidate_status": "ready"
+      },
+      {
+        "previous_section": "review_candidates",
+        "previous_entries": [
+          {
+            "id": "B14",
+            "title": "Включается другой TikTok",
+            "overlap_pct_of_previous_intervals": 100.0
+          }
+        ],
+        "candidate_id": "19a",
+        "candidate_status": "ready"
+      }
+    ]
+  }
+}

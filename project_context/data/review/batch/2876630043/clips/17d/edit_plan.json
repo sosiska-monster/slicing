@@ -1,0 +1,227 @@
+{
+  "schema_version": 1,
+  "source": {
+    "vod_id": "2876630043",
+    "file": "data/vods/2876630043.mp4"
+  },
+  "editorial": {
+    "candidate_id": "17d",
+    "hero": "Evelone",
+    "source_plan": "data/review/codex_pilot/full_hq/data/review/contest/clips/PUB_17d_publish/edit_plan.json",
+    "source_plan_sha256": "7c5ab075045e798c19b88b91bd355576a4e2fc140e6759456f54bfdaf108ebd5",
+    "layout_family": "phone",
+    "layout_choice": "PREVIEW",
+    "static_layout": true,
+    "caption_mode": "whole phrases",
+    "source_ad_rects": [],
+    "source_timebase": "HQ playback milliseconds",
+    "caption_timing": "saved HQ words as-is; no 480p shift",
+    "changes": "Reuse approved sound intervals; static image and whole-phrase captions"
+  },
+  "clips": [
+    {
+      "id": "BATCH_17d",
+      "title": "Складной телефон, планшет и селфи",
+      "export_size": [
+        1080,
+        1920
+      ],
+      "safe_margins": {
+        "left": 0.07222222222222222,
+        "right": 0.21666666666666667,
+        "top": 0,
+        "bottom": 0.203125
+      },
+      "segments": [
+        {
+          "start_ms": 11301340,
+          "end_ms": 11302340,
+          "framing": {
+            "name": "phone_preview",
+            "panels": [
+              {
+                "crop": [
+                  0,
+                  596,
+                  504,
+                  280
+                ],
+                "place": [
+                  40,
+                  180,
+                  540,
+                  300
+                ]
+              },
+              {
+                "crop": [
+                  240,
+                  626,
+                  250,
+                  250
+                ],
+                "place": [
+                  48,
+                  540,
+                  360,
+                  360
+                ]
+              }
+            ]
+          },
+          "captions": [
+            {
+              "start_ms": 11301340,
+              "end_ms": 11302340,
+              "lines": [
+                "Селфи на",
+                "основную камеру?"
+              ]
+            }
+          ]
+        },
+        {
+          "start_ms": 11272310,
+          "end_ms": 11274590,
+          "framing": {
+            "name": "phone_preview",
+            "panels": [
+              {
+                "crop": [
+                  0,
+                  596,
+                  504,
+                  280
+                ],
+                "place": [
+                  40,
+                  180,
+                  540,
+                  300
+                ]
+              },
+              {
+                "crop": [
+                  240,
+                  626,
+                  250,
+                  250
+                ],
+                "place": [
+                  48,
+                  540,
+                  360,
+                  360
+                ]
+              }
+            ]
+          },
+          "captions": [
+            {
+              "start_ms": 11272820,
+              "end_ms": 11274576,
+              "lines": [
+                "Вот такая вот параша,",
+                "да? Здоровая."
+              ]
+            }
+          ]
+        },
+        {
+          "start_ms": 11298110,
+          "end_ms": 11299470,
+          "framing": {
+            "name": "phone_preview",
+            "panels": [
+              {
+                "crop": [
+                  0,
+                  596,
+                  504,
+                  280
+                ],
+                "place": [
+                  40,
+                  180,
+                  540,
+                  300
+                ]
+              },
+              {
+                "crop": [
+                  240,
+                  626,
+                  250,
+                  250
+                ],
+                "place": [
+                  48,
+                  540,
+                  360,
+                  360
+                ]
+              }
+            ]
+          },
+          "captions": [
+            {
+              "start_ms": 11298492,
+              "end_ms": 11299450,
+              "lines": [
+                "Вот так вот",
+                "фотографироваться."
+              ]
+            }
+          ]
+        },
+        {
+          "start_ms": 11308940,
+          "end_ms": 11310530,
+          "framing": {
+            "name": "phone_preview",
+            "panels": [
+              {
+                "crop": [
+                  0,
+                  596,
+                  504,
+                  280
+                ],
+                "place": [
+                  40,
+                  180,
+                  540,
+                  300
+                ]
+              },
+              {
+                "crop": [
+                  240,
+                  626,
+                  250,
+                  250
+                ],
+                "place": [
+                  48,
+                  540,
+                  360,
+                  360
+                ]
+              }
+            ]
+          },
+          "captions": [
+            {
+              "start_ms": 11308980,
+              "end_ms": 11310320,
+              "lines": [
+                "Ты сам себя видишь и",
+                "фоткаешь?"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

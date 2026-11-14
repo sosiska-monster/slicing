@@ -1,0 +1,107 @@
+{
+  "schema_version": 1,
+  "source": {
+    "vod_id": "2876630043",
+    "file": "data/vods/2876630043.mp4"
+  },
+  "editorial": {
+    "candidate_id": "18e",
+    "hero": "Evelone",
+    "source_plan": "data/review/codex_pilot/full_hq/data/review/contest/clips/PUB_18e/edit_plan.json",
+    "source_plan_sha256": "b07560adf53a6df80b9bc1e956ce16ff6d08faf7946efa52936157537b0567ac",
+    "layout_family": "gameplay",
+    "layout_choice": "ACTION",
+    "static_layout": true,
+    "caption_mode": "whole phrases",
+    "source_ad_rects": [],
+    "source_timebase": "HQ playback milliseconds",
+    "caption_timing": "saved HQ words as-is; no 480p shift",
+    "changes": "Reuse approved sound intervals; static image and whole-phrase captions"
+  },
+  "clips": [
+    {
+      "id": "BATCH_18e",
+      "title": "Чат помог настроить таунт, и герой танцует под трек",
+      "export_size": [
+        1080,
+        1920
+      ],
+      "safe_margins": {
+        "left": 0.07222222222222222,
+        "right": 0.21666666666666667,
+        "top": 0,
+        "bottom": 0.203125
+      },
+      "segments": [
+        {
+          "start_ms": 12169020,
+          "end_ms": 12174980,
+          "framing": {
+            "name": "gameplay_action",
+            "panels": [
+              {
+                "crop": [
+                  0,
+                  0,
+                  504,
+                  280
+                ],
+                "place": [
+                  40,
+                  180,
+                  540,
+                  300
+                ]
+              },
+              {
+                "crop": [
+                  600,
+                  60,
+                  900,
+                  624
+                ],
+                "place": [
+                  48,
+                  530,
+                  600,
+                  416
+                ]
+              }
+            ]
+          },
+          "captions": [
+            {
+              "start_ms": 12169020,
+              "end_ms": 12170520,
+              "lines": [
+                "Эвелон и эмоция",
+                "его героя Dota"
+              ]
+            },
+            {
+              "start_ms": 12170630,
+              "end_ms": 12171690,
+              "lines": [
+                "И он дерётся!"
+              ]
+            },
+            {
+              "start_ms": 12171830,
+              "end_ms": 12172810,
+              "lines": [
+                "И он дерётся здесь."
+              ]
+            },
+            {
+              "start_ms": 12174110,
+              "end_ms": 12174760,
+              "lines": [
+                "Бля!"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

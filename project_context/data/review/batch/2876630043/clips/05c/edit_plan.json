@@ -1,0 +1,352 @@
+{
+  "schema_version": 1,
+  "source": {
+    "vod_id": "2876630043",
+    "file": "data/vods/2876630043.mp4"
+  },
+  "editorial": {
+    "candidate_id": "05c",
+    "hero": "Evelone",
+    "source_plan": "data/review/codex_pilot/full_hq/data/review/contest/clips/PUB_05c/edit_plan.json",
+    "source_plan_sha256": "8b371321c52c26a1d111c04073bcf0694a060ea063a069eaed8339cb9f3161db",
+    "layout_family": "two_equal",
+    "layout_choice": "LOW",
+    "static_layout": true,
+    "caption_mode": "whole phrases",
+    "source_ad_rects": [
+      [
+        514,
+        450,
+        138,
+        157
+      ],
+      [
+        748,
+        168,
+        426,
+        430
+      ]
+    ],
+    "source_timebase": "HQ playback milliseconds",
+    "caption_timing": "saved HQ words as-is; no 480p shift",
+    "changes": "Reuse approved sound intervals; static image and whole-phrase captions"
+  },
+  "clips": [
+    {
+      "id": "BATCH_05c",
+      "title": "Две тысячи как чаевые курьеру",
+      "export_size": [
+        1080,
+        1920
+      ],
+      "safe_margins": {
+        "left": 0.07222222222222222,
+        "right": 0.21666666666666667,
+        "top": 0,
+        "bottom": 0.41484375
+      },
+      "segments": [
+        {
+          "start_ms": 2975130,
+          "end_ms": 2977030,
+          "framing": {
+            "name": "two_equal_low",
+            "panels": [
+              {
+                "crop": [
+                  1286,
+                  140,
+                  540,
+                  404
+                ],
+                "place": [
+                  0,
+                  0,
+                  720,
+                  538
+                ]
+              },
+              {
+                "crop": [
+                  752,
+                  276,
+                  420,
+                  140
+                ],
+                "place": [
+                  48,
+                  540,
+                  300,
+                  100
+                ]
+              },
+              {
+                "crop": [
+                  60,
+                  300,
+                  540,
+                  404
+                ],
+                "place": [
+                  0,
+                  742,
+                  720,
+                  538
+                ]
+              }
+            ],
+            "masks": [
+              [
+                604,
+                940,
+                116,
+                212
+              ]
+            ]
+          },
+          "captions": [
+            {
+              "start_ms": 2975130,
+              "end_ms": 2976630,
+              "lines": [
+                "Что для Макса",
+                "2 000 рублей?"
+              ]
+            }
+          ]
+        },
+        {
+          "start_ms": 2977030,
+          "end_ms": 2977910,
+          "framing": {
+            "name": "two_equal_low",
+            "panels": [
+              {
+                "crop": [
+                  1286,
+                  140,
+                  540,
+                  404
+                ],
+                "place": [
+                  0,
+                  0,
+                  720,
+                  538
+                ]
+              },
+              {
+                "crop": [
+                  752,
+                  276,
+                  420,
+                  140
+                ],
+                "place": [
+                  48,
+                  540,
+                  300,
+                  100
+                ]
+              },
+              {
+                "crop": [
+                  60,
+                  300,
+                  540,
+                  404
+                ],
+                "place": [
+                  0,
+                  742,
+                  720,
+                  538
+                ]
+              }
+            ],
+            "masks": [
+              [
+                604,
+                940,
+                116,
+                212
+              ],
+              [
+                48,
+                540,
+                300,
+                100
+              ]
+            ]
+          },
+          "captions": [
+            {
+              "start_ms": 2977170,
+              "end_ms": 2977820,
+              "lines": [
+                "Ты когда-то видел?"
+              ]
+            }
+          ]
+        },
+        {
+          "start_ms": 2978870,
+          "end_ms": 2981050,
+          "framing": {
+            "name": "two_equal_low",
+            "panels": [
+              {
+                "crop": [
+                  1286,
+                  140,
+                  540,
+                  404
+                ],
+                "place": [
+                  0,
+                  0,
+                  720,
+                  538
+                ]
+              },
+              {
+                "crop": [
+                  752,
+                  276,
+                  420,
+                  140
+                ],
+                "place": [
+                  48,
+                  540,
+                  300,
+                  100
+                ]
+              },
+              {
+                "crop": [
+                  60,
+                  300,
+                  540,
+                  404
+                ],
+                "place": [
+                  0,
+                  742,
+                  720,
+                  538
+                ]
+              }
+            ],
+            "masks": [
+              [
+                604,
+                940,
+                116,
+                212
+              ],
+              [
+                48,
+                540,
+                300,
+                100
+              ]
+            ]
+          },
+          "captions": [
+            {
+              "start_ms": 2978970,
+              "end_ms": 2980910,
+              "lines": [
+                "Да, ну, вообще да,",
+                "иногда."
+              ]
+            }
+          ]
+        },
+        {
+          "start_ms": 2981800,
+          "end_ms": 2985310,
+          "framing": {
+            "name": "two_equal_low",
+            "panels": [
+              {
+                "crop": [
+                  1286,
+                  140,
+                  540,
+                  404
+                ],
+                "place": [
+                  0,
+                  0,
+                  720,
+                  538
+                ]
+              },
+              {
+                "crop": [
+                  752,
+                  276,
+                  420,
+                  140
+                ],
+                "place": [
+                  48,
+                  540,
+                  300,
+                  100
+                ]
+              },
+              {
+                "crop": [
+                  60,
+                  300,
+                  540,
+                  404
+                ],
+                "place": [
+                  0,
+                  742,
+                  720,
+                  538
+                ]
+              }
+            ],
+            "masks": [
+              [
+                604,
+                940,
+                116,
+                212
+              ],
+              [
+                48,
+                540,
+                300,
+                100
+              ]
+            ]
+          },
+          "captions": [
+            {
+              "start_ms": 2982020,
+              "end_ms": 2983340,
+              "lines": [
+                "Это, по сути,",
+                "чаевые курьеру."
+              ]
+            },
+            {
+              "start_ms": 2983340,
+              "end_ms": 2985290,
+              "lines": [
+                "Правильно? А, да."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

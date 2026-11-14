@@ -1,0 +1,3736 @@
+{
+  "vod_id": "2876630043",
+  "source_size": [
+    1920,
+    1080
+  ],
+  "survey_samples": [
+    {
+      "requested_ms": 0,
+      "actual_ms": 16.667,
+      "page": 0,
+      "cell": 0,
+      "frame_delta": null,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_00.png",
+      "sol_scene_family": "black_canvas_camera"
+    },
+    {
+      "requested_ms": 60000,
+      "actual_ms": 59999.667,
+      "page": 0,
+      "cell": 1,
+      "frame_delta": 1.3112963438034058,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_00.png",
+      "sol_scene_family": "black_canvas_camera"
+    },
+    {
+      "requested_ms": 120000,
+      "actual_ms": 119999.667,
+      "page": 0,
+      "cell": 2,
+      "frame_delta": 2.5611112117767334,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_00.png",
+      "sol_scene_family": "black_canvas_camera"
+    },
+    {
+      "requested_ms": 180000,
+      "actual_ms": 179999.667,
+      "page": 0,
+      "cell": 3,
+      "frame_delta": 2.9014813899993896,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_00.png",
+      "sol_scene_family": "black_canvas_camera"
+    },
+    {
+      "requested_ms": 240000,
+      "actual_ms": 239999.667,
+      "page": 0,
+      "cell": 4,
+      "frame_delta": 27.238889694213867,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_00.png",
+      "sol_scene_family": "browser"
+    },
+    {
+      "requested_ms": 300000,
+      "actual_ms": 299999.667,
+      "page": 0,
+      "cell": 5,
+      "frame_delta": 26.38518524169922,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_00.png",
+      "sol_scene_family": "black_canvas_camera"
+    },
+    {
+      "requested_ms": 360000,
+      "actual_ms": 359999.667,
+      "page": 0,
+      "cell": 6,
+      "frame_delta": 35.61796188354492,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_00.png",
+      "sol_scene_family": "browser"
+    },
+    {
+      "requested_ms": 420000,
+      "actual_ms": 419999.667,
+      "page": 0,
+      "cell": 7,
+      "frame_delta": 5.90925931930542,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_00.png",
+      "sol_scene_family": "browser"
+    },
+    {
+      "requested_ms": 480000,
+      "actual_ms": 479999.667,
+      "page": 0,
+      "cell": 8,
+      "frame_delta": 6.671666622161865,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_00.png",
+      "sol_scene_family": "browser"
+    },
+    {
+      "requested_ms": 540000,
+      "actual_ms": 539999.667,
+      "page": 0,
+      "cell": 9,
+      "frame_delta": 6.784814834594727,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_00.png",
+      "sol_scene_family": "browser"
+    },
+    {
+      "requested_ms": 600000,
+      "actual_ms": 599999.667,
+      "page": 0,
+      "cell": 10,
+      "frame_delta": 7.188518524169922,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_00.png",
+      "sol_scene_family": "browser"
+    },
+    {
+      "requested_ms": 660000,
+      "actual_ms": 659999.667,
+      "page": 0,
+      "cell": 11,
+      "frame_delta": 21.595741271972656,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_00.png",
+      "sol_scene_family": "browser"
+    },
+    {
+      "requested_ms": 720000,
+      "actual_ms": 719999.667,
+      "page": 0,
+      "cell": 12,
+      "frame_delta": 4.652407169342041,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_00.png",
+      "sol_scene_family": "browser"
+    },
+    {
+      "requested_ms": 780000,
+      "actual_ms": 779999.667,
+      "page": 0,
+      "cell": 13,
+      "frame_delta": 46.757408142089844,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_00.png",
+      "sol_scene_family": "game_results"
+    },
+    {
+      "requested_ms": 840000,
+      "actual_ms": 839999.667,
+      "page": 0,
+      "cell": 14,
+      "frame_delta": 44.27851867675781,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_00.png",
+      "sol_scene_family": "browser"
+    },
+    {
+      "requested_ms": 900000,
+      "actual_ms": 899999.667,
+      "page": 0,
+      "cell": 15,
+      "frame_delta": 23.017593383789062,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_00.png",
+      "sol_scene_family": "browser"
+    },
+    {
+      "requested_ms": 960000,
+      "actual_ms": 959999.667,
+      "page": 0,
+      "cell": 16,
+      "frame_delta": 4.188148021697998,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_00.png",
+      "sol_scene_family": "browser"
+    },
+    {
+      "requested_ms": 1020000,
+      "actual_ms": 1019999.667,
+      "page": 0,
+      "cell": 17,
+      "frame_delta": 4.783703804016113,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_00.png",
+      "sol_scene_family": "browser"
+    },
+    {
+      "requested_ms": 1080000,
+      "actual_ms": 1079999.667,
+      "page": 0,
+      "cell": 18,
+      "frame_delta": 41.233333587646484,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_00.png",
+      "sol_scene_family": "black_canvas_camera"
+    },
+    {
+      "requested_ms": 1140000,
+      "actual_ms": 1139999.667,
+      "page": 0,
+      "cell": 19,
+      "frame_delta": 1.306851863861084,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_00.png",
+      "sol_scene_family": "black_canvas_camera"
+    },
+    {
+      "requested_ms": 1200000,
+      "actual_ms": 1199999.667,
+      "page": 0,
+      "cell": 20,
+      "frame_delta": 1.0062962770462036,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_00.png",
+      "sol_scene_family": "black_canvas_camera"
+    },
+    {
+      "requested_ms": 1260000,
+      "actual_ms": 1259999.667,
+      "page": 0,
+      "cell": 21,
+      "frame_delta": 1.4959259033203125,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_00.png",
+      "sol_scene_family": "black_canvas_camera"
+    },
+    {
+      "requested_ms": 1320000,
+      "actual_ms": 1319999.667,
+      "page": 0,
+      "cell": 22,
+      "frame_delta": 1.1666666269302368,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_00.png",
+      "sol_scene_family": "black_canvas_camera"
+    },
+    {
+      "requested_ms": 1380000,
+      "actual_ms": 1379999.667,
+      "page": 0,
+      "cell": 23,
+      "frame_delta": 1.3290740251541138,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_00.png",
+      "sol_scene_family": "black_canvas_camera"
+    },
+    {
+      "requested_ms": 1440000,
+      "actual_ms": 1439999.667,
+      "page": 1,
+      "cell": 0,
+      "frame_delta": 0.9503703713417053,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_01.png",
+      "sol_scene_family": "black_canvas_camera"
+    },
+    {
+      "requested_ms": 1500000,
+      "actual_ms": 1499999.667,
+      "page": 1,
+      "cell": 1,
+      "frame_delta": 1.254814863204956,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_01.png",
+      "sol_scene_family": "black_canvas_camera"
+    },
+    {
+      "requested_ms": 1560000,
+      "actual_ms": 1559999.667,
+      "page": 1,
+      "cell": 2,
+      "frame_delta": 1.0470370054244995,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_01.png",
+      "sol_scene_family": "black_canvas_camera"
+    },
+    {
+      "requested_ms": 1620000,
+      "actual_ms": 1619999.667,
+      "page": 1,
+      "cell": 3,
+      "frame_delta": 0.9987037181854248,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_01.png",
+      "sol_scene_family": "black_canvas_camera"
+    },
+    {
+      "requested_ms": 1680000,
+      "actual_ms": 1679999.667,
+      "page": 1,
+      "cell": 4,
+      "frame_delta": 1.6285184621810913,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_01.png",
+      "sol_scene_family": "black_canvas_camera"
+    },
+    {
+      "requested_ms": 1740000,
+      "actual_ms": 1739999.667,
+      "page": 1,
+      "cell": 5,
+      "frame_delta": 1.6799999475479126,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_01.png",
+      "sol_scene_family": "black_canvas_camera"
+    },
+    {
+      "requested_ms": 1800000,
+      "actual_ms": 1799999.667,
+      "page": 1,
+      "cell": 6,
+      "frame_delta": 0.789814829826355,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_01.png",
+      "sol_scene_family": "black_canvas_camera"
+    },
+    {
+      "requested_ms": 1860000,
+      "actual_ms": 1859999.667,
+      "page": 1,
+      "cell": 7,
+      "frame_delta": 1.4235185384750366,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_01.png",
+      "sol_scene_family": "black_canvas_camera"
+    },
+    {
+      "requested_ms": 1920000,
+      "actual_ms": 1919999.667,
+      "page": 1,
+      "cell": 8,
+      "frame_delta": 1.2662962675094604,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_01.png",
+      "sol_scene_family": "black_canvas_camera"
+    },
+    {
+      "requested_ms": 1980000,
+      "actual_ms": 1979999.667,
+      "page": 1,
+      "cell": 9,
+      "frame_delta": 1.3851852416992188,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_01.png",
+      "sol_scene_family": "black_canvas_camera"
+    },
+    {
+      "requested_ms": 2040000,
+      "actual_ms": 2039999.667,
+      "page": 1,
+      "cell": 10,
+      "frame_delta": 0.8937036991119385,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_01.png",
+      "sol_scene_family": "black_canvas_camera"
+    },
+    {
+      "requested_ms": 2100000,
+      "actual_ms": 2099999.667,
+      "page": 1,
+      "cell": 11,
+      "frame_delta": 1.1768518686294556,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_01.png",
+      "sol_scene_family": "black_canvas_camera"
+    },
+    {
+      "requested_ms": 2160000,
+      "actual_ms": 2159999.667,
+      "page": 1,
+      "cell": 12,
+      "frame_delta": 1.0922222137451172,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_01.png",
+      "sol_scene_family": "black_canvas_camera"
+    },
+    {
+      "requested_ms": 2220000,
+      "actual_ms": 2219999.667,
+      "page": 1,
+      "cell": 13,
+      "frame_delta": 9.436111450195312,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_01.png",
+      "sol_scene_family": "black_canvas_camera"
+    },
+    {
+      "requested_ms": 2280000,
+      "actual_ms": 2279999.667,
+      "page": 1,
+      "cell": 14,
+      "frame_delta": 50.28314971923828,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_01.png",
+      "sol_scene_family": "quiz_ladder"
+    },
+    {
+      "requested_ms": 2340000,
+      "actual_ms": 2339999.667,
+      "page": 1,
+      "cell": 15,
+      "frame_delta": 10.699814796447754,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_01.png",
+      "sol_scene_family": "quiz_ladder"
+    },
+    {
+      "requested_ms": 2400000,
+      "actual_ms": 2399999.667,
+      "page": 1,
+      "cell": 16,
+      "frame_delta": 48.50092697143555,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_01.png",
+      "sol_scene_family": "quiz_menu"
+    },
+    {
+      "requested_ms": 2460000,
+      "actual_ms": 2459999.667,
+      "page": 1,
+      "cell": 17,
+      "frame_delta": 58.50851821899414,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_01.png",
+      "sol_scene_family": "black_canvas_camera"
+    },
+    {
+      "requested_ms": 2520000,
+      "actual_ms": 2519999.667,
+      "page": 1,
+      "cell": 18,
+      "frame_delta": 54.891109466552734,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_01.png",
+      "sol_scene_family": "quiz_menu"
+    },
+    {
+      "requested_ms": 2580000,
+      "actual_ms": 2579999.667,
+      "page": 1,
+      "cell": 19,
+      "frame_delta": 50.0662956237793,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_01.png",
+      "sol_scene_family": "quiz_ladder"
+    },
+    {
+      "requested_ms": 2640000,
+      "actual_ms": 2639999.667,
+      "page": 1,
+      "cell": 20,
+      "frame_delta": 10.857592582702637,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_01.png",
+      "sol_scene_family": "quiz_ladder"
+    },
+    {
+      "requested_ms": 2700000,
+      "actual_ms": 2699999.667,
+      "page": 1,
+      "cell": 21,
+      "frame_delta": 9.256481170654297,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_01.png",
+      "sol_scene_family": "quiz_ladder"
+    },
+    {
+      "requested_ms": 2760000,
+      "actual_ms": 2759999.667,
+      "page": 1,
+      "cell": 22,
+      "frame_delta": 47.704444885253906,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_01.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 2820000,
+      "actual_ms": 2819999.667,
+      "page": 1,
+      "cell": 23,
+      "frame_delta": 10.977777481079102,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_01.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 2880000,
+      "actual_ms": 2879999.667,
+      "page": 2,
+      "cell": 0,
+      "frame_delta": 8.554814338684082,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_02.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 2940000,
+      "actual_ms": 2939999.667,
+      "page": 2,
+      "cell": 1,
+      "frame_delta": 48.833518981933594,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_02.png",
+      "sol_scene_family": "quiz_ladder"
+    },
+    {
+      "requested_ms": 3000000,
+      "actual_ms": 2999999.667,
+      "page": 2,
+      "cell": 2,
+      "frame_delta": 48.53351974487305,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_02.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 3060000,
+      "actual_ms": 3059999.667,
+      "page": 2,
+      "cell": 3,
+      "frame_delta": 9.624444007873535,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_02.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 3120000,
+      "actual_ms": 3119999.667,
+      "page": 2,
+      "cell": 4,
+      "frame_delta": 10.527592658996582,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_02.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 3180000,
+      "actual_ms": 3179999.667,
+      "page": 2,
+      "cell": 5,
+      "frame_delta": 12.234814643859863,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_02.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 3240000,
+      "actual_ms": 3239999.667,
+      "page": 2,
+      "cell": 6,
+      "frame_delta": 13.701666831970215,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_02.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 3300000,
+      "actual_ms": 3299999.667,
+      "page": 2,
+      "cell": 7,
+      "frame_delta": 10.131667137145996,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_02.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 3360000,
+      "actual_ms": 3359999.667,
+      "page": 2,
+      "cell": 8,
+      "frame_delta": 8.935185432434082,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_02.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 3420000,
+      "actual_ms": 3419999.667,
+      "page": 2,
+      "cell": 9,
+      "frame_delta": 10.565740585327148,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_02.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 3480000,
+      "actual_ms": 3479999.667,
+      "page": 2,
+      "cell": 10,
+      "frame_delta": 48.94314956665039,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_02.png",
+      "sol_scene_family": "quiz_ladder"
+    },
+    {
+      "requested_ms": 3540000,
+      "actual_ms": 3539999.667,
+      "page": 2,
+      "cell": 11,
+      "frame_delta": 48.317779541015625,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_02.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 3600000,
+      "actual_ms": 3599999.667,
+      "page": 2,
+      "cell": 12,
+      "frame_delta": 50.10740661621094,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_02.png",
+      "sol_scene_family": "quiz_ladder"
+    },
+    {
+      "requested_ms": 3660000,
+      "actual_ms": 3659999.667,
+      "page": 2,
+      "cell": 13,
+      "frame_delta": 47.358333587646484,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_02.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 3720000,
+      "actual_ms": 3719999.667,
+      "page": 2,
+      "cell": 14,
+      "frame_delta": 13.200740814208984,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_02.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 3780000,
+      "actual_ms": 3779999.667,
+      "page": 2,
+      "cell": 15,
+      "frame_delta": 9.223148345947266,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_02.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 3840000,
+      "actual_ms": 3839999.667,
+      "page": 2,
+      "cell": 16,
+      "frame_delta": 10.557777404785156,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_02.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 3900000,
+      "actual_ms": 3899999.667,
+      "page": 2,
+      "cell": 17,
+      "frame_delta": 51.15777587890625,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_02.png",
+      "sol_scene_family": "quiz_ladder"
+    },
+    {
+      "requested_ms": 3960000,
+      "actual_ms": 3959999.667,
+      "page": 2,
+      "cell": 18,
+      "frame_delta": 52.53555679321289,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_02.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 4020000,
+      "actual_ms": 4019999.667,
+      "page": 2,
+      "cell": 19,
+      "frame_delta": 17.672962188720703,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_02.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 4080000,
+      "actual_ms": 4079999.667,
+      "page": 2,
+      "cell": 20,
+      "frame_delta": 20.65166664123535,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_02.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 4140000,
+      "actual_ms": 4139999.667,
+      "page": 2,
+      "cell": 21,
+      "frame_delta": 12.124814987182617,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_02.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 4200000,
+      "actual_ms": 4199999.667,
+      "page": 2,
+      "cell": 22,
+      "frame_delta": 16.185184478759766,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_02.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 4260000,
+      "actual_ms": 4259999.667,
+      "page": 2,
+      "cell": 23,
+      "frame_delta": 15.828703880310059,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_02.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 4320000,
+      "actual_ms": 4319999.667,
+      "page": 3,
+      "cell": 0,
+      "frame_delta": 12.12074089050293,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_03.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 4380000,
+      "actual_ms": 4379999.667,
+      "page": 3,
+      "cell": 1,
+      "frame_delta": 13.314074516296387,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_03.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 4440000,
+      "actual_ms": 4439999.667,
+      "page": 3,
+      "cell": 2,
+      "frame_delta": 13.800000190734863,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_03.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 4500000,
+      "actual_ms": 4499999.667,
+      "page": 3,
+      "cell": 3,
+      "frame_delta": 16.272037506103516,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_03.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 4560000,
+      "actual_ms": 4559999.667,
+      "page": 3,
+      "cell": 4,
+      "frame_delta": 12.841111183166504,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_03.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 4620000,
+      "actual_ms": 4619999.667,
+      "page": 3,
+      "cell": 5,
+      "frame_delta": 13.281481742858887,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_03.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 4680000,
+      "actual_ms": 4679999.667,
+      "page": 3,
+      "cell": 6,
+      "frame_delta": 7.972222328186035,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_03.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 4740000,
+      "actual_ms": 4739999.667,
+      "page": 3,
+      "cell": 7,
+      "frame_delta": 9.130741119384766,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_03.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 4800000,
+      "actual_ms": 4799999.667,
+      "page": 3,
+      "cell": 8,
+      "frame_delta": 52.18055725097656,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_03.png",
+      "sol_scene_family": "quiz_ladder"
+    },
+    {
+      "requested_ms": 4860000,
+      "actual_ms": 4859999.667,
+      "page": 3,
+      "cell": 9,
+      "frame_delta": 52.762779235839844,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_03.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 4920000,
+      "actual_ms": 4919999.667,
+      "page": 3,
+      "cell": 10,
+      "frame_delta": 11.539073944091797,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_03.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 4980000,
+      "actual_ms": 4979999.667,
+      "page": 3,
+      "cell": 11,
+      "frame_delta": 13.186851501464844,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_03.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 5040000,
+      "actual_ms": 5039999.667,
+      "page": 3,
+      "cell": 12,
+      "frame_delta": 15.032777786254883,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_03.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 5100000,
+      "actual_ms": 5099999.667,
+      "page": 3,
+      "cell": 13,
+      "frame_delta": 17.68963050842285,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_03.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 5160000,
+      "actual_ms": 5159999.667,
+      "page": 3,
+      "cell": 14,
+      "frame_delta": 11.139444351196289,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_03.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 5220000,
+      "actual_ms": 5219999.667,
+      "page": 3,
+      "cell": 15,
+      "frame_delta": 14.863333702087402,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_03.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 5280000,
+      "actual_ms": 5279999.667,
+      "page": 3,
+      "cell": 16,
+      "frame_delta": 11.025370597839355,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_03.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 5340000,
+      "actual_ms": 5339999.667,
+      "page": 3,
+      "cell": 17,
+      "frame_delta": 8.34666633605957,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_03.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 5400000,
+      "actual_ms": 5399999.667,
+      "page": 3,
+      "cell": 18,
+      "frame_delta": 8.596111297607422,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_03.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 5460000,
+      "actual_ms": 5459999.667,
+      "page": 3,
+      "cell": 19,
+      "frame_delta": 12.020370483398438,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_03.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 5520000,
+      "actual_ms": 5519999.667,
+      "page": 3,
+      "cell": 20,
+      "frame_delta": 54.25629806518555,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_03.png",
+      "sol_scene_family": "quiz_ladder"
+    },
+    {
+      "requested_ms": 5580000,
+      "actual_ms": 5579999.667,
+      "page": 3,
+      "cell": 21,
+      "frame_delta": 53.845184326171875,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_03.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 5640000,
+      "actual_ms": 5639999.667,
+      "page": 3,
+      "cell": 22,
+      "frame_delta": 9.780740737915039,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_03.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 5700000,
+      "actual_ms": 5699999.667,
+      "page": 3,
+      "cell": 23,
+      "frame_delta": 9.346296310424805,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_03.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 5760000,
+      "actual_ms": 5759999.667,
+      "page": 4,
+      "cell": 0,
+      "frame_delta": 9.312777519226074,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_04.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 5820000,
+      "actual_ms": 5819999.667,
+      "page": 4,
+      "cell": 1,
+      "frame_delta": 11.478703498840332,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_04.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 5880000,
+      "actual_ms": 5879999.667,
+      "page": 4,
+      "cell": 2,
+      "frame_delta": 40.325740814208984,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_04.png",
+      "sol_scene_family": "quiz_ladder"
+    },
+    {
+      "requested_ms": 5940000,
+      "actual_ms": 5939999.667,
+      "page": 4,
+      "cell": 3,
+      "frame_delta": 37.47648239135742,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_04.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 6000000,
+      "actual_ms": 5999999.667,
+      "page": 4,
+      "cell": 4,
+      "frame_delta": 9.752222061157227,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_04.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 6060000,
+      "actual_ms": 6059999.667,
+      "page": 4,
+      "cell": 5,
+      "frame_delta": 12.074999809265137,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_04.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 6120000,
+      "actual_ms": 6119999.667,
+      "page": 4,
+      "cell": 6,
+      "frame_delta": 10.789073944091797,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_04.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 6180000,
+      "actual_ms": 6179999.667,
+      "page": 4,
+      "cell": 7,
+      "frame_delta": 54.10333251953125,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_04.png",
+      "sol_scene_family": "quiz_ladder"
+    },
+    {
+      "requested_ms": 6240000,
+      "actual_ms": 6239999.667,
+      "page": 4,
+      "cell": 8,
+      "frame_delta": 52.29648208618164,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_04.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 6300000,
+      "actual_ms": 6299999.667,
+      "page": 4,
+      "cell": 9,
+      "frame_delta": 12.985555648803711,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_04.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 6360000,
+      "actual_ms": 6359999.667,
+      "page": 4,
+      "cell": 10,
+      "frame_delta": 12.018518447875977,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_04.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 6420000,
+      "actual_ms": 6419999.667,
+      "page": 4,
+      "cell": 11,
+      "frame_delta": 13.266851425170898,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_04.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 6480000,
+      "actual_ms": 6479999.667,
+      "page": 4,
+      "cell": 12,
+      "frame_delta": 7.807592391967773,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_04.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 6540000,
+      "actual_ms": 6539999.667,
+      "page": 4,
+      "cell": 13,
+      "frame_delta": 8.148518562316895,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_04.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 6600000,
+      "actual_ms": 6599999.667,
+      "page": 4,
+      "cell": 14,
+      "frame_delta": 8.069073677062988,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_04.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 6660000,
+      "actual_ms": 6659999.667,
+      "page": 4,
+      "cell": 15,
+      "frame_delta": 7.933888912200928,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_04.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 6720000,
+      "actual_ms": 6719999.667,
+      "page": 4,
+      "cell": 16,
+      "frame_delta": 8.840926170349121,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_04.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 6780000,
+      "actual_ms": 6779999.667,
+      "page": 4,
+      "cell": 17,
+      "frame_delta": 10.215370178222656,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_04.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 6840000,
+      "actual_ms": 6839999.667,
+      "page": 4,
+      "cell": 18,
+      "frame_delta": 9.259259223937988,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_04.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 6900000,
+      "actual_ms": 6899999.667,
+      "page": 4,
+      "cell": 19,
+      "frame_delta": 11.33907413482666,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_04.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 6960000,
+      "actual_ms": 6959999.667,
+      "page": 4,
+      "cell": 20,
+      "frame_delta": 51.450740814208984,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_04.png",
+      "sol_scene_family": "quiz_menu"
+    },
+    {
+      "requested_ms": 7020000,
+      "actual_ms": 7019999.667,
+      "page": 4,
+      "cell": 21,
+      "frame_delta": 12.191296577453613,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_04.png",
+      "sol_scene_family": "quiz_menu"
+    },
+    {
+      "requested_ms": 7080000,
+      "actual_ms": 7079999.667,
+      "page": 4,
+      "cell": 22,
+      "frame_delta": 45.95407485961914,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_04.png",
+      "sol_scene_family": "quiz_ladder"
+    },
+    {
+      "requested_ms": 7140000,
+      "actual_ms": 7139999.667,
+      "page": 4,
+      "cell": 23,
+      "frame_delta": 40.02166748046875,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_04.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 7200000,
+      "actual_ms": 7199999.667,
+      "page": 5,
+      "cell": 0,
+      "frame_delta": 41.28166580200195,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_05.png",
+      "sol_scene_family": "quiz_ladder"
+    },
+    {
+      "requested_ms": 7260000,
+      "actual_ms": 7259999.667,
+      "page": 5,
+      "cell": 1,
+      "frame_delta": 43.03703689575195,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_05.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 7320000,
+      "actual_ms": 7319999.667,
+      "page": 5,
+      "cell": 2,
+      "frame_delta": 13.7774076461792,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_05.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 7380000,
+      "actual_ms": 7379999.667,
+      "page": 5,
+      "cell": 3,
+      "frame_delta": 11.05555534362793,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_05.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 7440000,
+      "actual_ms": 7439999.667,
+      "page": 5,
+      "cell": 4,
+      "frame_delta": 42.14277648925781,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_05.png",
+      "sol_scene_family": "quiz_ladder"
+    },
+    {
+      "requested_ms": 7500000,
+      "actual_ms": 7499999.667,
+      "page": 5,
+      "cell": 5,
+      "frame_delta": 41.62722396850586,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_05.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 7560000,
+      "actual_ms": 7559999.667,
+      "page": 5,
+      "cell": 6,
+      "frame_delta": 42.89925765991211,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_05.png",
+      "sol_scene_family": "quiz_ladder"
+    },
+    {
+      "requested_ms": 7620000,
+      "actual_ms": 7619999.667,
+      "page": 5,
+      "cell": 7,
+      "frame_delta": 44.143333435058594,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_05.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 7680000,
+      "actual_ms": 7679999.667,
+      "page": 5,
+      "cell": 8,
+      "frame_delta": 11.849444389343262,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_05.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 7740000,
+      "actual_ms": 7739999.667,
+      "page": 5,
+      "cell": 9,
+      "frame_delta": 8.420926094055176,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_05.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 7800000,
+      "actual_ms": 7799999.667,
+      "page": 5,
+      "cell": 10,
+      "frame_delta": 10.893888473510742,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_05.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 7860000,
+      "actual_ms": 7859999.667,
+      "page": 5,
+      "cell": 11,
+      "frame_delta": 9.78592586517334,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_05.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 7920000,
+      "actual_ms": 7919999.667,
+      "page": 5,
+      "cell": 12,
+      "frame_delta": 43.02648162841797,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_05.png",
+      "sol_scene_family": "quiz_ladder"
+    },
+    {
+      "requested_ms": 7980000,
+      "actual_ms": 7979999.667,
+      "page": 5,
+      "cell": 13,
+      "frame_delta": 43.38185119628906,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_05.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 8040000,
+      "actual_ms": 8039999.667,
+      "page": 5,
+      "cell": 14,
+      "frame_delta": 17.824628829956055,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_05.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 8100000,
+      "actual_ms": 8099999.667,
+      "page": 5,
+      "cell": 15,
+      "frame_delta": 12.49240779876709,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_05.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 8160000,
+      "actual_ms": 8159999.667,
+      "page": 5,
+      "cell": 16,
+      "frame_delta": 14.199258804321289,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_05.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 8220000,
+      "actual_ms": 8219999.667,
+      "page": 5,
+      "cell": 17,
+      "frame_delta": 15.37925910949707,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_05.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 8280000,
+      "actual_ms": 8279999.667,
+      "page": 5,
+      "cell": 18,
+      "frame_delta": 16.97833251953125,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_05.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 8340000,
+      "actual_ms": 8339999.667,
+      "page": 5,
+      "cell": 19,
+      "frame_delta": 16.79537010192871,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_05.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 8400000,
+      "actual_ms": 8399999.667,
+      "page": 5,
+      "cell": 20,
+      "frame_delta": 17.903703689575195,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_05.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 8460000,
+      "actual_ms": 8459999.667,
+      "page": 5,
+      "cell": 21,
+      "frame_delta": 15.238703727722168,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_05.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 8520000,
+      "actual_ms": 8519999.667,
+      "page": 5,
+      "cell": 22,
+      "frame_delta": 44.720001220703125,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_05.png",
+      "sol_scene_family": "quiz_ladder"
+    },
+    {
+      "requested_ms": 8580000,
+      "actual_ms": 8579999.667,
+      "page": 5,
+      "cell": 23,
+      "frame_delta": 45.10092544555664,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_05.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 8640000,
+      "actual_ms": 8639999.667,
+      "page": 6,
+      "cell": 0,
+      "frame_delta": 8.19592571258545,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_06.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 8700000,
+      "actual_ms": 8699999.667,
+      "page": 6,
+      "cell": 1,
+      "frame_delta": 8.276110649108887,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_06.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 8760000,
+      "actual_ms": 8759999.667,
+      "page": 6,
+      "cell": 2,
+      "frame_delta": 5.748703479766846,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_06.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 8820000,
+      "actual_ms": 8819999.667,
+      "page": 6,
+      "cell": 3,
+      "frame_delta": 7.569814682006836,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_06.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 8880000,
+      "actual_ms": 8879999.667,
+      "page": 6,
+      "cell": 4,
+      "frame_delta": 10.518888473510742,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_06.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 8940000,
+      "actual_ms": 8939999.667,
+      "page": 6,
+      "cell": 5,
+      "frame_delta": 11.883333206176758,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_06.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 9000000,
+      "actual_ms": 8999999.667,
+      "page": 6,
+      "cell": 6,
+      "frame_delta": 12.027036666870117,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_06.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 9060000,
+      "actual_ms": 9059999.667,
+      "page": 6,
+      "cell": 7,
+      "frame_delta": 8.640740394592285,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_06.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 9120000,
+      "actual_ms": 9119999.667,
+      "page": 6,
+      "cell": 8,
+      "frame_delta": 8.218518257141113,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_06.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 9180000,
+      "actual_ms": 9179999.667,
+      "page": 6,
+      "cell": 9,
+      "frame_delta": 11.715370178222656,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_06.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 9240000,
+      "actual_ms": 9239999.667,
+      "page": 6,
+      "cell": 10,
+      "frame_delta": 14.648703575134277,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_06.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 9300000,
+      "actual_ms": 9299999.667,
+      "page": 6,
+      "cell": 11,
+      "frame_delta": 11.079814910888672,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_06.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 9360000,
+      "actual_ms": 9359999.667,
+      "page": 6,
+      "cell": 12,
+      "frame_delta": 7.0170369148254395,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_06.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 9420000,
+      "actual_ms": 9419999.667,
+      "page": 6,
+      "cell": 13,
+      "frame_delta": 6.720925807952881,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_06.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 9480000,
+      "actual_ms": 9479999.667,
+      "page": 6,
+      "cell": 14,
+      "frame_delta": 6.812777996063232,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_06.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 9540000,
+      "actual_ms": 9539999.667,
+      "page": 6,
+      "cell": 15,
+      "frame_delta": 6.534074306488037,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_06.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 9600000,
+      "actual_ms": 9599999.667,
+      "page": 6,
+      "cell": 16,
+      "frame_delta": 44.84222412109375,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_06.png",
+      "sol_scene_family": "quiz_ladder"
+    },
+    {
+      "requested_ms": 9660000,
+      "actual_ms": 9659999.667,
+      "page": 6,
+      "cell": 17,
+      "frame_delta": 14.66518497467041,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_06.png",
+      "sol_scene_family": "quiz_ladder"
+    },
+    {
+      "requested_ms": 9720000,
+      "actual_ms": 9719999.667,
+      "page": 6,
+      "cell": 18,
+      "frame_delta": 41.06277847290039,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_06.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 9780000,
+      "actual_ms": 9779999.667,
+      "page": 6,
+      "cell": 19,
+      "frame_delta": 14.10537052154541,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_06.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 9840000,
+      "actual_ms": 9839999.667,
+      "page": 6,
+      "cell": 20,
+      "frame_delta": 9.051481246948242,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_06.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 9900000,
+      "actual_ms": 9899999.667,
+      "page": 6,
+      "cell": 21,
+      "frame_delta": 8.315740585327148,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_06.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 9960000,
+      "actual_ms": 9959999.667,
+      "page": 6,
+      "cell": 22,
+      "frame_delta": 9.375555992126465,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_06.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 10020000,
+      "actual_ms": 10019999.667,
+      "page": 6,
+      "cell": 23,
+      "frame_delta": 10.040925979614258,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_06.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 10080000,
+      "actual_ms": 10079999.667,
+      "page": 7,
+      "cell": 0,
+      "frame_delta": 8.652962684631348,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_07.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 10140000,
+      "actual_ms": 10139999.667,
+      "page": 7,
+      "cell": 1,
+      "frame_delta": 12.180370330810547,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_07.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 10200000,
+      "actual_ms": 10199999.667,
+      "page": 7,
+      "cell": 2,
+      "frame_delta": 8.973703384399414,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_07.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 10260000,
+      "actual_ms": 10259999.667,
+      "page": 7,
+      "cell": 3,
+      "frame_delta": 9.23888874053955,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_07.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 10320000,
+      "actual_ms": 10319999.667,
+      "page": 7,
+      "cell": 4,
+      "frame_delta": 8.949444770812988,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_07.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 10380000,
+      "actual_ms": 10379999.667,
+      "page": 7,
+      "cell": 5,
+      "frame_delta": 5.2620368003845215,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_07.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 10440000,
+      "actual_ms": 10439999.667,
+      "page": 7,
+      "cell": 6,
+      "frame_delta": 6.612407207489014,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_07.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 10500000,
+      "actual_ms": 10499999.667,
+      "page": 7,
+      "cell": 7,
+      "frame_delta": 7.640925884246826,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_07.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 10560000,
+      "actual_ms": 10559999.667,
+      "page": 7,
+      "cell": 8,
+      "frame_delta": 7.478518486022949,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_07.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 10620000,
+      "actual_ms": 10619999.667,
+      "page": 7,
+      "cell": 9,
+      "frame_delta": 6.686851978302002,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_07.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 10680000,
+      "actual_ms": 10679999.667,
+      "page": 7,
+      "cell": 10,
+      "frame_delta": 9.48888874053955,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_07.png",
+      "sol_scene_family": "quiz_question"
+    },
+    {
+      "requested_ms": 10740000,
+      "actual_ms": 10739999.667,
+      "page": 7,
+      "cell": 11,
+      "frame_delta": 50.674259185791016,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_07.png",
+      "sol_scene_family": "black_canvas_camera"
+    },
+    {
+      "requested_ms": 10800000,
+      "actual_ms": 10799999.667,
+      "page": 7,
+      "cell": 12,
+      "frame_delta": 2.154444456100464,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_07.png",
+      "sol_scene_family": "black_canvas_camera"
+    },
+    {
+      "requested_ms": 10860000,
+      "actual_ms": 10859999.667,
+      "page": 7,
+      "cell": 13,
+      "frame_delta": 1.6144444942474365,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_07.png",
+      "sol_scene_family": "black_canvas_camera"
+    },
+    {
+      "requested_ms": 10920000,
+      "actual_ms": 10919999.667,
+      "page": 7,
+      "cell": 14,
+      "frame_delta": 2.029074192047119,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_07.png",
+      "sol_scene_family": "black_canvas_camera"
+    },
+    {
+      "requested_ms": 10980000,
+      "actual_ms": 10979999.667,
+      "page": 7,
+      "cell": 15,
+      "frame_delta": 1.1540740728378296,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_07.png",
+      "sol_scene_family": "black_canvas_camera"
+    },
+    {
+      "requested_ms": 11040000,
+      "actual_ms": 11039999.667,
+      "page": 7,
+      "cell": 16,
+      "frame_delta": 1.5774073600769043,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_07.png",
+      "sol_scene_family": "black_canvas_camera"
+    },
+    {
+      "requested_ms": 11100000,
+      "actual_ms": 11099999.667,
+      "page": 7,
+      "cell": 17,
+      "frame_delta": 1.130740761756897,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_07.png",
+      "sol_scene_family": "black_canvas_camera"
+    },
+    {
+      "requested_ms": 11160000,
+      "actual_ms": 11159999.667,
+      "page": 7,
+      "cell": 18,
+      "frame_delta": 1.3722221851348877,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_07.png",
+      "sol_scene_family": "black_canvas_camera"
+    },
+    {
+      "requested_ms": 11220000,
+      "actual_ms": 11219999.667,
+      "page": 7,
+      "cell": 19,
+      "frame_delta": 8.107222557067871,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_07.png",
+      "sol_scene_family": "black_canvas_camera"
+    },
+    {
+      "requested_ms": 11280000,
+      "actual_ms": 11279999.667,
+      "page": 7,
+      "cell": 20,
+      "frame_delta": 123.30777740478516,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_07.png",
+      "sol_scene_family": "browser"
+    },
+    {
+      "requested_ms": 11340000,
+      "actual_ms": 11339999.667,
+      "page": 7,
+      "cell": 21,
+      "frame_delta": 1.8933333158493042,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_07.png",
+      "sol_scene_family": "browser"
+    },
+    {
+      "requested_ms": 11400000,
+      "actual_ms": 11399999.667,
+      "page": 7,
+      "cell": 22,
+      "frame_delta": 15.423148155212402,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_07.png",
+      "sol_scene_family": "browser"
+    },
+    {
+      "requested_ms": 11460000,
+      "actual_ms": 11459999.667,
+      "page": 7,
+      "cell": 23,
+      "frame_delta": 31.942777633666992,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_07.png",
+      "sol_scene_family": "browser"
+    },
+    {
+      "requested_ms": 11520000,
+      "actual_ms": 11519999.667,
+      "page": 8,
+      "cell": 0,
+      "frame_delta": 1.1174074411392212,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_08.png",
+      "sol_scene_family": "browser"
+    },
+    {
+      "requested_ms": 11580000,
+      "actual_ms": 11579999.667,
+      "page": 8,
+      "cell": 1,
+      "frame_delta": 99.01407623291016,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_08.png",
+      "sol_scene_family": "browser"
+    },
+    {
+      "requested_ms": 11640000,
+      "actual_ms": 11639999.667,
+      "page": 8,
+      "cell": 2,
+      "frame_delta": 27.513519287109375,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_08.png",
+      "sol_scene_family": "browser"
+    },
+    {
+      "requested_ms": 11700000,
+      "actual_ms": 11699999.667,
+      "page": 8,
+      "cell": 3,
+      "frame_delta": 78.31148529052734,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_08.png",
+      "sol_scene_family": "browser"
+    },
+    {
+      "requested_ms": 11760000,
+      "actual_ms": 11759999.667,
+      "page": 8,
+      "cell": 4,
+      "frame_delta": 89.53314971923828,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_08.png",
+      "sol_scene_family": "browser"
+    },
+    {
+      "requested_ms": 11820000,
+      "actual_ms": 11819999.667,
+      "page": 8,
+      "cell": 5,
+      "frame_delta": 51.8738899230957,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_08.png",
+      "sol_scene_family": "browser"
+    },
+    {
+      "requested_ms": 11880000,
+      "actual_ms": 11879999.667,
+      "page": 8,
+      "cell": 6,
+      "frame_delta": 78.69092559814453,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_08.png",
+      "sol_scene_family": "browser"
+    },
+    {
+      "requested_ms": 11940000,
+      "actual_ms": 11939999.667,
+      "page": 8,
+      "cell": 7,
+      "frame_delta": 45.994815826416016,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_08.png",
+      "sol_scene_family": "browser"
+    },
+    {
+      "requested_ms": 12000000,
+      "actual_ms": 11999999.667,
+      "page": 8,
+      "cell": 8,
+      "frame_delta": 1.0335185527801514,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_08.png",
+      "sol_scene_family": "browser"
+    },
+    {
+      "requested_ms": 12060000,
+      "actual_ms": 12059999.667,
+      "page": 8,
+      "cell": 9,
+      "frame_delta": 172.57278442382812,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_08.png",
+      "sol_scene_family": "gameplay"
+    },
+    {
+      "requested_ms": 12120000,
+      "actual_ms": 12119999.667,
+      "page": 8,
+      "cell": 10,
+      "frame_delta": 65.75944519042969,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_08.png",
+      "sol_scene_family": "gameplay"
+    },
+    {
+      "requested_ms": 12180000,
+      "actual_ms": 12179999.667,
+      "page": 8,
+      "cell": 11,
+      "frame_delta": 44.660369873046875,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_08.png",
+      "sol_scene_family": "gameplay"
+    },
+    {
+      "requested_ms": 12240000,
+      "actual_ms": 12239999.667,
+      "page": 8,
+      "cell": 12,
+      "frame_delta": 44.114627838134766,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_08.png",
+      "sol_scene_family": "gameplay"
+    },
+    {
+      "requested_ms": 12300000,
+      "actual_ms": 12299999.667,
+      "page": 8,
+      "cell": 13,
+      "frame_delta": 144.80166625976562,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_08.png",
+      "sol_scene_family": "browser"
+    },
+    {
+      "requested_ms": 12360000,
+      "actual_ms": 12359999.667,
+      "page": 8,
+      "cell": 14,
+      "frame_delta": 163.98074340820312,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_08.png",
+      "sol_scene_family": "watching_video"
+    },
+    {
+      "requested_ms": 12420000,
+      "actual_ms": 12419999.667,
+      "page": 8,
+      "cell": 15,
+      "frame_delta": 164.16851806640625,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_08.png",
+      "sol_scene_family": "watching_video"
+    },
+    {
+      "requested_ms": 12480000,
+      "actual_ms": 12479999.667,
+      "page": 8,
+      "cell": 16,
+      "frame_delta": 175.8350067138672,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_08.png",
+      "sol_scene_family": "watching_video"
+    },
+    {
+      "requested_ms": 12540000,
+      "actual_ms": 12539999.667,
+      "page": 8,
+      "cell": 17,
+      "frame_delta": 23.747962951660156,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_08.png",
+      "sol_scene_family": "watching_video"
+    },
+    {
+      "requested_ms": 12600000,
+      "actual_ms": 12599999.667,
+      "page": 8,
+      "cell": 18,
+      "frame_delta": 51.28740692138672,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_08.png",
+      "sol_scene_family": "browser"
+    },
+    {
+      "requested_ms": 12660000,
+      "actual_ms": 12659999.667,
+      "page": 8,
+      "cell": 19,
+      "frame_delta": 95.81592559814453,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_08.png",
+      "sol_scene_family": "browser"
+    },
+    {
+      "requested_ms": 12720000,
+      "actual_ms": 12719999.667,
+      "page": 8,
+      "cell": 20,
+      "frame_delta": 4.0251851081848145,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_08.png",
+      "sol_scene_family": "browser"
+    },
+    {
+      "requested_ms": 12780000,
+      "actual_ms": 12779999.667,
+      "page": 8,
+      "cell": 21,
+      "frame_delta": 3.68666672706604,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_08.png",
+      "sol_scene_family": "browser"
+    },
+    {
+      "requested_ms": 12840000,
+      "actual_ms": 12839999.667,
+      "page": 8,
+      "cell": 22,
+      "frame_delta": 70.51741027832031,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_08.png",
+      "sol_scene_family": "watching_video"
+    },
+    {
+      "requested_ms": 12900000,
+      "actual_ms": 12899999.667,
+      "page": 8,
+      "cell": 23,
+      "frame_delta": 70.59925842285156,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_08.png",
+      "sol_scene_family": "browser"
+    },
+    {
+      "requested_ms": 12960000,
+      "actual_ms": 12959999.667,
+      "page": 9,
+      "cell": 0,
+      "frame_delta": 1.2709258794784546,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_09.png",
+      "sol_scene_family": "browser"
+    },
+    {
+      "requested_ms": 13020000,
+      "actual_ms": 13019999.667,
+      "page": 9,
+      "cell": 1,
+      "frame_delta": 1.5053703784942627,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_09.png",
+      "sol_scene_family": "browser"
+    },
+    {
+      "requested_ms": 13080000,
+      "actual_ms": 13079999.667,
+      "page": 9,
+      "cell": 2,
+      "frame_delta": 0.6416666507720947,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_09.png",
+      "sol_scene_family": "browser"
+    },
+    {
+      "requested_ms": 13140000,
+      "actual_ms": 13139999.667,
+      "page": 9,
+      "cell": 3,
+      "frame_delta": 1.1629629135131836,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_09.png",
+      "sol_scene_family": "browser"
+    },
+    {
+      "requested_ms": 13200000,
+      "actual_ms": 13199999.667,
+      "page": 9,
+      "cell": 4,
+      "frame_delta": 98.80130004882812,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_09.png",
+      "sol_scene_family": "watching_video"
+    },
+    {
+      "requested_ms": 13260000,
+      "actual_ms": 13259999.667,
+      "page": 9,
+      "cell": 5,
+      "frame_delta": 98.71037292480469,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_09.png",
+      "sol_scene_family": "browser"
+    },
+    {
+      "requested_ms": 13320000,
+      "actual_ms": 13319999.667,
+      "page": 9,
+      "cell": 6,
+      "frame_delta": 8.36722183227539,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_09.png",
+      "sol_scene_family": "browser"
+    },
+    {
+      "requested_ms": 13367202,
+      "actual_ms": 13367216.667,
+      "page": 9,
+      "cell": 7,
+      "frame_delta": 8.840370178222656,
+      "sheet": "data/review/batch/2876630043/visual_map/survey_09.png",
+      "sol_scene_family": "browser"
+    }
+  ],
+  "survey_intervals": [
+    {
+      "family": "black_canvas_camera",
+      "start_ms": 0,
+      "last_observed_ms": 179999.667,
+      "next_sample_boundary_ms": 240000,
+      "boundary_precision": "survey bracket, not a frame-exact change point",
+      "samples": 4
+    },
+    {
+      "family": "browser",
+      "start_ms": 240000,
+      "last_observed_ms": 239999.667,
+      "next_sample_boundary_ms": 300000,
+      "boundary_precision": "survey bracket, not a frame-exact change point",
+      "samples": 1
+    },
+    {
+      "family": "black_canvas_camera",
+      "start_ms": 300000,
+      "last_observed_ms": 299999.667,
+      "next_sample_boundary_ms": 360000,
+      "boundary_precision": "survey bracket, not a frame-exact change point",
+      "samples": 1
+    },
+    {
+      "family": "browser",
+      "start_ms": 360000,
+      "last_observed_ms": 719999.667,
+      "next_sample_boundary_ms": 780000,
+      "boundary_precision": "survey bracket, not a frame-exact change point",
+      "samples": 7
+    },
+    {
+      "family": "game_results",
+      "start_ms": 780000,
+      "last_observed_ms": 779999.667,
+      "next_sample_boundary_ms": 840000,
+      "boundary_precision": "survey bracket, not a frame-exact change point",
+      "samples": 1
+    },
+    {
+      "family": "browser",
+      "start_ms": 840000,
+      "last_observed_ms": 1019999.667,
+      "next_sample_boundary_ms": 1080000,
+      "boundary_precision": "survey bracket, not a frame-exact change point",
+      "samples": 4
+    },
+    {
+      "family": "black_canvas_camera",
+      "start_ms": 1080000,
+      "last_observed_ms": 2219999.667,
+      "next_sample_boundary_ms": 2280000,
+      "boundary_precision": "survey bracket, not a frame-exact change point",
+      "samples": 20
+    },
+    {
+      "family": "quiz_ladder",
+      "start_ms": 2280000,
+      "last_observed_ms": 2339999.667,
+      "next_sample_boundary_ms": 2400000,
+      "boundary_precision": "survey bracket, not a frame-exact change point",
+      "samples": 2
+    },
+    {
+      "family": "quiz_menu",
+      "start_ms": 2400000,
+      "last_observed_ms": 2399999.667,
+      "next_sample_boundary_ms": 2460000,
+      "boundary_precision": "survey bracket, not a frame-exact change point",
+      "samples": 1
+    },
+    {
+      "family": "black_canvas_camera",
+      "start_ms": 2460000,
+      "last_observed_ms": 2459999.667,
+      "next_sample_boundary_ms": 2520000,
+      "boundary_precision": "survey bracket, not a frame-exact change point",
+      "samples": 1
+    },
+    {
+      "family": "quiz_menu",
+      "start_ms": 2520000,
+      "last_observed_ms": 2519999.667,
+      "next_sample_boundary_ms": 2580000,
+      "boundary_precision": "survey bracket, not a frame-exact change point",
+      "samples": 1
+    },
+    {
+      "family": "quiz_ladder",
+      "start_ms": 2580000,
+      "last_observed_ms": 2699999.667,
+      "next_sample_boundary_ms": 2760000,
+      "boundary_precision": "survey bracket, not a frame-exact change point",
+      "samples": 3
+    },
+    {
+      "family": "quiz_question",
+      "start_ms": 2760000,
+      "last_observed_ms": 2879999.667,
+      "next_sample_boundary_ms": 2940000,
+      "boundary_precision": "survey bracket, not a frame-exact change point",
+      "samples": 3
+    },
+    {
+      "family": "quiz_ladder",
+      "start_ms": 2940000,
+      "last_observed_ms": 2939999.667,
+      "next_sample_boundary_ms": 3000000,
+      "boundary_precision": "survey bracket, not a frame-exact change point",
+      "samples": 1
+    },
+    {
+      "family": "quiz_question",
+      "start_ms": 3000000,
+      "last_observed_ms": 3419999.667,
+      "next_sample_boundary_ms": 3480000,
+      "boundary_precision": "survey bracket, not a frame-exact change point",
+      "samples": 8
+    },
+    {
+      "family": "quiz_ladder",
+      "start_ms": 3480000,
+      "last_observed_ms": 3479999.667,
+      "next_sample_boundary_ms": 3540000,
+      "boundary_precision": "survey bracket, not a frame-exact change point",
+      "samples": 1
+    },
+    {
+      "family": "quiz_question",
+      "start_ms": 3540000,
+      "last_observed_ms": 3539999.667,
+      "next_sample_boundary_ms": 3600000,
+      "boundary_precision": "survey bracket, not a frame-exact change point",
+      "samples": 1
+    },
+    {
+      "family": "quiz_ladder",
+      "start_ms": 3600000,
+      "last_observed_ms": 3599999.667,
+      "next_sample_boundary_ms": 3660000,
+      "boundary_precision": "survey bracket, not a frame-exact change point",
+      "samples": 1
+    },
+    {
+      "family": "quiz_question",
+      "start_ms": 3660000,
+      "last_observed_ms": 3839999.667,
+      "next_sample_boundary_ms": 3900000,
+      "boundary_precision": "survey bracket, not a frame-exact change point",
+      "samples": 4
+    },
+    {
+      "family": "quiz_ladder",
+      "start_ms": 3900000,
+      "last_observed_ms": 3899999.667,
+      "next_sample_boundary_ms": 3960000,
+      "boundary_precision": "survey bracket, not a frame-exact change point",
+      "samples": 1
+    },
+    {
+      "family": "quiz_question",
+      "start_ms": 3960000,
+      "last_observed_ms": 4739999.667,
+      "next_sample_boundary_ms": 4800000,
+      "boundary_precision": "survey bracket, not a frame-exact change point",
+      "samples": 14
+    },
+    {
+      "family": "quiz_ladder",
+      "start_ms": 4800000,
+      "last_observed_ms": 4799999.667,
+      "next_sample_boundary_ms": 4860000,
+      "boundary_precision": "survey bracket, not a frame-exact change point",
+      "samples": 1
+    },
+    {
+      "family": "quiz_question",
+      "start_ms": 4860000,
+      "last_observed_ms": 5459999.667,
+      "next_sample_boundary_ms": 5520000,
+      "boundary_precision": "survey bracket, not a frame-exact change point",
+      "samples": 11
+    },
+    {
+      "family": "quiz_ladder",
+      "start_ms": 5520000,
+      "last_observed_ms": 5519999.667,
+      "next_sample_boundary_ms": 5580000,
+      "boundary_precision": "survey bracket, not a frame-exact change point",
+      "samples": 1
+    },
+    {
+      "family": "quiz_question",
+      "start_ms": 5580000,
+      "last_observed_ms": 5819999.667,
+      "next_sample_boundary_ms": 5880000,
+      "boundary_precision": "survey bracket, not a frame-exact change point",
+      "samples": 5
+    },
+    {
+      "family": "quiz_ladder",
+      "start_ms": 5880000,
+      "last_observed_ms": 5879999.667,
+      "next_sample_boundary_ms": 5940000,
+      "boundary_precision": "survey bracket, not a frame-exact change point",
+      "samples": 1
+    },
+    {
+      "family": "quiz_question",
+      "start_ms": 5940000,
+      "last_observed_ms": 6119999.667,
+      "next_sample_boundary_ms": 6180000,
+      "boundary_precision": "survey bracket, not a frame-exact change point",
+      "samples": 4
+    },
+    {
+      "family": "quiz_ladder",
+      "start_ms": 6180000,
+      "last_observed_ms": 6179999.667,
+      "next_sample_boundary_ms": 6240000,
+      "boundary_precision": "survey bracket, not a frame-exact change point",
+      "samples": 1
+    },
+    {
+      "family": "quiz_question",
+      "start_ms": 6240000,
+      "last_observed_ms": 6899999.667,
+      "next_sample_boundary_ms": 6960000,
+      "boundary_precision": "survey bracket, not a frame-exact change point",
+      "samples": 12
+    },
+    {
+      "family": "quiz_menu",
+      "start_ms": 6960000,
+      "last_observed_ms": 7019999.667,
+      "next_sample_boundary_ms": 7080000,
+      "boundary_precision": "survey bracket, not a frame-exact change point",
+      "samples": 2
+    },
+    {
+      "family": "quiz_ladder",
+      "start_ms": 7080000,
+      "last_observed_ms": 7079999.667,
+      "next_sample_boundary_ms": 7140000,
+      "boundary_precision": "survey bracket, not a frame-exact change point",
+      "samples": 1
+    },
+    {
+      "family": "quiz_question",
+      "start_ms": 7140000,
+      "last_observed_ms": 7139999.667,
+      "next_sample_boundary_ms": 7200000,
+      "boundary_precision": "survey bracket, not a frame-exact change point",
+      "samples": 1
+    },
+    {
+      "family": "quiz_ladder",
+      "start_ms": 7200000,
+      "last_observed_ms": 7199999.667,
+      "next_sample_boundary_ms": 7260000,
+      "boundary_precision": "survey bracket, not a frame-exact change point",
+      "samples": 1
+    },
+    {
+      "family": "quiz_question",
+      "start_ms": 7260000,
+      "last_observed_ms": 7379999.667,
+      "next_sample_boundary_ms": 7440000,
+      "boundary_precision": "survey bracket, not a frame-exact change point",
+      "samples": 3
+    },
+    {
+      "family": "quiz_ladder",
+      "start_ms": 7440000,
+      "last_observed_ms": 7439999.667,
+      "next_sample_boundary_ms": 7500000,
+      "boundary_precision": "survey bracket, not a frame-exact change point",
+      "samples": 1
+    },
+    {
+      "family": "quiz_question",
+      "start_ms": 7500000,
+      "last_observed_ms": 7499999.667,
+      "next_sample_boundary_ms": 7560000,
+      "boundary_precision": "survey bracket, not a frame-exact change point",
+      "samples": 1
+    },
+    {
+      "family": "quiz_ladder",
+      "start_ms": 7560000,
+      "last_observed_ms": 7559999.667,
+      "next_sample_boundary_ms": 7620000,
+      "boundary_precision": "survey bracket, not a frame-exact change point",
+      "samples": 1
+    },
+    {
+      "family": "quiz_question",
+      "start_ms": 7620000,
+      "last_observed_ms": 7859999.667,
+      "next_sample_boundary_ms": 7920000,
+      "boundary_precision": "survey bracket, not a frame-exact change point",
+      "samples": 5
+    },
+    {
+      "family": "quiz_ladder",
+      "start_ms": 7920000,
+      "last_observed_ms": 7919999.667,
+      "next_sample_boundary_ms": 7980000,
+      "boundary_precision": "survey bracket, not a frame-exact change point",
+      "samples": 1
+    },
+    {
+      "family": "quiz_question",
+      "start_ms": 7980000,
+      "last_observed_ms": 8459999.667,
+      "next_sample_boundary_ms": 8520000,
+      "boundary_precision": "survey bracket, not a frame-exact change point",
+      "samples": 9
+    },
+    {
+      "family": "quiz_ladder",
+      "start_ms": 8520000,
+      "last_observed_ms": 8519999.667,
+      "next_sample_boundary_ms": 8580000,
+      "boundary_precision": "survey bracket, not a frame-exact change point",
+      "samples": 1
+    },
+    {
+      "family": "quiz_question",
+      "start_ms": 8580000,
+      "last_observed_ms": 9539999.667,
+      "next_sample_boundary_ms": 9600000,
+      "boundary_precision": "survey bracket, not a frame-exact change point",
+      "samples": 17
+    },
+    {
+      "family": "quiz_ladder",
+      "start_ms": 9600000,
+      "last_observed_ms": 9659999.667,
+      "next_sample_boundary_ms": 9720000,
+      "boundary_precision": "survey bracket, not a frame-exact change point",
+      "samples": 2
+    },
+    {
+      "family": "quiz_question",
+      "start_ms": 9720000,
+      "last_observed_ms": 10679999.667,
+      "next_sample_boundary_ms": 10740000,
+      "boundary_precision": "survey bracket, not a frame-exact change point",
+      "samples": 17
+    },
+    {
+      "family": "black_canvas_camera",
+      "start_ms": 10740000,
+      "last_observed_ms": 11219999.667,
+      "next_sample_boundary_ms": 11280000,
+      "boundary_precision": "survey bracket, not a frame-exact change point",
+      "samples": 9
+    },
+    {
+      "family": "browser",
+      "start_ms": 11280000,
+      "last_observed_ms": 11999999.667,
+      "next_sample_boundary_ms": 12060000,
+      "boundary_precision": "survey bracket, not a frame-exact change point",
+      "samples": 13
+    },
+    {
+      "family": "gameplay",
+      "start_ms": 12060000,
+      "last_observed_ms": 12239999.667,
+      "next_sample_boundary_ms": 12300000,
+      "boundary_precision": "survey bracket, not a frame-exact change point",
+      "samples": 4
+    },
+    {
+      "family": "browser",
+      "start_ms": 12300000,
+      "last_observed_ms": 12299999.667,
+      "next_sample_boundary_ms": 12360000,
+      "boundary_precision": "survey bracket, not a frame-exact change point",
+      "samples": 1
+    },
+    {
+      "family": "watching_video",
+      "start_ms": 12360000,
+      "last_observed_ms": 12539999.667,
+      "next_sample_boundary_ms": 12600000,
+      "boundary_precision": "survey bracket, not a frame-exact change point",
+      "samples": 4
+    },
+    {
+      "family": "browser",
+      "start_ms": 12600000,
+      "last_observed_ms": 12779999.667,
+      "next_sample_boundary_ms": 12840000,
+      "boundary_precision": "survey bracket, not a frame-exact change point",
+      "samples": 4
+    },
+    {
+      "family": "watching_video",
+      "start_ms": 12840000,
+      "last_observed_ms": 12839999.667,
+      "next_sample_boundary_ms": 12900000,
+      "boundary_precision": "survey bracket, not a frame-exact change point",
+      "samples": 1
+    },
+    {
+      "family": "browser",
+      "start_ms": 12900000,
+      "last_observed_ms": 13139999.667,
+      "next_sample_boundary_ms": 13200000,
+      "boundary_precision": "survey bracket, not a frame-exact change point",
+      "samples": 5
+    },
+    {
+      "family": "watching_video",
+      "start_ms": 13200000,
+      "last_observed_ms": 13199999.667,
+      "next_sample_boundary_ms": 13260000,
+      "boundary_precision": "survey bracket, not a frame-exact change point",
+      "samples": 1
+    },
+    {
+      "family": "browser",
+      "start_ms": 13260000,
+      "last_observed_ms": 13367216.667,
+      "next_sample_boundary_ms": 13367602,
+      "boundary_precision": "survey bracket, not a frame-exact change point",
+      "samples": 3
+    }
+  ],
+  "scene_families": {
+    "quiz_question": {
+      "Evelone_camera": [
+        1276,
+        68,
+        616,
+        540
+      ],
+      "second_camera": [
+        28,
+        72,
+        616,
+        540
+      ],
+      "question_answers": [
+        400,
+        700,
+        1160,
+        340
+      ],
+      "amount": [
+        824,
+        36,
+        270,
+        100
+      ]
+    },
+    "quiz_ladder": {
+      "Evelone_camera_approx": [
+        1280,
+        250,
+        616,
+        470
+      ],
+      "second_camera_approx": [
+        24,
+        250,
+        616,
+        470
+      ],
+      "ladder_approx": [
+        660,
+        70,
+        600,
+        960
+      ]
+    },
+    "browser": {
+      "late_camera_bottom": [
+        0,
+        596,
+        504,
+        280
+      ],
+      "late_camera_top": [
+        0,
+        0,
+        504,
+        280
+      ],
+      "rest": "Webpages, third-party video and potential banners; exclude unless the episode needs the product itself"
+    },
+    "gameplay": {
+      "Evelone_camera": [
+        0,
+        0,
+        504,
+        280
+      ],
+      "selected_action": [
+        600,
+        60,
+        900,
+        624
+      ]
+    },
+    "watching_video": {
+      "Evelone_camera": [
+        0,
+        0,
+        504,
+        280
+      ],
+      "external_video": "Not selected as a standalone Evelone story"
+    },
+    "black_canvas_camera": {
+      "note": "Camera position and scale vary. Remove moving-camera introduction in 17c; retained interval uses [0,596,504,280]."
+    }
+  },
+  "render_validated_intervals": [
+    {
+      "clip_id": "BATCH_05b",
+      "start_ms": 2929120,
+      "end_ms": 2930910,
+      "source_regions": [
+        [
+          1320,
+          300,
+          540,
+          404
+        ],
+        [
+          38,
+          300,
+          540,
+          404
+        ]
+      ],
+      "output_places_720x1280": [
+        [
+          0,
+          0,
+          720,
+          538
+        ],
+        [
+          0,
+          742,
+          720,
+          538
+        ]
+      ],
+      "masks_720x1280": [
+        [
+          602,
+          1132,
+          118,
+          98
+        ],
+        [
+          578,
+          1212,
+          142,
+          68
+        ]
+      ],
+      "validation": "Targeted HQ source contacts and finished MP4 controls"
+    },
+    {
+      "clip_id": "BATCH_05b",
+      "start_ms": 2932260,
+      "end_ms": 2934550,
+      "source_regions": [
+        [
+          1320,
+          300,
+          540,
+          404
+        ],
+        [
+          38,
+          300,
+          540,
+          404
+        ]
+      ],
+      "output_places_720x1280": [
+        [
+          0,
+          0,
+          720,
+          538
+        ],
+        [
+          0,
+          742,
+          720,
+          538
+        ]
+      ],
+      "masks_720x1280": [
+        [
+          602,
+          1132,
+          118,
+          98
+        ],
+        [
+          578,
+          1212,
+          142,
+          68
+        ]
+      ],
+      "validation": "Targeted HQ source contacts and finished MP4 controls"
+    },
+    {
+      "clip_id": "BATCH_05b",
+      "start_ms": 2936500,
+      "end_ms": 2938430,
+      "source_regions": [
+        [
+          1320,
+          300,
+          540,
+          404
+        ],
+        [
+          38,
+          300,
+          540,
+          404
+        ]
+      ],
+      "output_places_720x1280": [
+        [
+          0,
+          0,
+          720,
+          538
+        ],
+        [
+          0,
+          742,
+          720,
+          538
+        ]
+      ],
+      "masks_720x1280": [
+        [
+          602,
+          1132,
+          118,
+          98
+        ],
+        [
+          578,
+          1212,
+          142,
+          68
+        ]
+      ],
+      "validation": "Targeted HQ source contacts and finished MP4 controls"
+    },
+    {
+      "clip_id": "BATCH_05b",
+      "start_ms": 2940560,
+      "end_ms": 2943450,
+      "source_regions": [
+        [
+          1320,
+          300,
+          540,
+          404
+        ],
+        [
+          38,
+          300,
+          540,
+          404
+        ]
+      ],
+      "output_places_720x1280": [
+        [
+          0,
+          0,
+          720,
+          538
+        ],
+        [
+          0,
+          742,
+          720,
+          538
+        ]
+      ],
+      "masks_720x1280": [
+        [
+          602,
+          1132,
+          118,
+          98
+        ],
+        [
+          578,
+          1212,
+          142,
+          68
+        ]
+      ],
+      "validation": "Targeted HQ source contacts and finished MP4 controls"
+    },
+    {
+      "clip_id": "BATCH_05c",
+      "start_ms": 2975130,
+      "end_ms": 2977030,
+      "source_regions": [
+        [
+          1286,
+          140,
+          540,
+          404
+        ],
+        [
+          752,
+          276,
+          420,
+          140
+        ],
+        [
+          60,
+          300,
+          540,
+          404
+        ]
+      ],
+      "output_places_720x1280": [
+        [
+          0,
+          0,
+          720,
+          538
+        ],
+        [
+          48,
+          540,
+          300,
+          100
+        ],
+        [
+          0,
+          742,
+          720,
+          538
+        ]
+      ],
+      "masks_720x1280": [
+        [
+          604,
+          940,
+          116,
+          212
+        ]
+      ],
+      "validation": "Targeted HQ source contacts and finished MP4 controls"
+    },
+    {
+      "clip_id": "BATCH_05c",
+      "start_ms": 2977030,
+      "end_ms": 2977910,
+      "source_regions": [
+        [
+          1286,
+          140,
+          540,
+          404
+        ],
+        [
+          752,
+          276,
+          420,
+          140
+        ],
+        [
+          60,
+          300,
+          540,
+          404
+        ]
+      ],
+      "output_places_720x1280": [
+        [
+          0,
+          0,
+          720,
+          538
+        ],
+        [
+          48,
+          540,
+          300,
+          100
+        ],
+        [
+          0,
+          742,
+          720,
+          538
+        ]
+      ],
+      "masks_720x1280": [
+        [
+          604,
+          940,
+          116,
+          212
+        ],
+        [
+          48,
+          540,
+          300,
+          100
+        ]
+      ],
+      "validation": "Targeted HQ source contacts and finished MP4 controls"
+    },
+    {
+      "clip_id": "BATCH_05c",
+      "start_ms": 2978870,
+      "end_ms": 2981050,
+      "source_regions": [
+        [
+          1286,
+          140,
+          540,
+          404
+        ],
+        [
+          752,
+          276,
+          420,
+          140
+        ],
+        [
+          60,
+          300,
+          540,
+          404
+        ]
+      ],
+      "output_places_720x1280": [
+        [
+          0,
+          0,
+          720,
+          538
+        ],
+        [
+          48,
+          540,
+          300,
+          100
+        ],
+        [
+          0,
+          742,
+          720,
+          538
+        ]
+      ],
+      "masks_720x1280": [
+        [
+          604,
+          940,
+          116,
+          212
+        ],
+        [
+          48,
+          540,
+          300,
+          100
+        ]
+      ],
+      "validation": "Targeted HQ source contacts and finished MP4 controls"
+    },
+    {
+      "clip_id": "BATCH_05c",
+      "start_ms": 2981800,
+      "end_ms": 2985310,
+      "source_regions": [
+        [
+          1286,
+          140,
+          540,
+          404
+        ],
+        [
+          752,
+          276,
+          420,
+          140
+        ],
+        [
+          60,
+          300,
+          540,
+          404
+        ]
+      ],
+      "output_places_720x1280": [
+        [
+          0,
+          0,
+          720,
+          538
+        ],
+        [
+          48,
+          540,
+          300,
+          100
+        ],
+        [
+          0,
+          742,
+          720,
+          538
+        ]
+      ],
+      "masks_720x1280": [
+        [
+          604,
+          940,
+          116,
+          212
+        ],
+        [
+          48,
+          540,
+          300,
+          100
+        ]
+      ],
+      "validation": "Targeted HQ source contacts and finished MP4 controls"
+    },
+    {
+      "clip_id": "BATCH_10c",
+      "start_ms": 6779040,
+      "end_ms": 6786420,
+      "source_regions": [
+        [
+          1286,
+          140,
+          540,
+          404
+        ],
+        [
+          60,
+          300,
+          540,
+          404
+        ]
+      ],
+      "output_places_720x1280": [
+        [
+          0,
+          0,
+          720,
+          538
+        ],
+        [
+          0,
+          742,
+          720,
+          538
+        ]
+      ],
+      "masks_720x1280": [
+        [
+          650,
+          962,
+          70,
+          90
+        ],
+        [
+          626,
+          1048,
+          94,
+          90
+        ]
+      ],
+      "validation": "Targeted HQ source contacts and finished MP4 controls"
+    },
+    {
+      "clip_id": "BATCH_10c",
+      "start_ms": 6786420,
+      "end_ms": 6790780,
+      "source_regions": [
+        [
+          1286,
+          140,
+          540,
+          404
+        ],
+        [
+          60,
+          300,
+          540,
+          404
+        ]
+      ],
+      "output_places_720x1280": [
+        [
+          0,
+          0,
+          720,
+          538
+        ],
+        [
+          0,
+          742,
+          720,
+          538
+        ]
+      ],
+      "masks_720x1280": [
+        [
+          650,
+          962,
+          70,
+          90
+        ],
+        [
+          626,
+          1048,
+          94,
+          90
+        ]
+      ],
+      "validation": "Targeted HQ source contacts and finished MP4 controls"
+    },
+    {
+      "clip_id": "BATCH_10d",
+      "start_ms": 6833500,
+      "end_ms": 6835840,
+      "source_regions": [
+        [
+          1286,
+          140,
+          540,
+          404
+        ],
+        [
+          60,
+          300,
+          540,
+          404
+        ]
+      ],
+      "output_places_720x1280": [
+        [
+          0,
+          0,
+          720,
+          538
+        ],
+        [
+          0,
+          742,
+          720,
+          538
+        ]
+      ],
+      "masks_720x1280": [
+        [
+          650,
+          962,
+          70,
+          90
+        ],
+        [
+          626,
+          1048,
+          94,
+          90
+        ]
+      ],
+      "validation": "Targeted HQ source contacts and finished MP4 controls"
+    },
+    {
+      "clip_id": "BATCH_10d",
+      "start_ms": 6839680,
+      "end_ms": 6842460,
+      "source_regions": [
+        [
+          1286,
+          140,
+          540,
+          404
+        ],
+        [
+          60,
+          300,
+          540,
+          404
+        ]
+      ],
+      "output_places_720x1280": [
+        [
+          0,
+          0,
+          720,
+          538
+        ],
+        [
+          0,
+          742,
+          720,
+          538
+        ]
+      ],
+      "masks_720x1280": [
+        [
+          650,
+          962,
+          70,
+          90
+        ],
+        [
+          626,
+          1048,
+          94,
+          90
+        ]
+      ],
+      "validation": "Targeted HQ source contacts and finished MP4 controls"
+    },
+    {
+      "clip_id": "BATCH_17c",
+      "start_ms": 11208200,
+      "end_ms": 11219350,
+      "source_regions": [
+        [
+          104,
+          596,
+          280,
+          280
+        ]
+      ],
+      "output_places_720x1280": [
+        [
+          40,
+          180,
+          540,
+          540
+        ]
+      ],
+      "masks_720x1280": [],
+      "validation": "Targeted HQ source contacts and finished MP4 controls"
+    },
+    {
+      "clip_id": "BATCH_17d",
+      "start_ms": 11301340,
+      "end_ms": 11302340,
+      "source_regions": [
+        [
+          0,
+          596,
+          504,
+          280
+        ],
+        [
+          240,
+          626,
+          250,
+          250
+        ]
+      ],
+      "output_places_720x1280": [
+        [
+          40,
+          180,
+          540,
+          300
+        ],
+        [
+          48,
+          540,
+          360,
+          360
+        ]
+      ],
+      "masks_720x1280": [],
+      "validation": "Targeted HQ source contacts and finished MP4 controls"
+    },
+    {
+      "clip_id": "BATCH_17d",
+      "start_ms": 11272310,
+      "end_ms": 11274590,
+      "source_regions": [
+        [
+          0,
+          596,
+          504,
+          280
+        ],
+        [
+          240,
+          626,
+          250,
+          250
+        ]
+      ],
+      "output_places_720x1280": [
+        [
+          40,
+          180,
+          540,
+          300
+        ],
+        [
+          48,
+          540,
+          360,
+          360
+        ]
+      ],
+      "masks_720x1280": [],
+      "validation": "Targeted HQ source contacts and finished MP4 controls"
+    },
+    {
+      "clip_id": "BATCH_17d",
+      "start_ms": 11298110,
+      "end_ms": 11299470,
+      "source_regions": [
+        [
+          0,
+          596,
+          504,
+          280
+        ],
+        [
+          240,
+          626,
+          250,
+          250
+        ]
+      ],
+      "output_places_720x1280": [
+        [
+          40,
+          180,
+          540,
+          300
+        ],
+        [
+          48,
+          540,
+          360,
+          360
+        ]
+      ],
+      "masks_720x1280": [],
+      "validation": "Targeted HQ source contacts and finished MP4 controls"
+    },
+    {
+      "clip_id": "BATCH_17d",
+      "start_ms": 11308940,
+      "end_ms": 11310530,
+      "source_regions": [
+        [
+          0,
+          596,
+          504,
+          280
+        ],
+        [
+          240,
+          626,
+          250,
+          250
+        ]
+      ],
+      "output_places_720x1280": [
+        [
+          40,
+          180,
+          540,
+          300
+        ],
+        [
+          48,
+          540,
+          360,
+          360
+        ]
+      ],
+      "masks_720x1280": [],
+      "validation": "Targeted HQ source contacts and finished MP4 controls"
+    },
+    {
+      "clip_id": "BATCH_17e",
+      "start_ms": 11465430,
+      "end_ms": 11469800,
+      "source_regions": [
+        [
+          104,
+          596,
+          280,
+          280
+        ]
+      ],
+      "output_places_720x1280": [
+        [
+          40,
+          180,
+          540,
+          540
+        ]
+      ],
+      "masks_720x1280": [],
+      "validation": "Targeted HQ source contacts and finished MP4 controls"
+    },
+    {
+      "clip_id": "BATCH_17e",
+      "start_ms": 11473910,
+      "end_ms": 11479670,
+      "source_regions": [
+        [
+          104,
+          596,
+          280,
+          280
+        ]
+      ],
+      "output_places_720x1280": [
+        [
+          40,
+          180,
+          540,
+          540
+        ]
+      ],
+      "masks_720x1280": [],
+      "validation": "Targeted HQ source contacts and finished MP4 controls"
+    },
+    {
+      "clip_id": "BATCH_17e",
+      "start_ms": 11482380,
+      "end_ms": 11484120,
+      "source_regions": [
+        [
+          104,
+          596,
+          280,
+          280
+        ]
+      ],
+      "output_places_720x1280": [
+        [
+          40,
+          180,
+          540,
+          540
+        ]
+      ],
+      "masks_720x1280": [],
+      "validation": "Targeted HQ source contacts and finished MP4 controls"
+    },
+    {
+      "clip_id": "BATCH_18a",
+      "start_ms": 11518180,
+      "end_ms": 11519750,
+      "source_regions": [
+        [
+          0,
+          596,
+          504,
+          280
+        ],
+        [
+          510,
+          320,
+          400,
+          500
+        ],
+        [
+          950,
+          412,
+          88,
+          24
+        ]
+      ],
+      "output_places_720x1280": [
+        [
+          40,
+          180,
+          540,
+          300
+        ],
+        [
+          48,
+          620,
+          224,
+          280
+        ],
+        [
+          300,
+          620,
+          176,
+          48
+        ]
+      ],
+      "masks_720x1280": [
+        [
+          48,
+          620,
+          224,
+          280
+        ],
+        [
+          300,
+          620,
+          176,
+          48
+        ]
+      ],
+      "validation": "Targeted HQ source contacts and finished MP4 controls"
+    },
+    {
+      "clip_id": "BATCH_18a",
+      "start_ms": 11535400,
+      "end_ms": 11539400,
+      "source_regions": [
+        [
+          0,
+          596,
+          504,
+          280
+        ],
+        [
+          760,
+          380,
+          480,
+          600
+        ],
+        [
+          950,
+          412,
+          88,
+          24
+        ]
+      ],
+      "output_places_720x1280": [
+        [
+          40,
+          180,
+          540,
+          300
+        ],
+        [
+          48,
+          620,
+          224,
+          280
+        ],
+        [
+          300,
+          620,
+          176,
+          48
+        ]
+      ],
+      "masks_720x1280": [
+        [
+          48,
+          620,
+          224,
+          280
+        ],
+        [
+          300,
+          620,
+          176,
+          48
+        ]
+      ],
+      "validation": "Targeted HQ source contacts and finished MP4 controls"
+    },
+    {
+      "clip_id": "BATCH_18a",
+      "start_ms": 11605500,
+      "end_ms": 11607600,
+      "source_regions": [
+        [
+          0,
+          596,
+          504,
+          280
+        ],
+        [
+          510,
+          320,
+          400,
+          500
+        ],
+        [
+          950,
+          412,
+          88,
+          24
+        ]
+      ],
+      "output_places_720x1280": [
+        [
+          40,
+          180,
+          540,
+          300
+        ],
+        [
+          48,
+          620,
+          224,
+          280
+        ],
+        [
+          300,
+          620,
+          176,
+          48
+        ]
+      ],
+      "masks_720x1280": [],
+      "validation": "Targeted HQ source contacts and finished MP4 controls"
+    },
+    {
+      "clip_id": "BATCH_18b",
+      "start_ms": 11781420,
+      "end_ms": 11790300,
+      "source_regions": [
+        [
+          104,
+          0,
+          280,
+          280
+        ]
+      ],
+      "output_places_720x1280": [
+        [
+          40,
+          180,
+          540,
+          540
+        ]
+      ],
+      "masks_720x1280": [],
+      "validation": "Targeted HQ source contacts and finished MP4 controls"
+    },
+    {
+      "clip_id": "BATCH_18d",
+      "start_ms": 11907490,
+      "end_ms": 11913270,
+      "source_regions": [
+        [
+          104,
+          0,
+          280,
+          280
+        ]
+      ],
+      "output_places_720x1280": [
+        [
+          40,
+          180,
+          540,
+          540
+        ]
+      ],
+      "masks_720x1280": [],
+      "validation": "Targeted HQ source contacts and finished MP4 controls"
+    },
+    {
+      "clip_id": "BATCH_18d",
+      "start_ms": 11960100,
+      "end_ms": 11972980,
+      "source_regions": [
+        [
+          104,
+          0,
+          280,
+          280
+        ]
+      ],
+      "output_places_720x1280": [
+        [
+          40,
+          180,
+          540,
+          540
+        ]
+      ],
+      "masks_720x1280": [],
+      "validation": "Targeted HQ source contacts and finished MP4 controls"
+    },
+    {
+      "clip_id": "BATCH_18e",
+      "start_ms": 12169020,
+      "end_ms": 12174980,
+      "source_regions": [
+        [
+          0,
+          0,
+          504,
+          280
+        ],
+        [
+          600,
+          60,
+          900,
+          624
+        ]
+      ],
+      "output_places_720x1280": [
+        [
+          40,
+          180,
+          540,
+          300
+        ],
+        [
+          48,
+          530,
+          600,
+          416
+        ]
+      ],
+      "masks_720x1280": [],
+      "validation": "Targeted HQ source contacts and finished MP4 controls"
+    },
+    {
+      "clip_id": "BATCH_19e",
+      "start_ms": 12919250,
+      "end_ms": 12923830,
+      "source_regions": [
+        [
+          104,
+          0,
+          280,
+          280
+        ]
+      ],
+      "output_places_720x1280": [
+        [
+          40,
+          180,
+          540,
+          540
+        ]
+      ],
+      "masks_720x1280": [],
+      "validation": "Targeted HQ source contacts and finished MP4 controls"
+    },
+    {
+      "clip_id": "BATCH_19e",
+      "start_ms": 12923830,
+      "end_ms": 12934100,
+      "source_regions": [
+        [
+          104,
+          0,
+          280,
+          280
+        ]
+      ],
+      "output_places_720x1280": [
+        [
+          40,
+          180,
+          540,
+          540
+        ]
+      ],
+      "masks_720x1280": [],
+      "validation": "Targeted HQ source contacts and finished MP4 controls"
+    }
+  ],
+  "moving_object": {
+    "episode": "17d",
+    "whole_camera": [
+      0,
+      596,
+      504,
+      280
+    ],
+    "detail_crop": [
+      240,
+      626,
+      250,
+      250
+    ],
+    "focus": "Full phone and both hands in upper context view; active preview field in lower detail view",
+    "dense_finished_video_review": "42 prepared frames across 6.23 seconds, including every 0.2 second and cuts"
+  },
+  "third_person_layout": "No selected story with three visible participants. Third phone-call voice in quiz does not imply a third camera.",
+  "scope": "Whole-duration sparse visual survey, extra contacts around RGB changes, detailed checks only in selected source ranges. No claim of continuous full-VOD visual/audio viewing."
+}

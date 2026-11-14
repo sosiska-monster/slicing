@@ -1,0 +1,295 @@
+{
+  "draft": {
+    "schema_version": 1,
+    "vod_id": "2876630043",
+    "clip_id": "PUB_18e",
+    "source_segments_ms": [
+      [
+        11989350,
+        11992100
+      ],
+      [
+        12169020,
+        12174980
+      ]
+    ],
+    "words": [
+      {
+        "id": "w001",
+        "segment": 1,
+        "start_ms": 0,
+        "end_ms": 280,
+        "text": "А"
+      },
+      {
+        "id": "w002",
+        "segment": 1,
+        "start_ms": 280,
+        "end_ms": 460,
+        "text": "как"
+      },
+      {
+        "id": "w003",
+        "segment": 1,
+        "start_ms": 460,
+        "end_ms": 700,
+        "text": "это?"
+      },
+      {
+        "id": "w004",
+        "segment": 1,
+        "start_ms": 1060,
+        "end_ms": 1420,
+        "text": "Бля,"
+      },
+      {
+        "id": "w005",
+        "segment": 1,
+        "start_ms": 1540,
+        "end_ms": 1620,
+        "text": "как"
+      },
+      {
+        "id": "w006",
+        "segment": 1,
+        "start_ms": 1620,
+        "end_ms": 1840,
+        "text": "это"
+      },
+      {
+        "id": "w007",
+        "segment": 1,
+        "start_ms": 1840,
+        "end_ms": 2420,
+        "text": "делается?"
+      },
+      {
+        "id": "w008",
+        "segment": 2,
+        "start_ms": 4360,
+        "end_ms": 4940,
+        "text": "И"
+      },
+      {
+        "id": "w009",
+        "segment": 2,
+        "start_ms": 4940,
+        "end_ms": 5060,
+        "text": "он"
+      },
+      {
+        "id": "w010",
+        "segment": 2,
+        "start_ms": 5060,
+        "end_ms": 5420,
+        "text": "терется!"
+      },
+      {
+        "id": "w011",
+        "segment": 2,
+        "start_ms": 5560,
+        "end_ms": 5880,
+        "text": "И"
+      },
+      {
+        "id": "w012",
+        "segment": 2,
+        "start_ms": 5880,
+        "end_ms": 5980,
+        "text": "он"
+      },
+      {
+        "id": "w013",
+        "segment": 2,
+        "start_ms": 5980,
+        "end_ms": 6300,
+        "text": "дерется"
+      },
+      {
+        "id": "w014",
+        "segment": 2,
+        "start_ms": 6300,
+        "end_ms": 6540,
+        "text": "здесь"
+      },
+      {
+        "id": "w015",
+        "segment": 2,
+        "start_ms": 6540,
+        "end_ms": 6840,
+        "text": "еду!"
+      },
+      {
+        "id": "w016",
+        "segment": 2,
+        "start_ms": 7840,
+        "end_ms": 8420,
+        "text": "Бля!"
+      }
+    ]
+  },
+  "edits": {
+    "schema_version": 1,
+    "editor": "Sol",
+    "model": "gpt-6.1-sol",
+    "draft_sha256": "cf12a6e507f9c175b04e4cec11f78ba8d5ee030265df1077041a8468959b4ec5",
+    "edits": [
+      {
+        "word_ids": [
+          "w010"
+        ],
+        "text": "дерётся!"
+      },
+      {
+        "word_ids": [
+          "w013"
+        ],
+        "text": "дерётся"
+      },
+      {
+        "word_ids": [
+          "w014"
+        ],
+        "text": "здесь."
+      },
+      {
+        "word_ids": [
+          "w015"
+        ],
+        "text": ""
+      }
+    ],
+    "uncertain": [
+      {
+        "word_ids": [
+          "w015"
+        ],
+        "note": "Фрагмент после «здесь» расходится в черновиках и снят с титров."
+      }
+    ]
+  },
+  "draft_sha256": "cf12a6e507f9c175b04e4cec11f78ba8d5ee030265df1077041a8468959b4ec5",
+  "edits_sha256": "18b81a6c721085944336aba0e75ff27810a39ba486e0df44d916c2e3c05bf48f",
+  "source_items": [
+    {
+      "start_ms": 11989350,
+      "end_ms": 11989630,
+      "text": "А",
+      "source_word_ids": [
+        "w001"
+      ]
+    },
+    {
+      "start_ms": 11989630,
+      "end_ms": 11989810,
+      "text": "как",
+      "source_word_ids": [
+        "w002"
+      ]
+    },
+    {
+      "start_ms": 11989810,
+      "end_ms": 11990050,
+      "text": "это?",
+      "source_word_ids": [
+        "w003"
+      ]
+    },
+    {
+      "start_ms": 11990410,
+      "end_ms": 11990770,
+      "text": "Бля,",
+      "source_word_ids": [
+        "w004"
+      ]
+    },
+    {
+      "start_ms": 11990890,
+      "end_ms": 11990970,
+      "text": "как",
+      "source_word_ids": [
+        "w005"
+      ]
+    },
+    {
+      "start_ms": 11990970,
+      "end_ms": 11991190,
+      "text": "это",
+      "source_word_ids": [
+        "w006"
+      ]
+    },
+    {
+      "start_ms": 11991190,
+      "end_ms": 11991770,
+      "text": "делается?",
+      "source_word_ids": [
+        "w007"
+      ]
+    },
+    {
+      "start_ms": 12170630,
+      "end_ms": 12171210,
+      "text": "И",
+      "source_word_ids": [
+        "w008"
+      ]
+    },
+    {
+      "start_ms": 12171210,
+      "end_ms": 12171330,
+      "text": "он",
+      "source_word_ids": [
+        "w009"
+      ]
+    },
+    {
+      "start_ms": 12171330,
+      "end_ms": 12171690,
+      "text": "дерётся!",
+      "source_word_ids": [
+        "w010"
+      ]
+    },
+    {
+      "start_ms": 12171830,
+      "end_ms": 12172150,
+      "text": "И",
+      "source_word_ids": [
+        "w011"
+      ]
+    },
+    {
+      "start_ms": 12172150,
+      "end_ms": 12172250,
+      "text": "он",
+      "source_word_ids": [
+        "w012"
+      ]
+    },
+    {
+      "start_ms": 12172250,
+      "end_ms": 12172570,
+      "text": "дерётся",
+      "source_word_ids": [
+        "w013"
+      ]
+    },
+    {
+      "start_ms": 12172570,
+      "end_ms": 12172810,
+      "text": "здесь.",
+      "source_word_ids": [
+        "w014"
+      ]
+    },
+    {
+      "start_ms": 12174110,
+      "end_ms": 12174690,
+      "text": "Бля!",
+      "source_word_ids": [
+        "w016"
+      ]
+    }
+  ]
+}

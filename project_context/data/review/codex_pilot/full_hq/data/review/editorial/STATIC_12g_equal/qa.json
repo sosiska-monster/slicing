@@ -1,0 +1,770 @@
+{
+  "ffprobe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1080,
+        "height": 1920,
+        "sample_aspect_ratio": "1:1",
+        "r_frame_rate": "30/1",
+        "start_time": "0.000000",
+        "duration": "22.733333",
+        "nb_frames": "682"
+      },
+      {
+        "codec_name": "aac",
+        "codec_type": "audio",
+        "sample_rate": "48000",
+        "channels": 2,
+        "r_frame_rate": "0/0",
+        "start_time": "0.000000",
+        "duration": "22.740000",
+        "nb_frames": "1067"
+      }
+    ],
+    "format": {
+      "duration": "22.740000",
+      "size": "13484420"
+    }
+  },
+  "full_decode": true,
+  "camera_size_px": [
+    1080,
+    808
+  ],
+  "camera_height_percent": 42.08333,
+  "center_height_px": 304,
+  "places": {
+    "main": [
+      0,
+      0,
+      1080,
+      808
+    ],
+    "question": [
+      72,
+      810,
+      540,
+      72
+    ],
+    "amount": [
+      636,
+      810,
+      216,
+      72
+    ],
+    "answer": [
+      72,
+      882,
+      720,
+      84
+    ],
+    "secondary": [
+      0,
+      1112,
+      1080,
+      808
+    ]
+  },
+  "pixel_boundaries_checked": [
+    {
+      "frame": 18,
+      "camera_pixel_matches": {
+        "main": {
+          "whole_grid_mae": 1.723,
+          "perimeter_mae": 2.922,
+          "source_frame_ms": 8092782.667
+        },
+        "secondary": {
+          "whole_grid_mae": 1.262,
+          "perimeter_mae": 1.427,
+          "source_frame_ms": 8092782.667
+        }
+      }
+    },
+    {
+      "frame": 51,
+      "camera_pixel_matches": {
+        "main": {
+          "whole_grid_mae": 1.729,
+          "perimeter_mae": 3.194,
+          "source_frame_ms": 8093882.667
+        },
+        "secondary": {
+          "whole_grid_mae": 1.311,
+          "perimeter_mae": 1.439,
+          "source_frame_ms": 8093882.667
+        }
+      }
+    },
+    {
+      "frame": 52,
+      "camera_pixel_matches": {
+        "main": {
+          "whole_grid_mae": 1.575,
+          "perimeter_mae": 3.067,
+          "source_frame_ms": 8080732.667
+        },
+        "secondary": {
+          "whole_grid_mae": 1.2,
+          "perimeter_mae": 1.199,
+          "source_frame_ms": 8080732.667
+        }
+      }
+    },
+    {
+      "frame": 78,
+      "camera_pixel_matches": {
+        "main": {
+          "whole_grid_mae": 1.72,
+          "perimeter_mae": 3.077,
+          "source_frame_ms": 8081599.667
+        },
+        "secondary": {
+          "whole_grid_mae": 1.294,
+          "perimeter_mae": 1.292,
+          "source_frame_ms": 8081599.667
+        }
+      }
+    },
+    {
+      "frame": 132,
+      "camera_pixel_matches": {
+        "main": {
+          "whole_grid_mae": 1.751,
+          "perimeter_mae": 3.038,
+          "source_frame_ms": 8083399.667
+        },
+        "secondary": {
+          "whole_grid_mae": 1.379,
+          "perimeter_mae": 1.434,
+          "source_frame_ms": 8083399.667
+        }
+      }
+    },
+    {
+      "frame": 133,
+      "camera_pixel_matches": {
+        "main": {
+          "whole_grid_mae": 1.532,
+          "perimeter_mae": 2.916,
+          "source_frame_ms": 8086032.667
+        },
+        "secondary": {
+          "whole_grid_mae": 1.11,
+          "perimeter_mae": 1.356,
+          "source_frame_ms": 8086032.667
+        }
+      }
+    },
+    {
+      "frame": 195,
+      "camera_pixel_matches": {
+        "main": {
+          "whole_grid_mae": 1.622,
+          "perimeter_mae": 2.842,
+          "source_frame_ms": 8088099.667
+        },
+        "secondary": {
+          "whole_grid_mae": 1.287,
+          "perimeter_mae": 1.322,
+          "source_frame_ms": 8088099.667
+        }
+      }
+    },
+    {
+      "frame": 240,
+      "camera_pixel_matches": {
+        "main": {
+          "whole_grid_mae": 1.717,
+          "perimeter_mae": 2.944,
+          "source_frame_ms": 8089599.667
+        },
+        "secondary": {
+          "whole_grid_mae": 1.307,
+          "perimeter_mae": 1.284,
+          "source_frame_ms": 8089599.667
+        }
+      }
+    },
+    {
+      "frame": 279,
+      "camera_pixel_matches": {
+        "main": {
+          "whole_grid_mae": 1.801,
+          "perimeter_mae": 2.923,
+          "source_frame_ms": 8090899.667
+        },
+        "secondary": {
+          "whole_grid_mae": 1.396,
+          "perimeter_mae": 1.432,
+          "source_frame_ms": 8090899.667
+        }
+      }
+    },
+    {
+      "frame": 280,
+      "camera_pixel_matches": {
+        "main": {
+          "whole_grid_mae": 1.755,
+          "perimeter_mae": 3.004,
+          "source_frame_ms": 8129649.667
+        },
+        "secondary": {
+          "whole_grid_mae": 1.143,
+          "perimeter_mae": 1.34,
+          "source_frame_ms": 8129649.667
+        }
+      }
+    },
+    {
+      "frame": 434,
+      "camera_pixel_matches": {
+        "main": {
+          "whole_grid_mae": 1.755,
+          "perimeter_mae": 2.934,
+          "source_frame_ms": 8134782.667
+        },
+        "secondary": {
+          "whole_grid_mae": 1.207,
+          "perimeter_mae": 1.535,
+          "source_frame_ms": 8134782.667
+        }
+      }
+    },
+    {
+      "frame": 444,
+      "camera_pixel_matches": {
+        "main": {
+          "whole_grid_mae": 1.839,
+          "perimeter_mae": 2.974,
+          "source_frame_ms": 8135132.667
+        },
+        "secondary": {
+          "whole_grid_mae": 1.297,
+          "perimeter_mae": 1.549,
+          "source_frame_ms": 8135132.667
+        }
+      }
+    },
+    {
+      "frame": 445,
+      "camera_pixel_matches": {
+        "main": {
+          "whole_grid_mae": 1.783,
+          "perimeter_mae": 2.942,
+          "source_frame_ms": 8135682.667
+        },
+        "secondary": {
+          "whole_grid_mae": 1.244,
+          "perimeter_mae": 1.446,
+          "source_frame_ms": 8135682.667
+        }
+      }
+    },
+    {
+      "frame": 606,
+      "camera_pixel_matches": {
+        "main": {
+          "whole_grid_mae": 1.836,
+          "perimeter_mae": 3.053,
+          "source_frame_ms": 8141049.667
+        },
+        "secondary": {
+          "whole_grid_mae": 1.322,
+          "perimeter_mae": 1.595,
+          "source_frame_ms": 8141049.667
+        }
+      }
+    }
+  ],
+  "face_samples": [
+    {
+      "frame": 18,
+      "time_ms": 600.0,
+      "label": "hook_D_blue",
+      "faces": {
+        "Evelone_face": {
+          "projected_box": [
+            217,
+            526,
+            319,
+            258
+          ],
+          "visible_box": [
+            217,
+            526,
+            319,
+            258
+          ],
+          "cropped_percent": 0.0,
+          "ui_overlap": {
+            "TikTok": {
+              "total_percent": 0.0,
+              "elements": {}
+            },
+            "Shorts": {
+              "total_percent": 0.0,
+              "elements": {}
+            }
+          }
+        },
+        "Exile_face": {
+          "projected_box": [
+            408,
+            1176,
+            275,
+            272
+          ],
+          "visible_box": [
+            408,
+            1176,
+            275,
+            272
+          ],
+          "cropped_percent": 0.0,
+          "ui_overlap": {
+            "TikTok": {
+              "total_percent": 0.0,
+              "elements": {}
+            },
+            "Shorts": {
+              "total_percent": 0.0,
+              "elements": {}
+            }
+          }
+        }
+      }
+    },
+    {
+      "frame": 78,
+      "time_ms": 2600.0,
+      "label": "question",
+      "faces": {
+        "Evelone_face": {
+          "projected_box": [
+            148,
+            499,
+            327,
+            251
+          ],
+          "visible_box": [
+            148,
+            499,
+            327,
+            251
+          ],
+          "cropped_percent": 0.0,
+          "ui_overlap": {
+            "TikTok": {
+              "total_percent": 0.0,
+              "elements": {}
+            },
+            "Shorts": {
+              "total_percent": 0.0,
+              "elements": {}
+            }
+          }
+        },
+        "Exile_face": {
+          "projected_box": [
+            317,
+            1237,
+            299,
+            302
+          ],
+          "visible_box": [
+            317,
+            1237,
+            299,
+            302
+          ],
+          "cropped_percent": 0.0,
+          "ui_overlap": {
+            "TikTok": {
+              "total_percent": 0.0,
+              "elements": {}
+            },
+            "Shorts": {
+              "total_percent": 0.0,
+              "elements": {}
+            }
+          }
+        }
+      }
+    },
+    {
+      "frame": 195,
+      "time_ms": 6500.0,
+      "label": "read_B",
+      "faces": {
+        "Evelone_face": {
+          "projected_box": [
+            148,
+            492,
+            336,
+            260
+          ],
+          "visible_box": [
+            148,
+            492,
+            336,
+            260
+          ],
+          "cropped_percent": 0.0,
+          "ui_overlap": {
+            "TikTok": {
+              "total_percent": 0.0,
+              "elements": {}
+            },
+            "Shorts": {
+              "total_percent": 0.0,
+              "elements": {}
+            }
+          }
+        },
+        "Exile_face": {
+          "projected_box": [
+            264,
+            1661,
+            448,
+            246
+          ],
+          "visible_box": [
+            264,
+            1661,
+            448,
+            246
+          ],
+          "cropped_percent": 0.0,
+          "ui_overlap": {
+            "TikTok": {
+              "total_percent": 100.0,
+              "elements": {
+                "bottom": 100.0
+              }
+            },
+            "Shorts": {
+              "total_percent": 100.0,
+              "elements": {
+                "bottom": 100.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "frame": 240,
+      "time_ms": 8000.0,
+      "label": "deep_lean",
+      "faces": {
+        "Evelone_face": {
+          "projected_box": [
+            167,
+            518,
+            308,
+            207
+          ],
+          "visible_box": [
+            167,
+            518,
+            308,
+            207
+          ],
+          "cropped_percent": 0.0,
+          "ui_overlap": {
+            "TikTok": {
+              "total_percent": 0.0,
+              "elements": {}
+            },
+            "Shorts": {
+              "total_percent": 0.0,
+              "elements": {}
+            }
+          }
+        },
+        "Exile_face": {
+          "projected_box": [
+            301,
+            1778,
+            382,
+            145
+          ],
+          "visible_box": [
+            301,
+            1778,
+            382,
+            142
+          ],
+          "cropped_percent": 2.07,
+          "ui_overlap": {
+            "TikTok": {
+              "total_percent": 100.0,
+              "elements": {
+                "bottom": 100.0
+              }
+            },
+            "Shorts": {
+              "total_percent": 100.0,
+              "elements": {
+                "bottom": 100.0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "frame": 434,
+      "time_ms": 14466.667,
+      "label": "selected_D_yellow",
+      "faces": {
+        "Evelone_face": {
+          "projected_box": [
+            233,
+            396,
+            338,
+            276
+          ],
+          "visible_box": [
+            233,
+            396,
+            338,
+            276
+          ],
+          "cropped_percent": 0.0,
+          "ui_overlap": {
+            "TikTok": {
+              "total_percent": 0.0,
+              "elements": {}
+            },
+            "Shorts": {
+              "total_percent": 0.0,
+              "elements": {}
+            }
+          }
+        },
+        "Exile_face": {
+          "projected_box": [
+            461,
+            1053,
+            302,
+            347
+          ],
+          "visible_box": [
+            461,
+            1112,
+            302,
+            288
+          ],
+          "cropped_percent": 17.0,
+          "ui_overlap": {
+            "TikTok": {
+              "total_percent": 0.0,
+              "elements": {}
+            },
+            "Shorts": {
+              "total_percent": 0.0,
+              "elements": {}
+            }
+          }
+        }
+      }
+    },
+    {
+      "frame": 606,
+      "time_ms": 20200.0,
+      "label": "confirmed_D_green_75000",
+      "faces": {
+        "Evelone_face": {
+          "projected_box": [
+            231,
+            382,
+            324,
+            276
+          ],
+          "visible_box": [
+            231,
+            382,
+            324,
+            276
+          ],
+          "cropped_percent": 0.0,
+          "ui_overlap": {
+            "TikTok": {
+              "total_percent": 0.0,
+              "elements": {}
+            },
+            "Shorts": {
+              "total_percent": 0.0,
+              "elements": {}
+            }
+          }
+        },
+        "Exile_face": {
+          "projected_box": [
+            250,
+            1229,
+            393,
+            307
+          ],
+          "visible_box": [
+            250,
+            1229,
+            393,
+            307
+          ],
+          "cropped_percent": 0.0,
+          "ui_overlap": {
+            "TikTok": {
+              "total_percent": 0.0,
+              "elements": {}
+            },
+            "Shorts": {
+              "total_percent": 0.0,
+              "elements": {}
+            }
+          }
+        }
+      }
+    }
+  ],
+  "speech": {
+    "same_text_and_times_as_STATIC_12g": true,
+    "subtitle_frames": 345,
+    "bbox_xyxy": [
+      117,
+      975,
+      809,
+      1104
+    ]
+  },
+  "ui": {
+    "kind": "estimate",
+    "source": "https://www.krumzi.com/tools/safe-zone-checker",
+    "screen": {
+      "TikTok": {
+        "question": {
+          "total_percent": 0.0,
+          "elements": {}
+        },
+        "amount": {
+          "total_percent": 0.0,
+          "elements": {}
+        },
+        "answer": {
+          "total_percent": 0.0,
+          "elements": {}
+        }
+      },
+      "Shorts": {
+        "question": {
+          "total_percent": 0.0,
+          "elements": {}
+        },
+        "amount": {
+          "total_percent": 0.0,
+          "elements": {}
+        },
+        "answer": {
+          "total_percent": 0.0,
+          "elements": {}
+        }
+      }
+    }
+  },
+  "audio": {
+    "same_aac_sha256": "SHA256=039753e4af54eb541db5c125026e6f2646a6111cc2e08a1915395b45fb650f3a",
+    "same_pcm_sha256": "SHA256=ec891e408d5155cfbf5cc652bac0390be14d0078301c2bbee8965d44dc335450"
+  },
+  "indexed_hq": {
+    "size": 12535857249,
+    "identical_pts_dts_and_payload": true,
+    "packets": [
+      {
+        "stream": "video",
+        "interval_ms": [
+          8092170,
+          8093900
+        ],
+        "packets": 109
+      },
+      {
+        "stream": "video",
+        "interval_ms": [
+          8080730,
+          8083430
+        ],
+        "packets": 167
+      },
+      {
+        "stream": "video",
+        "interval_ms": [
+          8086030,
+          8090940
+        ],
+        "packets": 299
+      },
+      {
+        "stream": "video",
+        "interval_ms": [
+          8129640,
+          8135140
+        ],
+        "packets": 334
+      },
+      {
+        "stream": "video",
+        "interval_ms": [
+          8135680,
+          8143580
+        ],
+        "packets": 479
+      },
+      {
+        "stream": "audio",
+        "interval_ms": [
+          8092170,
+          8093900
+        ],
+        "packets": 85
+      },
+      {
+        "stream": "audio",
+        "interval_ms": [
+          8080730,
+          8083430
+        ],
+        "packets": 130
+      },
+      {
+        "stream": "audio",
+        "interval_ms": [
+          8086030,
+          8090940
+        ],
+        "packets": 234
+      },
+      {
+        "stream": "audio",
+        "interval_ms": [
+          8129640,
+          8135140
+        ],
+        "packets": 262
+      },
+      {
+        "stream": "audio",
+        "interval_ms": [
+          8135680,
+          8143580
+        ],
+        "packets": 374
+      }
+    ]
+  }
+}

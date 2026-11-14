@@ -1,0 +1,5 @@
+{
+  "editor": "Sol / current Codex editorial pass",
+  "groups": [],
+  "policy": "Remove false repetitions and recognizer noise, keep semantic content. Whole phrases; unknown internal word boundaries not invented."
+}

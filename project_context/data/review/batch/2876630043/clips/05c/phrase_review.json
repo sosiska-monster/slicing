@@ -1,0 +1,34 @@
+{
+  "editor": "Sol / current Codex editorial pass",
+  "groups": [
+    {
+      "start_ms": 2982020,
+      "end_ms": 2983220,
+      "lines": [
+        "Это, по сути,",
+        "чаевые курьеру."
+      ],
+      "source_word_ids": [
+        "w018",
+        "w019",
+        "w020",
+        "w021",
+        "w022"
+      ]
+    },
+    {
+      "start_ms": 2983340,
+      "end_ms": 2985140,
+      "lines": [
+        "Правильно? А, да."
+      ],
+      "source_word_ids": [
+        "w023",
+        "w024",
+        "w025",
+        "w026"
+      ]
+    }
+  ],
+  "policy": "Remove false repetitions and recognizer noise, keep semantic content. Whole phrases; unknown internal word boundaries not invented."
+}

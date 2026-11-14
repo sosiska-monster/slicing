@@ -1,0 +1,325 @@
+{
+  "vod_id": "2876630043",
+  "transcript_cues": 3797,
+  "core_cues_covered": 3797,
+  "completed_blocks": 19,
+  "total_blocks": 19,
+  "overlap_cues_each_side": 15,
+  "blocks": [
+    {
+      "block": 1,
+      "core_cues": [
+        1,
+        200
+      ],
+      "read_cues_with_overlap": [
+        1,
+        215
+      ],
+      "source_core_ms": [
+        17510,
+        754820
+      ],
+      "state": "complete"
+    },
+    {
+      "block": 2,
+      "core_cues": [
+        201,
+        400
+      ],
+      "read_cues_with_overlap": [
+        186,
+        415
+      ],
+      "source_core_ms": [
+        754820,
+        1401980
+      ],
+      "state": "complete"
+    },
+    {
+      "block": 3,
+      "core_cues": [
+        401,
+        600
+      ],
+      "read_cues_with_overlap": [
+        386,
+        615
+      ],
+      "source_core_ms": [
+        1405840,
+        2151350
+      ],
+      "state": "complete"
+    },
+    {
+      "block": 4,
+      "core_cues": [
+        601,
+        800
+      ],
+      "read_cues_with_overlap": [
+        586,
+        815
+      ],
+      "source_core_ms": [
+        2151350,
+        2810210
+      ],
+      "state": "complete"
+    },
+    {
+      "block": 5,
+      "core_cues": [
+        801,
+        1000
+      ],
+      "read_cues_with_overlap": [
+        786,
+        1015
+      ],
+      "source_core_ms": [
+        2811740,
+        3464300
+      ],
+      "state": "complete"
+    },
+    {
+      "block": 6,
+      "core_cues": [
+        1001,
+        1200
+      ],
+      "read_cues_with_overlap": [
+        986,
+        1215
+      ],
+      "source_core_ms": [
+        3464730,
+        4142010
+      ],
+      "state": "complete"
+    },
+    {
+      "block": 7,
+      "core_cues": [
+        1201,
+        1400
+      ],
+      "read_cues_with_overlap": [
+        1186,
+        1415
+      ],
+      "source_core_ms": [
+        4142930,
+        4812460
+      ],
+      "state": "complete"
+    },
+    {
+      "block": 8,
+      "core_cues": [
+        1401,
+        1600
+      ],
+      "read_cues_with_overlap": [
+        1386,
+        1615
+      ],
+      "source_core_ms": [
+        4812460,
+        5512870
+      ],
+      "state": "complete"
+    },
+    {
+      "block": 9,
+      "core_cues": [
+        1601,
+        1800
+      ],
+      "read_cues_with_overlap": [
+        1586,
+        1815
+      ],
+      "source_core_ms": [
+        5514790,
+        6292540
+      ],
+      "state": "complete"
+    },
+    {
+      "block": 10,
+      "core_cues": [
+        1801,
+        2000
+      ],
+      "read_cues_with_overlap": [
+        1786,
+        2015
+      ],
+      "source_core_ms": [
+        6292790,
+        6927900
+      ],
+      "state": "complete"
+    },
+    {
+      "block": 11,
+      "core_cues": [
+        2001,
+        2200
+      ],
+      "read_cues_with_overlap": [
+        1986,
+        2215
+      ],
+      "source_core_ms": [
+        6927980,
+        7556920
+      ],
+      "state": "complete"
+    },
+    {
+      "block": 12,
+      "core_cues": [
+        2201,
+        2400
+      ],
+      "read_cues_with_overlap": [
+        2186,
+        2415
+      ],
+      "source_core_ms": [
+        7556920,
+        8181920
+      ],
+      "state": "complete"
+    },
+    {
+      "block": 13,
+      "core_cues": [
+        2401,
+        2600
+      ],
+      "read_cues_with_overlap": [
+        2386,
+        2615
+      ],
+      "source_core_ms": [
+        8181920,
+        8833750
+      ],
+      "state": "complete"
+    },
+    {
+      "block": 14,
+      "core_cues": [
+        2601,
+        2800
+      ],
+      "read_cues_with_overlap": [
+        2586,
+        2815
+      ],
+      "source_core_ms": [
+        8833750,
+        9481900
+      ],
+      "state": "complete"
+    },
+    {
+      "block": 15,
+      "core_cues": [
+        2801,
+        3000
+      ],
+      "read_cues_with_overlap": [
+        2786,
+        3015
+      ],
+      "source_core_ms": [
+        9481900,
+        10155340
+      ],
+      "state": "complete"
+    },
+    {
+      "block": 16,
+      "core_cues": [
+        3001,
+        3200
+      ],
+      "read_cues_with_overlap": [
+        2986,
+        3215
+      ],
+      "source_core_ms": [
+        10156760,
+        10796710
+      ],
+      "state": "complete"
+    },
+    {
+      "block": 17,
+      "core_cues": [
+        3201,
+        3400
+      ],
+      "read_cues_with_overlap": [
+        3186,
+        3415
+      ],
+      "source_core_ms": [
+        10797570,
+        11507980
+      ],
+      "state": "complete"
+    },
+    {
+      "block": 18,
+      "core_cues": [
+        3401,
+        3600
+      ],
+      "read_cues_with_overlap": [
+        3386,
+        3615
+      ],
+      "source_core_ms": [
+        11507980,
+        12447100
+      ],
+      "state": "complete"
+    },
+    {
+      "block": 19,
+      "core_cues": [
+        3601,
+        3797
+      ],
+      "read_cues_with_overlap": [
+        3586,
+        3797
+      ],
+      "source_core_ms": [
+        12448760,
+        13367090
+      ],
+      "state": "complete"
+    }
+  ],
+  "prior_full_transcript_review": "data/review/batch/2876630043/inputs/coverage.json",
+  "prior_read_cues_with_overlap": 4337,
+  "coverage_kind": "Verified reuse of complete transcript pass; new catalogue decisions in every overlapping block",
+  "speech_audio_listened_full_vod": false,
+  "new_continuous_video_viewing": false,
+  "source_playback_duration_ms": 13367602,
+  "new_visual_survey_frames": 224,
+  "new_transition_hint_frames": 108,
+  "new_candidate_source_frames": 99,
+  "visual_map": "data/review/batch/2876630043/visual_map/scene_map.json",
+  "new_survey_and_transition_sheets_inspected_by_sol": 15
+}

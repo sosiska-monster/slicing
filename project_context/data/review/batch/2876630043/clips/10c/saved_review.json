@@ -1,0 +1,574 @@
+{
+  "draft": {
+    "schema_version": 1,
+    "vod_id": "2876630043",
+    "clip_id": "PUB_10c",
+    "source_segments_ms": [
+      [
+        6779040,
+        6786420
+      ],
+      [
+        6786420,
+        6790780
+      ]
+    ],
+    "words": [
+      {
+        "id": "w001",
+        "segment": 1,
+        "start_ms": 0,
+        "end_ms": 60,
+        "text": "Вот"
+      },
+      {
+        "id": "w002",
+        "segment": 1,
+        "start_ms": 60,
+        "end_ms": 320,
+        "text": "видишь,"
+      },
+      {
+        "id": "w003",
+        "segment": 1,
+        "start_ms": 380,
+        "end_ms": 460,
+        "text": "и"
+      },
+      {
+        "id": "w004",
+        "segment": 1,
+        "start_ms": 460,
+        "end_ms": 540,
+        "text": "ты"
+      },
+      {
+        "id": "w005",
+        "segment": 1,
+        "start_ms": 540,
+        "end_ms": 660,
+        "text": "не"
+      },
+      {
+        "id": "w006",
+        "segment": 1,
+        "start_ms": 660,
+        "end_ms": 780,
+        "text": "хочешь"
+      },
+      {
+        "id": "w007",
+        "segment": 1,
+        "start_ms": 780,
+        "end_ms": 1100,
+        "text": "забирать,"
+      },
+      {
+        "id": "w008",
+        "segment": 1,
+        "start_ms": 1200,
+        "end_ms": 1240,
+        "text": "мы"
+      },
+      {
+        "id": "w009",
+        "segment": 1,
+        "start_ms": 1240,
+        "end_ms": 1440,
+        "text": "можем"
+      },
+      {
+        "id": "w010",
+        "segment": 1,
+        "start_ms": 1440,
+        "end_ms": 1580,
+        "text": "у"
+      },
+      {
+        "id": "w011",
+        "segment": 1,
+        "start_ms": 1580,
+        "end_ms": 1640,
+        "text": "тебя"
+      },
+      {
+        "id": "w012",
+        "segment": 1,
+        "start_ms": 1640,
+        "end_ms": 1760,
+        "text": "на"
+      },
+      {
+        "id": "w013",
+        "segment": 1,
+        "start_ms": 1760,
+        "end_ms": 1920,
+        "text": "прийти"
+      },
+      {
+        "id": "w014",
+        "segment": 1,
+        "start_ms": 1920,
+        "end_ms": 2140,
+        "text": "Того"
+      },
+      {
+        "id": "w015",
+        "segment": 1,
+        "start_ms": 2140,
+        "end_ms": 2600,
+        "text": "разыграть,"
+      },
+      {
+        "id": "w016",
+        "segment": 1,
+        "start_ms": 2700,
+        "end_ms": 2900,
+        "text": "просто"
+      },
+      {
+        "id": "w017",
+        "segment": 1,
+        "start_ms": 2900,
+        "end_ms": 3260,
+        "text": "30"
+      },
+      {
+        "id": "w018",
+        "segment": 1,
+        "start_ms": 3260,
+        "end_ms": 3540,
+        "text": "тысяч"
+      },
+      {
+        "id": "w019",
+        "segment": 1,
+        "start_ms": 3540,
+        "end_ms": 3720,
+        "text": "рублей."
+      },
+      {
+        "id": "w020",
+        "segment": 1,
+        "start_ms": 3820,
+        "end_ms": 3900,
+        "text": "Нет."
+      },
+      {
+        "id": "w021",
+        "segment": 1,
+        "start_ms": 5000,
+        "end_ms": 5400,
+        "text": "10"
+      },
+      {
+        "id": "w022",
+        "segment": 1,
+        "start_ms": 5400,
+        "end_ms": 5800,
+        "text": "победителей"
+      },
+      {
+        "id": "w023",
+        "segment": 1,
+        "start_ms": 5800,
+        "end_ms": 5980,
+        "text": "по"
+      },
+      {
+        "id": "w024",
+        "segment": 1,
+        "start_ms": 5980,
+        "end_ms": 6240,
+        "text": "30"
+      },
+      {
+        "id": "w025",
+        "segment": 1,
+        "start_ms": 6240,
+        "end_ms": 6500,
+        "text": "тысяч."
+      },
+      {
+        "id": "w026",
+        "segment": 2,
+        "start_ms": 7420,
+        "end_ms": 7520,
+        "text": "А"
+      },
+      {
+        "id": "w027",
+        "segment": 2,
+        "start_ms": 7520,
+        "end_ms": 7700,
+        "text": "что"
+      },
+      {
+        "id": "w028",
+        "segment": 2,
+        "start_ms": 7700,
+        "end_ms": 8020,
+        "text": "такое?"
+      },
+      {
+        "id": "w029",
+        "segment": 2,
+        "start_ms": 8560,
+        "end_ms": 8960,
+        "text": "Давай,"
+      },
+      {
+        "id": "w030",
+        "segment": 2,
+        "start_ms": 9100,
+        "end_ms": 9380,
+        "text": "давай,"
+      },
+      {
+        "id": "w031",
+        "segment": 2,
+        "start_ms": 9380,
+        "end_ms": 9560,
+        "text": "давай"
+      },
+      {
+        "id": "w032",
+        "segment": 2,
+        "start_ms": 9560,
+        "end_ms": 10580,
+        "text": "разыграем"
+      },
+      {
+        "id": "w033",
+        "segment": 2,
+        "start_ms": 10580,
+        "end_ms": 10800,
+        "text": "только"
+      },
+      {
+        "id": "w034",
+        "segment": 2,
+        "start_ms": 10800,
+        "end_ms": 11000,
+        "text": "не"
+      },
+      {
+        "id": "w035",
+        "segment": 2,
+        "start_ms": 11000,
+        "end_ms": 11440,
+        "text": "сейчас."
+      }
+    ]
+  },
+  "edits": {
+    "schema_version": 1,
+    "editor": "Sol",
+    "model": "gpt-6.1-sol",
+    "draft_sha256": "4caacf53b3d9f8dbb3fe59542c8e2e5c0a5d0cb4a0105f7b83ed092e27ae54e9",
+    "edits": [
+      {
+        "word_ids": [
+          "w003"
+        ],
+        "text": "если"
+      },
+      {
+        "word_ids": [
+          "w012",
+          "w013",
+          "w014"
+        ],
+        "text": "на проекте"
+      },
+      {
+        "word_ids": [
+          "w015"
+        ],
+        "text": "разыграть."
+      },
+      {
+        "word_ids": [
+          "w016"
+        ],
+        "text": "Просто"
+      },
+      {
+        "word_ids": [
+          "w017"
+        ],
+        "text": "300"
+      },
+      {
+        "word_ids": [
+          "w029",
+          "w030",
+          "w031"
+        ],
+        "text": "Давай, давай, давай"
+      },
+      {
+        "word_ids": [
+          "w032"
+        ],
+        "text": "разыграем,"
+      }
+    ]
+  },
+  "draft_sha256": "4caacf53b3d9f8dbb3fe59542c8e2e5c0a5d0cb4a0105f7b83ed092e27ae54e9",
+  "edits_sha256": "bbd650046b014ec9596b76565c4d6d47e0fc1d9da76aeea049a9d14362cee808",
+  "source_items": [
+    {
+      "start_ms": 6779040,
+      "end_ms": 6779100,
+      "text": "Вот",
+      "source_word_ids": [
+        "w001"
+      ]
+    },
+    {
+      "start_ms": 6779100,
+      "end_ms": 6779360,
+      "text": "видишь,",
+      "source_word_ids": [
+        "w002"
+      ]
+    },
+    {
+      "start_ms": 6779420,
+      "end_ms": 6779500,
+      "text": "если",
+      "source_word_ids": [
+        "w003"
+      ]
+    },
+    {
+      "start_ms": 6779500,
+      "end_ms": 6779580,
+      "text": "ты",
+      "source_word_ids": [
+        "w004"
+      ]
+    },
+    {
+      "start_ms": 6779580,
+      "end_ms": 6779700,
+      "text": "не",
+      "source_word_ids": [
+        "w005"
+      ]
+    },
+    {
+      "start_ms": 6779700,
+      "end_ms": 6779820,
+      "text": "хочешь",
+      "source_word_ids": [
+        "w006"
+      ]
+    },
+    {
+      "start_ms": 6779820,
+      "end_ms": 6780140,
+      "text": "забирать,",
+      "source_word_ids": [
+        "w007"
+      ]
+    },
+    {
+      "start_ms": 6780240,
+      "end_ms": 6780280,
+      "text": "мы",
+      "source_word_ids": [
+        "w008"
+      ]
+    },
+    {
+      "start_ms": 6780280,
+      "end_ms": 6780480,
+      "text": "можем",
+      "source_word_ids": [
+        "w009"
+      ]
+    },
+    {
+      "start_ms": 6780480,
+      "end_ms": 6780620,
+      "text": "у",
+      "source_word_ids": [
+        "w010"
+      ]
+    },
+    {
+      "start_ms": 6780620,
+      "end_ms": 6780680,
+      "text": "тебя",
+      "source_word_ids": [
+        "w011"
+      ]
+    },
+    {
+      "start_ms": 6780680,
+      "end_ms": 6781180,
+      "text": "на проекте",
+      "source_word_ids": [
+        "w012",
+        "w013",
+        "w014"
+      ]
+    },
+    {
+      "start_ms": 6781180,
+      "end_ms": 6781640,
+      "text": "разыграть.",
+      "source_word_ids": [
+        "w015"
+      ]
+    },
+    {
+      "start_ms": 6781740,
+      "end_ms": 6781940,
+      "text": "Просто",
+      "source_word_ids": [
+        "w016"
+      ]
+    },
+    {
+      "start_ms": 6781940,
+      "end_ms": 6782300,
+      "text": "300",
+      "source_word_ids": [
+        "w017"
+      ]
+    },
+    {
+      "start_ms": 6782300,
+      "end_ms": 6782580,
+      "text": "тысяч",
+      "source_word_ids": [
+        "w018"
+      ]
+    },
+    {
+      "start_ms": 6782580,
+      "end_ms": 6782760,
+      "text": "рублей.",
+      "source_word_ids": [
+        "w019"
+      ]
+    },
+    {
+      "start_ms": 6782860,
+      "end_ms": 6782940,
+      "text": "Нет.",
+      "source_word_ids": [
+        "w020"
+      ]
+    },
+    {
+      "start_ms": 6784040,
+      "end_ms": 6784440,
+      "text": "10",
+      "source_word_ids": [
+        "w021"
+      ]
+    },
+    {
+      "start_ms": 6784440,
+      "end_ms": 6784840,
+      "text": "победителей",
+      "source_word_ids": [
+        "w022"
+      ]
+    },
+    {
+      "start_ms": 6784840,
+      "end_ms": 6785020,
+      "text": "по",
+      "source_word_ids": [
+        "w023"
+      ]
+    },
+    {
+      "start_ms": 6785020,
+      "end_ms": 6785280,
+      "text": "30",
+      "source_word_ids": [
+        "w024"
+      ]
+    },
+    {
+      "start_ms": 6785280,
+      "end_ms": 6785540,
+      "text": "тысяч.",
+      "source_word_ids": [
+        "w025"
+      ]
+    },
+    {
+      "start_ms": 6786460,
+      "end_ms": 6786560,
+      "text": "А",
+      "source_word_ids": [
+        "w026"
+      ]
+    },
+    {
+      "start_ms": 6786560,
+      "end_ms": 6786740,
+      "text": "что",
+      "source_word_ids": [
+        "w027"
+      ]
+    },
+    {
+      "start_ms": 6786740,
+      "end_ms": 6787060,
+      "text": "такое?",
+      "source_word_ids": [
+        "w028"
+      ]
+    },
+    {
+      "start_ms": 6787600,
+      "end_ms": 6788600,
+      "text": "Давай, давай, давай",
+      "source_word_ids": [
+        "w029",
+        "w030",
+        "w031"
+      ]
+    },
+    {
+      "start_ms": 6788600,
+      "end_ms": 6789620,
+      "text": "разыграем,",
+      "source_word_ids": [
+        "w032"
+      ]
+    },
+    {
+      "start_ms": 6789620,
+      "end_ms": 6789840,
+      "text": "только",
+      "source_word_ids": [
+        "w033"
+      ]
+    },
+    {
+      "start_ms": 6789840,
+      "end_ms": 6790040,
+      "text": "не",
+      "source_word_ids": [
+        "w034"
+      ]
+    },
+    {
+      "start_ms": 6790040,
+      "end_ms": 6790480,
+      "text": "сейчас.",
+      "source_word_ids": [
+        "w035"
+      ]
+    }
+  ]
+}

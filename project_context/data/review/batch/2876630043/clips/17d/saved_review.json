@@ -1,0 +1,314 @@
+{
+  "draft": {
+    "schema_version": 1,
+    "vod_id": "2876630043",
+    "clip_id": "PUB_17d_publish",
+    "source_segments_ms": [
+      [
+        11301340,
+        11302340
+      ],
+      [
+        11272310,
+        11274590
+      ],
+      [
+        11298110,
+        11299470
+      ],
+      [
+        11308940,
+        11310530
+      ]
+    ],
+    "words": [
+      {
+        "id": "w001",
+        "segment": 2,
+        "start_ms": 1510,
+        "end_ms": 1640,
+        "text": "Вот"
+      },
+      {
+        "id": "w002",
+        "segment": 2,
+        "start_ms": 1640,
+        "end_ms": 2000,
+        "text": "такая"
+      },
+      {
+        "id": "w003",
+        "segment": 2,
+        "start_ms": 2000,
+        "end_ms": 2120,
+        "text": "вот"
+      },
+      {
+        "id": "w004",
+        "segment": 2,
+        "start_ms": 2120,
+        "end_ms": 2540,
+        "text": "параша,"
+      },
+      {
+        "id": "w005",
+        "segment": 2,
+        "start_ms": 2640,
+        "end_ms": 2700,
+        "text": "да,"
+      },
+      {
+        "id": "w006",
+        "segment": 2,
+        "start_ms": 2940,
+        "end_ms": 3266,
+        "text": "здоровая."
+      },
+      {
+        "id": "w007",
+        "segment": 3,
+        "start_ms": 3662,
+        "end_ms": 3740,
+        "text": "Вот"
+      },
+      {
+        "id": "w008",
+        "segment": 3,
+        "start_ms": 3740,
+        "end_ms": 3860,
+        "text": "так"
+      },
+      {
+        "id": "w009",
+        "segment": 3,
+        "start_ms": 3860,
+        "end_ms": 3980,
+        "text": "вот"
+      },
+      {
+        "id": "w010",
+        "segment": 3,
+        "start_ms": 3980,
+        "end_ms": 4620,
+        "text": "фотографироваться."
+      },
+      {
+        "id": "w011",
+        "segment": 4,
+        "start_ms": 4680,
+        "end_ms": 4760,
+        "text": "Ты"
+      },
+      {
+        "id": "w012",
+        "segment": 4,
+        "start_ms": 4760,
+        "end_ms": 4940,
+        "text": "сам"
+      },
+      {
+        "id": "w013",
+        "segment": 4,
+        "start_ms": 4940,
+        "end_ms": 5120,
+        "text": "себя"
+      },
+      {
+        "id": "w014",
+        "segment": 4,
+        "start_ms": 5120,
+        "end_ms": 5420,
+        "text": "видишь"
+      },
+      {
+        "id": "w015",
+        "segment": 4,
+        "start_ms": 5420,
+        "end_ms": 5560,
+        "text": "и"
+      },
+      {
+        "id": "w016",
+        "segment": 4,
+        "start_ms": 5560,
+        "end_ms": 6020,
+        "text": "фоткаешь."
+      }
+    ],
+    "timing_adjustments": [
+      {
+        "word_id": "w001",
+        "asr_start_ms": 1280,
+        "start_ms": 1510
+      },
+      {
+        "word_id": "w006",
+        "asr_end_ms": 3280,
+        "end_ms": 3266
+      },
+      {
+        "word_id": "w007",
+        "asr_start_ms": 3560,
+        "start_ms": 3662
+      }
+    ]
+  },
+  "edits": {
+    "schema_version": 1,
+    "editor": "Codex, using the reviewed pilot as text reference",
+    "draft_sha256": "5b7dc07835b7ce02492dca14917e9bceaf14880ffc4e97f2eac62f57bc6a4ad9",
+    "edits": [
+      {
+        "word_ids": [
+          "w005"
+        ],
+        "text": "да?"
+      },
+      {
+        "word_ids": [
+          "w006"
+        ],
+        "text": "Здоровая."
+      },
+      {
+        "word_ids": [
+          "w016"
+        ],
+        "text": "фоткаешь?"
+      }
+    ],
+    "pilot_edits_sha256": "0c61b1d2f2f6eb12b47f3957d26f3856d9569c8361ad587b5cfc3080aa534b11"
+  },
+  "draft_sha256": "5b7dc07835b7ce02492dca14917e9bceaf14880ffc4e97f2eac62f57bc6a4ad9",
+  "edits_sha256": "6fe7c6418b473aa7afcfb9eee5639dccdc6a92862d5a98d400dbe40a8115ad1e",
+  "source_items": [
+    {
+      "start_ms": 11272820,
+      "end_ms": 11272950,
+      "text": "Вот",
+      "source_word_ids": [
+        "w001"
+      ]
+    },
+    {
+      "start_ms": 11272950,
+      "end_ms": 11273310,
+      "text": "такая",
+      "source_word_ids": [
+        "w002"
+      ]
+    },
+    {
+      "start_ms": 11273310,
+      "end_ms": 11273430,
+      "text": "вот",
+      "source_word_ids": [
+        "w003"
+      ]
+    },
+    {
+      "start_ms": 11273430,
+      "end_ms": 11273850,
+      "text": "параша,",
+      "source_word_ids": [
+        "w004"
+      ]
+    },
+    {
+      "start_ms": 11273950,
+      "end_ms": 11274010,
+      "text": "да?",
+      "source_word_ids": [
+        "w005"
+      ]
+    },
+    {
+      "start_ms": 11274250,
+      "end_ms": 11274576,
+      "text": "Здоровая.",
+      "source_word_ids": [
+        "w006"
+      ]
+    },
+    {
+      "start_ms": 11298492,
+      "end_ms": 11298570,
+      "text": "Вот",
+      "source_word_ids": [
+        "w007"
+      ]
+    },
+    {
+      "start_ms": 11298570,
+      "end_ms": 11298690,
+      "text": "так",
+      "source_word_ids": [
+        "w008"
+      ]
+    },
+    {
+      "start_ms": 11298690,
+      "end_ms": 11298810,
+      "text": "вот",
+      "source_word_ids": [
+        "w009"
+      ]
+    },
+    {
+      "start_ms": 11298810,
+      "end_ms": 11299450,
+      "text": "фотографироваться.",
+      "source_word_ids": [
+        "w010"
+      ]
+    },
+    {
+      "start_ms": 11308980,
+      "end_ms": 11309060,
+      "text": "Ты",
+      "source_word_ids": [
+        "w011"
+      ]
+    },
+    {
+      "start_ms": 11309060,
+      "end_ms": 11309240,
+      "text": "сам",
+      "source_word_ids": [
+        "w012"
+      ]
+    },
+    {
+      "start_ms": 11309240,
+      "end_ms": 11309420,
+      "text": "себя",
+      "source_word_ids": [
+        "w013"
+      ]
+    },
+    {
+      "start_ms": 11309420,
+      "end_ms": 11309720,
+      "text": "видишь",
+      "source_word_ids": [
+        "w014"
+      ]
+    },
+    {
+      "start_ms": 11309720,
+      "end_ms": 11309860,
+      "text": "и",
+      "source_word_ids": [
+        "w015"
+      ]
+    },
+    {
+      "start_ms": 11309860,
+      "end_ms": 11310320,
+      "text": "фоткаешь?",
+      "source_word_ids": [
+        "w016"
+      ]
+    }
+  ]
+}

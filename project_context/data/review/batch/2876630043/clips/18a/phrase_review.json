@@ -1,0 +1,31 @@
+{
+  "editor": "Sol / current Codex editorial pass",
+  "groups": [
+    {
+      "source_word_ids": [
+        "w010",
+        "w011"
+      ],
+      "text": "Дешёвый подарок."
+    },
+    {
+      "source_word_ids": [
+        "w012",
+        "w013",
+        "w014",
+        "w015",
+        "w016"
+      ],
+      "text": "Apple Watch в коллаборации с Hermès."
+    },
+    {
+      "source_word_ids": [
+        "w017",
+        "w018",
+        "w019"
+      ],
+      "text": "Преордер. 1 400 — старт."
+    }
+  ],
+  "policy": "Remove false repetitions and recognizer noise, keep semantic content. Whole phrases; unknown internal word boundaries not invented."
+}

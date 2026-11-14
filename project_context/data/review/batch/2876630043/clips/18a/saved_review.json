@@ -1,0 +1,591 @@
+{
+  "draft": {
+    "schema_version": 1,
+    "vod_id": "2876630043",
+    "clip_id": "HQ_18a",
+    "source_segments_ms": [
+      [
+        11517520,
+        11521820
+      ],
+      [
+        11534500,
+        11538300
+      ],
+      [
+        11605480,
+        11610800
+      ],
+      [
+        11614030,
+        11615950
+      ]
+    ],
+    "words": [
+      {
+        "id": "w001",
+        "segment": 1,
+        "start_ms": 0,
+        "end_ms": 500,
+        "text": "подарок."
+      },
+      {
+        "id": "w002",
+        "segment": 1,
+        "start_ms": 800,
+        "end_ms": 1020,
+        "text": "Я"
+      },
+      {
+        "id": "w003",
+        "segment": 1,
+        "start_ms": 1020,
+        "end_ms": 1120,
+        "text": "вам"
+      },
+      {
+        "id": "w004",
+        "segment": 1,
+        "start_ms": 1120,
+        "end_ms": 1220,
+        "text": "сейчас"
+      },
+      {
+        "id": "w005",
+        "segment": 1,
+        "start_ms": 1220,
+        "end_ms": 1540,
+        "text": "покажу,"
+      },
+      {
+        "id": "w006",
+        "segment": 1,
+        "start_ms": 1660,
+        "end_ms": 1720,
+        "text": "что"
+      },
+      {
+        "id": "w007",
+        "segment": 1,
+        "start_ms": 1720,
+        "end_ms": 1800,
+        "text": "я"
+      },
+      {
+        "id": "w008",
+        "segment": 1,
+        "start_ms": 1800,
+        "end_ms": 2140,
+        "text": "хочу."
+      },
+      {
+        "id": "w009",
+        "segment": 1,
+        "start_ms": 2520,
+        "end_ms": 2860,
+        "text": "Вот"
+      },
+      {
+        "id": "w010",
+        "segment": 1,
+        "start_ms": 2860,
+        "end_ms": 3060,
+        "text": "из"
+      },
+      {
+        "id": "w011",
+        "segment": 1,
+        "start_ms": 3060,
+        "end_ms": 4100,
+        "text": "дешевого."
+      },
+      {
+        "id": "w012",
+        "segment": 1,
+        "start_ms": 4100,
+        "end_ms": 4240,
+        "text": "Вот"
+      },
+      {
+        "id": "w013",
+        "segment": 1,
+        "start_ms": 4240,
+        "end_ms": 4300,
+        "text": "ебануто"
+      },
+      {
+        "id": "w014",
+        "segment": 2,
+        "start_ms": 5700,
+        "end_ms": 6060,
+        "text": "дешёвый"
+      },
+      {
+        "id": "w015",
+        "segment": 2,
+        "start_ms": 6060,
+        "end_ms": 6500,
+        "text": "подарок"
+      },
+      {
+        "id": "w016",
+        "segment": 2,
+        "start_ms": 6500,
+        "end_ms": 7220,
+        "text": "Apple"
+      },
+      {
+        "id": "w017",
+        "segment": 2,
+        "start_ms": 7220,
+        "end_ms": 7640,
+        "text": "Watch"
+      },
+      {
+        "id": "w018",
+        "segment": 2,
+        "start_ms": 7640,
+        "end_ms": 8000,
+        "text": "в"
+      },
+      {
+        "id": "w019",
+        "segment": 2,
+        "start_ms": 8000,
+        "end_ms": 8100,
+        "text": "колокоприорде."
+      },
+      {
+        "id": "w020",
+        "segment": 3,
+        "start_ms": 9000,
+        "end_ms": 9560,
+        "text": "1400"
+      },
+      {
+        "id": "w021",
+        "segment": 3,
+        "start_ms": 9560,
+        "end_ms": 10020,
+        "text": "старт."
+      },
+      {
+        "id": "w022",
+        "segment": 3,
+        "start_ms": 10440,
+        "end_ms": 10680,
+        "text": "Ну,"
+      },
+      {
+        "id": "w023",
+        "segment": 3,
+        "start_ms": 11460,
+        "end_ms": 11740,
+        "text": "что"
+      },
+      {
+        "id": "w024",
+        "segment": 3,
+        "start_ms": 11740,
+        "end_ms": 11960,
+        "text": "сейчас"
+      },
+      {
+        "id": "w025",
+        "segment": 3,
+        "start_ms": 11960,
+        "end_ms": 12240,
+        "text": "деньги,"
+      },
+      {
+        "id": "w026",
+        "segment": 3,
+        "start_ms": 12460,
+        "end_ms": 12700,
+        "text": "блядь,"
+      },
+      {
+        "id": "w027",
+        "segment": 3,
+        "start_ms": 12760,
+        "end_ms": 12780,
+        "text": "ты"
+      },
+      {
+        "id": "w028",
+        "segment": 3,
+        "start_ms": 12780,
+        "end_ms": 12880,
+        "text": "что"
+      },
+      {
+        "id": "w029",
+        "segment": 3,
+        "start_ms": 12880,
+        "end_ms": 13100,
+        "text": "сейчас"
+      },
+      {
+        "id": "w030",
+        "segment": 4,
+        "start_ms": 13520,
+        "end_ms": 13900,
+        "text": "Я"
+      },
+      {
+        "id": "w031",
+        "segment": 4,
+        "start_ms": 13900,
+        "end_ms": 14140,
+        "text": "очень"
+      },
+      {
+        "id": "w032",
+        "segment": 4,
+        "start_ms": 14140,
+        "end_ms": 14480,
+        "text": "просил"
+      },
+      {
+        "id": "w033",
+        "segment": 4,
+        "start_ms": 14480,
+        "end_ms": 14620,
+        "text": "на"
+      },
+      {
+        "id": "w034",
+        "segment": 4,
+        "start_ms": 14620,
+        "end_ms": 14760,
+        "text": "так"
+      },
+      {
+        "id": "w035",
+        "segment": 4,
+        "start_ms": 14760,
+        "end_ms": 14880,
+        "text": "же"
+      },
+      {
+        "id": "w036",
+        "segment": 4,
+        "start_ms": 14880,
+        "end_ms": 15240,
+        "text": "купить."
+      }
+    ]
+  },
+  "edits": {
+    "schema_version": 1,
+    "editor": "Sol",
+    "model": "gpt-6.1-sol",
+    "draft_sha256": "30dc9347fd8675e7157959a24f861c97eee24d19b758951cc4e1f1129c8dc71d",
+    "edits": [
+      {
+        "word_ids": [
+          "w019"
+        ],
+        "text": "коллаборации с Hermès."
+      },
+      {
+        "word_ids": [
+          "w020"
+        ],
+        "text": "1 400"
+      }
+    ]
+  },
+  "draft_sha256": "30dc9347fd8675e7157959a24f861c97eee24d19b758951cc4e1f1129c8dc71d",
+  "edits_sha256": "9b33a5b403ce96e83abfb89072402415a4d1b5f28cff0129a095cd09eda2bd76",
+  "source_items": [
+    {
+      "start_ms": 11517520,
+      "end_ms": 11518020,
+      "text": "подарок.",
+      "source_word_ids": [
+        "w001"
+      ]
+    },
+    {
+      "start_ms": 11518320,
+      "end_ms": 11518540,
+      "text": "Я",
+      "source_word_ids": [
+        "w002"
+      ]
+    },
+    {
+      "start_ms": 11518540,
+      "end_ms": 11518640,
+      "text": "вам",
+      "source_word_ids": [
+        "w003"
+      ]
+    },
+    {
+      "start_ms": 11518640,
+      "end_ms": 11518740,
+      "text": "сейчас",
+      "source_word_ids": [
+        "w004"
+      ]
+    },
+    {
+      "start_ms": 11518740,
+      "end_ms": 11519060,
+      "text": "покажу,",
+      "source_word_ids": [
+        "w005"
+      ]
+    },
+    {
+      "start_ms": 11519180,
+      "end_ms": 11519240,
+      "text": "что",
+      "source_word_ids": [
+        "w006"
+      ]
+    },
+    {
+      "start_ms": 11519240,
+      "end_ms": 11519320,
+      "text": "я",
+      "source_word_ids": [
+        "w007"
+      ]
+    },
+    {
+      "start_ms": 11519320,
+      "end_ms": 11519660,
+      "text": "хочу.",
+      "source_word_ids": [
+        "w008"
+      ]
+    },
+    {
+      "start_ms": 11520040,
+      "end_ms": 11520380,
+      "text": "Вот",
+      "source_word_ids": [
+        "w009"
+      ]
+    },
+    {
+      "start_ms": 11520380,
+      "end_ms": 11520580,
+      "text": "из",
+      "source_word_ids": [
+        "w010"
+      ]
+    },
+    {
+      "start_ms": 11520580,
+      "end_ms": 11521620,
+      "text": "дешевого.",
+      "source_word_ids": [
+        "w011"
+      ]
+    },
+    {
+      "start_ms": 11521620,
+      "end_ms": 11521760,
+      "text": "Вот",
+      "source_word_ids": [
+        "w012"
+      ]
+    },
+    {
+      "start_ms": 11521760,
+      "end_ms": 11521820,
+      "text": "ебануто",
+      "source_word_ids": [
+        "w013"
+      ]
+    },
+    {
+      "start_ms": 11535900,
+      "end_ms": 11536260,
+      "text": "дешёвый",
+      "source_word_ids": [
+        "w014"
+      ]
+    },
+    {
+      "start_ms": 11536260,
+      "end_ms": 11536700,
+      "text": "подарок",
+      "source_word_ids": [
+        "w015"
+      ]
+    },
+    {
+      "start_ms": 11536700,
+      "end_ms": 11537420,
+      "text": "Apple",
+      "source_word_ids": [
+        "w016"
+      ]
+    },
+    {
+      "start_ms": 11537420,
+      "end_ms": 11537840,
+      "text": "Watch",
+      "source_word_ids": [
+        "w017"
+      ]
+    },
+    {
+      "start_ms": 11537840,
+      "end_ms": 11538200,
+      "text": "в",
+      "source_word_ids": [
+        "w018"
+      ]
+    },
+    {
+      "start_ms": 11538200,
+      "end_ms": 11538300,
+      "text": "коллаборации с Hermès.",
+      "source_word_ids": [
+        "w019"
+      ]
+    },
+    {
+      "start_ms": 11606380,
+      "end_ms": 11606940,
+      "text": "1 400",
+      "source_word_ids": [
+        "w020"
+      ]
+    },
+    {
+      "start_ms": 11606940,
+      "end_ms": 11607400,
+      "text": "старт.",
+      "source_word_ids": [
+        "w021"
+      ]
+    },
+    {
+      "start_ms": 11607820,
+      "end_ms": 11608060,
+      "text": "Ну,",
+      "source_word_ids": [
+        "w022"
+      ]
+    },
+    {
+      "start_ms": 11608840,
+      "end_ms": 11609120,
+      "text": "что",
+      "source_word_ids": [
+        "w023"
+      ]
+    },
+    {
+      "start_ms": 11609120,
+      "end_ms": 11609340,
+      "text": "сейчас",
+      "source_word_ids": [
+        "w024"
+      ]
+    },
+    {
+      "start_ms": 11609340,
+      "end_ms": 11609620,
+      "text": "деньги,",
+      "source_word_ids": [
+        "w025"
+      ]
+    },
+    {
+      "start_ms": 11609840,
+      "end_ms": 11610080,
+      "text": "блядь,",
+      "source_word_ids": [
+        "w026"
+      ]
+    },
+    {
+      "start_ms": 11610140,
+      "end_ms": 11610160,
+      "text": "ты",
+      "source_word_ids": [
+        "w027"
+      ]
+    },
+    {
+      "start_ms": 11610160,
+      "end_ms": 11610260,
+      "text": "что",
+      "source_word_ids": [
+        "w028"
+      ]
+    },
+    {
+      "start_ms": 11610260,
+      "end_ms": 11610480,
+      "text": "сейчас",
+      "source_word_ids": [
+        "w029"
+      ]
+    },
+    {
+      "start_ms": 11614130,
+      "end_ms": 11614510,
+      "text": "Я",
+      "source_word_ids": [
+        "w030"
+      ]
+    },
+    {
+      "start_ms": 11614510,
+      "end_ms": 11614750,
+      "text": "очень",
+      "source_word_ids": [
+        "w031"
+      ]
+    },
+    {
+      "start_ms": 11614750,
+      "end_ms": 11615090,
+      "text": "просил",
+      "source_word_ids": [
+        "w032"
+      ]
+    },
+    {
+      "start_ms": 11615090,
+      "end_ms": 11615230,
+      "text": "на",
+      "source_word_ids": [
+        "w033"
+      ]
+    },
+    {
+      "start_ms": 11615230,
+      "end_ms": 11615370,
+      "text": "так",
+      "source_word_ids": [
+        "w034"
+      ]
+    },
+    {
+      "start_ms": 11615370,
+      "end_ms": 11615490,
+      "text": "же",
+      "source_word_ids": [
+        "w035"
+      ]
+    },
+    {
+      "start_ms": 11615490,
+      "end_ms": 11615850,
+      "text": "купить.",
+      "source_word_ids": [
+        "w036"
+      ]
+    }
+  ]
+}

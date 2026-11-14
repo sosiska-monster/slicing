@@ -1,0 +1,301 @@
+{
+  "schema_version": 1,
+  "source": {
+    "vod_id": "2876630043",
+    "file": "data/vods/2876630043.mp4"
+  },
+  "editorial": {
+    "candidate_id": "05b",
+    "hero": "Evelone",
+    "source_plan": "data/review/codex_pilot/full_hq/data/review/retention_pilot/05b/edit_plan_A.json",
+    "source_plan_sha256": "2cdb68c580d7bfaac58202161d547a4531b3063efbe03f6938ddfc90b1a47b3c",
+    "layout_family": "two_equal",
+    "layout_choice": "LOW",
+    "static_layout": true,
+    "caption_mode": "whole phrases",
+    "source_ad_rects": [
+      [
+        490,
+        594,
+        96,
+        72
+      ],
+      [
+        472,
+        654,
+        114,
+        50
+      ]
+    ],
+    "source_timebase": "HQ playback milliseconds",
+    "caption_timing": "saved HQ words as-is; no 480p shift",
+    "changes": "Reuse approved sound intervals; static image and whole-phrase captions"
+  },
+  "clips": [
+    {
+      "id": "BATCH_05b",
+      "title": "Ведущий сам запутался в своих правилах",
+      "export_size": [
+        1080,
+        1920
+      ],
+      "safe_margins": {
+        "left": 0.07222222222222222,
+        "right": 0.21666666666666667,
+        "top": 0,
+        "bottom": 0.41484375
+      },
+      "segments": [
+        {
+          "start_ms": 2929120,
+          "end_ms": 2930910,
+          "framing": {
+            "name": "two_equal_low",
+            "panels": [
+              {
+                "crop": [
+                  1320,
+                  300,
+                  540,
+                  404
+                ],
+                "place": [
+                  0,
+                  0,
+                  720,
+                  538
+                ]
+              },
+              {
+                "crop": [
+                  38,
+                  300,
+                  540,
+                  404
+                ],
+                "place": [
+                  0,
+                  742,
+                  720,
+                  538
+                ]
+              }
+            ],
+            "masks": [
+              [
+                602,
+                1132,
+                118,
+                98
+              ],
+              [
+                578,
+                1212,
+                142,
+                68
+              ]
+            ]
+          },
+          "captions": [
+            {
+              "start_ms": 2929120,
+              "end_ms": 2930910,
+              "lines": [
+                "Ведущий спрашивает",
+                "правила у чата?"
+              ]
+            }
+          ]
+        },
+        {
+          "start_ms": 2932260,
+          "end_ms": 2934550,
+          "framing": {
+            "name": "two_equal_low",
+            "panels": [
+              {
+                "crop": [
+                  1320,
+                  300,
+                  540,
+                  404
+                ],
+                "place": [
+                  0,
+                  0,
+                  720,
+                  538
+                ]
+              },
+              {
+                "crop": [
+                  38,
+                  300,
+                  540,
+                  404
+                ],
+                "place": [
+                  0,
+                  742,
+                  720,
+                  538
+                ]
+              }
+            ],
+            "masks": [
+              [
+                602,
+                1132,
+                118,
+                98
+              ],
+              [
+                578,
+                1212,
+                142,
+                68
+              ]
+            ]
+          },
+          "captions": [
+            {
+              "start_ms": 2932410,
+              "end_ms": 2934490,
+              "lines": [
+                "Чат, я ошибся или нет?"
+              ]
+            }
+          ]
+        },
+        {
+          "start_ms": 2936500,
+          "end_ms": 2938430,
+          "framing": {
+            "name": "two_equal_low",
+            "panels": [
+              {
+                "crop": [
+                  1320,
+                  300,
+                  540,
+                  404
+                ],
+                "place": [
+                  0,
+                  0,
+                  720,
+                  538
+                ]
+              },
+              {
+                "crop": [
+                  38,
+                  300,
+                  540,
+                  404
+                ],
+                "place": [
+                  0,
+                  742,
+                  720,
+                  538
+                ]
+              }
+            ],
+            "masks": [
+              [
+                602,
+                1132,
+                118,
+                98
+              ],
+              [
+                578,
+                1212,
+                142,
+                68
+              ]
+            ]
+          },
+          "captions": [
+            {
+              "start_ms": 2936590,
+              "end_ms": 2938290,
+              "lines": [
+                "Ты можешь вывести",
+                "от 300 000."
+              ]
+            }
+          ]
+        },
+        {
+          "start_ms": 2940560,
+          "end_ms": 2943450,
+          "framing": {
+            "name": "two_equal_low",
+            "panels": [
+              {
+                "crop": [
+                  1320,
+                  300,
+                  540,
+                  404
+                ],
+                "place": [
+                  0,
+                  0,
+                  720,
+                  538
+                ]
+              },
+              {
+                "crop": [
+                  38,
+                  300,
+                  540,
+                  404
+                ],
+                "place": [
+                  0,
+                  742,
+                  720,
+                  538
+                ]
+              }
+            ],
+            "masks": [
+              [
+                602,
+                1132,
+                118,
+                98
+              ],
+              [
+                578,
+                1212,
+                142,
+                68
+              ]
+            ]
+          },
+          "captions": [
+            {
+              "start_ms": 2940790,
+              "end_ms": 2941450,
+              "lines": [
+                "Чат, я же ошибся."
+              ]
+            },
+            {
+              "start_ms": 2941570,
+              "end_ms": 2942650,
+              "lines": [
+                "Я же правила составлял."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

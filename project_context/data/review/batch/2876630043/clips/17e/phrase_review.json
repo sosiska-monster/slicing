@@ -1,0 +1,69 @@
+{
+  "editor": "Sol / current Codex editorial pass",
+  "groups": [
+    {
+      "start_ms": 11467490,
+      "end_ms": 11469750,
+      "lines": [
+        "Я ещё не смог",
+        "определиться с цветом."
+      ],
+      "source_word_ids": [
+        "w005",
+        "w006",
+        "w007",
+        "w008",
+        "w009",
+        "w010",
+        "w011"
+      ]
+    },
+    {
+      "start_ms": 11476260,
+      "end_ms": 11478180,
+      "lines": [
+        "то ли бордовый,",
+        "то ли через жопу."
+      ],
+      "source_word_ids": [
+        "w023",
+        "w024",
+        "w025",
+        "w026",
+        "w027"
+      ]
+    },
+    {
+      "start_ms": 11478380,
+      "end_ms": 11479580,
+      "lines": [
+        "И мне пришлось",
+        "заказать все три."
+      ],
+      "source_word_ids": [
+        "w028",
+        "w029",
+        "w030",
+        "w031",
+        "w032",
+        "w033"
+      ]
+    },
+    {
+      "start_ms": 11482490,
+      "end_ms": 11484010,
+      "lines": [
+        "Поэтому можете",
+        "меня пожалеть."
+      ],
+      "source_word_ids": [
+        "w034",
+        "w035",
+        "w036",
+        "w037",
+        "w038"
+      ]
+    }
+  ],
+  "policy": "Remove false repetitions and recognizer noise, keep semantic content. Whole phrases; unknown internal word boundaries not invented."
+}

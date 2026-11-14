@@ -1,0 +1,436 @@
+{
+  "draft": {
+    "schema_version": 1,
+    "vod_id": "2876630043",
+    "clip_id": "HQ_18b",
+    "source_segments_ms": [
+      [
+        11781420,
+        11790300
+      ],
+      [
+        11790670,
+        11793850
+      ]
+    ],
+    "words": [
+      {
+        "id": "w001",
+        "segment": 1,
+        "start_ms": 0,
+        "end_ms": 1060,
+        "text": "Это"
+      },
+      {
+        "id": "w002",
+        "segment": 1,
+        "start_ms": 1060,
+        "end_ms": 1420,
+        "text": "пизец,"
+      },
+      {
+        "id": "w003",
+        "segment": 1,
+        "start_ms": 2120,
+        "end_ms": 2300,
+        "text": "3"
+      },
+      {
+        "id": "w004",
+        "segment": 1,
+        "start_ms": 2300,
+        "end_ms": 3080,
+        "text": "-2"
+      },
+      {
+        "id": "w005",
+        "segment": 1,
+        "start_ms": 3080,
+        "end_ms": 3420,
+        "text": "-ти"
+      },
+      {
+        "id": "w006",
+        "segment": 1,
+        "start_ms": 3420,
+        "end_ms": 3660,
+        "text": "блять,"
+      },
+      {
+        "id": "w007",
+        "segment": 1,
+        "start_ms": 4120,
+        "end_ms": 4300,
+        "text": "за"
+      },
+      {
+        "id": "w008",
+        "segment": 1,
+        "start_ms": 4300,
+        "end_ms": 4700,
+        "text": "телефон,"
+      },
+      {
+        "id": "w009",
+        "segment": 1,
+        "start_ms": 5140,
+        "end_ms": 5280,
+        "text": "то"
+      },
+      {
+        "id": "w010",
+        "segment": 1,
+        "start_ms": 5280,
+        "end_ms": 5440,
+        "text": "есть"
+      },
+      {
+        "id": "w011",
+        "segment": 1,
+        "start_ms": 5440,
+        "end_ms": 6000,
+        "text": "3"
+      },
+      {
+        "id": "w012",
+        "segment": 1,
+        "start_ms": 6000,
+        "end_ms": 6400,
+        "text": "-200"
+      },
+      {
+        "id": "w013",
+        "segment": 1,
+        "start_ms": 6400,
+        "end_ms": 6720,
+        "text": "это"
+      },
+      {
+        "id": "w014",
+        "segment": 1,
+        "start_ms": 6720,
+        "end_ms": 8100,
+        "text": "прям"
+      },
+      {
+        "id": "w015",
+        "segment": 1,
+        "start_ms": 8100,
+        "end_ms": 8440,
+        "text": "ПК"
+      },
+      {
+        "id": "w016",
+        "segment": 1,
+        "start_ms": 8440,
+        "end_ms": 8780,
+        "text": "уже,"
+      },
+      {
+        "id": "w017",
+        "segment": 2,
+        "start_ms": 9180,
+        "end_ms": 9280,
+        "text": "то"
+      },
+      {
+        "id": "w018",
+        "segment": 2,
+        "start_ms": 9280,
+        "end_ms": 9420,
+        "text": "есть"
+      },
+      {
+        "id": "w019",
+        "segment": 2,
+        "start_ms": 9420,
+        "end_ms": 9580,
+        "text": "за"
+      },
+      {
+        "id": "w020",
+        "segment": 2,
+        "start_ms": 9580,
+        "end_ms": 9740,
+        "text": "3"
+      },
+      {
+        "id": "w021",
+        "segment": 2,
+        "start_ms": 9740,
+        "end_ms": 10060,
+        "text": "-300,"
+      },
+      {
+        "id": "w022",
+        "segment": 2,
+        "start_ms": 10120,
+        "end_ms": 10280,
+        "text": "можно"
+      },
+      {
+        "id": "w023",
+        "segment": 2,
+        "start_ms": 10280,
+        "end_ms": 10420,
+        "text": "не"
+      },
+      {
+        "id": "w024",
+        "segment": 2,
+        "start_ms": 10420,
+        "end_ms": 10700,
+        "text": "собрать"
+      },
+      {
+        "id": "w025",
+        "segment": 2,
+        "start_ms": 10700,
+        "end_ms": 11440,
+        "text": "хорошие"
+      },
+      {
+        "id": "w026",
+        "segment": 2,
+        "start_ms": 11440,
+        "end_ms": 11700,
+        "text": "игровые"
+      },
+      {
+        "id": "w027",
+        "segment": 2,
+        "start_ms": 11700,
+        "end_ms": 11960,
+        "text": "ПК."
+      }
+    ]
+  },
+  "edits": {
+    "schema_version": 1,
+    "editor": "Sol",
+    "model": "gpt-6.1-sol",
+    "draft_sha256": "aba808e010a6660237ea2ed882257d2f05501265e015b33cbfe6ac0db42ce585",
+    "edits": [
+      {
+        "word_ids": [
+          "w003",
+          "w004",
+          "w005"
+        ],
+        "text": "3 200"
+      },
+      {
+        "word_ids": [
+          "w011",
+          "w012"
+        ],
+        "text": "3 200"
+      },
+      {
+        "word_ids": [
+          "w020",
+          "w021"
+        ],
+        "text": "3 200"
+      },
+      {
+        "word_ids": [
+          "w023"
+        ],
+        "text": "ли"
+      }
+    ]
+  },
+  "draft_sha256": "aba808e010a6660237ea2ed882257d2f05501265e015b33cbfe6ac0db42ce585",
+  "edits_sha256": "ba11c38bf8a5ea7720089db4fa91c026c4d85f58f5e22612b1041f7933514e4e",
+  "source_items": [
+    {
+      "start_ms": 11781420,
+      "end_ms": 11782480,
+      "text": "Это",
+      "source_word_ids": [
+        "w001"
+      ]
+    },
+    {
+      "start_ms": 11782480,
+      "end_ms": 11782840,
+      "text": "пизец,",
+      "source_word_ids": [
+        "w002"
+      ]
+    },
+    {
+      "start_ms": 11783540,
+      "end_ms": 11784840,
+      "text": "3 200",
+      "source_word_ids": [
+        "w003",
+        "w004",
+        "w005"
+      ]
+    },
+    {
+      "start_ms": 11784840,
+      "end_ms": 11785080,
+      "text": "блять,",
+      "source_word_ids": [
+        "w006"
+      ]
+    },
+    {
+      "start_ms": 11785540,
+      "end_ms": 11785720,
+      "text": "за",
+      "source_word_ids": [
+        "w007"
+      ]
+    },
+    {
+      "start_ms": 11785720,
+      "end_ms": 11786120,
+      "text": "телефон,",
+      "source_word_ids": [
+        "w008"
+      ]
+    },
+    {
+      "start_ms": 11786560,
+      "end_ms": 11786700,
+      "text": "то",
+      "source_word_ids": [
+        "w009"
+      ]
+    },
+    {
+      "start_ms": 11786700,
+      "end_ms": 11786860,
+      "text": "есть",
+      "source_word_ids": [
+        "w010"
+      ]
+    },
+    {
+      "start_ms": 11786860,
+      "end_ms": 11787820,
+      "text": "3 200",
+      "source_word_ids": [
+        "w011",
+        "w012"
+      ]
+    },
+    {
+      "start_ms": 11787820,
+      "end_ms": 11788140,
+      "text": "это",
+      "source_word_ids": [
+        "w013"
+      ]
+    },
+    {
+      "start_ms": 11788140,
+      "end_ms": 11789520,
+      "text": "прям",
+      "source_word_ids": [
+        "w014"
+      ]
+    },
+    {
+      "start_ms": 11789520,
+      "end_ms": 11789860,
+      "text": "ПК",
+      "source_word_ids": [
+        "w015"
+      ]
+    },
+    {
+      "start_ms": 11789860,
+      "end_ms": 11790200,
+      "text": "уже,",
+      "source_word_ids": [
+        "w016"
+      ]
+    },
+    {
+      "start_ms": 11790970,
+      "end_ms": 11791070,
+      "text": "то",
+      "source_word_ids": [
+        "w017"
+      ]
+    },
+    {
+      "start_ms": 11791070,
+      "end_ms": 11791210,
+      "text": "есть",
+      "source_word_ids": [
+        "w018"
+      ]
+    },
+    {
+      "start_ms": 11791210,
+      "end_ms": 11791370,
+      "text": "за",
+      "source_word_ids": [
+        "w019"
+      ]
+    },
+    {
+      "start_ms": 11791370,
+      "end_ms": 11791850,
+      "text": "3 200",
+      "source_word_ids": [
+        "w020",
+        "w021"
+      ]
+    },
+    {
+      "start_ms": 11791910,
+      "end_ms": 11792070,
+      "text": "можно",
+      "source_word_ids": [
+        "w022"
+      ]
+    },
+    {
+      "start_ms": 11792070,
+      "end_ms": 11792210,
+      "text": "ли",
+      "source_word_ids": [
+        "w023"
+      ]
+    },
+    {
+      "start_ms": 11792210,
+      "end_ms": 11792490,
+      "text": "собрать",
+      "source_word_ids": [
+        "w024"
+      ]
+    },
+    {
+      "start_ms": 11792490,
+      "end_ms": 11793230,
+      "text": "хорошие",
+      "source_word_ids": [
+        "w025"
+      ]
+    },
+    {
+      "start_ms": 11793230,
+      "end_ms": 11793490,
+      "text": "игровые",
+      "source_word_ids": [
+        "w026"
+      ]
+    },
+    {
+      "start_ms": 11793490,
+      "end_ms": 11793750,
+      "text": "ПК.",
+      "source_word_ids": [
+        "w027"
+      ]
+    }
+  ]
+}

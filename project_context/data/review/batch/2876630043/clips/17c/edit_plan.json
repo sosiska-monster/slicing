@@ -1,0 +1,104 @@
+{
+  "schema_version": 1,
+  "source": {
+    "vod_id": "2876630043",
+    "file": "data/vods/2876630043.mp4"
+  },
+  "editorial": {
+    "candidate_id": "17c",
+    "hero": "Evelone",
+    "source_plan": "data/review/codex_pilot/full_hq/data/review/contest/clips/PUB_17c/edit_plan.json",
+    "source_plan_sha256": "49d657f205c63652c49860423965f85988492f30b37099d63deaeb9c05443780",
+    "layout_family": "solo",
+    "layout_choice": "SQUARE",
+    "static_layout": true,
+    "caption_mode": "whole phrases",
+    "source_ad_rects": [],
+    "source_timebase": "HQ playback milliseconds",
+    "caption_timing": "saved HQ words as-is; no 480p shift",
+    "changes": "Removed camera-movement introduction; title restores the question, final self-contained explanation retained."
+  },
+  "clips": [
+    {
+      "id": "BATCH_17c",
+      "title": "Чего ему не хватало без стримов",
+      "export_size": [
+        1080,
+        1920
+      ],
+      "safe_margins": {
+        "left": 0.07222222222222222,
+        "right": 0.21666666666666667,
+        "top": 0,
+        "bottom": 0.3046875
+      },
+      "segments": [
+        {
+          "start_ms": 11208200,
+          "end_ms": 11219350,
+          "framing": {
+            "name": "solo_square",
+            "panels": [
+              {
+                "crop": [
+                  104,
+                  596,
+                  280,
+                  280
+                ],
+                "place": [
+                  40,
+                  180,
+                  540,
+                  540
+                ]
+              }
+            ]
+          },
+          "captions": [
+            {
+              "start_ms": 11208200,
+              "end_ms": 11209700,
+              "lines": [
+                "Чего не хватает",
+                "без стримов?"
+              ]
+            },
+            {
+              "start_ms": 11210340,
+              "end_ms": 11212310,
+              "lines": [
+                "Какую-то хуйню",
+                "у вас поспрашивать."
+              ]
+            },
+            {
+              "start_ms": 11212600,
+              "end_ms": 11214780,
+              "lines": [
+                "Я сижу, думаю:",
+                "у вас спросить..."
+              ]
+            },
+            {
+              "start_ms": 11214780,
+              "end_ms": 11216810,
+              "lines": [
+                "Вот это или вот это",
+                "мнение, знаете, типа..."
+              ]
+            },
+            {
+              "start_ms": 11217180,
+              "end_ms": 11219350,
+              "lines": [
+                "И просто не стримлю,",
+                "не спрашиваю."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

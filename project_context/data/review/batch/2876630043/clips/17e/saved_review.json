@@ -1,0 +1,653 @@
+{
+  "draft": {
+    "schema_version": 1,
+    "vod_id": "2876630043",
+    "clip_id": "PUB_17e",
+    "source_segments_ms": [
+      [
+        11465430,
+        11469800
+      ],
+      [
+        11473910,
+        11479670
+      ],
+      [
+        11482380,
+        11484120
+      ]
+    ],
+    "words": [
+      {
+        "id": "w001",
+        "segment": 1,
+        "start_ms": 720,
+        "end_ms": 1120,
+        "text": "Я"
+      },
+      {
+        "id": "w002",
+        "segment": 1,
+        "start_ms": 1120,
+        "end_ms": 1200,
+        "text": "уже"
+      },
+      {
+        "id": "w003",
+        "segment": 1,
+        "start_ms": 1200,
+        "end_ms": 1540,
+        "text": "заказал"
+      },
+      {
+        "id": "w004",
+        "segment": 1,
+        "start_ms": 1540,
+        "end_ms": 1740,
+        "text": "новых."
+      },
+      {
+        "id": "w005",
+        "segment": 1,
+        "start_ms": 2060,
+        "end_ms": 2180,
+        "text": "Я"
+      },
+      {
+        "id": "w006",
+        "segment": 1,
+        "start_ms": 2180,
+        "end_ms": 2320,
+        "text": "еще"
+      },
+      {
+        "id": "w007",
+        "segment": 1,
+        "start_ms": 2320,
+        "end_ms": 2420,
+        "text": "не"
+      },
+      {
+        "id": "w008",
+        "segment": 1,
+        "start_ms": 2420,
+        "end_ms": 2620,
+        "text": "смог"
+      },
+      {
+        "id": "w009",
+        "segment": 1,
+        "start_ms": 2620,
+        "end_ms": 3200,
+        "text": "определиться"
+      },
+      {
+        "id": "w010",
+        "segment": 1,
+        "start_ms": 3200,
+        "end_ms": 3380,
+        "text": "с"
+      },
+      {
+        "id": "w011",
+        "segment": 1,
+        "start_ms": 3380,
+        "end_ms": 4320,
+        "text": "светом."
+      },
+      {
+        "id": "w012",
+        "segment": 1,
+        "start_ms": 4360,
+        "end_ms": 4370,
+        "text": "Попонятно"
+      },
+      {
+        "id": "w013",
+        "segment": 2,
+        "start_ms": 4760,
+        "end_ms": 5060,
+        "text": "какой"
+      },
+      {
+        "id": "w014",
+        "segment": 2,
+        "start_ms": 5060,
+        "end_ms": 5180,
+        "text": "-то"
+      },
+      {
+        "id": "w015",
+        "segment": 2,
+        "start_ms": 5180,
+        "end_ms": 5320,
+        "text": "свет,"
+      },
+      {
+        "id": "w016",
+        "segment": 2,
+        "start_ms": 5380,
+        "end_ms": 5480,
+        "text": "потому"
+      },
+      {
+        "id": "w017",
+        "segment": 2,
+        "start_ms": 5480,
+        "end_ms": 5640,
+        "text": "что"
+      },
+      {
+        "id": "w018",
+        "segment": 2,
+        "start_ms": 5640,
+        "end_ms": 5800,
+        "text": "то"
+      },
+      {
+        "id": "w019",
+        "segment": 2,
+        "start_ms": 5800,
+        "end_ms": 5900,
+        "text": "ли"
+      },
+      {
+        "id": "w020",
+        "segment": 2,
+        "start_ms": 5900,
+        "end_ms": 5980,
+        "text": "он"
+      },
+      {
+        "id": "w021",
+        "segment": 2,
+        "start_ms": 5980,
+        "end_ms": 6140,
+        "text": "будет"
+      },
+      {
+        "id": "w022",
+        "segment": 2,
+        "start_ms": 6140,
+        "end_ms": 6560,
+        "text": "красный,"
+      },
+      {
+        "id": "w023",
+        "segment": 2,
+        "start_ms": 6720,
+        "end_ms": 6820,
+        "text": "ли"
+      },
+      {
+        "id": "w024",
+        "segment": 2,
+        "start_ms": 6820,
+        "end_ms": 7260,
+        "text": "бордовый,"
+      },
+      {
+        "id": "w025",
+        "segment": 2,
+        "start_ms": 7360,
+        "end_ms": 7580,
+        "text": "или"
+      },
+      {
+        "id": "w026",
+        "segment": 2,
+        "start_ms": 7580,
+        "end_ms": 8180,
+        "text": "через"
+      },
+      {
+        "id": "w027",
+        "segment": 2,
+        "start_ms": 8180,
+        "end_ms": 8640,
+        "text": "жопу."
+      },
+      {
+        "id": "w028",
+        "segment": 2,
+        "start_ms": 8840,
+        "end_ms": 8920,
+        "text": "И"
+      },
+      {
+        "id": "w029",
+        "segment": 2,
+        "start_ms": 8920,
+        "end_ms": 8980,
+        "text": "мне"
+      },
+      {
+        "id": "w030",
+        "segment": 2,
+        "start_ms": 8980,
+        "end_ms": 9240,
+        "text": "пришлось"
+      },
+      {
+        "id": "w031",
+        "segment": 2,
+        "start_ms": 9240,
+        "end_ms": 9620,
+        "text": "заказать"
+      },
+      {
+        "id": "w032",
+        "segment": 2,
+        "start_ms": 9620,
+        "end_ms": 9780,
+        "text": "все"
+      },
+      {
+        "id": "w033",
+        "segment": 2,
+        "start_ms": 9780,
+        "end_ms": 10040,
+        "text": "три."
+      },
+      {
+        "id": "w034",
+        "segment": 3,
+        "start_ms": 10240,
+        "end_ms": 10480,
+        "text": "Поэтому,"
+      },
+      {
+        "id": "w035",
+        "segment": 3,
+        "start_ms": 10620,
+        "end_ms": 10840,
+        "text": "короче,"
+      },
+      {
+        "id": "w036",
+        "segment": 3,
+        "start_ms": 10900,
+        "end_ms": 11100,
+        "text": "можете"
+      },
+      {
+        "id": "w037",
+        "segment": 3,
+        "start_ms": 11100,
+        "end_ms": 11320,
+        "text": "меня"
+      },
+      {
+        "id": "w038",
+        "segment": 3,
+        "start_ms": 11320,
+        "end_ms": 11760,
+        "text": "пожелеть."
+      }
+    ]
+  },
+  "edits": {
+    "schema_version": 1,
+    "editor": "Sol",
+    "model": "gpt-6.1-sol",
+    "draft_sha256": "17c9b166915b54bcc9b4afe16a0c3dc32f502fde2c434d305ccd2a7ff9b1c961",
+    "edits": [
+      {
+        "word_ids": [
+          "w002"
+        ],
+        "text": "же"
+      },
+      {
+        "word_ids": [
+          "w006"
+        ],
+        "text": "ещё"
+      },
+      {
+        "word_ids": [
+          "w011"
+        ],
+        "text": "цветом."
+      },
+      {
+        "word_ids": [
+          "w012"
+        ],
+        "text": "Понятно"
+      },
+      {
+        "word_ids": [
+          "w013",
+          "w014",
+          "w015"
+        ],
+        "text": "какой цвет,"
+      },
+      {
+        "word_ids": [
+          "w024"
+        ],
+        "text": "бордовый, блять,"
+      },
+      {
+        "word_ids": [
+          "w025"
+        ],
+        "text": "то ли"
+      },
+      {
+        "word_ids": [
+          "w033"
+        ],
+        "text": "три,"
+      },
+      {
+        "word_ids": [
+          "w034"
+        ],
+        "text": "поэтому,"
+      },
+      {
+        "word_ids": [
+          "w038"
+        ],
+        "text": "пожалеть."
+      }
+    ]
+  },
+  "draft_sha256": "17c9b166915b54bcc9b4afe16a0c3dc32f502fde2c434d305ccd2a7ff9b1c961",
+  "edits_sha256": "7147c24d8cc1018f70f13cba713156abb11494ebfa8fb9137d429d742cfb45f1",
+  "source_items": [
+    {
+      "start_ms": 11466150,
+      "end_ms": 11466550,
+      "text": "Я",
+      "source_word_ids": [
+        "w001"
+      ]
+    },
+    {
+      "start_ms": 11466550,
+      "end_ms": 11466630,
+      "text": "же",
+      "source_word_ids": [
+        "w002"
+      ]
+    },
+    {
+      "start_ms": 11466630,
+      "end_ms": 11466970,
+      "text": "заказал",
+      "source_word_ids": [
+        "w003"
+      ]
+    },
+    {
+      "start_ms": 11466970,
+      "end_ms": 11467170,
+      "text": "новых.",
+      "source_word_ids": [
+        "w004"
+      ]
+    },
+    {
+      "start_ms": 11467490,
+      "end_ms": 11467610,
+      "text": "Я",
+      "source_word_ids": [
+        "w005"
+      ]
+    },
+    {
+      "start_ms": 11467610,
+      "end_ms": 11467750,
+      "text": "ещё",
+      "source_word_ids": [
+        "w006"
+      ]
+    },
+    {
+      "start_ms": 11467750,
+      "end_ms": 11467850,
+      "text": "не",
+      "source_word_ids": [
+        "w007"
+      ]
+    },
+    {
+      "start_ms": 11467850,
+      "end_ms": 11468050,
+      "text": "смог",
+      "source_word_ids": [
+        "w008"
+      ]
+    },
+    {
+      "start_ms": 11468050,
+      "end_ms": 11468630,
+      "text": "определиться",
+      "source_word_ids": [
+        "w009"
+      ]
+    },
+    {
+      "start_ms": 11468630,
+      "end_ms": 11468810,
+      "text": "с",
+      "source_word_ids": [
+        "w010"
+      ]
+    },
+    {
+      "start_ms": 11468810,
+      "end_ms": 11469750,
+      "text": "цветом.",
+      "source_word_ids": [
+        "w011"
+      ]
+    },
+    {
+      "start_ms": 11469790,
+      "end_ms": 11469800,
+      "text": "Понятно",
+      "source_word_ids": [
+        "w012"
+      ]
+    },
+    {
+      "start_ms": 11474300,
+      "end_ms": 11474860,
+      "text": "какой цвет,",
+      "source_word_ids": [
+        "w013",
+        "w014",
+        "w015"
+      ]
+    },
+    {
+      "start_ms": 11474920,
+      "end_ms": 11475020,
+      "text": "потому",
+      "source_word_ids": [
+        "w016"
+      ]
+    },
+    {
+      "start_ms": 11475020,
+      "end_ms": 11475180,
+      "text": "что",
+      "source_word_ids": [
+        "w017"
+      ]
+    },
+    {
+      "start_ms": 11475180,
+      "end_ms": 11475340,
+      "text": "то",
+      "source_word_ids": [
+        "w018"
+      ]
+    },
+    {
+      "start_ms": 11475340,
+      "end_ms": 11475440,
+      "text": "ли",
+      "source_word_ids": [
+        "w019"
+      ]
+    },
+    {
+      "start_ms": 11475440,
+      "end_ms": 11475520,
+      "text": "он",
+      "source_word_ids": [
+        "w020"
+      ]
+    },
+    {
+      "start_ms": 11475520,
+      "end_ms": 11475680,
+      "text": "будет",
+      "source_word_ids": [
+        "w021"
+      ]
+    },
+    {
+      "start_ms": 11475680,
+      "end_ms": 11476100,
+      "text": "красный,",
+      "source_word_ids": [
+        "w022"
+      ]
+    },
+    {
+      "start_ms": 11476260,
+      "end_ms": 11476360,
+      "text": "ли",
+      "source_word_ids": [
+        "w023"
+      ]
+    },
+    {
+      "start_ms": 11476360,
+      "end_ms": 11476800,
+      "text": "бордовый, блять,",
+      "source_word_ids": [
+        "w024"
+      ]
+    },
+    {
+      "start_ms": 11476900,
+      "end_ms": 11477120,
+      "text": "то ли",
+      "source_word_ids": [
+        "w025"
+      ]
+    },
+    {
+      "start_ms": 11477120,
+      "end_ms": 11477720,
+      "text": "через",
+      "source_word_ids": [
+        "w026"
+      ]
+    },
+    {
+      "start_ms": 11477720,
+      "end_ms": 11478180,
+      "text": "жопу.",
+      "source_word_ids": [
+        "w027"
+      ]
+    },
+    {
+      "start_ms": 11478380,
+      "end_ms": 11478460,
+      "text": "И",
+      "source_word_ids": [
+        "w028"
+      ]
+    },
+    {
+      "start_ms": 11478460,
+      "end_ms": 11478520,
+      "text": "мне",
+      "source_word_ids": [
+        "w029"
+      ]
+    },
+    {
+      "start_ms": 11478520,
+      "end_ms": 11478780,
+      "text": "пришлось",
+      "source_word_ids": [
+        "w030"
+      ]
+    },
+    {
+      "start_ms": 11478780,
+      "end_ms": 11479160,
+      "text": "заказать",
+      "source_word_ids": [
+        "w031"
+      ]
+    },
+    {
+      "start_ms": 11479160,
+      "end_ms": 11479320,
+      "text": "все",
+      "source_word_ids": [
+        "w032"
+      ]
+    },
+    {
+      "start_ms": 11479320,
+      "end_ms": 11479580,
+      "text": "три,",
+      "source_word_ids": [
+        "w033"
+      ]
+    },
+    {
+      "start_ms": 11482490,
+      "end_ms": 11482730,
+      "text": "поэтому,",
+      "source_word_ids": [
+        "w034"
+      ]
+    },
+    {
+      "start_ms": 11482870,
+      "end_ms": 11483090,
+      "text": "короче,",
+      "source_word_ids": [
+        "w035"
+      ]
+    },
+    {
+      "start_ms": 11483150,
+      "end_ms": 11483350,
+      "text": "можете",
+      "source_word_ids": [
+        "w036"
+      ]
+    },
+    {
+      "start_ms": 11483350,
+      "end_ms": 11483570,
+      "text": "меня",
+      "source_word_ids": [
+        "w037"
+      ]
+    },
+    {
+      "start_ms": 11483570,
+      "end_ms": 11484010,
+      "text": "пожалеть.",
+      "source_word_ids": [
+        "w038"
+      ]
+    }
+  ]
+}

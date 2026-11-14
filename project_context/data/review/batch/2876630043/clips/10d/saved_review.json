@@ -1,0 +1,214 @@
+{
+  "draft": {
+    "schema_version": 1,
+    "vod_id": "2876630043",
+    "clip_id": "PUB_10d",
+    "source_segments_ms": [
+      [
+        6833500,
+        6835840
+      ],
+      [
+        6839680,
+        6842460
+      ]
+    ],
+    "words": [
+      {
+        "id": "w001",
+        "segment": 1,
+        "start_ms": 0,
+        "end_ms": 1060,
+        "text": "7"
+      },
+      {
+        "id": "w002",
+        "segment": 1,
+        "start_ms": 1060,
+        "end_ms": 1680,
+        "text": "миллиардов,"
+      },
+      {
+        "id": "w003",
+        "segment": 1,
+        "start_ms": 1700,
+        "end_ms": 1820,
+        "text": "если"
+      },
+      {
+        "id": "w004",
+        "segment": 1,
+        "start_ms": 1820,
+        "end_ms": 2040,
+        "text": "что"
+      },
+      {
+        "id": "w005",
+        "segment": 1,
+        "start_ms": 2040,
+        "end_ms": 2340,
+        "text": "стоит,"
+      },
+      {
+        "id": "w006",
+        "segment": 2,
+        "start_ms": 2520,
+        "end_ms": 2780,
+        "text": "женика"
+      },
+      {
+        "id": "w007",
+        "segment": 2,
+        "start_ms": 2780,
+        "end_ms": 3160,
+        "text": "невеста"
+      },
+      {
+        "id": "w008",
+        "segment": 2,
+        "start_ms": 3160,
+        "end_ms": 3260,
+        "text": "на"
+      },
+      {
+        "id": "w009",
+        "segment": 2,
+        "start_ms": 3260,
+        "end_ms": 3700,
+        "text": "бойингах"
+      },
+      {
+        "id": "w010",
+        "segment": 2,
+        "start_ms": 3700,
+        "end_ms": 3840,
+        "text": "будет"
+      },
+      {
+        "id": "w011",
+        "segment": 2,
+        "start_ms": 3840,
+        "end_ms": 4200,
+        "text": "лететь."
+      }
+    ]
+  },
+  "edits": {
+    "schema_version": 1,
+    "editor": "Sol",
+    "model": "gpt-6.1-sol",
+    "draft_sha256": "8bfd98dad3255b00f2be94fa24338e50a6eb5d7062292dd9236136cb97134584",
+    "edits": [
+      {
+        "word_ids": [
+          "w001"
+        ],
+        "text": "Семь"
+      },
+      {
+        "word_ids": [
+          "w005"
+        ],
+        "text": "стоит."
+      },
+      {
+        "word_ids": [
+          "w006",
+          "w007"
+        ],
+        "text": "Жених и невеста"
+      },
+      {
+        "word_ids": [
+          "w009"
+        ],
+        "text": "«Боингах»"
+      }
+    ]
+  },
+  "draft_sha256": "8bfd98dad3255b00f2be94fa24338e50a6eb5d7062292dd9236136cb97134584",
+  "edits_sha256": "58cebae8183555741c1eb72210cca265af341e2f2f9016553556327dfadb2f2f",
+  "source_items": [
+    {
+      "start_ms": 6833500,
+      "end_ms": 6834560,
+      "text": "Семь",
+      "source_word_ids": [
+        "w001"
+      ]
+    },
+    {
+      "start_ms": 6834560,
+      "end_ms": 6835180,
+      "text": "миллиардов,",
+      "source_word_ids": [
+        "w002"
+      ]
+    },
+    {
+      "start_ms": 6835200,
+      "end_ms": 6835320,
+      "text": "если",
+      "source_word_ids": [
+        "w003"
+      ]
+    },
+    {
+      "start_ms": 6835320,
+      "end_ms": 6835540,
+      "text": "что",
+      "source_word_ids": [
+        "w004"
+      ]
+    },
+    {
+      "start_ms": 6835540,
+      "end_ms": 6835840,
+      "text": "стоит.",
+      "source_word_ids": [
+        "w005"
+      ]
+    },
+    {
+      "start_ms": 6839860,
+      "end_ms": 6840500,
+      "text": "Жених и невеста",
+      "source_word_ids": [
+        "w006",
+        "w007"
+      ]
+    },
+    {
+      "start_ms": 6840500,
+      "end_ms": 6840600,
+      "text": "на",
+      "source_word_ids": [
+        "w008"
+      ]
+    },
+    {
+      "start_ms": 6840600,
+      "end_ms": 6841040,
+      "text": "«Боингах»",
+      "source_word_ids": [
+        "w009"
+      ]
+    },
+    {
+      "start_ms": 6841040,
+      "end_ms": 6841180,
+      "text": "будет",
+      "source_word_ids": [
+        "w010"
+      ]
+    },
+    {
+      "start_ms": 6841180,
+      "end_ms": 6841540,
+      "text": "лететь.",
+      "source_word_ids": [
+        "w011"
+      ]
+    }
+  ]
+}

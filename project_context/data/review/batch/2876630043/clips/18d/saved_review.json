@@ -1,0 +1,866 @@
+{
+  "draft": {
+    "schema_version": 1,
+    "vod_id": "2876630043",
+    "clip_id": "PUB_18d",
+    "source_segments_ms": [
+      [
+        11907490,
+        11913350
+      ],
+      [
+        11936590,
+        11941030
+      ],
+      [
+        11960100,
+        11972980
+      ]
+    ],
+    "words": [
+      {
+        "id": "w001",
+        "segment": 1,
+        "start_ms": 0,
+        "end_ms": 260,
+        "text": "Если"
+      },
+      {
+        "id": "w002",
+        "segment": 1,
+        "start_ms": 260,
+        "end_ms": 420,
+        "text": "бы"
+      },
+      {
+        "id": "w003",
+        "segment": 1,
+        "start_ms": 420,
+        "end_ms": 860,
+        "text": "вам"
+      },
+      {
+        "id": "w004",
+        "segment": 1,
+        "start_ms": 860,
+        "end_ms": 1760,
+        "text": "дали"
+      },
+      {
+        "id": "w005",
+        "segment": 1,
+        "start_ms": 1760,
+        "end_ms": 2740,
+        "text": "возможность"
+      },
+      {
+        "id": "w006",
+        "segment": 1,
+        "start_ms": 2740,
+        "end_ms": 3740,
+        "text": "скипать"
+      },
+      {
+        "id": "w007",
+        "segment": 1,
+        "start_ms": 3740,
+        "end_ms": 4100,
+        "text": "время,"
+      },
+      {
+        "id": "w008",
+        "segment": 1,
+        "start_ms": 4920,
+        "end_ms": 5220,
+        "text": "вы"
+      },
+      {
+        "id": "w009",
+        "segment": 1,
+        "start_ms": 5220,
+        "end_ms": 5300,
+        "text": "бы"
+      },
+      {
+        "id": "w010",
+        "segment": 1,
+        "start_ms": 5300,
+        "end_ms": 5780,
+        "text": "скипали"
+      },
+      {
+        "id": "w011",
+        "segment": 1,
+        "start_ms": 5780,
+        "end_ms": 5860,
+        "text": "и"
+      },
+      {
+        "id": "w012",
+        "segment": 2,
+        "start_ms": 5900,
+        "end_ms": 6420,
+        "text": "ожидаешь,"
+      },
+      {
+        "id": "w013",
+        "segment": 2,
+        "start_ms": 6660,
+        "end_ms": 6880,
+        "text": "по"
+      },
+      {
+        "id": "w014",
+        "segment": 2,
+        "start_ms": 6880,
+        "end_ms": 7160,
+        "text": "-русс,"
+      },
+      {
+        "id": "w015",
+        "segment": 2,
+        "start_ms": 7580,
+        "end_ms": 7660,
+        "text": "ну"
+      },
+      {
+        "id": "w016",
+        "segment": 2,
+        "start_ms": 7660,
+        "end_ms": 8220,
+        "text": "случается"
+      },
+      {
+        "id": "w017",
+        "segment": 2,
+        "start_ms": 8220,
+        "end_ms": 8440,
+        "text": "что"
+      },
+      {
+        "id": "w018",
+        "segment": 2,
+        "start_ms": 8440,
+        "end_ms": 8560,
+        "text": "-то"
+      },
+      {
+        "id": "w019",
+        "segment": 2,
+        "start_ms": 8560,
+        "end_ms": 8840,
+        "text": "реально"
+      },
+      {
+        "id": "w020",
+        "segment": 2,
+        "start_ms": 8840,
+        "end_ms": 9440,
+        "text": "пиздаты,"
+      },
+      {
+        "id": "w021",
+        "segment": 2,
+        "start_ms": 9820,
+        "end_ms": 10240,
+        "text": "представьте,"
+      },
+      {
+        "id": "w022",
+        "segment": 3,
+        "start_ms": 10560,
+        "end_ms": 10660,
+        "text": "ну"
+      },
+      {
+        "id": "w023",
+        "segment": 3,
+        "start_ms": 10660,
+        "end_ms": 11300,
+        "text": "смотрите,"
+      },
+      {
+        "id": "w024",
+        "segment": 3,
+        "start_ms": 11880,
+        "end_ms": 11960,
+        "text": "вы"
+      },
+      {
+        "id": "w025",
+        "segment": 3,
+        "start_ms": 11960,
+        "end_ms": 12040,
+        "text": "бы"
+      },
+      {
+        "id": "w026",
+        "segment": 3,
+        "start_ms": 12040,
+        "end_ms": 12420,
+        "text": "скипали"
+      },
+      {
+        "id": "w027",
+        "segment": 3,
+        "start_ms": 12420,
+        "end_ms": 12680,
+        "text": "часть,"
+      },
+      {
+        "id": "w028",
+        "segment": 3,
+        "start_ms": 12820,
+        "end_ms": 13080,
+        "text": "например,"
+      },
+      {
+        "id": "w029",
+        "segment": 3,
+        "start_ms": 13300,
+        "end_ms": 13460,
+        "text": "либо"
+      },
+      {
+        "id": "w030",
+        "segment": 3,
+        "start_ms": 13460,
+        "end_ms": 13920,
+        "text": "работу,"
+      },
+      {
+        "id": "w031",
+        "segment": 3,
+        "start_ms": 14360,
+        "end_ms": 14680,
+        "text": "либо"
+      },
+      {
+        "id": "w032",
+        "segment": 3,
+        "start_ms": 14680,
+        "end_ms": 15300,
+        "text": "школу,"
+      },
+      {
+        "id": "w033",
+        "segment": 3,
+        "start_ms": 15360,
+        "end_ms": 15440,
+        "text": "да"
+      },
+      {
+        "id": "w034",
+        "segment": 3,
+        "start_ms": 15440,
+        "end_ms": 15780,
+        "text": "например,"
+      },
+      {
+        "id": "w035",
+        "segment": 3,
+        "start_ms": 16180,
+        "end_ms": 16760,
+        "text": "потом"
+      },
+      {
+        "id": "w036",
+        "segment": 3,
+        "start_ms": 16760,
+        "end_ms": 17460,
+        "text": "вам"
+      },
+      {
+        "id": "w037",
+        "segment": 3,
+        "start_ms": 17460,
+        "end_ms": 17600,
+        "text": "бы"
+      },
+      {
+        "id": "w038",
+        "segment": 3,
+        "start_ms": 17600,
+        "end_ms": 17940,
+        "text": "пришлось"
+      },
+      {
+        "id": "w039",
+        "segment": 3,
+        "start_ms": 17940,
+        "end_ms": 18220,
+        "text": "еще"
+      },
+      {
+        "id": "w040",
+        "segment": 3,
+        "start_ms": 18220,
+        "end_ms": 18520,
+        "text": "спать"
+      },
+      {
+        "id": "w041",
+        "segment": 3,
+        "start_ms": 18520,
+        "end_ms": 18820,
+        "text": "часов"
+      },
+      {
+        "id": "w042",
+        "segment": 3,
+        "start_ms": 18820,
+        "end_ms": 19060,
+        "text": "7"
+      },
+      {
+        "id": "w043",
+        "segment": 3,
+        "start_ms": 19060,
+        "end_ms": 19380,
+        "text": "-8,"
+      },
+      {
+        "id": "w044",
+        "segment": 3,
+        "start_ms": 19660,
+        "end_ms": 19800,
+        "text": "у"
+      },
+      {
+        "id": "w045",
+        "segment": 3,
+        "start_ms": 19800,
+        "end_ms": 19860,
+        "text": "вас"
+      },
+      {
+        "id": "w046",
+        "segment": 3,
+        "start_ms": 19860,
+        "end_ms": 20020,
+        "text": "бы"
+      },
+      {
+        "id": "w047",
+        "segment": 3,
+        "start_ms": 20020,
+        "end_ms": 20140,
+        "text": "для"
+      },
+      {
+        "id": "w048",
+        "segment": 3,
+        "start_ms": 20140,
+        "end_ms": 20420,
+        "text": "жизни"
+      },
+      {
+        "id": "w049",
+        "segment": 3,
+        "start_ms": 20420,
+        "end_ms": 20900,
+        "text": "оставалось,"
+      },
+      {
+        "id": "w050",
+        "segment": 3,
+        "start_ms": 21100,
+        "end_ms": 21160,
+        "text": "ну,"
+      },
+      {
+        "id": "w051",
+        "segment": 3,
+        "start_ms": 21300,
+        "end_ms": 21500,
+        "text": "дай"
+      },
+      {
+        "id": "w052",
+        "segment": 3,
+        "start_ms": 21500,
+        "end_ms": 21800,
+        "text": "бог,"
+      },
+      {
+        "id": "w053",
+        "segment": 3,
+        "start_ms": 21900,
+        "end_ms": 22100,
+        "text": "блять,"
+      },
+      {
+        "id": "w054",
+        "segment": 3,
+        "start_ms": 22400,
+        "end_ms": 22660,
+        "text": "5"
+      },
+      {
+        "id": "w055",
+        "segment": 3,
+        "start_ms": 22660,
+        "end_ms": 23000,
+        "text": "часов."
+      }
+    ]
+  },
+  "edits": {
+    "schema_version": 1,
+    "editor": "Sol",
+    "model": "gpt-6.1-sol",
+    "draft_sha256": "ecbee93e9b651736dd541385494c944594068ecab34cc4957f6d57f3509d5e39",
+    "edits": [
+      {
+        "word_ids": [
+          "w013",
+          "w014"
+        ],
+        "text": "порой"
+      },
+      {
+        "word_ids": [
+          "w020"
+        ],
+        "text": "пиздатое."
+      },
+      {
+        "word_ids": [
+          "w042",
+          "w043"
+        ],
+        "text": "7–8,"
+      }
+    ]
+  },
+  "draft_sha256": "ecbee93e9b651736dd541385494c944594068ecab34cc4957f6d57f3509d5e39",
+  "edits_sha256": "376378ee5bd46ec58c659eea7fe8163e3aa4afd04f4ad1cba5939da4dca6df2a",
+  "source_items": [
+    {
+      "start_ms": 11907490,
+      "end_ms": 11907750,
+      "text": "Если",
+      "source_word_ids": [
+        "w001"
+      ]
+    },
+    {
+      "start_ms": 11907750,
+      "end_ms": 11907910,
+      "text": "бы",
+      "source_word_ids": [
+        "w002"
+      ]
+    },
+    {
+      "start_ms": 11907910,
+      "end_ms": 11908350,
+      "text": "вам",
+      "source_word_ids": [
+        "w003"
+      ]
+    },
+    {
+      "start_ms": 11908350,
+      "end_ms": 11909250,
+      "text": "дали",
+      "source_word_ids": [
+        "w004"
+      ]
+    },
+    {
+      "start_ms": 11909250,
+      "end_ms": 11910230,
+      "text": "возможность",
+      "source_word_ids": [
+        "w005"
+      ]
+    },
+    {
+      "start_ms": 11910230,
+      "end_ms": 11911230,
+      "text": "скипать",
+      "source_word_ids": [
+        "w006"
+      ]
+    },
+    {
+      "start_ms": 11911230,
+      "end_ms": 11911590,
+      "text": "время,",
+      "source_word_ids": [
+        "w007"
+      ]
+    },
+    {
+      "start_ms": 11912410,
+      "end_ms": 11912710,
+      "text": "вы",
+      "source_word_ids": [
+        "w008"
+      ]
+    },
+    {
+      "start_ms": 11912710,
+      "end_ms": 11912790,
+      "text": "бы",
+      "source_word_ids": [
+        "w009"
+      ]
+    },
+    {
+      "start_ms": 11912790,
+      "end_ms": 11913270,
+      "text": "скипали",
+      "source_word_ids": [
+        "w010"
+      ]
+    },
+    {
+      "start_ms": 11913270,
+      "end_ms": 11913350,
+      "text": "и",
+      "source_word_ids": [
+        "w011"
+      ]
+    },
+    {
+      "start_ms": 11936630,
+      "end_ms": 11937150,
+      "text": "ожидаешь,",
+      "source_word_ids": [
+        "w012"
+      ]
+    },
+    {
+      "start_ms": 11937390,
+      "end_ms": 11937890,
+      "text": "порой",
+      "source_word_ids": [
+        "w013",
+        "w014"
+      ]
+    },
+    {
+      "start_ms": 11938310,
+      "end_ms": 11938390,
+      "text": "ну",
+      "source_word_ids": [
+        "w015"
+      ]
+    },
+    {
+      "start_ms": 11938390,
+      "end_ms": 11938950,
+      "text": "случается",
+      "source_word_ids": [
+        "w016"
+      ]
+    },
+    {
+      "start_ms": 11938950,
+      "end_ms": 11939170,
+      "text": "что",
+      "source_word_ids": [
+        "w017"
+      ]
+    },
+    {
+      "start_ms": 11939170,
+      "end_ms": 11939290,
+      "text": "-то",
+      "source_word_ids": [
+        "w018"
+      ]
+    },
+    {
+      "start_ms": 11939290,
+      "end_ms": 11939570,
+      "text": "реально",
+      "source_word_ids": [
+        "w019"
+      ]
+    },
+    {
+      "start_ms": 11939570,
+      "end_ms": 11940170,
+      "text": "пиздатое.",
+      "source_word_ids": [
+        "w020"
+      ]
+    },
+    {
+      "start_ms": 11940550,
+      "end_ms": 11940970,
+      "text": "представьте,",
+      "source_word_ids": [
+        "w021"
+      ]
+    },
+    {
+      "start_ms": 11960360,
+      "end_ms": 11960460,
+      "text": "ну",
+      "source_word_ids": [
+        "w022"
+      ]
+    },
+    {
+      "start_ms": 11960460,
+      "end_ms": 11961100,
+      "text": "смотрите,",
+      "source_word_ids": [
+        "w023"
+      ]
+    },
+    {
+      "start_ms": 11961680,
+      "end_ms": 11961760,
+      "text": "вы",
+      "source_word_ids": [
+        "w024"
+      ]
+    },
+    {
+      "start_ms": 11961760,
+      "end_ms": 11961840,
+      "text": "бы",
+      "source_word_ids": [
+        "w025"
+      ]
+    },
+    {
+      "start_ms": 11961840,
+      "end_ms": 11962220,
+      "text": "скипали",
+      "source_word_ids": [
+        "w026"
+      ]
+    },
+    {
+      "start_ms": 11962220,
+      "end_ms": 11962480,
+      "text": "часть,",
+      "source_word_ids": [
+        "w027"
+      ]
+    },
+    {
+      "start_ms": 11962620,
+      "end_ms": 11962880,
+      "text": "например,",
+      "source_word_ids": [
+        "w028"
+      ]
+    },
+    {
+      "start_ms": 11963100,
+      "end_ms": 11963260,
+      "text": "либо",
+      "source_word_ids": [
+        "w029"
+      ]
+    },
+    {
+      "start_ms": 11963260,
+      "end_ms": 11963720,
+      "text": "работу,",
+      "source_word_ids": [
+        "w030"
+      ]
+    },
+    {
+      "start_ms": 11964160,
+      "end_ms": 11964480,
+      "text": "либо",
+      "source_word_ids": [
+        "w031"
+      ]
+    },
+    {
+      "start_ms": 11964480,
+      "end_ms": 11965100,
+      "text": "школу,",
+      "source_word_ids": [
+        "w032"
+      ]
+    },
+    {
+      "start_ms": 11965160,
+      "end_ms": 11965240,
+      "text": "да",
+      "source_word_ids": [
+        "w033"
+      ]
+    },
+    {
+      "start_ms": 11965240,
+      "end_ms": 11965580,
+      "text": "например,",
+      "source_word_ids": [
+        "w034"
+      ]
+    },
+    {
+      "start_ms": 11965980,
+      "end_ms": 11966560,
+      "text": "потом",
+      "source_word_ids": [
+        "w035"
+      ]
+    },
+    {
+      "start_ms": 11966560,
+      "end_ms": 11967260,
+      "text": "вам",
+      "source_word_ids": [
+        "w036"
+      ]
+    },
+    {
+      "start_ms": 11967260,
+      "end_ms": 11967400,
+      "text": "бы",
+      "source_word_ids": [
+        "w037"
+      ]
+    },
+    {
+      "start_ms": 11967400,
+      "end_ms": 11967740,
+      "text": "пришлось",
+      "source_word_ids": [
+        "w038"
+      ]
+    },
+    {
+      "start_ms": 11967740,
+      "end_ms": 11968020,
+      "text": "еще",
+      "source_word_ids": [
+        "w039"
+      ]
+    },
+    {
+      "start_ms": 11968020,
+      "end_ms": 11968320,
+      "text": "спать",
+      "source_word_ids": [
+        "w040"
+      ]
+    },
+    {
+      "start_ms": 11968320,
+      "end_ms": 11968620,
+      "text": "часов",
+      "source_word_ids": [
+        "w041"
+      ]
+    },
+    {
+      "start_ms": 11968620,
+      "end_ms": 11969180,
+      "text": "7–8,",
+      "source_word_ids": [
+        "w042",
+        "w043"
+      ]
+    },
+    {
+      "start_ms": 11969460,
+      "end_ms": 11969600,
+      "text": "у",
+      "source_word_ids": [
+        "w044"
+      ]
+    },
+    {
+      "start_ms": 11969600,
+      "end_ms": 11969660,
+      "text": "вас",
+      "source_word_ids": [
+        "w045"
+      ]
+    },
+    {
+      "start_ms": 11969660,
+      "end_ms": 11969820,
+      "text": "бы",
+      "source_word_ids": [
+        "w046"
+      ]
+    },
+    {
+      "start_ms": 11969820,
+      "end_ms": 11969940,
+      "text": "для",
+      "source_word_ids": [
+        "w047"
+      ]
+    },
+    {
+      "start_ms": 11969940,
+      "end_ms": 11970220,
+      "text": "жизни",
+      "source_word_ids": [
+        "w048"
+      ]
+    },
+    {
+      "start_ms": 11970220,
+      "end_ms": 11970700,
+      "text": "оставалось,",
+      "source_word_ids": [
+        "w049"
+      ]
+    },
+    {
+      "start_ms": 11970900,
+      "end_ms": 11970960,
+      "text": "ну,",
+      "source_word_ids": [
+        "w050"
+      ]
+    },
+    {
+      "start_ms": 11971100,
+      "end_ms": 11971300,
+      "text": "дай",
+      "source_word_ids": [
+        "w051"
+      ]
+    },
+    {
+      "start_ms": 11971300,
+      "end_ms": 11971600,
+      "text": "бог,",
+      "source_word_ids": [
+        "w052"
+      ]
+    },
+    {
+      "start_ms": 11971700,
+      "end_ms": 11971900,
+      "text": "блять,",
+      "source_word_ids": [
+        "w053"
+      ]
+    },
+    {
+      "start_ms": 11972200,
+      "end_ms": 11972460,
+      "text": "5",
+      "source_word_ids": [
+        "w054"
+      ]
+    },
+    {
+      "start_ms": 11972460,
+      "end_ms": 11972800,
+      "text": "часов.",
+      "source_word_ids": [
+        "w055"
+      ]
+    }
+  ]
+}

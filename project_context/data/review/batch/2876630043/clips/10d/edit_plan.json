@@ -1,0 +1,180 @@
+{
+  "schema_version": 1,
+  "source": {
+    "vod_id": "2876630043",
+    "file": "data/vods/2876630043.mp4"
+  },
+  "editorial": {
+    "candidate_id": "10d",
+    "hero": "Evelone",
+    "source_plan": "data/review/codex_pilot/full_hq/data/review/contest/clips/PUB_10d/edit_plan.json",
+    "source_plan_sha256": "2389e8b69c46ddecc49300109d63ba35d2eae6b9f030d853d1ebb330141cf0cf",
+    "layout_family": "two_equal",
+    "layout_choice": "LOW",
+    "static_layout": true,
+    "caption_mode": "whole phrases",
+    "source_ad_rects": [
+      [
+        548,
+        466,
+        100,
+        66
+      ],
+      [
+        530,
+        530,
+        118,
+        66
+      ],
+      [
+        820,
+        194,
+        298,
+        370
+      ]
+    ],
+    "source_timebase": "HQ playback milliseconds",
+    "caption_timing": "saved HQ words as-is; no 480p shift",
+    "changes": "Reuse approved sound intervals; static image and whole-phrase captions"
+  },
+  "clips": [
+    {
+      "id": "BATCH_10d",
+      "title": "Свадьба за семь миллиардов и отменённый артист",
+      "export_size": [
+        1080,
+        1920
+      ],
+      "safe_margins": {
+        "left": 0.07222222222222222,
+        "right": 0.21666666666666667,
+        "top": 0,
+        "bottom": 0.41484375
+      },
+      "segments": [
+        {
+          "start_ms": 6833500,
+          "end_ms": 6835840,
+          "framing": {
+            "name": "two_equal_low",
+            "panels": [
+              {
+                "crop": [
+                  1286,
+                  140,
+                  540,
+                  404
+                ],
+                "place": [
+                  0,
+                  0,
+                  720,
+                  538
+                ]
+              },
+              {
+                "crop": [
+                  60,
+                  300,
+                  540,
+                  404
+                ],
+                "place": [
+                  0,
+                  742,
+                  720,
+                  538
+                ]
+              }
+            ],
+            "masks": [
+              [
+                650,
+                962,
+                70,
+                90
+              ],
+              [
+                626,
+                1048,
+                94,
+                90
+              ]
+            ]
+          },
+          "captions": [
+            {
+              "start_ms": 6833500,
+              "end_ms": 6835000,
+              "lines": [
+                "Свадьба за",
+                "семь миллиардов?"
+              ]
+            }
+          ]
+        },
+        {
+          "start_ms": 6839680,
+          "end_ms": 6842460,
+          "framing": {
+            "name": "two_equal_low",
+            "panels": [
+              {
+                "crop": [
+                  1286,
+                  140,
+                  540,
+                  404
+                ],
+                "place": [
+                  0,
+                  0,
+                  720,
+                  538
+                ]
+              },
+              {
+                "crop": [
+                  60,
+                  300,
+                  540,
+                  404
+                ],
+                "place": [
+                  0,
+                  742,
+                  720,
+                  538
+                ]
+              }
+            ],
+            "masks": [
+              [
+                650,
+                962,
+                70,
+                90
+              ],
+              [
+                626,
+                1048,
+                94,
+                90
+              ]
+            ]
+          },
+          "captions": [
+            {
+              "start_ms": 6839860,
+              "end_ms": 6841540,
+              "lines": [
+                "Жених и невеста на",
+                "«Боингах» будет лететь."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

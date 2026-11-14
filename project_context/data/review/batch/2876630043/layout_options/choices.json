@@ -1,0 +1,28 @@
+{
+  "editor": "Sol / current Codex editorial pass",
+  "choices": {
+    "solo": {
+      "selected": "SQUARE",
+      "reason": "Полное лицо, запас сверху и снизу; широкий вариант слишком мелкий, узкий ограничивает жесты."
+    },
+    "phone": {
+      "selected": "PREVIEW",
+      "reason": "Верхний общий план сохраняет лицо, кисти и раскрытие. Нижний квадрат отдельно увеличивает рабочую область предпросмотра."
+    },
+    "gameplay": {
+      "selected": "ACTION",
+      "reason": "Персонаж и его перемещение помещаются целиком. ZOOM теряет край движения, WIDE уменьшает действие."
+    },
+    "product": {
+      "selected": "WATCH_PRICE",
+      "reason": "Товар и точная исходная сумма показаны раздельно, без мелкого текста всей карточки."
+    },
+    "two_equal": {
+      "selected": "LOW",
+      "reason": "Сохранена утверждённая геометрия. Нижний источник сдвинут вверх в панели; целостность головы и UI подлежат отдельному контролю."
+    }
+  },
+  "same_source_frames_for_variants": true,
+  "ui_profiles": "Krumzi estimates",
+  "static_policy": "Places and camera crops are fixed within each clip. Empty action slots are masked until their actual source content appears."
+}

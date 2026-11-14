@@ -1,0 +1,5239 @@
+{
+  "schema_version": 1,
+  "vod_id": "2876630043",
+  "source": "data/vods/2876630043.mp4",
+  "source_resolution": [
+    1920,
+    1080
+  ],
+  "catalog": "../full_vod/candidates.json",
+  "catalog_sha256": "288fd60be4f5e0d6cdb43a1e409fe5fbebfb4406173c88ddd376147967da272a",
+  "catalog_counts": {
+    "ready": 73,
+    "reserve": 23,
+    "pending_visual": 0
+  },
+  "paths_relative_to": "HQ work root",
+  "priority_candidates": [
+    "12g",
+    "10d",
+    "17d"
+  ],
+  "timing_policy": {
+    "video": "same playback time as old VOD",
+    "direct_old_audio_offset_ms": -42.7,
+    "new_whisper_word_offset_ms": 0
+  },
+  "counts": {
+    "ready": 72,
+    "reserve": 24,
+    "rejected": 0,
+    "remaining": 0,
+    "remaining_catalog_ready": 0,
+    "remaining_catalog_reserve": 0,
+    "by_status": {
+      "ready": 72,
+      "reserve": 24
+    }
+  },
+  "next_unfinished": null,
+  "first_three": [
+    "data/review/mvp/2876630043/HQ_12g/HQ_12g.mp4",
+    "data/review/mvp/2876630043/HQ_10d/HQ_10d.mp4",
+    "data/review/mvp/2876630043/HQ_17d/HQ_17d.mp4"
+  ],
+  "episodes": [
+    {
+      "candidate_id": "12g",
+      "clip_id": "HQ_12g",
+      "catalog_status": "ready",
+      "catalog_title": "«Тр-р-р, народ!» — старое приветствие за 75 000 ₽",
+      "catalog_interval_ms": [
+        8078017,
+        8146530
+      ],
+      "catalog_reason": "",
+      "status": "ready",
+      "files": {
+        "plan": "data/review/editorial/12g/edit_plan.json",
+        "draft": "data/review/editorial/12g/word_draft.json",
+        "edits": "data/review/editorial/12g/sol_edits.json",
+        "flags": "data/review/editorial/12g/subtitle_flags.json",
+        "qa": "data/review/editorial/12g/qa.json",
+        "mp4": "data/review/mvp/2876630043/HQ_12g/HQ_12g.mp4",
+        "ass": "data/review/mvp/2876630043/HQ_12g/HQ_12g.ass",
+        "manifest": "data/review/mvp/2876630043/HQ_12g/manifest.json"
+      },
+      "title": "«Тр-р-р, народ!» за 75 000 ₽",
+      "reason": "Начать с раскатистого приветствия и смеха, затем показать вопрос и выбор. Оставить зелёное подтверждение и 75 000 ₽ на подлинном табло.",
+      "duration_ms": 22740,
+      "verification": {
+        "frames": 682,
+        "sampled_frames": [
+          0,
+          18,
+          25,
+          36,
+          51,
+          52,
+          54,
+          92,
+          132,
+          133,
+          206,
+          279,
+          280,
+          362,
+          444,
+          445,
+          563,
+          680,
+          681
+        ],
+        "seam_frames": [
+          51,
+          52,
+          132,
+          133,
+          279,
+          280,
+          444,
+          445
+        ],
+        "mp4_duration_s": 22.74,
+        "dimensions": [
+          720,
+          1280
+        ],
+        "decoded_audio_and_video": true,
+        "word_markers": 41,
+        "ass_speech_events": 38,
+        "highlight_events": 25,
+        "seams_ms": [
+          1730,
+          4430,
+          9340,
+          14840
+        ],
+        "visual_review": "В кадрах готового MP4 видны реакция Ильи, точное написание варианта D, вопрос, смена синего на жёлтый и зелёное подтверждение 75 000 ₽. Проверены кадры по обе стороны четырёх склеек и читаемость титров."
+      }
+    },
+    {
+      "candidate_id": "10d",
+      "clip_id": "HQ_10d",
+      "catalog_status": "ready",
+      "catalog_title": "Свадьба за семь миллиардов и отменённый артист",
+      "catalog_interval_ms": [
+        6803110,
+        6858820
+      ],
+      "catalog_reason": "",
+      "status": "ready",
+      "files": {
+        "plan": "data/review/editorial/10d/edit_plan.json",
+        "draft": "data/review/editorial/10d/word_draft.json",
+        "edits": "data/review/editorial/10d/sol_edits.json",
+        "flags": "data/review/editorial/10d/subtitle_flags.json",
+        "qa": "data/review/editorial/10d/qa.json",
+        "mp4": "data/review/mvp/2876630043/HQ_10d/HQ_10d.mp4",
+        "ass": "data/review/mvp/2876630043/HQ_10d/HQ_10d.ass",
+        "manifest": "data/review/mvp/2876630043/HQ_10d/manifest.json"
+      },
+      "title": "Свадьба за семь миллиардов",
+      "reason": "Сразу дать сумму свадьбы, оставить нарастание от Boeing до отменённого концерта, а после финальной реплики дать короткую реакцию.",
+      "duration_ms": 21550,
+      "verification": {
+        "frames": 647,
+        "sampled_frames": [
+          0,
+          18,
+          36,
+          54,
+          134,
+          268,
+          269,
+          428,
+          587,
+          588,
+          617,
+          645,
+          646
+        ],
+        "seam_frames": [
+          268,
+          269,
+          587,
+          588
+        ],
+        "mp4_duration_s": 21.566667,
+        "dimensions": [
+          720,
+          1280
+        ],
+        "decoded_audio_and_video": true,
+        "word_markers": 61,
+        "ass_speech_events": 55,
+        "highlight_events": 43,
+        "seams_ms": [
+          8960,
+          19607
+        ],
+        "visual_review": "После пересборки с поправкой −42,7 мс на перенесённой звуковой границе проверены кадры до и после двух склеек, читаемый хук про семь миллиардов и финальная фраза «Мы тогда тебя тоже отменим» с пословной подсветкой."
+      }
+    },
+    {
+      "candidate_id": "17d",
+      "clip_id": "HQ_17d",
+      "catalog_status": "ready",
+      "catalog_title": "Складной телефон, планшет и селфи",
+      "catalog_interval_ms": [
+        11231960,
+        11333690
+      ],
+      "catalog_reason": "",
+      "status": "ready",
+      "files": {
+        "plan": "data/review/editorial/17d/edit_plan.json",
+        "draft": "data/review/editorial/17d/word_draft.json",
+        "edits": "data/review/editorial/17d/sol_edits.json",
+        "flags": "data/review/editorial/17d/subtitle_flags.json",
+        "qa": "data/review/editorial/17d/qa.json",
+        "mp4": "data/review/mvp/2876630043/HQ_17d/HQ_17d.mp4",
+        "ass": "data/review/mvp/2876630043/HQ_17d/HQ_17d.ass",
+        "manifest": "data/review/mvp/2876630043/HQ_17d/manifest.json"
+      },
+      "title": "Складной телефон и предпросмотр камеры",
+      "reason": "Открыть физическим раскрытием телефона, затем показать форму планшета и закончить фактическим предпросмотром камеры и объяснением.",
+      "duration_ms": 14150,
+      "verification": {
+        "frames": 425,
+        "sampled_frames": [
+          0,
+          18,
+          36,
+          48,
+          54,
+          96,
+          97,
+          131,
+          165,
+          166,
+          259,
+          352,
+          353,
+          388,
+          423,
+          424
+        ],
+        "seam_frames": [
+          96,
+          97,
+          165,
+          166,
+          352,
+          353
+        ],
+        "mp4_duration_s": 14.166667,
+        "dimensions": [
+          720,
+          1280
+        ],
+        "decoded_audio_and_video": true,
+        "word_markers": 33,
+        "ass_speech_events": 31,
+        "highlight_events": 26,
+        "seams_ms": [
+          3240,
+          5520,
+          11760
+        ],
+        "visual_review": "В кадрах готового MP4 аппарат раскрывается в первые 1,2 с. Крупные планы показывают внешний экран с предпросмотром камеры, титры не перекрывают телефон. Проверены кадры по обе стороны трёх склеек."
+      }
+    },
+    {
+      "candidate_id": "01b",
+      "clip_id": "HQ_01b",
+      "catalog_status": "ready",
+      "catalog_title": "Красная подсветка как декорация",
+      "catalog_interval_ms": [
+        87520,
+        97100
+      ],
+      "catalog_reason": "",
+      "status": "ready",
+      "files": {
+        "plan": "data/review/editorial/01b/edit_plan.json",
+        "draft": "data/review/editorial/01b/word_draft.json",
+        "edits": "data/review/editorial/01b/sol_edits.json",
+        "flags": "data/review/editorial/01b/subtitle_flags.json",
+        "qa": "data/review/editorial/01b/qa.json",
+        "mp4": "data/review/mvp/2876630043/HQ_01b/HQ_01b.mp4",
+        "ass": "data/review/mvp/2876630043/HQ_01b/HQ_01b.ass",
+        "manifest": "data/review/mvp/2876630043/HQ_01b/manifest.json"
+      },
+      "title": "Красная подсветка как декорация",
+      "reason": "Красный диван и подсветка делают шутку понятной без контекста.",
+      "duration_ms": 5830,
+      "verification": {
+        "frames": 175,
+        "sampled_frames": [
+          0,
+          18,
+          36,
+          54,
+          57,
+          114,
+          115,
+          144,
+          173,
+          174
+        ],
+        "seam_frames": [
+          114,
+          115
+        ],
+        "mp4_duration_s": 5.833333,
+        "dimensions": [
+          720,
+          1280
+        ],
+        "decoded_audio_and_video": true,
+        "word_markers": 15,
+        "ass_speech_events": 14,
+        "highlight_events": 11,
+        "seams_ms": [
+          3840
+        ]
+      }
+    },
+    {
+      "candidate_id": "01d",
+      "clip_id": "HQ_01d",
+      "catalog_status": "ready",
+      "catalog_title": "Почему зрители додумывают медиаконфликты",
+      "catalog_interval_ms": [
+        225230,
+        278840
+      ],
+      "catalog_reason": "",
+      "status": "ready",
+      "files": {
+        "plan": "data/review/editorial/01d/edit_plan.json",
+        "draft": "data/review/editorial/01d/word_draft.json",
+        "edits": "data/review/editorial/01d/sol_edits.json",
+        "flags": "data/review/editorial/01d/subtitle_flags.json",
+        "qa": "data/review/editorial/01d/qa.json",
+        "mp4": "data/review/mvp/2876630043/HQ_01d/HQ_01d.mp4",
+        "ass": "data/review/mvp/2876630043/HQ_01d/HQ_01d.ass",
+        "manifest": "data/review/mvp/2876630043/HQ_01d/manifest.json"
+      },
+      "title": "Почему зрители додумывают медиаконфликты",
+      "reason": "Начать с тезиса о публичности, оставить объяснение и смешную иллюстрацию, убрать повтор вопроса.",
+      "duration_ms": 38330,
+      "verification": {
+        "frames": 1150,
+        "sampled_frames": [
+          0,
+          18,
+          36,
+          54,
+          440,
+          881,
+          882,
+          1015,
+          1148,
+          1149
+        ],
+        "seam_frames": [
+          881,
+          882
+        ],
+        "mp4_duration_s": 38.333333,
+        "dimensions": [
+          720,
+          1280
+        ],
+        "decoded_audio_and_video": true,
+        "word_markers": 99,
+        "ass_speech_events": 108,
+        "highlight_events": 91,
+        "seams_ms": [
+          29410
+        ]
+      }
+    },
+    {
+      "candidate_id": "01e",
+      "clip_id": "HQ_01e",
+      "catalog_status": "ready",
+      "catalog_title": "Ссора Деки и База из-за игры два на два",
+      "catalog_interval_ms": [
+        355320,
+        435680
+      ],
+      "catalog_reason": "",
+      "status": "ready",
+      "files": {
+        "plan": "data/review/editorial/01e/edit_plan.json",
+        "draft": "data/review/editorial/01e/word_draft.json",
+        "edits": "data/review/editorial/01e/sol_edits.json",
+        "flags": "data/review/editorial/01e/subtitle_flags.json",
+        "qa": "data/review/editorial/01e/qa.json",
+        "mp4": "data/review/mvp/2876630043/HQ_01e/HQ_01e.mp4",
+        "ass": "data/review/mvp/2876630043/HQ_01e/HQ_01e.ass",
+        "manifest": "data/review/mvp/2876630043/HQ_01e/manifest.json"
+      },
+      "title": "Как Дека и Баз поссорились из-за игры 2 на 2",
+      "reason": "Убрать спор с чатом и объяснение про состав. В коротком пересказе сохранить оговорку говорящего о деталях.",
+      "duration_ms": 30340,
+      "verification": {
+        "frames": 910,
+        "sampled_frames": [
+          0,
+          18,
+          36,
+          37,
+          54,
+          75,
+          76,
+          344,
+          613,
+          614,
+          761,
+          908,
+          909
+        ],
+        "seam_frames": [
+          75,
+          76,
+          613,
+          614
+        ],
+        "mp4_duration_s": 30.34,
+        "dimensions": [
+          720,
+          1280
+        ],
+        "decoded_audio_and_video": true,
+        "word_markers": 117,
+        "ass_speech_events": 126,
+        "highlight_events": 100,
+        "seams_ms": [
+          2540,
+          20470
+        ]
+      }
+    },
+    {
+      "candidate_id": "01f",
+      "clip_id": "HQ_01f",
+      "catalog_status": "ready",
+      "catalog_title": "Затянул сбор состава и потерял возможность забрать игрока",
+      "catalog_interval_ms": [
+        436640,
+        575100
+      ],
+      "catalog_reason": "",
+      "status": "ready",
+      "files": {
+        "plan": "data/review/editorial/01f/edit_plan.json",
+        "draft": "data/review/editorial/01f/word_draft.json",
+        "edits": "data/review/editorial/01f/sol_edits.json",
+        "flags": "data/review/editorial/01f/subtitle_flags.json",
+        "qa": "data/review/editorial/01f/qa.json",
+        "mp4": "data/review/mvp/2876630043/HQ_01f/HQ_01f.mp4",
+        "ass": "data/review/mvp/2876630043/HQ_01f/HQ_01f.ass",
+        "manifest": "data/review/mvp/2876630043/HQ_01f/manifest.json"
+      },
+      "title": "Как затянули со сбором состава и потеряли игрока",
+      "reason": "Оставить цепочку от затянувшегося решения до результатов игрока в другом составе.",
+      "duration_ms": 31180,
+      "verification": {
+        "frames": 935,
+        "sampled_frames": [
+          0,
+          18,
+          36,
+          54,
+          171,
+          343,
+          344,
+          443,
+          542,
+          543,
+          738,
+          933,
+          934
+        ],
+        "seam_frames": [
+          343,
+          344,
+          542,
+          543
+        ],
+        "mp4_duration_s": 31.18,
+        "dimensions": [
+          720,
+          1280
+        ],
+        "decoded_audio_and_video": true,
+        "word_markers": 98,
+        "ass_speech_events": 100,
+        "highlight_events": 87,
+        "seams_ms": [
+          11450,
+          18100
+        ]
+      }
+    },
+    {
+      "candidate_id": "01g",
+      "clip_id": "HQ_01g",
+      "catalog_status": "ready",
+      "catalog_title": "Предложили проходку на мейджор",
+      "catalog_interval_ms": [
+        649430,
+        715160
+      ],
+      "catalog_reason": "",
+      "status": "ready",
+      "files": {
+        "plan": "data/review/editorial/01g/edit_plan.json",
+        "draft": "data/review/editorial/01g/word_draft.json",
+        "edits": "data/review/editorial/01g/sol_edits.json",
+        "flags": "data/review/editorial/01g/subtitle_flags.json",
+        "qa": "data/review/editorial/01g/qa.json",
+        "mp4": "data/review/mvp/2876630043/HQ_01g/HQ_01g.mp4",
+        "ass": "data/review/mvp/2876630043/HQ_01g/HQ_01g.ass",
+        "manifest": "data/review/mvp/2876630043/HQ_01g/manifest.json"
+      },
+      "title": "Предложили проходку на мейджор",
+      "reason": "Сохранить само предложение, план сильного состава, сомнения и решение отказаться.",
+      "duration_ms": 44210,
+      "verification": {
+        "frames": 1326,
+        "sampled_frames": [
+          0,
+          18,
+          36,
+          49,
+          54,
+          98,
+          99,
+          389,
+          679,
+          680,
+          764,
+          849,
+          850,
+          1087,
+          1324,
+          1325
+        ],
+        "seam_frames": [
+          98,
+          99,
+          679,
+          680,
+          849,
+          850
+        ],
+        "mp4_duration_s": 44.21,
+        "dimensions": [
+          720,
+          1280
+        ],
+        "decoded_audio_and_video": true,
+        "word_markers": 119,
+        "ass_speech_events": 127,
+        "highlight_events": 105,
+        "seams_ms": [
+          3300,
+          22660,
+          28330
+        ]
+      }
+    },
+    {
+      "candidate_id": "02a",
+      "clip_id": "HQ_02a",
+      "catalog_status": "ready",
+      "catalog_title": "Команда фидила, зато он фармил деньги",
+      "catalog_interval_ms": [
+        759320,
+        804890
+      ],
+      "catalog_reason": "",
+      "status": "ready",
+      "files": {
+        "plan": "data/review/editorial/02a/edit_plan.json",
+        "draft": "data/review/editorial/02a/word_draft.json",
+        "edits": "data/review/editorial/02a/sol_edits.json",
+        "flags": "data/review/editorial/02a/subtitle_flags.json",
+        "qa": "data/review/editorial/02a/qa.json",
+        "mp4": "data/review/mvp/2876630043/HQ_02a/HQ_02a.mp4",
+        "ass": "data/review/mvp/2876630043/HQ_02a/HQ_02a.ass",
+        "manifest": "data/review/mvp/2876630043/HQ_02a/manifest.json"
+      },
+      "title": "Команда фидила, зато он фармил деньги",
+      "reason": "Начать с результата и короткого «Соло, честно». График переводит шутку о фарме в шутку о доходе от рекламы.",
+      "duration_ms": 26310,
+      "verification": {
+        "frames": 789,
+        "sampled_frames": [
+          0,
+          18,
+          24,
+          36,
+          49,
+          50,
+          54,
+          121,
+          192,
+          193,
+          304,
+          416,
+          417,
+          602,
+          787,
+          788
+        ],
+        "seam_frames": [
+          49,
+          50,
+          192,
+          193,
+          416,
+          417
+        ],
+        "mp4_duration_s": 26.31,
+        "dimensions": [
+          720,
+          1280
+        ],
+        "decoded_audio_and_video": true,
+        "word_markers": 68,
+        "ass_speech_events": 69,
+        "highlight_events": 52,
+        "seams_ms": [
+          1660,
+          6420,
+          13900
+        ]
+      }
+    },
+    {
+      "candidate_id": "02b",
+      "clip_id": "HQ_02b",
+      "catalog_status": "ready",
+      "catalog_title": "После ухода игрока — какой разговор стоило провести",
+      "catalog_interval_ms": [
+        808750,
+        948170
+      ],
+      "catalog_reason": "",
+      "status": "ready",
+      "files": {
+        "plan": "data/review/editorial/02b/edit_plan.json",
+        "draft": "data/review/editorial/02b/word_draft.json",
+        "edits": "data/review/editorial/02b/sol_edits.json",
+        "flags": "data/review/editorial/02b/subtitle_flags.json",
+        "qa": "data/review/editorial/02b/qa.json",
+        "mp4": "data/review/mvp/2876630043/HQ_02b/HQ_02b.mp4",
+        "ass": "data/review/mvp/2876630043/HQ_02b/HQ_02b.ass",
+        "manifest": "data/review/mvp/2876630043/HQ_02b/manifest.json"
+      },
+      "title": "Что стоило сказать Тёме перед уходом из WT",
+      "reason": "Из реакции на пост перейти к конкретному примеру личного разговора, который стример предлагает Ване.",
+      "duration_ms": 46990,
+      "verification": {
+        "frames": 1410,
+        "sampled_frames": [
+          0,
+          18,
+          36,
+          54,
+          233,
+          467,
+          468,
+          547,
+          627,
+          628,
+          884,
+          1141,
+          1142,
+          1275,
+          1408,
+          1409
+        ],
+        "seam_frames": [
+          467,
+          468,
+          627,
+          628,
+          1141,
+          1142
+        ],
+        "mp4_duration_s": 47.0,
+        "dimensions": [
+          720,
+          1280
+        ],
+        "decoded_audio_and_video": true,
+        "word_markers": 123,
+        "ass_speech_events": 121,
+        "highlight_events": 92,
+        "seams_ms": [
+          15590,
+          20920,
+          38080
+        ]
+      }
+    },
+    {
+      "candidate_id": "02c",
+      "clip_id": "HQ_02c",
+      "catalog_status": "ready",
+      "catalog_title": "Публичный пост вместо разговора в личке",
+      "catalog_interval_ms": [
+        1019060,
+        1150200
+      ],
+      "catalog_reason": "",
+      "status": "ready",
+      "files": {
+        "plan": "data/review/editorial/02c/edit_plan.json",
+        "draft": "data/review/editorial/02c/word_draft.json",
+        "edits": "data/review/editorial/02c/sol_edits.json",
+        "flags": "data/review/editorial/02c/subtitle_flags.json",
+        "qa": "data/review/editorial/02c/qa.json",
+        "mp4": "data/review/mvp/2876630043/HQ_02c/HQ_02c.mp4",
+        "ass": "data/review/mvp/2876630043/HQ_02c/HQ_02c.ass",
+        "manifest": "data/review/mvp/2876630043/HQ_02c/manifest.json"
+      },
+      "title": "Публичный пост вместо разговора в личке",
+      "reason": "Оставить случай со Славой, чтобы вывод о личном разговоре опирался на собственный опыт рассказчика.",
+      "duration_ms": 47690,
+      "verification": {
+        "frames": 1431,
+        "sampled_frames": [
+          0,
+          18,
+          36,
+          54,
+          81,
+          162,
+          163,
+          612,
+          1061,
+          1062,
+          1246,
+          1429,
+          1430
+        ],
+        "seam_frames": [
+          162,
+          163,
+          1061,
+          1062
+        ],
+        "mp4_duration_s": 47.7,
+        "dimensions": [
+          720,
+          1280
+        ],
+        "decoded_audio_and_video": true,
+        "word_markers": 145,
+        "ass_speech_events": 132,
+        "highlight_events": 102,
+        "seams_ms": [
+          5420,
+          35400
+        ]
+      }
+    },
+    {
+      "candidate_id": "02e",
+      "clip_id": "HQ_02e",
+      "catalog_status": "ready",
+      "catalog_title": "Почему разошлись со Строго",
+      "catalog_interval_ms": [
+        1274040,
+        1389870
+      ],
+      "catalog_reason": "",
+      "status": "ready",
+      "files": {
+        "plan": "data/review/editorial/02e/edit_plan.json",
+        "draft": "data/review/editorial/02e/word_draft.json",
+        "edits": "data/review/editorial/02e/sol_edits.json",
+        "flags": "data/review/editorial/02e/subtitle_flags.json",
+        "qa": "data/review/editorial/02e/qa.json",
+        "mp4": "data/review/mvp/2876630043/HQ_02e/HQ_02e.mp4",
+        "ass": "data/review/mvp/2876630043/HQ_02e/HQ_02e.ass",
+        "manifest": "data/review/mvp/2876630043/HQ_02e/manifest.json"
+      },
+      "title": "Почему разошлись со Строго",
+      "reason": "На вопрос об отдалении ответить конкретными примерами несовпавших интересов и закончить оценкой самого рассказчика.",
+      "duration_ms": 50320,
+      "verification": {
+        "frames": 1510,
+        "sampled_frames": [
+          0,
+          18,
+          36,
+          54,
+          82,
+          165,
+          166,
+          385,
+          604,
+          605,
+          751,
+          898,
+          899,
+          1065,
+          1232,
+          1233,
+          1371,
+          1508,
+          1509
+        ],
+        "seam_frames": [
+          165,
+          166,
+          604,
+          605,
+          898,
+          899,
+          1232,
+          1233
+        ],
+        "mp4_duration_s": 50.333333,
+        "dimensions": [
+          720,
+          1280
+        ],
+        "decoded_audio_and_video": true,
+        "word_markers": 158,
+        "ass_speech_events": 160,
+        "highlight_events": 138,
+        "seams_ms": [
+          5530,
+          20150,
+          29950,
+          41110
+        ]
+      }
+    },
+    {
+      "candidate_id": "03a",
+      "clip_id": "HQ_03a",
+      "catalog_status": "ready",
+      "catalog_title": "Договорились кастить мейджор, но оба поняли молчание по-разному",
+      "catalog_interval_ms": [
+        1405840,
+        1504480
+      ],
+      "catalog_reason": "",
+      "status": "ready",
+      "files": {
+        "plan": "data/review/editorial/03a/edit_plan.json",
+        "draft": "data/review/editorial/03a/word_draft.json",
+        "edits": "data/review/editorial/03a/sol_edits.json",
+        "flags": "data/review/editorial/03a/subtitle_flags.json",
+        "qa": "data/review/editorial/03a/qa.json",
+        "mp4": "data/review/mvp/2876630043/HQ_03a/HQ_03a.mp4",
+        "ass": "data/review/mvp/2876630043/HQ_03a/HQ_03a.ass",
+        "manifest": "data/review/mvp/2876630043/HQ_03a/manifest.json"
+      },
+      "title": "Договорились кастить мейджор, но оба поняли молчание по-разному",
+      "reason": "Свести историю к договорённости, паузе и двум разным объяснениям, которые вскрылись в переписке.",
+      "duration_ms": 47340,
+      "verification": {
+        "frames": 1420,
+        "sampled_frames": [
+          0,
+          18,
+          28,
+          36,
+          54,
+          56,
+          57,
+          173,
+          290,
+          291,
+          370,
+          450,
+          451,
+          935,
+          1418,
+          1419
+        ],
+        "seam_frames": [
+          56,
+          57,
+          290,
+          291,
+          450,
+          451
+        ],
+        "mp4_duration_s": 47.34,
+        "dimensions": [
+          720,
+          1280
+        ],
+        "decoded_audio_and_video": true,
+        "word_markers": 164,
+        "ass_speech_events": 172,
+        "highlight_events": 142,
+        "seams_ms": [
+          1890,
+          9690,
+          15040
+        ]
+      }
+    },
+    {
+      "candidate_id": "03d",
+      "clip_id": "HQ_03d",
+      "catalog_status": "ready",
+      "catalog_title": "Тост и план на свадьбу Эксайла",
+      "catalog_interval_ms": [
+        1860120,
+        1881280
+      ],
+      "catalog_reason": "",
+      "status": "ready",
+      "files": {
+        "plan": "data/review/editorial/03d/edit_plan.json",
+        "draft": "data/review/editorial/03d/word_draft.json",
+        "edits": "data/review/editorial/03d/sol_edits.json",
+        "flags": "data/review/editorial/03d/subtitle_flags.json",
+        "qa": "data/review/editorial/03d/qa.json",
+        "mp4": "data/review/mvp/2876630043/HQ_03d/HQ_03d.mp4",
+        "ass": "data/review/mvp/2876630043/HQ_03d/HQ_03d.ass",
+        "manifest": "data/review/mvp/2876630043/HQ_03d/manifest.json"
+      },
+      "title": "Тост и план на свадьбу Эксайла",
+      "reason": "Оставить тост как короткую подводку к плану на первые полчаса свадьбы.",
+      "duration_ms": 13130,
+      "verification": {
+        "frames": 394,
+        "sampled_frames": [
+          0,
+          18,
+          36,
+          54,
+          61,
+          122,
+          123,
+          258,
+          392,
+          393
+        ],
+        "seam_frames": [
+          122,
+          123
+        ],
+        "mp4_duration_s": 13.133333,
+        "dimensions": [
+          720,
+          1280
+        ],
+        "decoded_audio_and_video": true,
+        "word_markers": 35,
+        "ass_speech_events": 35,
+        "highlight_events": 30,
+        "seams_ms": [
+          4110
+        ]
+      }
+    },
+    {
+      "candidate_id": "03g",
+      "clip_id": "HQ_03g",
+      "catalog_status": "ready",
+      "catalog_title": "Предсказал, как Максим возьмёт трубку",
+      "catalog_interval_ms": [
+        2005820,
+        2044740
+      ],
+      "catalog_reason": "",
+      "status": "ready",
+      "files": {
+        "plan": "data/review/editorial/03g/edit_plan.json",
+        "draft": "data/review/editorial/03g/word_draft.json",
+        "edits": "data/review/editorial/03g/sol_edits.json",
+        "flags": "data/review/editorial/03g/subtitle_flags.json",
+        "qa": "data/review/editorial/03g/qa.json",
+        "mp4": "data/review/mvp/2876630043/HQ_03g/HQ_03g.mp4",
+        "ass": "data/review/mvp/2876630043/HQ_03g/HQ_03g.ass",
+        "manifest": "data/review/mvp/2876630043/HQ_03g/manifest.json"
+      },
+      "title": "Предсказал, как Максим возьмёт трубку",
+      "reason": "Оставить ожидание у звонка: именно первые слова Максима подтверждают прогноз.",
+      "duration_ms": 17950,
+      "verification": {
+        "frames": 539,
+        "sampled_frames": [
+          0,
+          18,
+          36,
+          54,
+          61,
+          123,
+          124,
+          331,
+          537,
+          538
+        ],
+        "seam_frames": [
+          123,
+          124
+        ],
+        "mp4_duration_s": 17.966667,
+        "dimensions": [
+          720,
+          1280
+        ],
+        "decoded_audio_and_video": true,
+        "word_markers": 32,
+        "ass_speech_events": 33,
+        "highlight_events": 28,
+        "seams_ms": [
+          4140
+        ]
+      }
+    },
+    {
+      "candidate_id": "03i",
+      "clip_id": "HQ_03i",
+      "catalog_status": "ready",
+      "catalog_title": "Макс узнал про новый состав в бане",
+      "catalog_interval_ms": [
+        2072900,
+        2105960
+      ],
+      "catalog_reason": "",
+      "status": "ready",
+      "files": {
+        "plan": "data/review/editorial/03i/edit_plan.json",
+        "draft": "data/review/editorial/03i/word_draft.json",
+        "edits": "data/review/editorial/03i/sol_edits.json",
+        "flags": "data/review/editorial/03i/subtitle_flags.json",
+        "qa": "data/review/editorial/03i/qa.json",
+        "mp4": "data/review/mvp/2876630043/HQ_03i/HQ_03i.mp4",
+        "ass": "data/review/mvp/2876630043/HQ_03i/HQ_03i.ass",
+        "manifest": "data/review/mvp/2876630043/HQ_03i/manifest.json"
+      },
+      "title": "Макс узнал про новый состав в бане",
+      "reason": "Из обвинения в комментариях сразу перейти к рассказу Макса о том, как он сам узнал состав.",
+      "duration_ms": 32380,
+      "verification": {
+        "frames": 971,
+        "sampled_frames": [
+          0,
+          18,
+          36,
+          54,
+          204,
+          408,
+          409,
+          689,
+          969,
+          970
+        ],
+        "seam_frames": [
+          408,
+          409
+        ],
+        "mp4_duration_s": 32.38,
+        "dimensions": [
+          720,
+          1280
+        ],
+        "decoded_audio_and_video": true,
+        "word_markers": 80,
+        "ass_speech_events": 67,
+        "highlight_events": 50,
+        "seams_ms": [
+          13640
+        ]
+      }
+    },
+    {
+      "candidate_id": "04a",
+      "clip_id": "HQ_04a",
+      "catalog_status": "ready",
+      "catalog_title": "Заберу тысячу на первом вопросе и возьму подсказку",
+      "catalog_interval_ms": [
+        2200410,
+        2224330
+      ],
+      "catalog_reason": "",
+      "status": "ready",
+      "files": {
+        "plan": "data/review/editorial/04a/edit_plan.json",
+        "draft": "data/review/editorial/04a/word_draft.json",
+        "edits": "data/review/editorial/04a/sol_edits.json",
+        "flags": "data/review/editorial/04a/subtitle_flags.json",
+        "qa": "data/review/editorial/04a/qa.json",
+        "mp4": "data/review/mvp/2876630043/HQ_04a/HQ_04a.mp4",
+        "ass": "data/review/mvp/2876630043/HQ_04a/HQ_04a.ass",
+        "manifest": "data/review/mvp/2876630043/HQ_04a/manifest.json"
+      },
+      "title": "Заберу тысячу на первом вопросе и возьму подсказку",
+      "reason": "На контрасте между элементарным вопросом и намерением сразу забрать деньги держится вся шутка.",
+      "duration_ms": 13360,
+      "verification": {
+        "frames": 401,
+        "sampled_frames": [
+          0,
+          18,
+          36,
+          54,
+          119,
+          238,
+          239,
+          319,
+          399,
+          400
+        ],
+        "seam_frames": [
+          238,
+          239
+        ],
+        "mp4_duration_s": 13.366667,
+        "dimensions": [
+          720,
+          1280
+        ],
+        "decoded_audio_and_video": true,
+        "word_markers": 38,
+        "ass_speech_events": 27,
+        "highlight_events": 21,
+        "seams_ms": [
+          7980
+        ]
+      }
+    },
+    {
+      "candidate_id": "04e",
+      "clip_id": "HQ_04e",
+      "catalog_status": "ready",
+      "catalog_title": "Как выторговали несгораемую сумму 300 000 ₽",
+      "catalog_interval_ms": [
+        2588770,
+        2714310
+      ],
+      "catalog_reason": "",
+      "status": "ready",
+      "files": {
+        "plan": "data/review/editorial/04e/edit_plan.json",
+        "draft": "data/review/editorial/04e/word_draft.json",
+        "edits": "data/review/editorial/04e/sol_edits.json",
+        "flags": "data/review/editorial/04e/subtitle_flags.json",
+        "qa": "data/review/editorial/04e/qa.json",
+        "mp4": "data/review/mvp/2876630043/HQ_04e/HQ_04e.mp4",
+        "ass": "data/review/mvp/2876630043/HQ_04e/HQ_04e.ass",
+        "manifest": "data/review/mvp/2876630043/HQ_04e/manifest.json"
+      },
+      "title": "Как выторговали несгораемую сумму 300 000 ₽",
+      "reason": "Сохранить стартовую сумму, две ставки и компромисс в 300 тысяч. Лестница призов остаётся видимой между репликами.",
+      "duration_ms": 31320,
+      "verification": {
+        "frames": 940,
+        "sampled_frames": [
+          0,
+          18,
+          36,
+          54,
+          64,
+          129,
+          130,
+          183,
+          236,
+          237,
+          317,
+          398,
+          399,
+          492,
+          585,
+          586,
+          762,
+          938,
+          939
+        ],
+        "seam_frames": [
+          129,
+          130,
+          236,
+          237,
+          398,
+          399,
+          585,
+          586
+        ],
+        "mp4_duration_s": 31.333333,
+        "dimensions": [
+          720,
+          1280
+        ],
+        "decoded_audio_and_video": true,
+        "word_markers": 90,
+        "ass_speech_events": 87,
+        "highlight_events": 68,
+        "seams_ms": [
+          4320,
+          7910,
+          13300,
+          19520
+        ],
+        "source_container": "verified_indexed_stream_copy"
+      }
+    },
+    {
+      "candidate_id": "05a",
+      "clip_id": "HQ_05a",
+      "catalog_status": "ready",
+      "catalog_title": "Первый вопрос — закон Ома",
+      "catalog_interval_ms": [
+        2784250,
+        2906410
+      ],
+      "catalog_reason": "",
+      "status": "ready",
+      "files": {
+        "plan": "data/review/editorial/05a/edit_plan.json",
+        "draft": "data/review/editorial/05a/word_draft.json",
+        "edits": "data/review/editorial/05a/sol_edits.json",
+        "flags": "data/review/editorial/05a/subtitle_flags.json",
+        "qa": "data/review/editorial/05a/qa.json",
+        "mp4": "data/review/mvp/2876630043/HQ_05a/HQ_05a.mp4",
+        "ass": "data/review/mvp/2876630043/HQ_05a/HQ_05a.ass",
+        "manifest": "data/review/mvp/2876630043/HQ_05a/manifest.json"
+      },
+      "title": "Закон Ома за 1 000 ₽",
+      "reason": "Развязка подтверждает ответ, который Максим выводит вслух.",
+      "duration_ms": 30890,
+      "verification": {
+        "frames": 927,
+        "sampled_frames": [
+          0,
+          18,
+          36,
+          41,
+          54,
+          83,
+          84,
+          340,
+          596,
+          597,
+          677,
+          757,
+          758,
+          842,
+          925,
+          926
+        ],
+        "seam_frames": [
+          83,
+          84,
+          596,
+          597,
+          757,
+          758
+        ],
+        "mp4_duration_s": 30.9,
+        "dimensions": [
+          720,
+          1280
+        ],
+        "decoded_audio_and_video": true,
+        "word_markers": 62,
+        "ass_speech_events": 65,
+        "highlight_events": 56,
+        "seams_ms": [
+          2790,
+          19900,
+          25250
+        ],
+        "source_container": "verified_indexed_stream_copy"
+      }
+    },
+    {
+      "candidate_id": "05b",
+      "clip_id": "HQ_05b",
+      "catalog_status": "ready",
+      "catalog_title": "Ведущий сам запутался в своих правилах",
+      "catalog_interval_ms": [
+        2915660,
+        2945950
+      ],
+      "catalog_reason": "",
+      "status": "ready",
+      "files": {
+        "plan": "data/review/editorial/05b/edit_plan.json",
+        "draft": "data/review/editorial/05b/word_draft.json",
+        "edits": "data/review/editorial/05b/sol_edits.json",
+        "flags": "data/review/editorial/05b/subtitle_flags.json",
+        "qa": "data/review/editorial/05b/qa.json",
+        "mp4": "data/review/mvp/2876630043/HQ_05b/HQ_05b.mp4",
+        "ass": "data/review/mvp/2876630043/HQ_05b/HQ_05b.ass",
+        "manifest": "data/review/mvp/2876630043/HQ_05b/manifest.json"
+      },
+      "title": "Ведущий запутался в своих правилах",
+      "reason": "Самоирония ведущего завершает спор о его же правилах.",
+      "duration_ms": 16400,
+      "verification": {
+        "frames": 492,
+        "sampled_frames": [
+          0,
+          18,
+          36,
+          54,
+          77,
+          155,
+          156,
+          323,
+          490,
+          491
+        ],
+        "seam_frames": [
+          155,
+          156
+        ],
+        "mp4_duration_s": 16.4,
+        "dimensions": [
+          720,
+          1280
+        ],
+        "decoded_audio_and_video": true,
+        "word_markers": 49,
+        "ass_speech_events": 59,
+        "highlight_events": 47,
+        "seams_ms": [
+          5210
+        ],
+        "source_container": "verified_indexed_stream_copy"
+      }
+    },
+    {
+      "candidate_id": "05d",
+      "clip_id": "HQ_05d",
+      "catalog_status": "ready",
+      "catalog_title": "Первый Major по CS:GO за 2 000 ₽",
+      "catalog_interval_ms": [
+        2984570,
+        3150000
+      ],
+      "catalog_reason": "",
+      "status": "ready",
+      "files": {
+        "plan": "data/review/editorial/05d/edit_plan.json",
+        "draft": "data/review/editorial/05d/word_draft.json",
+        "edits": "data/review/editorial/05d/sol_edits.json",
+        "flags": "data/review/editorial/05d/subtitle_flags.json",
+        "qa": "data/review/editorial/05d/qa.json",
+        "mp4": "data/review/mvp/2876630043/HQ_05d/HQ_05d.mp4",
+        "ass": "data/review/mvp/2876630043/HQ_05d/HQ_05d.ass",
+        "manifest": "data/review/mvp/2876630043/HQ_05d/manifest.json"
+      },
+      "title": "Первый Major по CS:GO за 2 000 ₽",
+      "reason": "Тревога на втором вопросе и выбор между двумя историческими командами дают ясную историю.",
+      "duration_ms": 36120,
+      "verification": {
+        "frames": 1084,
+        "sampled_frames": [
+          0,
+          18,
+          36,
+          53,
+          54,
+          107,
+          108,
+          281,
+          454,
+          455,
+          543,
+          631,
+          632,
+          748,
+          865,
+          866,
+          974,
+          1082,
+          1083
+        ],
+        "seam_frames": [
+          107,
+          108,
+          454,
+          455,
+          631,
+          632,
+          865,
+          866
+        ],
+        "mp4_duration_s": 36.133333,
+        "dimensions": [
+          720,
+          1280
+        ],
+        "decoded_audio_and_video": true,
+        "word_markers": 80,
+        "ass_speech_events": 83,
+        "highlight_events": 72,
+        "seams_ms": [
+          3600,
+          15180,
+          21060,
+          28870
+        ],
+        "source_container": "verified_indexed_stream_copy"
+      }
+    },
+    {
+      "candidate_id": "05e",
+      "clip_id": "HQ_05e",
+      "catalog_status": "ready",
+      "catalog_title": "Меркурий, Венера и вторая жизнь",
+      "catalog_interval_ms": [
+        3218060,
+        3454580
+      ],
+      "catalog_reason": "",
+      "status": "ready",
+      "files": {
+        "plan": "data/review/editorial/05e/edit_plan.json",
+        "draft": "data/review/editorial/05e/word_draft.json",
+        "edits": "data/review/editorial/05e/sol_edits.json",
+        "flags": "data/review/editorial/05e/subtitle_flags.json",
+        "qa": "data/review/editorial/05e/qa.json",
+        "mp4": "data/review/mvp/2876630043/HQ_05e/HQ_05e.mp4",
+        "ass": "data/review/mvp/2876630043/HQ_05e/HQ_05e.ass",
+        "manifest": "data/review/mvp/2876630043/HQ_05e/manifest.json"
+      },
+      "title": "Меркурий, Венера и вторая жизнь",
+      "reason": "Шутка, колебания и сохранённая жизнь дают раунду собственную историю.",
+      "duration_ms": 38890,
+      "verification": {
+        "frames": 1167,
+        "sampled_frames": [
+          0,
+          18,
+          36,
+          37,
+          38,
+          54,
+          216,
+          394,
+          395,
+          416,
+          438,
+          439,
+          504,
+          570,
+          571,
+          684,
+          798,
+          799,
+          821,
+          844,
+          845,
+          1005,
+          1165,
+          1166
+        ],
+        "seam_frames": [
+          37,
+          38,
+          394,
+          395,
+          438,
+          439,
+          570,
+          571,
+          798,
+          799,
+          844,
+          845
+        ],
+        "mp4_duration_s": 38.9,
+        "dimensions": [
+          720,
+          1280
+        ],
+        "decoded_audio_and_video": true,
+        "word_markers": 77,
+        "ass_speech_events": 82,
+        "highlight_events": 72,
+        "seams_ms": [
+          1260,
+          13170,
+          14640,
+          19040,
+          26620,
+          28180
+        ],
+        "source_container": "verified_indexed_stream_copy"
+      }
+    },
+    {
+      "candidate_id": "06a",
+      "clip_id": "HQ_06a",
+      "catalog_status": "ready",
+      "catalog_title": "Будапешт или Бухарест",
+      "catalog_interval_ms": [
+        3498350,
+        3586600
+      ],
+      "catalog_reason": "",
+      "status": "ready",
+      "files": {
+        "plan": "data/review/editorial/06a/edit_plan.json",
+        "draft": "data/review/editorial/06a/word_draft.json",
+        "edits": "data/review/editorial/06a/sol_edits.json",
+        "flags": "data/review/editorial/06a/subtitle_flags.json",
+        "qa": "data/review/editorial/06a/qa.json",
+        "mp4": "data/review/mvp/2876630043/HQ_06a/HQ_06a.mp4",
+        "ass": "data/review/mvp/2876630043/HQ_06a/HQ_06a.ass",
+        "manifest": "data/review/mvp/2876630043/HQ_06a/manifest.json"
+      },
+      "title": "Будапешт или Бухарест",
+      "reason": "Две похожие столицы и личное воспоминание дают понятный ход рассуждения.",
+      "duration_ms": 33610,
+      "verification": {
+        "frames": 1008,
+        "sampled_frames": [
+          0,
+          18,
+          27,
+          36,
+          54,
+          55,
+          100,
+          146,
+          147,
+          252,
+          358,
+          359,
+          539,
+          719,
+          720,
+          863,
+          1006,
+          1007
+        ],
+        "seam_frames": [
+          54,
+          55,
+          146,
+          147,
+          358,
+          359,
+          719,
+          720
+        ],
+        "mp4_duration_s": 33.61,
+        "dimensions": [
+          720,
+          1280
+        ],
+        "decoded_audio_and_video": true,
+        "word_markers": 63,
+        "ass_speech_events": 67,
+        "highlight_events": 56,
+        "seams_ms": [
+          1830,
+          4890,
+          11960,
+          23990
+        ],
+        "source_container": "verified_indexed_stream_copy"
+      }
+    },
+    {
+      "candidate_id": "06c",
+      "clip_id": "HQ_06c",
+      "catalog_status": "ready",
+      "catalog_title": "Без доброго пива — подсказка 50/50",
+      "catalog_interval_ms": [
+        3661400,
+        3877580
+      ],
+      "catalog_reason": "",
+      "status": "ready",
+      "files": {
+        "plan": "data/review/editorial/06c/edit_plan.json",
+        "draft": "data/review/editorial/06c/word_draft.json",
+        "edits": "data/review/editorial/06c/sol_edits.json",
+        "flags": "data/review/editorial/06c/subtitle_flags.json",
+        "qa": "data/review/editorial/06c/qa.json",
+        "mp4": "data/review/mvp/2876630043/HQ_06c/HQ_06c.mp4",
+        "ass": "data/review/mvp/2876630043/HQ_06c/HQ_06c.ass",
+        "manifest": "data/review/mvp/2876630043/HQ_06c/manifest.json"
+      },
+      "title": "Без доброго пива — подсказка 50/50",
+      "reason": "Подсказка визуально меняет расклад, а просьба вернуть её завершает сцену.",
+      "duration_ms": 31580,
+      "verification": {
+        "frames": 947,
+        "sampled_frames": [
+          0,
+          18,
+          30,
+          36,
+          54,
+          60,
+          61,
+          122,
+          183,
+          184,
+          258,
+          332,
+          333,
+          376,
+          420,
+          421,
+          490,
+          559,
+          560,
+          627,
+          695,
+          696,
+          821,
+          945,
+          946
+        ],
+        "seam_frames": [
+          60,
+          61,
+          183,
+          184,
+          332,
+          333,
+          420,
+          421,
+          559,
+          560,
+          695,
+          696
+        ],
+        "mp4_duration_s": 31.58,
+        "dimensions": [
+          720,
+          1280
+        ],
+        "decoded_audio_and_video": true,
+        "word_markers": 56,
+        "ass_speech_events": 58,
+        "highlight_events": 54,
+        "seams_ms": [
+          2040,
+          6130,
+          11090,
+          14040,
+          18660,
+          23210
+        ],
+        "source_container": "verified_indexed_stream_copy"
+      }
+    },
+    {
+      "candidate_id": "06d",
+      "clip_id": "HQ_06d",
+      "catalog_status": "ready",
+      "catalog_title": "Памятник с книгой в Саратове",
+      "catalog_interval_ms": [
+        3928370,
+        4050350
+      ],
+      "catalog_reason": "",
+      "status": "ready",
+      "files": {
+        "plan": "data/review/editorial/06d/edit_plan.json",
+        "draft": "data/review/editorial/06d/word_draft.json",
+        "edits": "data/review/editorial/06d/sol_edits.json",
+        "flags": "data/review/editorial/06d/subtitle_flags.json",
+        "qa": "data/review/editorial/06d/qa.json",
+        "mp4": "data/review/mvp/2876630043/HQ_06d/HQ_06d.mp4",
+        "ass": "data/review/mvp/2876630043/HQ_06d/HQ_06d.ass",
+        "manifest": "data/review/mvp/2876630043/HQ_06d/manifest.json"
+      },
+      "title": "Памятник с книгой в Саратове",
+      "reason": "Кадр с книгой позволяет зрителю самому проверить ход рассуждения.",
+      "duration_ms": 21960,
+      "verification": {
+        "frames": 659,
+        "sampled_frames": [
+          0,
+          18,
+          28,
+          36,
+          54,
+          57,
+          58,
+          152,
+          247,
+          248,
+          369,
+          490,
+          491,
+          526,
+          562,
+          563,
+          610,
+          657,
+          658
+        ],
+        "seam_frames": [
+          57,
+          58,
+          247,
+          248,
+          490,
+          491,
+          562,
+          563
+        ],
+        "mp4_duration_s": 21.966667,
+        "dimensions": [
+          720,
+          1280
+        ],
+        "decoded_audio_and_video": true,
+        "word_markers": 41,
+        "ass_speech_events": 45,
+        "highlight_events": 41,
+        "seams_ms": [
+          1940,
+          8280,
+          16380,
+          18760
+        ],
+        "source_container": "verified_indexed_stream_copy"
+      }
+    },
+    {
+      "candidate_id": "06e",
+      "clip_id": "HQ_06e",
+      "catalog_status": "ready",
+      "catalog_title": "Бык-Солевоз за 25 000 ₽",
+      "catalog_interval_ms": [
+        4070980,
+        4129580
+      ],
+      "catalog_reason": "",
+      "status": "ready",
+      "files": {
+        "plan": "data/review/editorial/06e/edit_plan.json",
+        "draft": "data/review/editorial/06e/word_draft.json",
+        "edits": "data/review/editorial/06e/sol_edits.json",
+        "flags": "data/review/editorial/06e/subtitle_flags.json",
+        "qa": "data/review/editorial/06e/qa.json",
+        "mp4": "data/review/mvp/2876630043/HQ_06e/HQ_06e.mp4",
+        "ass": "data/review/mvp/2876630043/HQ_06e/HQ_06e.ass",
+        "manifest": "data/review/mvp/2876630043/HQ_06e/manifest.json"
+      },
+      "title": "Бык-Солевоз за 25 000 ₽",
+      "reason": "Локальное знание объясняет ответ, а шуточный выбор даёт короткое открытие с реакцией.",
+      "duration_ms": 26620,
+      "verification": {
+        "frames": 799,
+        "sampled_frames": [
+          0,
+          18,
+          24,
+          36,
+          48,
+          49,
+          54,
+          144,
+          239,
+          240,
+          448,
+          656,
+          657,
+          727,
+          797,
+          798
+        ],
+        "seam_frames": [
+          48,
+          49,
+          239,
+          240,
+          656,
+          657
+        ],
+        "mp4_duration_s": 26.633333,
+        "dimensions": [
+          720,
+          1280
+        ],
+        "decoded_audio_and_video": true,
+        "word_markers": 52,
+        "ass_speech_events": 54,
+        "highlight_events": 41,
+        "seams_ms": [
+          1620,
+          7990,
+          21890
+        ],
+        "source_container": "verified_indexed_stream_copy"
+      }
+    },
+    {
+      "candidate_id": "06f",
+      "clip_id": "HQ_06f",
+      "catalog_status": "ready",
+      "catalog_title": "Почему этот вопрос легче первого",
+      "catalog_interval_ms": [
+        4130580,
+        4142010
+      ],
+      "catalog_reason": "",
+      "status": "reserve",
+      "files": {
+        "decision": "data/review/editorial/06f/decision.json"
+      },
+      "reason": "Это комментарий к предыдущему раунду про быка. Причина разной сложности укладывается в обычную реплику ведущего без нового события."
+    },
+    {
+      "candidate_id": "07a",
+      "clip_id": "HQ_07a",
+      "catalog_status": "ready",
+      "catalog_title": "Аль денте за 50 000 ₽",
+      "catalog_interval_ms": [
+        4165300,
+        4222060
+      ],
+      "catalog_reason": "",
+      "status": "ready",
+      "files": {
+        "plan": "data/review/editorial/07a/edit_plan.json",
+        "draft": "data/review/editorial/07a/word_draft.json",
+        "edits": "data/review/editorial/07a/sol_edits.json",
+        "flags": "data/review/editorial/07a/subtitle_flags.json",
+        "qa": "data/review/editorial/07a/qa.json",
+        "mp4": "data/review/mvp/2876630043/HQ_07a/HQ_07a.mp4",
+        "ass": "data/review/mvp/2876630043/HQ_07a/HQ_07a.ass",
+        "manifest": "data/review/mvp/2876630043/HQ_07a/manifest.json"
+      },
+      "title": "Аль денте за 50 000 ₽",
+      "reason": "Смена выбора создаёт напряжение после раннего ответа про пасту.",
+      "duration_ms": 23490,
+      "verification": {
+        "frames": 705,
+        "sampled_frames": [
+          0,
+          18,
+          20,
+          36,
+          41,
+          42,
+          54,
+          148,
+          254,
+          255,
+          291,
+          327,
+          328,
+          422,
+          517,
+          518,
+          611,
+          703,
+          704
+        ],
+        "seam_frames": [
+          41,
+          42,
+          254,
+          255,
+          327,
+          328,
+          517,
+          518
+        ],
+        "mp4_duration_s": 23.5,
+        "dimensions": [
+          720,
+          1280
+        ],
+        "decoded_audio_and_video": true,
+        "word_markers": 45,
+        "ass_speech_events": 51,
+        "highlight_events": 42,
+        "seams_ms": [
+          1400,
+          8500,
+          10930,
+          17250
+        ],
+        "source_container": "verified_indexed_stream_copy"
+      }
+    },
+    {
+      "candidate_id": "07b",
+      "clip_id": "HQ_07b",
+      "catalog_status": "ready",
+      "catalog_title": "Четыре кольца и вопрос с двумя «жопами»",
+      "catalog_interval_ms": [
+        4254940,
+        4337060
+      ],
+      "catalog_reason": "",
+      "status": "ready",
+      "files": {
+        "plan": "data/review/editorial/07b/edit_plan.json",
+        "draft": "data/review/editorial/07b/word_draft.json",
+        "edits": "data/review/editorial/07b/sol_edits.json",
+        "flags": "data/review/editorial/07b/subtitle_flags.json",
+        "qa": "data/review/editorial/07b/qa.json",
+        "mp4": "data/review/mvp/2876630043/HQ_07b/HQ_07b.mp4",
+        "ass": "data/review/mvp/2876630043/HQ_07b/HQ_07b.ass",
+        "manifest": "data/review/mvp/2876630043/HQ_07b/manifest.json"
+      },
+      "title": "Четыре кольца за 75 000 ₽",
+      "reason": "Формулировка и неожиданно лёгкий выигрыш помещаются в короткий эпизод.",
+      "duration_ms": 17130,
+      "verification": {
+        "frames": 514,
+        "sampled_frames": [
+          0,
+          18,
+          36,
+          54,
+          74,
+          148,
+          149,
+          216,
+          283,
+          284,
+          398,
+          512,
+          513
+        ],
+        "seam_frames": [
+          148,
+          149,
+          283,
+          284
+        ],
+        "mp4_duration_s": 17.133333,
+        "dimensions": [
+          720,
+          1280
+        ],
+        "decoded_audio_and_video": true,
+        "word_markers": 39,
+        "ass_speech_events": 42,
+        "highlight_events": 36,
+        "seams_ms": [
+          4970,
+          9450
+        ],
+        "source_container": "verified_indexed_stream_copy"
+      }
+    },
+    {
+      "candidate_id": "07c",
+      "clip_id": "HQ_07c",
+      "catalog_status": "ready",
+      "catalog_title": "Что быстрее в вакууме — свет или крик Юли",
+      "catalog_interval_ms": [
+        4346490,
+        4451850
+      ],
+      "catalog_reason": "",
+      "status": "ready",
+      "files": {
+        "plan": "data/review/editorial/07c/edit_plan.json",
+        "draft": "data/review/editorial/07c/word_draft.json",
+        "edits": "data/review/editorial/07c/sol_edits.json",
+        "flags": "data/review/editorial/07c/subtitle_flags.json",
+        "qa": "data/review/editorial/07c/qa.json",
+        "mp4": "data/review/mvp/2876630043/HQ_07c/HQ_07c.mp4",
+        "ass": "data/review/mvp/2876630043/HQ_07c/HQ_07c.ass",
+        "manifest": "data/review/mvp/2876630043/HQ_07c/manifest.json"
+      },
+      "title": "Свет или крик Юли",
+      "reason": "Контраст научного вопроса и личной шутки, затем понятный выбор.",
+      "duration_ms": 31440,
+      "verification": {
+        "frames": 943,
+        "sampled_frames": [
+          0,
+          18,
+          36,
+          48,
+          54,
+          96,
+          97,
+          155,
+          213,
+          214,
+          293,
+          372,
+          373,
+          498,
+          624,
+          625,
+          783,
+          941,
+          942
+        ],
+        "seam_frames": [
+          96,
+          97,
+          213,
+          214,
+          372,
+          373,
+          624,
+          625
+        ],
+        "mp4_duration_s": 31.44,
+        "dimensions": [
+          720,
+          1280
+        ],
+        "decoded_audio_and_video": true,
+        "word_markers": 77,
+        "ass_speech_events": 80,
+        "highlight_events": 66,
+        "seams_ms": [
+          3220,
+          7130,
+          12420,
+          20820
+        ],
+        "source_container": "verified_indexed_stream_copy"
+      }
+    },
+    {
+      "candidate_id": "07d",
+      "clip_id": "HQ_07d",
+      "catalog_status": "ready",
+      "catalog_title": "В Сербию не ездили на море",
+      "catalog_interval_ms": [
+        4475250,
+        4595160
+      ],
+      "catalog_reason": "",
+      "status": "ready",
+      "files": {
+        "plan": "data/review/editorial/07d/edit_plan.json",
+        "draft": "data/review/editorial/07d/word_draft.json",
+        "edits": "data/review/editorial/07d/sol_edits.json",
+        "flags": "data/review/editorial/07d/subtitle_flags.json",
+        "qa": "data/review/editorial/07d/qa.json",
+        "mp4": "data/review/mvp/2876630043/HQ_07d/HQ_07d.mp4",
+        "ass": "data/review/mvp/2876630043/HQ_07d/HQ_07d.ass",
+        "manifest": "data/review/mvp/2876630043/HQ_07d/manifest.json"
+      },
+      "title": "В Сербию не ездили на море",
+      "reason": "Нестандартный способ рассуждения и ясное подтверждение.",
+      "duration_ms": 35510,
+      "verification": {
+        "frames": 1065,
+        "sampled_frames": [
+          0,
+          18,
+          24,
+          36,
+          49,
+          50,
+          54,
+          135,
+          220,
+          221,
+          359,
+          497,
+          498,
+          700,
+          903,
+          904,
+          984,
+          1063,
+          1064
+        ],
+        "seam_frames": [
+          49,
+          50,
+          220,
+          221,
+          497,
+          498,
+          903,
+          904
+        ],
+        "mp4_duration_s": 35.51,
+        "dimensions": [
+          720,
+          1280
+        ],
+        "decoded_audio_and_video": true,
+        "word_markers": 79,
+        "ass_speech_events": 85,
+        "highlight_events": 73,
+        "seams_ms": [
+          1650,
+          7350,
+          16590,
+          30140
+        ],
+        "source_container": "verified_indexed_stream_copy"
+      }
+    },
+    {
+      "candidate_id": "07e",
+      "clip_id": "HQ_07e",
+      "catalog_status": "ready",
+      "catalog_title": "Следующие цифры π и мем «67»",
+      "catalog_interval_ms": [
+        4602190,
+        4799970
+      ],
+      "catalog_reason": "",
+      "status": "ready",
+      "files": {
+        "plan": "data/review/editorial/07e/edit_plan.json",
+        "draft": "data/review/editorial/07e/word_draft.json",
+        "edits": "data/review/editorial/07e/sol_edits.json",
+        "flags": "data/review/editorial/07e/subtitle_flags.json",
+        "qa": "data/review/editorial/07e/qa.json",
+        "mp4": "data/review/mvp/2876630043/HQ_07e/HQ_07e.mp4",
+        "ass": "data/review/mvp/2876630043/HQ_07e/HQ_07e.ass",
+        "manifest": "data/review/mvp/2876630043/HQ_07e/manifest.json"
+      },
+      "title": "Следующие цифры π и мем «67»",
+      "reason": "Мем даёт первое действие, фрагмент воспоминания объясняет правильный выбор.",
+      "duration_ms": 44250,
+      "verification": {
+        "frames": 1328,
+        "sampled_frames": [
+          0,
+          18,
+          25,
+          36,
+          51,
+          52,
+          54,
+          146,
+          240,
+          241,
+          336,
+          432,
+          433,
+          545,
+          658,
+          659,
+          748,
+          838,
+          839,
+          1004,
+          1170,
+          1171,
+          1249,
+          1326,
+          1327
+        ],
+        "seam_frames": [
+          51,
+          52,
+          240,
+          241,
+          432,
+          433,
+          658,
+          659,
+          838,
+          839,
+          1170,
+          1171
+        ],
+        "mp4_duration_s": 44.266667,
+        "dimensions": [
+          720,
+          1280
+        ],
+        "decoded_audio_and_video": true,
+        "word_markers": 108,
+        "ass_speech_events": 101,
+        "highlight_events": 86,
+        "seams_ms": [
+          1720,
+          8020,
+          14430,
+          21960,
+          27960,
+          39020
+        ],
+        "source_container": "verified_indexed_stream_copy"
+      }
+    },
+    {
+      "candidate_id": "08a",
+      "clip_id": "HQ_08a",
+      "catalog_status": "ready",
+      "catalog_title": "Песто, ошибка за 300 000 ₽ и сгоревшая вторая жизнь",
+      "catalog_interval_ms": [
+        4798110,
+        5199210
+      ],
+      "catalog_reason": "",
+      "status": "ready",
+      "files": {
+        "plan": "data/review/editorial/08a/edit_plan.json",
+        "draft": "data/review/editorial/08a/word_draft.json",
+        "edits": "data/review/editorial/08a/sol_edits.json",
+        "flags": "data/review/editorial/08a/subtitle_flags.json",
+        "qa": "data/review/editorial/08a/qa.json",
+        "mp4": "data/review/mvp/2876630043/HQ_08a/HQ_08a.mp4",
+        "ass": "data/review/mvp/2876630043/HQ_08a/HQ_08a.ass",
+        "manifest": "data/review/mvp/2876630043/HQ_08a/manifest.json"
+      },
+      "title": "Песто и ошибка на вопросе за 300 000 ₽",
+      "reason": "Вопрос с отрицанием, собственная верная догадка Максима и последствия неверного выбора.",
+      "duration_ms": 36100,
+      "verification": {
+        "frames": 1083,
+        "sampled_frames": [
+          0,
+          18,
+          34,
+          36,
+          54,
+          69,
+          70,
+          158,
+          247,
+          248,
+          301,
+          354,
+          355,
+          494,
+          634,
+          635,
+          817,
+          1000,
+          1001,
+          1041,
+          1081,
+          1082
+        ],
+        "seam_frames": [
+          69,
+          70,
+          247,
+          248,
+          354,
+          355,
+          634,
+          635,
+          1000,
+          1001
+        ],
+        "mp4_duration_s": 36.1,
+        "dimensions": [
+          720,
+          1280
+        ],
+        "decoded_audio_and_video": true,
+        "word_markers": 74,
+        "ass_speech_events": 70,
+        "highlight_events": 59,
+        "seams_ms": [
+          2330,
+          8250,
+          11840,
+          21160,
+          33360
+        ],
+        "source_container": "verified_indexed_stream_copy"
+      }
+    },
+    {
+      "candidate_id": "08b",
+      "clip_id": "HQ_08b",
+      "catalog_status": "ready",
+      "catalog_title": "Двенадцать тысяч голосов за три попытки",
+      "catalog_interval_ms": [
+        5199910,
+        5446000
+      ],
+      "catalog_reason": "",
+      "status": "ready",
+      "files": {
+        "plan": "data/review/editorial/08b/edit_plan.json",
+        "draft": "data/review/editorial/08b/word_draft.json",
+        "edits": "data/review/editorial/08b/sol_edits.json",
+        "flags": "data/review/editorial/08b/subtitle_flags.json",
+        "qa": "data/review/editorial/08b/qa.json",
+        "mp4": "data/review/mvp/2876630043/HQ_08b/HQ_08b.mp4",
+        "ass": "data/review/mvp/2876630043/HQ_08b/HQ_08b.ass",
+        "manifest": "data/review/mvp/2876630043/HQ_08b/manifest.json"
+      },
+      "title": "Двенадцать тысяч голосов за три попытки",
+      "reason": "Устный результат голосования предшествует выбору и проверяется ответом на табло.",
+      "duration_ms": 34130,
+      "verification": {
+        "frames": 1024,
+        "sampled_frames": [
+          0,
+          18,
+          36,
+          47,
+          54,
+          94,
+          95,
+          177,
+          260,
+          261,
+          396,
+          531,
+          532,
+          602,
+          673,
+          674,
+          765,
+          856,
+          857,
+          940,
+          1022,
+          1023
+        ],
+        "seam_frames": [
+          94,
+          95,
+          260,
+          261,
+          531,
+          532,
+          673,
+          674,
+          856,
+          857
+        ],
+        "mp4_duration_s": 34.133333,
+        "dimensions": [
+          720,
+          1280
+        ],
+        "decoded_audio_and_video": true,
+        "word_markers": 75,
+        "ass_speech_events": 75,
+        "highlight_events": 68,
+        "seams_ms": [
+          3160,
+          8700,
+          17720,
+          22480,
+          28580
+        ],
+        "source_container": "verified_indexed_stream_copy"
+      }
+    },
+    {
+      "candidate_id": "08c",
+      "clip_id": "HQ_08c",
+      "catalog_status": "ready",
+      "catalog_title": "Четыре пояса и неожиданный комментарий",
+      "catalog_interval_ms": [
+        5463520,
+        5482990
+      ],
+      "catalog_reason": "",
+      "status": "ready",
+      "files": {
+        "plan": "data/review/editorial/08c/edit_plan.json",
+        "draft": "data/review/editorial/08c/word_draft.json",
+        "edits": "data/review/editorial/08c/sol_edits.json",
+        "flags": "data/review/editorial/08c/subtitle_flags.json",
+        "qa": "data/review/editorial/08c/qa.json",
+        "mp4": "data/review/mvp/2876630043/HQ_08c/HQ_08c.mp4",
+        "ass": "data/review/mvp/2876630043/HQ_08c/HQ_08c.ass",
+        "manifest": "data/review/mvp/2876630043/HQ_08c/manifest.json"
+      },
+      "title": "Четыре пояса по тхэквондо",
+      "reason": "У шутки есть собственная короткая завязка и реакция.",
+      "duration_ms": 17460,
+      "verification": {
+        "frames": 524,
+        "sampled_frames": [
+          0,
+          18,
+          36,
+          54,
+          56,
+          113,
+          114,
+          221,
+          328,
+          329,
+          426,
+          522,
+          523
+        ],
+        "seam_frames": [
+          113,
+          114,
+          328,
+          329
+        ],
+        "mp4_duration_s": 17.466667,
+        "dimensions": [
+          720,
+          1280
+        ],
+        "decoded_audio_and_video": true,
+        "word_markers": 54,
+        "ass_speech_events": 46,
+        "highlight_events": 33,
+        "seams_ms": [
+          3790,
+          10980
+        ],
+        "source_container": "verified_indexed_stream_copy"
+      }
+    },
+    {
+      "candidate_id": "09a",
+      "clip_id": "HQ_09a",
+      "catalog_status": "ready",
+      "catalog_title": "Индекс «Буханки» и звонок Рафику",
+      "catalog_interval_ms": [
+        5537090,
+        5877710
+      ],
+      "catalog_reason": "",
+      "status": "ready",
+      "files": {
+        "plan": "data/review/editorial/09a/edit_plan.json",
+        "draft": "data/review/editorial/09a/word_draft.json",
+        "edits": "data/review/editorial/09a/sol_edits.json",
+        "flags": "data/review/editorial/09a/subtitle_flags.json",
+        "qa": "data/review/editorial/09a/qa.json",
+        "mp4": "data/review/mvp/2876630043/HQ_09a/HQ_09a.mp4",
+        "ass": "data/review/mvp/2876630043/HQ_09a/HQ_09a.ass",
+        "manifest": "data/review/mvp/2876630043/HQ_09a/manifest.json"
+      },
+      "title": "Индекс «Буханки» и звонок Рафику",
+      "reason": "Друг меняет выбор игрока, а результат прямо показывает, что звонок помог.",
+      "duration_ms": 32940,
+      "verification": {
+        "frames": 988,
+        "sampled_frames": [
+          0,
+          18,
+          22,
+          36,
+          45,
+          46,
+          54,
+          106,
+          166,
+          167,
+          290,
+          413,
+          414,
+          512,
+          610,
+          611,
+          638,
+          666,
+          667,
+          726,
+          786,
+          787,
+          887,
+          986,
+          987
+        ],
+        "seam_frames": [
+          45,
+          46,
+          166,
+          167,
+          413,
+          414,
+          610,
+          611,
+          666,
+          667,
+          786,
+          787
+        ],
+        "mp4_duration_s": 32.94,
+        "dimensions": [
+          720,
+          1280
+        ],
+        "decoded_audio_and_video": true,
+        "word_markers": 90,
+        "ass_speech_events": 69,
+        "highlight_events": 52,
+        "seams_ms": [
+          1540,
+          5580,
+          13790,
+          20350,
+          22220,
+          26230
+        ],
+        "source_container": "verified_indexed_stream_copy"
+      }
+    },
+    {
+      "candidate_id": "09b",
+      "clip_id": "HQ_09b",
+      "catalog_status": "ready",
+      "catalog_title": "Веллингтон за 750 000 ₽ через ассоциацию с говядиной",
+      "catalog_interval_ms": [
+        5884370,
+        6133720
+      ],
+      "catalog_reason": "",
+      "status": "ready",
+      "files": {
+        "plan": "data/review/editorial/09b/edit_plan.json",
+        "draft": "data/review/editorial/09b/word_draft.json",
+        "edits": "data/review/editorial/09b/sol_edits.json",
+        "flags": "data/review/editorial/09b/subtitle_flags.json",
+        "qa": "data/review/editorial/09b/qa.json",
+        "mp4": "data/review/mvp/2876630043/HQ_09b/HQ_09b.mp4",
+        "ass": "data/review/mvp/2876630043/HQ_09b/HQ_09b.ass",
+        "manifest": "data/review/mvp/2876630043/HQ_09b/manifest.json"
+      },
+      "title": "Говядина и Веллингтон за 750 000 ₽",
+      "reason": "Ассоциация показывает ход рассуждения игрока и приводит к конкретному выбору.",
+      "duration_ms": 32950,
+      "verification": {
+        "frames": 989,
+        "sampled_frames": [
+          0,
+          18,
+          35,
+          36,
+          54,
+          71,
+          72,
+          135,
+          198,
+          199,
+          278,
+          357,
+          358,
+          528,
+          699,
+          700,
+          791,
+          882,
+          883,
+          935,
+          987,
+          988
+        ],
+        "seam_frames": [
+          71,
+          72,
+          198,
+          199,
+          357,
+          358,
+          699,
+          700,
+          882,
+          883
+        ],
+        "mp4_duration_s": 32.966667,
+        "dimensions": [
+          720,
+          1280
+        ],
+        "decoded_audio_and_video": true,
+        "word_markers": 76,
+        "ass_speech_events": 75,
+        "highlight_events": 60,
+        "seams_ms": [
+          2390,
+          6640,
+          11940,
+          23330,
+          29440
+        ],
+        "source_container": "verified_indexed_stream_copy"
+      }
+    },
+    {
+      "candidate_id": "10a",
+      "clip_id": "HQ_10a",
+      "catalog_status": "ready",
+      "catalog_title": "Рискнул 750 тысячами на финальном вопросе о двигателе",
+      "catalog_interval_ms": [
+        6134320,
+        6508260
+      ],
+      "catalog_reason": "",
+      "status": "ready",
+      "files": {
+        "plan": "data/review/editorial/10a/edit_plan.json",
+        "draft": "data/review/editorial/10a/word_draft.json",
+        "edits": "data/review/editorial/10a/sol_edits.json",
+        "flags": "data/review/editorial/10a/subtitle_flags.json",
+        "qa": "data/review/editorial/10a/qa.json",
+        "mp4": "data/review/mvp/2876630043/HQ_10a/HQ_10a.mp4",
+        "ass": "data/review/mvp/2876630043/HQ_10a/HQ_10a.ass",
+        "manifest": "data/review/mvp/2876630043/HQ_10a/manifest.json"
+      },
+      "title": "Рискнул 750 тысячами на финальном вопросе",
+      "reason": "Выбор между гарантированными 750 000 ₽ и финальным вопросом даёт ставку, проигрыш и отдельную оговорку о несгораемой сумме.",
+      "duration_ms": 52430,
+      "verification": {
+        "frames": 1573,
+        "sampled_frames": [
+          0,
+          18,
+          25,
+          36,
+          50,
+          51,
+          54,
+          134,
+          217,
+          218,
+          420,
+          622,
+          623,
+          698,
+          773,
+          774,
+          848,
+          922,
+          923,
+          1036,
+          1150,
+          1151,
+          1251,
+          1351,
+          1352,
+          1462,
+          1571,
+          1572
+        ],
+        "seam_frames": [
+          50,
+          51,
+          217,
+          218,
+          622,
+          623,
+          773,
+          774,
+          922,
+          923,
+          1150,
+          1151,
+          1351,
+          1352
+        ],
+        "mp4_duration_s": 52.433333,
+        "dimensions": [
+          720,
+          1280
+        ],
+        "decoded_audio_and_video": true,
+        "word_markers": 110,
+        "ass_speech_events": 121,
+        "highlight_events": 104,
+        "seams_ms": [
+          1710,
+          7260,
+          20780,
+          25810,
+          30780,
+          38350,
+          45050
+        ],
+        "source_container": "verified_indexed_stream_copy"
+      }
+    },
+    {
+      "candidate_id": "10b",
+      "clip_id": "HQ_10b",
+      "catalog_status": "ready",
+      "catalog_title": "Как сбалансировать вопросы, чтобы не пришлось угадывать",
+      "catalog_interval_ms": [
+        6518250,
+        6650240
+      ],
+      "catalog_reason": "",
+      "status": "reserve",
+      "files": {
+        "decision": "data/review/editorial/10b/decision.json"
+      },
+      "reason": "Разбор правил и подбора вопросов после финала. Реплики зависят от пройденной игры, новой развязки нет."
+    },
+    {
+      "candidate_id": "10c",
+      "clip_id": "HQ_10c",
+      "catalog_status": "ready",
+      "catalog_title": "Почему не забрал приз и куда предложили отправить 300 000 ₽",
+      "catalog_interval_ms": [
+        6686540,
+        6802790
+      ],
+      "catalog_reason": "",
+      "status": "ready",
+      "files": {
+        "plan": "data/review/editorial/10c/edit_plan.json",
+        "draft": "data/review/editorial/10c/word_draft.json",
+        "edits": "data/review/editorial/10c/sol_edits.json",
+        "flags": "data/review/editorial/10c/subtitle_flags.json",
+        "qa": "data/review/editorial/10c/qa.json",
+        "mp4": "data/review/mvp/2876630043/HQ_10c/HQ_10c.mp4",
+        "ass": "data/review/mvp/2876630043/HQ_10c/HQ_10c.ass",
+        "manifest": "data/review/mvp/2876630043/HQ_10c/manifest.json"
+      },
+      "title": "Что решили сделать с призом в 300 000 ₽",
+      "reason": "Обсуждение судьбы выигрыша даёт самостоятельный разговор с ясной договорённостью.",
+      "duration_ms": 44380,
+      "verification": {
+        "frames": 1331,
+        "sampled_frames": [
+          0,
+          18,
+          27,
+          36,
+          54,
+          55,
+          165,
+          275,
+          276,
+          504,
+          732,
+          733,
+          1031,
+          1329,
+          1330
+        ],
+        "seam_frames": [
+          54,
+          55,
+          275,
+          276,
+          732,
+          733
+        ],
+        "mp4_duration_s": 44.38,
+        "dimensions": [
+          720,
+          1280
+        ],
+        "decoded_audio_and_video": true,
+        "word_markers": 116,
+        "ass_speech_events": 106,
+        "highlight_events": 88,
+        "seams_ms": [
+          1840,
+          9200,
+          24420
+        ],
+        "source_container": "verified_indexed_stream_copy"
+      }
+    },
+    {
+      "candidate_id": "11a",
+      "clip_id": "HQ_11a",
+      "catalog_status": "ready",
+      "catalog_title": "Легендарная машина «Хозяев» — Копатыч",
+      "catalog_interval_ms": [
+        7104140,
+        7188420
+      ],
+      "catalog_reason": "",
+      "status": "ready",
+      "files": {
+        "plan": "data/review/editorial/11a/edit_plan.json",
+        "draft": "data/review/editorial/11a/word_draft.json",
+        "edits": "data/review/editorial/11a/sol_edits.json",
+        "flags": "data/review/editorial/11a/subtitle_flags.json",
+        "qa": "data/review/editorial/11a/qa.json",
+        "mp4": "data/review/mvp/2876630043/HQ_11a/HQ_11a.mp4",
+        "ass": "data/review/mvp/2876630043/HQ_11a/HQ_11a.ass",
+        "manifest": "data/review/mvp/2876630043/HQ_11a/manifest.json"
+      },
+      "title": "Легендарная машина «Хозяев» — Копатыч",
+      "reason": "Вопрос слышен сразу. После чтения вариантов и выбора оставить зелёный ответ и реплику об истории «Хозяев».",
+      "duration_ms": 17390,
+      "verification": {
+        "frames": 522,
+        "sampled_frames": [
+          0,
+          18,
+          36,
+          54,
+          120,
+          241,
+          242,
+          303,
+          364,
+          365,
+          443,
+          520,
+          521
+        ],
+        "seam_frames": [
+          241,
+          242,
+          364,
+          365
+        ],
+        "mp4_duration_s": 17.4,
+        "dimensions": [
+          720,
+          1280
+        ],
+        "decoded_audio_and_video": true,
+        "word_markers": 31,
+        "ass_speech_events": 34,
+        "highlight_events": 29,
+        "seams_ms": [
+          8050,
+          12180
+        ],
+        "source_container": "verified_indexed_stream_copy"
+      }
+    },
+    {
+      "candidate_id": "11b",
+      "clip_id": "HQ_11b",
+      "catalog_status": "ready",
+      "catalog_title": "Вопрос про доктора из One Piece",
+      "catalog_interval_ms": [
+        7230920,
+        7274990
+      ],
+      "catalog_reason": "",
+      "status": "ready",
+      "files": {
+        "plan": "data/review/editorial/11b/edit_plan.json",
+        "draft": "data/review/editorial/11b/word_draft.json",
+        "edits": "data/review/editorial/11b/sol_edits.json",
+        "flags": "data/review/editorial/11b/subtitle_flags.json",
+        "qa": "data/review/editorial/11b/qa.json",
+        "mp4": "data/review/mvp/2876630043/HQ_11b/HQ_11b.mp4",
+        "ass": "data/review/mvp/2876630043/HQ_11b/HQ_11b.ass",
+        "manifest": "data/review/mvp/2876630043/HQ_11b/manifest.json"
+      },
+      "title": "Вопрос про доктора из One Piece",
+      "reason": "Открыть кадром с персонажем и выкриком. Объяснение про доктора из команды связывает догадку с зелёным ответом.",
+      "duration_ms": 12860,
+      "verification": {
+        "frames": 386,
+        "sampled_frames": [
+          0,
+          18,
+          36,
+          43,
+          54,
+          86,
+          87,
+          188,
+          290,
+          291,
+          338,
+          384,
+          385
+        ],
+        "seam_frames": [
+          86,
+          87,
+          290,
+          291
+        ],
+        "mp4_duration_s": 12.866667,
+        "dimensions": [
+          720,
+          1280
+        ],
+        "decoded_audio_and_video": true,
+        "word_markers": 28,
+        "ass_speech_events": 30,
+        "highlight_events": 28,
+        "seams_ms": [
+          2910,
+          9700
+        ],
+        "source_container": "verified_indexed_stream_copy"
+      }
+    },
+    {
+      "candidate_id": "11c",
+      "clip_id": "HQ_11c",
+      "catalog_status": "ready",
+      "catalog_title": "Геофизика и попытка сбить со школьной программы",
+      "catalog_interval_ms": [
+        7282250,
+        7374690
+      ],
+      "catalog_reason": "",
+      "status": "ready",
+      "files": {
+        "plan": "data/review/editorial/11c/edit_plan.json",
+        "draft": "data/review/editorial/11c/word_draft.json",
+        "edits": "data/review/editorial/11c/sol_edits.json",
+        "flags": "data/review/editorial/11c/subtitle_flags.json",
+        "qa": "data/review/editorial/11c/qa.json",
+        "mp4": "data/review/mvp/2876630043/HQ_11c/HQ_11c.mp4",
+        "ass": "data/review/mvp/2876630043/HQ_11c/HQ_11c.ass",
+        "manifest": "data/review/mvp/2876630043/HQ_11c/manifest.json"
+      },
+      "title": "Геофизика и попытка сбить со школьной программы",
+      "reason": "Показать школьный вопрос, короткое объяснение Ильи и момент, когда ведущий заставляет его ещё раз подтвердить выбор.",
+      "duration_ms": 16880,
+      "verification": {
+        "frames": 506,
+        "sampled_frames": [
+          0,
+          18,
+          36,
+          54,
+          99,
+          199,
+          200,
+          235,
+          271,
+          272,
+          322,
+          373,
+          374,
+          439,
+          504,
+          505
+        ],
+        "seam_frames": [
+          199,
+          200,
+          271,
+          272,
+          373,
+          374
+        ],
+        "mp4_duration_s": 16.88,
+        "dimensions": [
+          720,
+          1280
+        ],
+        "decoded_audio_and_video": true,
+        "word_markers": 33,
+        "ass_speech_events": 36,
+        "highlight_events": 33,
+        "seams_ms": [
+          6650,
+          9050,
+          12450
+        ],
+        "source_container": "verified_indexed_stream_copy"
+      }
+    },
+    {
+      "candidate_id": "11d",
+      "clip_id": "HQ_11d",
+      "catalog_status": "ready",
+      "catalog_title": "Если не выиграешь, не летим на свадьбу",
+      "catalog_interval_ms": [
+        7376010,
+        7404870
+      ],
+      "catalog_reason": "",
+      "status": "ready",
+      "files": {
+        "plan": "data/review/editorial/11d/edit_plan.json",
+        "draft": "data/review/editorial/11d/word_draft.json",
+        "edits": "data/review/editorial/11d/sol_edits.json",
+        "flags": "data/review/editorial/11d/subtitle_flags.json",
+        "qa": "data/review/editorial/11d/qa.json",
+        "mp4": "data/review/mvp/2876630043/HQ_11d/HQ_11d.mp4",
+        "ass": "data/review/mvp/2876630043/HQ_11d/HQ_11d.ass",
+        "manifest": "data/review/mvp/2876630043/HQ_11d/manifest.json"
+      },
+      "title": "Если не выиграешь, не летим на свадьбу",
+      "reason": "Открыть на прямом условии ведущего и сохранить ответ Ильи, который превращает выигрыш в свадебный подарок.",
+      "duration_ms": 9790,
+      "verification": {
+        "frames": 294,
+        "sampled_frames": [
+          0,
+          18,
+          36,
+          54,
+          146,
+          292,
+          293
+        ],
+        "seam_frames": [],
+        "mp4_duration_s": 9.8,
+        "dimensions": [
+          720,
+          1280
+        ],
+        "decoded_audio_and_video": true,
+        "word_markers": 32,
+        "ass_speech_events": 35,
+        "highlight_events": 32,
+        "seams_ms": [],
+        "source_container": "verified_indexed_stream_copy"
+      }
+    },
+    {
+      "candidate_id": "11e",
+      "clip_id": "HQ_11e",
+      "catalog_status": "ready",
+      "catalog_title": "Правило второй жизни исправили прямо в эфире",
+      "catalog_interval_ms": [
+        7405210,
+        7454120
+      ],
+      "catalog_reason": "",
+      "status": "reserve",
+      "files": {
+        "decision": "data/review/editorial/11e/decision.json"
+      },
+      "reason": "Правило меняют и объясняют в разговоре. Короткое «нет» оставляет двусмысленным, согласились ли с новой механикой. Для самостоятельного клипа нужен эпизод с её применением."
+    },
+    {
+      "candidate_id": "11f",
+      "clip_id": "HQ_11f",
+      "catalog_status": "ready",
+      "catalog_title": "Не смотрел «Наруто», но знает главных героев",
+      "catalog_interval_ms": [
+        7463590,
+        7543870
+      ],
+      "catalog_reason": "",
+      "status": "ready",
+      "files": {
+        "plan": "data/review/editorial/11f/edit_plan.json",
+        "draft": "data/review/editorial/11f/word_draft.json",
+        "edits": "data/review/editorial/11f/sol_edits.json",
+        "flags": "data/review/editorial/11f/subtitle_flags.json",
+        "qa": "data/review/editorial/11f/qa.json",
+        "mp4": "data/review/mvp/2876630043/HQ_11f/HQ_11f.mp4",
+        "ass": "data/review/mvp/2876630043/HQ_11f/HQ_11f.ass",
+        "manifest": "data/review/mvp/2876630043/HQ_11f/manifest.json"
+      },
+      "title": "Не смотрел «Наруто», но знает главных героев",
+      "reason": "Вопрос сразу задаёт контекст. Илья признаётся, что не смотрел аниме, затем называет пару, которую засчитывает игра.",
+      "duration_ms": 13560,
+      "verification": {
+        "frames": 407,
+        "sampled_frames": [
+          0,
+          18,
+          36,
+          54,
+          72,
+          73,
+          178,
+          283,
+          284,
+          301,
+          318,
+          319,
+          362,
+          405,
+          406
+        ],
+        "seam_frames": [
+          72,
+          73,
+          283,
+          284,
+          318,
+          319
+        ],
+        "mp4_duration_s": 13.566667,
+        "dimensions": [
+          720,
+          1280
+        ],
+        "decoded_audio_and_video": true,
+        "word_markers": 44,
+        "ass_speech_events": 46,
+        "highlight_events": 39,
+        "seams_ms": [
+          2440,
+          9480,
+          10630
+        ],
+        "source_container": "verified_indexed_stream_copy"
+      }
+    },
+    {
+      "candidate_id": "12a",
+      "clip_id": "HQ_12a",
+      "catalog_status": "ready",
+      "catalog_title": "Самый популярный ролик и подготовка перед викториной",
+      "catalog_interval_ms": [
+        7572830,
+        7625100
+      ],
+      "catalog_reason": "",
+      "status": "ready",
+      "files": {
+        "plan": "data/review/editorial/12a/edit_plan.json",
+        "draft": "data/review/editorial/12a/word_draft.json",
+        "edits": "data/review/editorial/12a/sol_edits.json",
+        "flags": "data/review/editorial/12a/subtitle_flags.json",
+        "qa": "data/review/editorial/12a/qa.json",
+        "mp4": "data/review/mvp/2876630043/HQ_12a/HQ_12a.mp4",
+        "ass": "data/review/mvp/2876630043/HQ_12a/HQ_12a.ass",
+        "manifest": "data/review/mvp/2876630043/HQ_12a/manifest.json"
+      },
+      "title": "Самый популярный ролик и подготовка перед викториной",
+      "reason": "Реплика о подготовке открывает вопрос. Оставить название ролика и оценку просмотров, затем подтвердить ответ табло.",
+      "duration_ms": 13210,
+      "verification": {
+        "frames": 396,
+        "sampled_frames": [
+          0,
+          18,
+          36,
+          54,
+          109,
+          110,
+          181,
+          252,
+          253,
+          324,
+          394,
+          395
+        ],
+        "seam_frames": [
+          109,
+          110,
+          252,
+          253
+        ],
+        "mp4_duration_s": 13.21,
+        "dimensions": [
+          720,
+          1280
+        ],
+        "decoded_audio_and_video": true,
+        "word_markers": 31,
+        "ass_speech_events": 35,
+        "highlight_events": 29,
+        "seams_ms": [
+          3670,
+          8420
+        ],
+        "source_container": "verified_indexed_stream_copy"
+      }
+    },
+    {
+      "candidate_id": "12c",
+      "clip_id": "HQ_12c",
+      "catalog_status": "ready",
+      "catalog_title": "Лучшая косметика по опросу зрителей своего канала",
+      "catalog_interval_ms": [
+        7677120,
+        7773030
+      ],
+      "catalog_reason": "",
+      "status": "ready",
+      "files": {
+        "plan": "data/review/editorial/12c/edit_plan.json",
+        "draft": "data/review/editorial/12c/word_draft.json",
+        "edits": "data/review/editorial/12c/sol_edits.json",
+        "flags": "data/review/editorial/12c/subtitle_flags.json",
+        "qa": "data/review/editorial/12c/qa.json",
+        "mp4": "data/review/mvp/2876630043/HQ_12c/HQ_12c.mp4",
+        "ass": "data/review/mvp/2876630043/HQ_12c/HQ_12c.ass",
+        "manifest": "data/review/mvp/2876630043/HQ_12c/manifest.json"
+      },
+      "title": "Лучшая косметика по опросу зрителей своего канала",
+      "reason": "Опрос зрителей и собственный бренд делают ответ понятной шуткой. Показать варианты, выбор и зелёный результат.",
+      "duration_ms": 13770,
+      "verification": {
+        "frames": 413,
+        "sampled_frames": [
+          0,
+          18,
+          36,
+          54,
+          73,
+          146,
+          147,
+          189,
+          232,
+          233,
+          322,
+          411,
+          412
+        ],
+        "seam_frames": [
+          146,
+          147,
+          232,
+          233
+        ],
+        "mp4_duration_s": 13.77,
+        "dimensions": [
+          720,
+          1280
+        ],
+        "decoded_audio_and_video": true,
+        "word_markers": 29,
+        "ass_speech_events": 37,
+        "highlight_events": 29,
+        "seams_ms": [
+          4890,
+          7760
+        ],
+        "source_container": "verified_indexed_stream_copy"
+      }
+    },
+    {
+      "candidate_id": "12d",
+      "clip_id": "HQ_12d",
+      "catalog_status": "ready",
+      "catalog_title": "Второе имя Эксайла",
+      "catalog_interval_ms": [
+        7796890,
+        7913140
+      ],
+      "catalog_reason": "",
+      "status": "ready",
+      "files": {
+        "plan": "data/review/editorial/12d/edit_plan.json",
+        "draft": "data/review/editorial/12d/word_draft.json",
+        "edits": "data/review/editorial/12d/sol_edits.json",
+        "flags": "data/review/editorial/12d/subtitle_flags.json",
+        "qa": "data/review/editorial/12d/qa.json",
+        "mp4": "data/review/mvp/2876630043/HQ_12d/HQ_12d.mp4",
+        "ass": "data/review/mvp/2876630043/HQ_12d/HQ_12d.ass",
+        "manifest": "data/review/mvp/2876630043/HQ_12d/manifest.json"
+      },
+      "title": "Второе имя Эксайла",
+      "reason": "Короткий вопрос на табло, реакция на «Пупуню», жёлтый выбор и зелёный результат.",
+      "duration_ms": 13550,
+      "verification": {
+        "frames": 407,
+        "sampled_frames": [
+          0,
+          18,
+          36,
+          53,
+          54,
+          107,
+          108,
+          181,
+          255,
+          256,
+          281,
+          307,
+          308,
+          357,
+          405,
+          406
+        ],
+        "seam_frames": [
+          107,
+          108,
+          255,
+          256,
+          307,
+          308
+        ],
+        "mp4_duration_s": 13.566667,
+        "dimensions": [
+          720,
+          1280
+        ],
+        "decoded_audio_and_video": true,
+        "word_markers": 37,
+        "ass_speech_events": 37,
+        "highlight_events": 31,
+        "seams_ms": [
+          3590,
+          8530,
+          10250
+        ],
+        "source_container": "verified_indexed_stream_copy"
+      }
+    },
+    {
+      "candidate_id": "12e",
+      "clip_id": "HQ_12e",
+      "catalog_status": "ready",
+      "catalog_title": "Вопрос о собственной женитьбе за 50 000 ₽",
+      "catalog_interval_ms": [
+        7925390,
+        8057950
+      ],
+      "catalog_reason": "",
+      "status": "ready",
+      "files": {
+        "plan": "data/review/editorial/12e/edit_plan.json",
+        "draft": "data/review/editorial/12e/word_draft.json",
+        "edits": "data/review/editorial/12e/sol_edits.json",
+        "flags": "data/review/editorial/12e/subtitle_flags.json",
+        "qa": "data/review/editorial/12e/qa.json",
+        "mp4": "data/review/mvp/2876630043/HQ_12e/HQ_12e.mp4",
+        "ass": "data/review/mvp/2876630043/HQ_12e/HQ_12e.ass",
+        "manifest": "data/review/mvp/2876630043/HQ_12e/manifest.json"
+      },
+      "title": "Вопрос о собственной женитьбе за 50 000 ₽",
+      "reason": "Открыть реальным вопросом на табло. Реплика про подарок в миллион объясняет реакцию, а выбранная Каролина остаётся видна на табло.",
+      "duration_ms": 14990,
+      "verification": {
+        "frames": 450,
+        "sampled_frames": [
+          0,
+          18,
+          36,
+          37,
+          54,
+          74,
+          75,
+          132,
+          189,
+          190,
+          262,
+          334,
+          335,
+          392,
+          448,
+          449
+        ],
+        "seam_frames": [
+          74,
+          75,
+          189,
+          190,
+          334,
+          335
+        ],
+        "mp4_duration_s": 15.0,
+        "dimensions": [
+          720,
+          1280
+        ],
+        "decoded_audio_and_video": true,
+        "word_markers": 43,
+        "ass_speech_events": 47,
+        "highlight_events": 39,
+        "seams_ms": [
+          2500,
+          6340,
+          11150
+        ],
+        "source_container": "verified_indexed_stream_copy"
+      }
+    },
+    {
+      "candidate_id": "12f",
+      "clip_id": "HQ_12f",
+      "catalog_status": "ready",
+      "catalog_title": "Второй по просмотрам ролик на собственном канале",
+      "catalog_interval_ms": [
+        8157700,
+        8229590
+      ],
+      "catalog_reason": "",
+      "status": "ready",
+      "files": {
+        "plan": "data/review/editorial/12f/edit_plan.json",
+        "draft": "data/review/editorial/12f/word_draft.json",
+        "edits": "data/review/editorial/12f/sol_edits.json",
+        "flags": "data/review/editorial/12f/subtitle_flags.json",
+        "qa": "data/review/editorial/12f/qa.json",
+        "mp4": "data/review/mvp/2876630043/HQ_12f/HQ_12f.mp4",
+        "ass": "data/review/mvp/2876630043/HQ_12f/HQ_12f.ass",
+        "manifest": "data/review/mvp/2876630043/HQ_12f/manifest.json"
+      },
+      "title": "Второй по просмотрам ролик на собственном канале",
+      "reason": "Вопрос о втором месте, сравнение двух роликов по просмотрам и зелёное подтверждение ответа.",
+      "duration_ms": 16830,
+      "verification": {
+        "frames": 505,
+        "sampled_frames": [
+          0,
+          18,
+          36,
+          54,
+          72,
+          73,
+          236,
+          400,
+          401,
+          452,
+          503,
+          504
+        ],
+        "seam_frames": [
+          72,
+          73,
+          400,
+          401
+        ],
+        "mp4_duration_s": 16.833333,
+        "dimensions": [
+          720,
+          1280
+        ],
+        "decoded_audio_and_video": true,
+        "word_markers": 43,
+        "ass_speech_events": 38,
+        "highlight_events": 34,
+        "seams_ms": [
+          2430,
+          13350
+        ],
+        "source_container": "verified_indexed_stream_copy"
+      }
+    },
+    {
+      "candidate_id": "13a",
+      "clip_id": "HQ_13a",
+      "catalog_status": "ready",
+      "catalog_title": "BPM и татуировка с пятнадцати лет",
+      "catalog_interval_ms": [
+        8243810,
+        8340740
+      ],
+      "catalog_reason": "",
+      "status": "ready",
+      "files": {
+        "plan": "data/review/editorial/13a/edit_plan.json",
+        "draft": "data/review/editorial/13a/word_draft.json",
+        "edits": "data/review/editorial/13a/sol_edits.json",
+        "flags": "data/review/editorial/13a/subtitle_flags.json",
+        "qa": "data/review/editorial/13a/qa.json",
+        "mp4": "data/review/mvp/2876630043/HQ_13a/HQ_13a.mp4",
+        "ass": "data/review/mvp/2876630043/HQ_13a/HQ_13a.ass",
+        "manifest": "data/review/mvp/2876630043/HQ_13a/manifest.json"
+      },
+      "title": "BPM и татуировка с пятнадцати лет",
+      "reason": "Начать с жеста, когда Илья подносит татуировку к камере, затем дать вопрос и вернуться к выбору и выигрышу.",
+      "duration_ms": 12900,
+      "verification": {
+        "frames": 387,
+        "sampled_frames": [
+          0,
+          18,
+          36,
+          37,
+          54,
+          74,
+          75,
+          116,
+          157,
+          158,
+          175,
+          193,
+          194,
+          235,
+          276,
+          277,
+          331,
+          385,
+          386
+        ],
+        "seam_frames": [
+          74,
+          75,
+          157,
+          158,
+          193,
+          194,
+          276,
+          277
+        ],
+        "mp4_duration_s": 12.9,
+        "dimensions": [
+          720,
+          1280
+        ],
+        "decoded_audio_and_video": true,
+        "word_markers": 31,
+        "ass_speech_events": 31,
+        "highlight_events": 27,
+        "seams_ms": [
+          2490,
+          5250,
+          6480,
+          9220
+        ],
+        "source_container": "verified_indexed_stream_copy"
+      }
+    },
+    {
+      "candidate_id": "13b",
+      "clip_id": "HQ_13b",
+      "catalog_status": "ready",
+      "catalog_title": "Кто написал Hunter × Hunter",
+      "catalog_interval_ms": [
+        8356420,
+        8422670
+      ],
+      "catalog_reason": "",
+      "status": "ready",
+      "files": {
+        "plan": "data/review/editorial/13b/edit_plan.json",
+        "draft": "data/review/editorial/13b/word_draft.json",
+        "edits": "data/review/editorial/13b/sol_edits.json",
+        "flags": "data/review/editorial/13b/subtitle_flags.json",
+        "qa": "data/review/editorial/13b/qa.json",
+        "mp4": "data/review/mvp/2876630043/HQ_13b/HQ_13b.mp4",
+        "ass": "data/review/mvp/2876630043/HQ_13b/HQ_13b.ass",
+        "manifest": "data/review/mvp/2876630043/HQ_13b/manifest.json"
+      },
+      "title": "Кто написал Hunter × Hunter",
+      "reason": "Вопрос сразу виден. Илья сопоставляет авторов с их работами и оставляет Тогаси методом исключения, после чего табло подтверждает выбор.",
+      "duration_ms": 18820,
+      "verification": {
+        "frames": 565,
+        "sampled_frames": [
+          0,
+          18,
+          36,
+          39,
+          54,
+          79,
+          80,
+          255,
+          431,
+          432,
+          498,
+          563,
+          564
+        ],
+        "seam_frames": [
+          79,
+          80,
+          431,
+          432
+        ],
+        "mp4_duration_s": 18.833333,
+        "dimensions": [
+          720,
+          1280
+        ],
+        "decoded_audio_and_video": true,
+        "word_markers": 43,
+        "ass_speech_events": 37,
+        "highlight_events": 32,
+        "seams_ms": [
+          2670,
+          14410
+        ],
+        "source_container": "verified_indexed_stream_copy"
+      }
+    },
+    {
+      "candidate_id": "13c",
+      "clip_id": "HQ_13c",
+      "catalog_status": "ready",
+      "catalog_title": "Как зовут Marshmello",
+      "catalog_interval_ms": [
+        8422670,
+        8532850
+      ],
+      "catalog_reason": "",
+      "status": "ready",
+      "files": {
+        "plan": "data/review/editorial/13c/edit_plan.json",
+        "draft": "data/review/editorial/13c/word_draft.json",
+        "edits": "data/review/editorial/13c/sol_edits.json",
+        "flags": "data/review/editorial/13c/subtitle_flags.json",
+        "qa": "data/review/editorial/13c/qa.json",
+        "mp4": "data/review/mvp/2876630043/HQ_13c/HQ_13c.mp4",
+        "ass": "data/review/mvp/2876630043/HQ_13c/HQ_13c.ass",
+        "manifest": "data/review/mvp/2876630043/HQ_13c/manifest.json"
+      },
+      "title": "Как зовут Marshmello",
+      "reason": "Вопрос и первые варианты открывают историю, объяснение про псевдоним ведёт к выбору и настоящему зелёному табло.",
+      "duration_ms": 13280,
+      "verification": {
+        "frames": 398,
+        "sampled_frames": [
+          0,
+          18,
+          36,
+          54,
+          73,
+          146,
+          147,
+          205,
+          263,
+          264,
+          287,
+          311,
+          312,
+          354,
+          396,
+          397
+        ],
+        "seam_frames": [
+          146,
+          147,
+          263,
+          264,
+          311,
+          312
+        ],
+        "mp4_duration_s": 13.28,
+        "dimensions": [
+          720,
+          1280
+        ],
+        "decoded_audio_and_video": true,
+        "word_markers": 29,
+        "ass_speech_events": 33,
+        "highlight_events": 26,
+        "seams_ms": [
+          4900,
+          8790,
+          10400
+        ],
+        "source_container": "verified_indexed_stream_copy"
+      }
+    },
+    {
+      "candidate_id": "14a",
+      "clip_id": "HQ_14a",
+      "catalog_status": "ready",
+      "catalog_title": "Что появилось раньше — Google или Mozilla Firefox",
+      "catalog_interval_ms": [
+        8540500,
+        8919530
+      ],
+      "catalog_reason": "",
+      "status": "ready",
+      "files": {
+        "plan": "data/review/editorial/14a/edit_plan.json",
+        "draft": "data/review/editorial/14a/word_draft.json",
+        "edits": "data/review/editorial/14a/sol_edits.json",
+        "flags": "data/review/editorial/14a/subtitle_flags.json",
+        "qa": "data/review/editorial/14a/qa.json",
+        "mp4": "data/review/mvp/2876630043/HQ_14a/HQ_14a.mp4",
+        "ass": "data/review/mvp/2876630043/HQ_14a/HQ_14a.ass",
+        "manifest": "data/review/mvp/2876630043/HQ_14a/manifest.json"
+      },
+      "title": "Что появилось раньше — Google или Mozilla Firefox",
+      "reason": "Вопрос и первые варианты открывают спор. Подсказка оставляет два ответа, а финальный кадр показывает, что именно засчитала игра.",
+      "duration_ms": 17270,
+      "verification": {
+        "frames": 518,
+        "sampled_frames": [
+          0,
+          18,
+          36,
+          54,
+          111,
+          222,
+          223,
+          275,
+          328,
+          329,
+          368,
+          407,
+          408,
+          462,
+          516,
+          517
+        ],
+        "seam_frames": [
+          222,
+          223,
+          328,
+          329,
+          407,
+          408
+        ],
+        "mp4_duration_s": 17.27,
+        "dimensions": [
+          720,
+          1280
+        ],
+        "decoded_audio_and_video": true,
+        "word_markers": 40,
+        "ass_speech_events": 45,
+        "highlight_events": 39,
+        "seams_ms": [
+          7420,
+          10950,
+          13590
+        ],
+        "source_container": "verified_indexed_stream_copy"
+      }
+    },
+    {
+      "candidate_id": "13d",
+      "clip_id": "HQ_13d",
+      "catalog_status": "ready",
+      "catalog_title": "Узнал, что подсказку на миллион не сберечь",
+      "catalog_interval_ms": [
+        8558250,
+        8701210
+      ],
+      "catalog_reason": "",
+      "status": "reserve",
+      "files": {
+        "decision": "data/review/editorial/13d/decision.json"
+      },
+      "reason": "Развязка сводится к объяснению ограничения. Понадобится следующий вопрос, чтобы показать последствия для игры, а в пределах эпизода их нет."
+    },
+    {
+      "candidate_id": "14b",
+      "clip_id": "HQ_14b",
+      "catalog_status": "ready",
+      "catalog_title": "Министр одиночества и голосование чата",
+      "catalog_interval_ms": [
+        8933490,
+        9194450
+      ],
+      "catalog_reason": "",
+      "status": "ready",
+      "files": {
+        "plan": "data/review/editorial/14b/edit_plan.json",
+        "draft": "data/review/editorial/14b/word_draft.json",
+        "edits": "data/review/editorial/14b/sol_edits.json",
+        "flags": "data/review/editorial/14b/subtitle_flags.json",
+        "qa": "data/review/editorial/14b/qa.json",
+        "mp4": "data/review/mvp/2876630043/HQ_14b/HQ_14b.mp4",
+        "ass": "data/review/mvp/2876630043/HQ_14b/HQ_14b.ass",
+        "manifest": "data/review/mvp/2876630043/HQ_14b/manifest.json"
+      },
+      "title": "Министр одиночества и голосование чата",
+      "reason": "Показать вопрос, передать озвученный ведущим перевес в голосовании и оставить исходное подтверждение за полмиллиона.",
+      "duration_ms": 24820,
+      "verification": {
+        "frames": 745,
+        "sampled_frames": [
+          0,
+          18,
+          36,
+          54,
+          84,
+          169,
+          170,
+          226,
+          282,
+          283,
+          377,
+          472,
+          473,
+          528,
+          583,
+          584,
+          664,
+          743,
+          744
+        ],
+        "seam_frames": [
+          169,
+          170,
+          282,
+          283,
+          472,
+          473,
+          583,
+          584
+        ],
+        "mp4_duration_s": 24.833333,
+        "dimensions": [
+          720,
+          1280
+        ],
+        "decoded_audio_and_video": true,
+        "word_markers": 43,
+        "ass_speech_events": 47,
+        "highlight_events": 42,
+        "seams_ms": [
+          5660,
+          9430,
+          15770,
+          19470
+        ],
+        "source_container": "verified_indexed_stream_copy"
+      }
+    },
+    {
+      "candidate_id": "15a",
+      "clip_id": "HQ_15a",
+      "catalog_status": "ready",
+      "catalog_title": "Яунде после серии звонков друзьям",
+      "catalog_interval_ms": [
+        9228430,
+        9598280
+      ],
+      "catalog_reason": "",
+      "status": "ready",
+      "files": {
+        "plan": "data/review/editorial/15a/edit_plan.json",
+        "draft": "data/review/editorial/15a/word_draft.json",
+        "edits": "data/review/editorial/15a/sol_edits.json",
+        "flags": "data/review/editorial/15a/subtitle_flags.json",
+        "qa": "data/review/editorial/15a/qa.json",
+        "mp4": "data/review/mvp/2876630043/HQ_15a/HQ_15a.mp4",
+        "ass": "data/review/mvp/2876630043/HQ_15a/HQ_15a.ass",
+        "manifest": "data/review/mvp/2876630043/HQ_15a/manifest.json"
+      },
+      "title": "Яунде после серии звонков друзьям",
+      "reason": "Сохранить вопрос, выбор Яунде и контраст с ответом ведущего. Убрать длинный звонок с едва различимым собеседником.",
+      "duration_ms": 16830,
+      "verification": {
+        "frames": 505,
+        "sampled_frames": [
+          0,
+          18,
+          36,
+          42,
+          54,
+          84,
+          85,
+          105,
+          126,
+          127,
+          236,
+          345,
+          346,
+          425,
+          503,
+          504
+        ],
+        "seam_frames": [
+          84,
+          85,
+          126,
+          127,
+          345,
+          346
+        ],
+        "mp4_duration_s": 16.833333,
+        "dimensions": [
+          720,
+          1280
+        ],
+        "decoded_audio_and_video": true,
+        "word_markers": 35,
+        "ass_speech_events": 36,
+        "highlight_events": 31,
+        "seams_ms": [
+          2840,
+          4220,
+          11540
+        ],
+        "source_container": "verified_indexed_stream_copy"
+      }
+    },
+    {
+      "candidate_id": "15b",
+      "clip_id": "HQ_15b",
+      "catalog_status": "ready",
+      "catalog_title": "Дата полёта на «Матизе» в вопросе на миллион",
+      "catalog_interval_ms": [
+        9590360,
+        10313430
+      ],
+      "catalog_reason": "",
+      "status": "ready",
+      "files": {
+        "plan": "data/review/editorial/15b/edit_plan.json",
+        "draft": "data/review/editorial/15b/word_draft.json",
+        "edits": "data/review/editorial/15b/sol_edits.json",
+        "flags": "data/review/editorial/15b/subtitle_flags.json",
+        "qa": "data/review/editorial/15b/qa.json",
+        "mp4": "data/review/mvp/2876630043/HQ_15b/HQ_15b.mp4",
+        "ass": "data/review/mvp/2876630043/HQ_15b/HQ_15b.ass",
+        "manifest": "data/review/mvp/2876630043/HQ_15b/manifest.json"
+      },
+      "title": "Дата полёта на «Матизе» в вопросе на миллион",
+      "reason": "Открыть реакцией на вопрос о собственном событии. Один след рассуждения ведёт к выбору; красный и зелёный ответы показывают ошибку, а короткий эпилог уточняет несгораемую сумму.",
+      "duration_ms": 32190,
+      "verification": {
+        "frames": 966,
+        "sampled_frames": [
+          0,
+          18,
+          36,
+          54,
+          85,
+          170,
+          171,
+          290,
+          410,
+          411,
+          525,
+          640,
+          641,
+          759,
+          878,
+          879,
+          922,
+          964,
+          965
+        ],
+        "seam_frames": [
+          170,
+          171,
+          410,
+          411,
+          640,
+          641,
+          878,
+          879
+        ],
+        "mp4_duration_s": 32.2,
+        "dimensions": [
+          720,
+          1280
+        ],
+        "decoded_audio_and_video": true,
+        "word_markers": 65,
+        "ass_speech_events": 70,
+        "highlight_events": 59,
+        "seams_ms": [
+          5710,
+          13710,
+          21350,
+          29300
+        ],
+        "source_container": "verified_indexed_stream_copy"
+      }
+    },
+    {
+      "candidate_id": "16a",
+      "clip_id": "HQ_16a",
+      "catalog_status": "ready",
+      "catalog_title": "После игры позвонил очевидцу полёта на «Матизе»",
+      "catalog_interval_ms": [
+        10516720,
+        10667810
+      ],
+      "catalog_reason": "",
+      "status": "ready",
+      "files": {
+        "plan": "data/review/editorial/16a/edit_plan.json",
+        "draft": "data/review/editorial/16a/word_draft.json",
+        "edits": "data/review/editorial/16a/sol_edits.json",
+        "flags": "data/review/editorial/16a/subtitle_flags.json",
+        "qa": "data/review/editorial/16a/qa.json",
+        "mp4": "data/review/mvp/2876630043/HQ_16a/HQ_16a.mp4",
+        "ass": "data/review/mvp/2876630043/HQ_16a/HQ_16a.ass",
+        "manifest": "data/review/mvp/2876630043/HQ_16a/manifest.json"
+      },
+      "title": "После игры позвонил очевидцу полёта на «Матизе»",
+      "reason": "Открыть прямым вопросом Сане, оставить его первое «нет», объяснение уже потерянного миллиона и подкол о том, как ответили бы друзья.",
+      "duration_ms": 23990,
+      "verification": {
+        "frames": 720,
+        "sampled_frames": [
+          0,
+          18,
+          36,
+          54,
+          96,
+          192,
+          193,
+          356,
+          520,
+          521,
+          620,
+          718,
+          719
+        ],
+        "seam_frames": [
+          192,
+          193,
+          520,
+          521
+        ],
+        "mp4_duration_s": 24.0,
+        "dimensions": [
+          720,
+          1280
+        ],
+        "decoded_audio_and_video": true,
+        "word_markers": 64,
+        "ass_speech_events": 74,
+        "highlight_events": 62,
+        "seams_ms": [
+          6430,
+          17380
+        ],
+        "source_container": "verified_indexed_stream_copy"
+      }
+    },
+    {
+      "candidate_id": "16b",
+      "clip_id": "HQ_16b",
+      "catalog_status": "ready",
+      "catalog_title": "Почему ранний вылет в стриме нельзя переснять",
+      "catalog_interval_ms": [
+        10722640,
+        10783960
+      ],
+      "catalog_reason": "",
+      "status": "ready",
+      "files": {
+        "plan": "data/review/editorial/16b/edit_plan.json",
+        "draft": "data/review/editorial/16b/word_draft.json",
+        "edits": "data/review/editorial/16b/sol_edits.json",
+        "flags": "data/review/editorial/16b/subtitle_flags.json",
+        "qa": "data/review/editorial/16b/qa.json",
+        "mp4": "data/review/mvp/2876630043/HQ_16b/HQ_16b.mp4",
+        "ass": "data/review/mvp/2876630043/HQ_16b/HQ_16b.ass",
+        "manifest": "data/review/mvp/2876630043/HQ_16b/manifest.json"
+      },
+      "title": "Почему ранний вылет в стриме нельзя переснять",
+      "reason": "Поставить ограничение в первые секунды и оставить сравнение с телепроизводством, чтобы стало понятно, почему вопросы пилота устроены именно так.",
+      "duration_ms": 33360,
+      "verification": {
+        "frames": 1001,
+        "sampled_frames": [
+          0,
+          18,
+          36,
+          54,
+          168,
+          337,
+          338,
+          669,
+          999,
+          1000
+        ],
+        "seam_frames": [
+          337,
+          338
+        ],
+        "mp4_duration_s": 33.366667,
+        "dimensions": [
+          720,
+          1280
+        ],
+        "decoded_audio_and_video": true,
+        "word_markers": 100,
+        "ass_speech_events": 112,
+        "highlight_events": 97,
+        "seams_ms": [
+          11260
+        ],
+        "source_container": "verified_indexed_stream_copy"
+      }
+    },
+    {
+      "candidate_id": "17a",
+      "clip_id": "HQ_17a",
+      "catalog_status": "ready",
+      "catalog_title": "Когда после стрима обычно чего-то не хватает",
+      "catalog_interval_ms": [
+        10896040,
+        10930830
+      ],
+      "catalog_reason": "",
+      "status": "ready",
+      "files": {
+        "plan": "data/review/editorial/17a/edit_plan.json",
+        "draft": "data/review/editorial/17a/word_draft.json",
+        "edits": "data/review/editorial/17a/sol_edits.json",
+        "flags": "data/review/editorial/17a/subtitle_flags.json",
+        "qa": "data/review/editorial/17a/qa.json",
+        "mp4": "data/review/mvp/2876630043/HQ_17a/HQ_17a.mp4",
+        "ass": "data/review/mvp/2876630043/HQ_17a/HQ_17a.ass",
+        "manifest": "data/review/mvp/2876630043/HQ_17a/manifest.json"
+      },
+      "title": "Когда после стрима обычно чего-то не хватает",
+      "reason": "Открыть признанием о странном послевкусии, затем показать, чем этот пилот оказался исключением и какая претензия осталась.",
+      "duration_ms": 17370,
+      "verification": {
+        "frames": 521,
+        "sampled_frames": [
+          0,
+          18,
+          36,
+          54,
+          138,
+          277,
+          278,
+          399,
+          519,
+          520
+        ],
+        "seam_frames": [
+          277,
+          278
+        ],
+        "mp4_duration_s": 17.37,
+        "dimensions": [
+          720,
+          1280
+        ],
+        "decoded_audio_and_video": true,
+        "word_markers": 56,
+        "ass_speech_events": 56,
+        "highlight_events": 49,
+        "seams_ms": [
+          9260
+        ],
+        "source_container": "verified_indexed_stream_copy"
+      }
+    },
+    {
+      "candidate_id": "17b",
+      "clip_id": "HQ_17b",
+      "catalog_status": "ready",
+      "catalog_title": "Почему пока откладывает зелёную площадку",
+      "catalog_interval_ms": [
+        11105730,
+        11151790
+      ],
+      "catalog_reason": "",
+      "status": "ready",
+      "files": {
+        "plan": "data/review/editorial/17b/edit_plan.json",
+        "draft": "data/review/editorial/17b/word_draft.json",
+        "edits": "data/review/editorial/17b/sol_edits.json",
+        "flags": "data/review/editorial/17b/subtitle_flags.json",
+        "qa": "data/review/editorial/17b/qa.json",
+        "mp4": "data/review/mvp/2876630043/HQ_17b/HQ_17b.mp4",
+        "ass": "data/review/mvp/2876630043/HQ_17b/HQ_17b.ass",
+        "manifest": "data/review/mvp/2876630043/HQ_17b/manifest.json"
+      },
+      "title": "Почему пока откладывает зелёную площадку",
+      "reason": "Начать с желания снова стримить там, затем сохранить личную причину и условие возвращения.",
+      "duration_ms": 25180,
+      "verification": {
+        "frames": 755,
+        "sampled_frames": [
+          0,
+          18,
+          36,
+          54,
+          159,
+          318,
+          319,
+          536,
+          753,
+          754
+        ],
+        "seam_frames": [
+          318,
+          319
+        ],
+        "mp4_duration_s": 25.18,
+        "dimensions": [
+          720,
+          1280
+        ],
+        "decoded_audio_and_video": true,
+        "word_markers": 70,
+        "ass_speech_events": 78,
+        "highlight_events": 70,
+        "seams_ms": [
+          10640
+        ],
+        "source_container": "verified_indexed_stream_copy"
+      }
+    },
+    {
+      "candidate_id": "17c",
+      "clip_id": "HQ_17c",
+      "catalog_status": "ready",
+      "catalog_title": "Чего ему не хватало без стримов",
+      "catalog_interval_ms": [
+        11191270,
+        11219350
+      ],
+      "catalog_reason": "",
+      "status": "ready",
+      "files": {
+        "plan": "data/review/editorial/17c/edit_plan.json",
+        "draft": "data/review/editorial/17c/word_draft.json",
+        "edits": "data/review/editorial/17c/sol_edits.json",
+        "flags": "data/review/editorial/17c/subtitle_flags.json",
+        "qa": "data/review/editorial/17c/qa.json",
+        "mp4": "data/review/mvp/2876630043/HQ_17c/HQ_17c.mp4",
+        "ass": "data/review/mvp/2876630043/HQ_17c/HQ_17c.ass",
+        "manifest": "data/review/mvp/2876630043/HQ_17c/manifest.json"
+      },
+      "title": "Чего ему не хватало без стримов",
+      "reason": "Взять вопрос и цельный ответ: на стриме можно в любую секунду спросить мнение чата о случайной вещи.",
+      "duration_ms": 16350,
+      "verification": {
+        "frames": 491,
+        "sampled_frames": [
+          0,
+          18,
+          36,
+          54,
+          245,
+          489,
+          490
+        ],
+        "seam_frames": [],
+        "mp4_duration_s": 16.366667,
+        "dimensions": [
+          720,
+          1280
+        ],
+        "decoded_audio_and_video": true,
+        "word_markers": 53,
+        "ass_speech_events": 69,
+        "highlight_events": 52,
+        "seams_ms": [],
+        "source_container": "verified_indexed_stream_copy"
+      }
+    },
+    {
+      "candidate_id": "17e",
+      "clip_id": "HQ_17e",
+      "catalog_status": "ready",
+      "catalog_title": "Не смог выбрать цвет и заказал все три",
+      "catalog_interval_ms": [
+        11406580,
+        11509720
+      ],
+      "catalog_reason": "",
+      "status": "ready",
+      "files": {
+        "plan": "data/review/editorial/17e/edit_plan.json",
+        "draft": "data/review/editorial/17e/word_draft.json",
+        "edits": "data/review/editorial/17e/sol_edits.json",
+        "flags": "data/review/editorial/17e/subtitle_flags.json",
+        "qa": "data/review/editorial/17e/qa.json",
+        "mp4": "data/review/mvp/2876630043/HQ_17e/HQ_17e.mp4",
+        "ass": "data/review/mvp/2876630043/HQ_17e/HQ_17e.ass",
+        "manifest": "data/review/mvp/2876630043/HQ_17e/manifest.json"
+      },
+      "title": "Не смог выбрать цвет и заказал все три",
+      "reason": "Начать с контраста старого и нового телефона, затем оставить причину покупки всех трёх и просьбу пожалеть.",
+      "duration_ms": 18680,
+      "verification": {
+        "frames": 560,
+        "sampled_frames": [
+          0,
+          18,
+          36,
+          54,
+          101,
+          203,
+          204,
+          269,
+          334,
+          335,
+          421,
+          507,
+          508,
+          533,
+          558,
+          559
+        ],
+        "seam_frames": [
+          203,
+          204,
+          334,
+          335,
+          507,
+          508
+        ],
+        "mp4_duration_s": 18.68,
+        "dimensions": [
+          720,
+          1280
+        ],
+        "decoded_audio_and_video": true,
+        "word_markers": 60,
+        "ass_speech_events": 64,
+        "highlight_events": 55,
+        "seams_ms": [
+          6810,
+          11180,
+          16940
+        ],
+        "source_container": "verified_indexed_stream_copy"
+      }
+    },
+    {
+      "candidate_id": "18a",
+      "clip_id": "HQ_18a",
+      "catalog_status": "ready",
+      "catalog_title": "«Дешёвый» подарок — часы с ремешком Hermès",
+      "catalog_interval_ms": [
+        11512480,
+        11617680
+      ],
+      "catalog_reason": "",
+      "status": "ready",
+      "files": {
+        "plan": "data/review/editorial/18a/edit_plan.json",
+        "draft": "data/review/editorial/18a/word_draft.json",
+        "edits": "data/review/editorial/18a/sol_edits.json",
+        "flags": "data/review/editorial/18a/subtitle_flags.json",
+        "qa": "data/review/editorial/18a/qa.json",
+        "mp4": "data/review/mvp/2876630043/HQ_18a/HQ_18a.mp4",
+        "ass": "data/review/mvp/2876630043/HQ_18a/HQ_18a.ass",
+        "manifest": "data/review/mvp/2876630043/HQ_18a/manifest.json"
+      },
+      "title": "«Дешёвый» подарок — часы с ремешком Hermès",
+      "reason": "Сразу оставить предложение подарка «из дешёвого», затем показать бренд и конкретный ремешок, на котором держится шутка.",
+      "duration_ms": 15340,
+      "verification": {
+        "frames": 460,
+        "sampled_frames": [
+          0,
+          18,
+          36,
+          54,
+          64,
+          128,
+          129,
+          185,
+          242,
+          243,
+          322,
+          402,
+          403,
+          431,
+          458,
+          459
+        ],
+        "seam_frames": [
+          128,
+          129,
+          242,
+          243,
+          402,
+          403
+        ],
+        "mp4_duration_s": 15.34,
+        "dimensions": [
+          720,
+          1280
+        ],
+        "decoded_audio_and_video": true,
+        "word_markers": 36,
+        "ass_speech_events": 39,
+        "highlight_events": 34,
+        "seams_ms": [
+          4300,
+          8100,
+          13420
+        ],
+        "source_container": "verified_indexed_stream_copy"
+      }
+    },
+    {
+      "candidate_id": "18b",
+      "clip_id": "HQ_18b",
+      "catalog_status": "ready",
+      "catalog_title": "Телефон по цене игрового ПК",
+      "catalog_interval_ms": [
+        11692360,
+        11813720
+      ],
+      "catalog_reason": "",
+      "status": "ready",
+      "files": {
+        "plan": "data/review/editorial/18b/edit_plan.json",
+        "draft": "data/review/editorial/18b/word_draft.json",
+        "edits": "data/review/editorial/18b/sol_edits.json",
+        "flags": "data/review/editorial/18b/subtitle_flags.json",
+        "qa": "data/review/editorial/18b/qa.json",
+        "mp4": "data/review/mvp/2876630043/HQ_18b/HQ_18b.mp4",
+        "ass": "data/review/mvp/2876630043/HQ_18b/HQ_18b.ass",
+        "manifest": "data/review/mvp/2876630043/HQ_18b/manifest.json"
+      },
+      "title": "Телефон по цене игрового ПК",
+      "reason": "Открыть на реакции и самой цене, затем сохранить прямое сравнение со стоимостью игрового компьютера.",
+      "duration_ms": 12060,
+      "verification": {
+        "frames": 362,
+        "sampled_frames": [
+          0,
+          18,
+          36,
+          54,
+          132,
+          265,
+          266,
+          313,
+          360,
+          361
+        ],
+        "seam_frames": [
+          265,
+          266
+        ],
+        "mp4_duration_s": 12.066667,
+        "dimensions": [
+          720,
+          1280
+        ],
+        "decoded_audio_and_video": true,
+        "word_markers": 27,
+        "ass_speech_events": 25,
+        "highlight_events": 20,
+        "seams_ms": [
+          8880
+        ],
+        "source_container": "verified_indexed_stream_copy"
+      }
+    },
+    {
+      "candidate_id": "18d",
+      "clip_id": "HQ_18d",
+      "catalog_status": "ready",
+      "catalog_title": "Стал бы ты пропускать скучное время",
+      "catalog_interval_ms": [
+        11898660,
+        11976220
+      ],
+      "catalog_reason": "",
+      "status": "ready",
+      "files": {
+        "plan": "data/review/editorial/18d/edit_plan.json",
+        "draft": "data/review/editorial/18d/word_draft.json",
+        "edits": "data/review/editorial/18d/sol_edits.json",
+        "flags": "data/review/editorial/18d/subtitle_flags.json",
+        "qa": "data/review/editorial/18d/qa.json",
+        "mp4": "data/review/mvp/2876630043/HQ_18d/HQ_18d.mp4",
+        "ass": "data/review/mvp/2876630043/HQ_18d/HQ_18d.ass",
+        "manifest": "data/review/mvp/2876630043/HQ_18d/manifest.json"
+      },
+      "title": "Стал бы ты пропускать скучное время",
+      "reason": "Сразу поставить мысленный эксперимент и оставить разворот: со школой и работой исчезнут неожиданные хорошие моменты.",
+      "duration_ms": 23180,
+      "verification": {
+        "frames": 695,
+        "sampled_frames": [
+          0,
+          18,
+          36,
+          54,
+          87,
+          175,
+          176,
+          242,
+          308,
+          309,
+          501,
+          693,
+          694
+        ],
+        "seam_frames": [
+          175,
+          176,
+          308,
+          309
+        ],
+        "mp4_duration_s": 23.18,
+        "dimensions": [
+          720,
+          1280
+        ],
+        "decoded_audio_and_video": true,
+        "word_markers": 55,
+        "ass_speech_events": 60,
+        "highlight_events": 51,
+        "seams_ms": [
+          5860,
+          10300
+        ],
+        "source_container": "verified_indexed_stream_copy"
+      }
+    },
+    {
+      "candidate_id": "18e",
+      "clip_id": "HQ_18e",
+      "catalog_status": "ready",
+      "catalog_title": "Чат помог настроить таунт, и герой танцует под трек",
+      "catalog_interval_ms": [
+        11977070,
+        12195200
+      ],
+      "catalog_reason": "",
+      "status": "ready",
+      "files": {
+        "plan": "data/review/editorial/18e/edit_plan.json",
+        "draft": "data/review/editorial/18e/word_draft.json",
+        "edits": "data/review/editorial/18e/sol_edits.json",
+        "flags": "data/review/editorial/18e/subtitle_flags.json",
+        "qa": "data/review/editorial/18e/qa.json",
+        "mp4": "data/review/mvp/2876630043/HQ_18e/HQ_18e.mp4",
+        "ass": "data/review/mvp/2876630043/HQ_18e/HQ_18e.ass",
+        "manifest": "data/review/mvp/2876630043/HQ_18e/manifest.json"
+      },
+      "title": "Чат помог настроить таунт, и герой танцует под трек",
+      "reason": "В начале спросить про узнаваемый танец, затем показать действие в игре и сохранить реакцию после показа.",
+      "duration_ms": 15700,
+      "verification": {
+        "frames": 471,
+        "sampled_frames": [
+          0,
+          18,
+          36,
+          54,
+          109,
+          110,
+          243,
+          376,
+          377,
+          423,
+          469,
+          470
+        ],
+        "seam_frames": [
+          109,
+          110,
+          376,
+          377
+        ],
+        "mp4_duration_s": 15.7,
+        "dimensions": [
+          720,
+          1280
+        ],
+        "decoded_audio_and_video": true,
+        "word_markers": 32,
+        "ass_speech_events": 37,
+        "highlight_events": 32,
+        "seams_ms": [
+          3670,
+          12570
+        ],
+        "source_container": "verified_indexed_stream_copy"
+      }
+    },
+    {
+      "candidate_id": "19a",
+      "clip_id": "HQ_19a",
+      "catalog_status": "ready",
+      "catalog_title": "Включается другой TikTok — решение с целым браузером",
+      "catalog_interval_ms": [
+        12420300,
+        12545850
+      ],
+      "catalog_reason": "",
+      "status": "ready",
+      "files": {
+        "plan": "data/review/editorial/19a/edit_plan.json",
+        "draft": "data/review/editorial/19a/word_draft.json",
+        "edits": "data/review/editorial/19a/sol_edits.json",
+        "flags": "data/review/editorial/19a/subtitle_flags.json",
+        "qa": "data/review/editorial/19a/qa.json",
+        "mp4": "data/review/mvp/2876630043/HQ_19a/HQ_19a.mp4",
+        "ass": "data/review/mvp/2876630043/HQ_19a/HQ_19a.ass",
+        "manifest": "data/review/mvp/2876630043/HQ_19a/manifest.json"
+      },
+      "title": "Включается другой TikTok — решение с целым браузером",
+      "reason": "Поставить проблему словами ведущего, показать окно в момент ошибки и оставить фактическое переключение с подтверждением результата.",
+      "duration_ms": 16920,
+      "verification": {
+        "frames": 508,
+        "sampled_frames": [
+          0,
+          18,
+          36,
+          54,
+          83,
+          166,
+          167,
+          244,
+          321,
+          322,
+          414,
+          506,
+          507
+        ],
+        "seam_frames": [
+          166,
+          167,
+          321,
+          322
+        ],
+        "mp4_duration_s": 16.933333,
+        "dimensions": [
+          720,
+          1280
+        ],
+        "decoded_audio_and_video": true,
+        "word_markers": 37,
+        "ass_speech_events": 41,
+        "highlight_events": 32,
+        "seams_ms": [
+          5570,
+          10720
+        ],
+        "source_container": "verified_indexed_stream_copy"
+      }
+    },
+    {
+      "candidate_id": "19e",
+      "clip_id": "HQ_19e",
+      "catalog_status": "ready",
+      "catalog_title": "Заказал сладости, получил набор для шашлыков",
+      "catalog_interval_ms": [
+        12905100,
+        12942640
+      ],
+      "catalog_reason": "",
+      "status": "ready",
+      "files": {
+        "plan": "data/review/editorial/19e/edit_plan.json",
+        "draft": "data/review/editorial/19e/word_draft.json",
+        "edits": "data/review/editorial/19e/sol_edits.json",
+        "flags": "data/review/editorial/19e/subtitle_flags.json",
+        "qa": "data/review/editorial/19e/qa.json",
+        "mp4": "data/review/mvp/2876630043/HQ_19e/HQ_19e.mp4",
+        "ass": "data/review/mvp/2876630043/HQ_19e/HQ_19e.ass",
+        "manifest": "data/review/mvp/2876630043/HQ_19e/manifest.json"
+      },
+      "title": "Заказал сладости, получил набор для шашлыков",
+      "reason": "Начать с перепутанного заказа. Цельная история заканчивается предложением сделать шашлык из того, что привезли.",
+      "duration_ms": 17090,
+      "verification": {
+        "frames": 513,
+        "sampled_frames": [
+          0,
+          18,
+          36,
+          54,
+          256,
+          511,
+          512
+        ],
+        "seam_frames": [],
+        "mp4_duration_s": 17.1,
+        "dimensions": [
+          720,
+          1280
+        ],
+        "decoded_audio_and_video": true,
+        "word_markers": 43,
+        "ass_speech_events": 45,
+        "highlight_events": 37,
+        "seams_ms": [],
+        "source_container": "verified_indexed_stream_copy"
+      }
+    },
+    {
+      "candidate_id": "19f",
+      "clip_id": "HQ_19f",
+      "catalog_status": "ready",
+      "catalog_title": "«Продолжаю не исполнять» и мечта видеть без очков",
+      "catalog_interval_ms": [
+        12943480,
+        13009020
+      ],
+      "catalog_reason": "",
+      "status": "ready",
+      "files": {
+        "plan": "data/review/editorial/19f/edit_plan.json",
+        "draft": "data/review/editorial/19f/word_draft.json",
+        "edits": "data/review/editorial/19f/sol_edits.json",
+        "flags": "data/review/editorial/19f/subtitle_flags.json",
+        "qa": "data/review/editorial/19f/qa.json",
+        "mp4": "data/review/mvp/2876630043/HQ_19f/HQ_19f.mp4",
+        "ass": "data/review/mvp/2876630043/HQ_19f/HQ_19f.ass",
+        "manifest": "data/review/mvp/2876630043/HQ_19f/manifest.json"
+      },
+      "title": "«Продолжаю не исполнять» и мечта видеть без очков",
+      "reason": "Открыть обещанием больше не смеяться и дать ролику прозвучать до повторения фразы. После разворота оставить смех ведущего.",
+      "duration_ms": 23750,
+      "verification": {
+        "frames": 713,
+        "sampled_frames": [
+          0,
+          18,
+          36,
+          45,
+          54,
+          90,
+          91,
+          401,
+          711,
+          712
+        ],
+        "seam_frames": [
+          90,
+          91
+        ],
+        "mp4_duration_s": 23.766667,
+        "dimensions": [
+          720,
+          1280
+        ],
+        "decoded_audio_and_video": true,
+        "word_markers": 33,
+        "ass_speech_events": 31,
+        "highlight_events": 27,
+        "seams_ms": [
+          3040
+        ],
+        "source_container": "verified_indexed_stream_copy"
+      }
+    },
+    {
+      "candidate_id": "19h",
+      "clip_id": "HQ_19h",
+      "catalog_status": "ready",
+      "catalog_title": "Оценка ауры и комментарии к последнему ролику",
+      "catalog_interval_ms": [
+        13151170,
+        13259180
+      ],
+      "catalog_reason": "",
+      "status": "ready",
+      "files": {
+        "plan": "data/review/editorial/19h/edit_plan.json",
+        "draft": "data/review/editorial/19h/word_draft.json",
+        "edits": "data/review/editorial/19h/sol_edits.json",
+        "flags": "data/review/editorial/19h/subtitle_flags.json",
+        "qa": "data/review/editorial/19h/qa.json",
+        "mp4": "data/review/mvp/2876630043/HQ_19h/HQ_19h.mp4",
+        "ass": "data/review/mvp/2876630043/HQ_19h/HQ_19h.ass",
+        "manifest": "data/review/mvp/2876630043/HQ_19h/manifest.json"
+      },
+      "title": "Оценка ауры и комментарии к последнему ролику",
+      "reason": "Сначала дать запрос оценки и показать атлета, затем оставить видимый трюк и короткое удивление тому, как тот держится.",
+      "duration_ms": 22230,
+      "verification": {
+        "frames": 667,
+        "sampled_frames": [
+          0,
+          18,
+          36,
+          54,
+          71,
+          143,
+          144,
+          304,
+          464,
+          465,
+          565,
+          665,
+          666
+        ],
+        "seam_frames": [
+          143,
+          144,
+          464,
+          465
+        ],
+        "mp4_duration_s": 22.233333,
+        "dimensions": [
+          720,
+          1280
+        ],
+        "decoded_audio_and_video": true,
+        "word_markers": 66,
+        "ass_speech_events": 76,
+        "highlight_events": 64,
+        "seams_ms": [
+          4810,
+          15510
+        ],
+        "source_container": "verified_indexed_stream_copy"
+      }
+    },
+    {
+      "candidate_id": "01c",
+      "clip_id": "HQ_01c",
+      "catalog_status": "reserve",
+      "catalog_title": "Попытка повторить финал ролика Ромы",
+      "catalog_interval_ms": [
+        109520,
+        173460
+      ],
+      "catalog_reason": "Слышно, что он собирается повторить финал, но кадр в момент реакции чёрный. Сам жест и исходный фрагмент в проверенных точках не видны.",
+      "status": "reserve",
+      "files": {
+        "decision": "data/review/editorial/01c/decision.json"
+      },
+      "reason": "В 150 с видно, как он поднимает предмет, но в момент выкрика кадр целиком чёрный. Вскоре камера возвращается. В пределах отрывка он не показывает оригинал, поэтому нельзя понять, какой именно момент он повторил и в чём сходство."
+    },
+    {
+      "candidate_id": "02d",
+      "clip_id": "HQ_02d",
+      "catalog_status": "reserve",
+      "catalog_title": "Уход из команды как шанс собрать новый состав",
+      "catalog_interval_ms": [
+        1154790,
+        1197910
+      ],
+      "catalog_reason": "Это короткая оценка последствий, во многом повторяет вывод предыдущего обсуждения.",
+      "status": "reserve",
+      "files": {
+        "decision": "data/review/editorial/02d/decision.json"
+      },
+      "reason": "Переход после спора о посте: возможный новый состав и победы без двух игроков перечисляются как предположения. Отдельного события или результата в отрывке нет."
+    },
+    {
+      "candidate_id": "03b",
+      "clip_id": "HQ_03b",
+      "catalog_status": "reserve",
+      "catalog_title": "Запрещает ли Рома общаться со Строго",
+      "catalog_interval_ms": [
+        1647840,
+        1696550
+      ],
+      "catalog_reason": "Перекликается с 02e, интонация важна для правильного прочтения шутки.",
+      "status": "reserve",
+      "files": {
+        "decision": "data/review/editorial/03b/decision.json"
+      },
+      "reason": "Объяснение, что Строго может связаться с ним в любой момент, повторяет тему 02e. Конечная колкость про Рому звучит как продолжение разговора с чатом, без самостоятельной развязки."
+    },
+    {
+      "candidate_id": "03c",
+      "clip_id": "HQ_03c",
+      "catalog_status": "reserve",
+      "catalog_title": "Рейд от Читбана после разговора о нём",
+      "catalog_interval_ms": [
+        1697630,
+        1743430
+      ],
+      "catalog_reason": "Рейд назван вслух, но в проверенных кадрах уведомления нет. Последняя реплика о том, что произошло через три года, распознана неясно.",
+      "status": "reserve",
+      "files": {
+        "decision": "data/review/editorial/03c/decision.json"
+      },
+      "reason": "Рейд объявлен голосом, но источник не показывает его как отдельное событие. Последующие реплики уходят в разговор о том, как подписываются рейды, и не раскрывают обещанный эпизод с Dragon Lore."
+    },
+    {
+      "candidate_id": "03e",
+      "clip_id": "HQ_03e",
+      "catalog_status": "reserve",
+      "catalog_title": "Просьба профинансировать новых donk",
+      "catalog_interval_ms": [
+        1892300,
+        1915620
+      ],
+      "catalog_reason": "Имя адресата и часть шутки искажены в расшифровке.",
+      "status": "reserve",
+      "files": {
+        "decision": "data/review/editorial/03e/decision.json"
+      },
+      "reason": "На экране только говорящий; вопрос с именем адресата и его проектом голосовой. Без надёжного имени вопрос о финансировании и ответ про нищету невозможно привязать к одной истории."
+    },
+    {
+      "candidate_id": "03f",
+      "clip_id": "HQ_03f",
+      "catalog_status": "reserve",
+      "catalog_title": "Курьеры в TikTok-монтаже",
+      "catalog_interval_ms": [
+        1920040,
+        1945040
+      ],
+      "catalog_reason": "Для понятной развязки нужен контекст нарезки, из одной расшифровки он не восстанавливается.",
+      "status": "reserve",
+      "files": {
+        "decision": "data/review/editorial/03f/decision.json"
+      },
+      "reason": "Текст описывает TikTok-нарезку, но ни сам ролик, ни монтажная склейка с курьерами на экране не появляются. Пересказ обрывается на возмущении."
+    },
+    {
+      "candidate_id": "03h",
+      "clip_id": "HQ_03h",
+      "catalog_status": "reserve",
+      "catalog_title": "Спросил про ванную, ответ получил про одеяло",
+      "catalog_interval_ms": [
+        2055520,
+        2072140
+      ],
+      "catalog_reason": "Начало шутки распознано с существенными пропусками.",
+      "status": "ready",
+      "files": {
+        "plan": "data/review/editorial/03h/edit_plan.json",
+        "draft": "data/review/editorial/03h/word_draft.json",
+        "edits": "data/review/editorial/03h/sol_edits.json",
+        "flags": "data/review/editorial/03h/subtitle_flags.json",
+        "qa": "data/review/editorial/03h/qa.json",
+        "mp4": "data/review/mvp/2876630043/HQ_03h/HQ_03h.mp4",
+        "ass": "data/review/mvp/2876630043/HQ_03h/HQ_03h.ass",
+        "manifest": "data/review/mvp/2876630043/HQ_03h/manifest.json"
+      },
+      "title": "Спросил про ванну, ответ получил про одеяло",
+      "reason": "Повторный Whisper по изолированному HQ звуку отчётливо выделил прямой вопрос и ответ. Промежуточные неясные слова убраны. Шутка держится на смене места действия.",
+      "duration_ms": 4605,
+      "verification": {
+        "frames": 138,
+        "sampled_frames": [
+          0,
+          18,
+          25,
+          36,
+          50,
+          51,
+          54,
+          94,
+          136,
+          137
+        ],
+        "seam_frames": [
+          50,
+          51
+        ],
+        "mp4_duration_s": 4.605,
+        "dimensions": [
+          720,
+          1280
+        ],
+        "decoded_audio_and_video": true,
+        "word_markers": 15,
+        "ass_speech_events": 13,
+        "highlight_events": 12,
+        "seams_ms": [
+          1695
+        ],
+        "source_container": "verified_indexed_stream_copy"
+      }
+    },
+    {
+      "candidate_id": "04b",
+      "clip_id": "HQ_04b",
+      "catalog_status": "reserve",
+      "catalog_title": "Красивую камеру попросили, настройки оказались неожиданными",
+      "catalog_interval_ms": [
+        2227730,
+        2300940
+      ],
+      "catalog_reason": "Появление живых камер подтверждено. Предмет реплики о том, как Максим выглядит, распознан недостаточно ясно для отдельной шутки.",
+      "status": "reserve",
+      "files": {
+        "decision": "data/review/editorial/04b/decision.json"
+      },
+      "reason": "Появление камер видно, но сама реакция распадается на несколько неясных замечаний. Ни в момент запуска, ни на финальной реплике конкретная настройка камеры не выделена визуально."
+    },
+    {
+      "candidate_id": "04c",
+      "clip_id": "HQ_04c",
+      "catalog_status": "reserve",
+      "catalog_title": "Фейк про Смешариков",
+      "catalog_interval_ms": [
+        2324780,
+        2348280
+      ],
+      "catalog_reason": "Расшифровка не даёт надёжной последней реплики и исходного контекста фейка.",
+      "status": "reserve",
+      "files": {
+        "decision": "data/review/editorial/04c/decision.json"
+      },
+      "reason": "Вопрос про фейки звучит, но на экране их не показывают. Вторая реплика и последующий обмен не объясняют, в чём конкретно заключался фейк."
+    },
+    {
+      "candidate_id": "04d",
+      "clip_id": "HQ_04d",
+      "catalog_status": "reserve",
+      "catalog_title": "Первые выпуски телевикторины в поиске",
+      "catalog_interval_ms": [
+        2435500,
+        2496840
+      ],
+      "catalog_reason": "Реакция на выдачу описана голосом, но в обеих проверенных точках зритель видит заставку игры, а не выдачу поиска.",
+      "status": "reserve",
+      "files": {
+        "decision": "data/review/editorial/04d/decision.json"
+      },
+      "reason": "Зритель слышит реакцию на первые результаты поиска, но не видит выдачу и не узнаёт названия роликов. Фраза о политике не даёт конкретного ответа на обещание показать результаты."
+    },
+    {
+      "candidate_id": "04f",
+      "clip_id": "HQ_04f",
+      "catalog_status": "reserve",
+      "catalog_title": "Какого умного друга можно позвать",
+      "catalog_interval_ms": [
+        2750930,
+        2772840
+      ],
+      "catalog_reason": "Ключевое слово шутки распознано плохо, нужен звук для точной передачи.",
+      "status": "reserve",
+      "files": {
+        "decision": "data/review/editorial/04f/decision.json"
+      },
+      "reason": "Вопрос о звонке другу разборчив, но смысл колкости зависит от одного слова, которое расшифровка не восстанавливает. Игра в кадре не уточняет, что именно друг не выговаривает."
+    },
+    {
+      "candidate_id": "05c",
+      "clip_id": "HQ_05c",
+      "catalog_status": "reserve",
+      "catalog_title": "Две тысячи как чаевые курьеру",
+      "catalog_interval_ms": [
+        2975190,
+        2988690
+      ],
+      "catalog_reason": "Короткая перебивка. Последняя реплика уже открывает следующий вопрос.",
+      "status": "ready",
+      "files": {
+        "plan": "data/review/editorial/05c/edit_plan.json",
+        "draft": "data/review/editorial/05c/word_draft.json",
+        "edits": "data/review/editorial/05c/sol_edits.json",
+        "flags": "data/review/editorial/05c/subtitle_flags.json",
+        "qa": "data/review/editorial/05c/qa.json",
+        "mp4": "data/review/mvp/2876630043/HQ_05c/HQ_05c.mp4",
+        "ass": "data/review/mvp/2876630043/HQ_05c/HQ_05c.ass",
+        "manifest": "data/review/mvp/2876630043/HQ_05c/manifest.json"
+      },
+      "title": "Две тысячи как чаевые курьеру",
+      "reason": "Шутка полностью заканчивается на согласии до объявления следующего вопроса. В кадре ставка 2 000 ₽ в момент вопроса.",
+      "duration_ms": 8470,
+      "verification": {
+        "frames": 254,
+        "sampled_frames": [
+          0,
+          18,
+          36,
+          41,
+          54,
+          82,
+          83,
+          115,
+          148,
+          149,
+          201,
+          252,
+          253
+        ],
+        "seam_frames": [
+          82,
+          83,
+          148,
+          149
+        ],
+        "mp4_duration_s": 8.47,
+        "dimensions": [
+          720,
+          1280
+        ],
+        "decoded_audio_and_video": true,
+        "word_markers": 26,
+        "ass_speech_events": 34,
+        "highlight_events": 26,
+        "seams_ms": [
+          2780,
+          4960
+        ],
+        "source_container": "verified_indexed_stream_copy"
+      }
+    },
+    {
+      "candidate_id": "06b",
+      "clip_id": "HQ_06b",
+      "catalog_status": "reserve",
+      "catalog_title": "Чтобы не спорили о подсказках, закрывают чат",
+      "catalog_interval_ms": [
+        3597090,
+        3656860
+      ],
+      "catalog_reason": "Решение есть, но на трансляции не обязательно видна панель чата на стороне Максима.",
+      "status": "reserve",
+      "files": {
+        "decision": "data/review/editorial/06b/decision.json"
+      },
+      "reason": "Разговор меняет процедуру игры, но закрытие чата у Максима в кадре не показано. Самостоятельной развязки нет."
+    },
+    {
+      "candidate_id": "06g",
+      "clip_id": "HQ_06g",
+      "catalog_status": "reserve",
+      "catalog_title": "На что потратить 50 000 ₽",
+      "catalog_interval_ms": [
+        4144180,
+        4161530
+      ],
+      "catalog_reason": "Название покупки в готовой расшифровке неразборчиво. Это перебивка между раундами.",
+      "status": "reserve",
+      "files": {
+        "decision": "data/review/editorial/06g/decision.json"
+      },
+      "reason": "Разговор о возможной покупке между раундами. Название покупки не подтверждено готовой расшифровкой, в кадре только лестница."
+    },
+    {
+      "candidate_id": "08d",
+      "clip_id": "HQ_08d",
+      "catalog_status": "reserve",
+      "catalog_title": "Викторина с дедушкой",
+      "catalog_interval_ms": [
+        5494840,
+        5536850
+      ],
+      "catalog_reason": "Ответ на финальный вопрос плохо распознан. Нельзя точно пересказать развязку по готовой расшифровке.",
+      "status": "reserve",
+      "files": {
+        "decision": "data/review/editorial/08d/decision.json"
+      },
+      "reason": "Воспоминание о дедушке заканчивается неловким переходом к игре. Заключительная реплика в расшифровке неразборчива."
+    },
+    {
+      "candidate_id": "12b",
+      "clip_id": "HQ_12b",
+      "catalog_status": "reserve",
+      "catalog_title": "Десять тысяч — на один бургер",
+      "catalog_interval_ms": [
+        7626010,
+        7673120
+      ],
+      "catalog_reason": "Название ресторана и часть цен плохо распознаны. Без этого короткая перебивка менее понятна.",
+      "status": "reserve",
+      "files": {
+        "decision": "data/review/editorial/12b/decision.json"
+      },
+      "reason": "Шутка об одном бургере зависит от названия места и спорных цен, которые распознаны неразборчиво. Финальная реакция продолжает спор."
+    },
+    {
+      "candidate_id": "16c",
+      "clip_id": "HQ_16c",
+      "catalog_status": "reserve",
+      "catalog_title": "В следующей викторине оба напарника должны согласиться",
+      "catalog_interval_ms": [
+        10456730,
+        10516520
+      ],
+      "catalog_reason": "Анонс формата и предположение, в этом фрагменте парная игра не происходит.",
+      "status": "reserve",
+      "files": {
+        "decision": "data/review/editorial/16c/decision.json"
+      },
+      "reason": "Остаётся анонсом парного формата. Разговор объясняет, как мог бы ответить напарник, но совместного выбора в эпизоде нет."
+    },
+    {
+      "candidate_id": "18c",
+      "clip_id": "HQ_18c",
+      "catalog_status": "reserve",
+      "catalog_title": "Розыгрыш с битой, за который он обещает заплатить",
+      "catalog_interval_ms": [
+        11831660,
+        11872500
+      ],
+      "catalog_reason": "Это гипотетический рассказ. Самого розыгрыша в VOD нет.",
+      "status": "reserve",
+      "files": {
+        "decision": "data/review/editorial/18c/decision.json"
+      },
+      "reason": "Рассказ о разрушительном розыгрыше остаётся предположением. В конце обсуждают возможную реакцию знакомого, без самостоятельного события в кадре."
+    },
+    {
+      "candidate_id": "18f",
+      "clip_id": "HQ_18f",
+      "catalog_status": "reserve",
+      "catalog_title": "Танк в ролике про пик окна на Mirage",
+      "catalog_interval_ms": [
+        12362517,
+        12388017
+      ],
+      "catalog_reason": "Сетап и визуальная шутка видны, но ролик остановлен до конца и отдельной реакции или исхода нет.",
+      "status": "ready",
+      "files": {
+        "plan": "data/review/editorial/18f/edit_plan.json",
+        "draft": "data/review/editorial/18f/word_draft.json",
+        "edits": "data/review/editorial/18f/sol_edits.json",
+        "flags": "data/review/editorial/18f/subtitle_flags.json",
+        "qa": "data/review/editorial/18f/qa.json",
+        "mp4": "data/review/mvp/2876630043/HQ_18f/HQ_18f.mp4",
+        "ass": "data/review/mvp/2876630043/HQ_18f/HQ_18f.ass",
+        "manifest": "data/review/mvp/2876630043/HQ_18f/manifest.json"
+      },
+      "title": "Танк пикает окно на Mirage",
+      "reason": "Надпись и танк видны в первую секунду. Конкретная развязка — танк выезжает к синему зданию, разворачивается боком и направляет ствол на окно. Закончить на состоявшемся развороте до длинной паузы.",
+      "duration_ms": 21200,
+      "verification": {
+        "frames": 636,
+        "sampled_frames": [
+          0,
+          18,
+          36,
+          54,
+          317,
+          634,
+          635
+        ],
+        "seam_frames": [],
+        "mp4_duration_s": 21.2,
+        "dimensions": [
+          720,
+          1280
+        ],
+        "decoded_audio_and_video": true,
+        "word_markers": 0,
+        "ass_speech_events": 0,
+        "highlight_events": 0,
+        "seams_ms": [],
+        "source_container": "verified_indexed_stream_copy"
+      }
+    },
+    {
+      "candidate_id": "19b",
+      "clip_id": "HQ_19b",
+      "catalog_status": "reserve",
+      "catalog_title": "Что было в чемодане",
+      "catalog_interval_ms": [
+        12587430,
+        12651120
+      ],
+      "catalog_reason": "Кадры подтверждают показ ролика и реакцию. Раскрытие, кто или что оказалось в чемодане, по кадрам и речи надёжно не устанавливается.",
+      "status": "reserve",
+      "files": {
+        "decision": "data/review/editorial/19b/decision.json"
+      },
+      "reason": "Монтаж ролика показывает несколько реакций, но не позволяет достоверно назвать находку в чемодане. Без ответа остаётся только реакция стримера."
+    },
+    {
+      "candidate_id": "19c",
+      "clip_id": "HQ_19c",
+      "catalog_status": "reserve",
+      "catalog_title": "Почему в интернете сравнили Игоря Чайку с Гриффином",
+      "catalog_interval_ms": [
+        12675750,
+        12724290
+      ],
+      "catalog_reason": "Это пересказ чужого мема. Из речи неясно, был ли показан исходный ролик и где отдельная развязка.",
+      "status": "reserve",
+      "files": {
+        "decision": "data/review/editorial/19c/decision.json"
+      },
+      "reason": "На экране появляется публикация, но связная концовка сводится к пересказу и замечанию о ленте."
+    },
+    {
+      "candidate_id": "19d",
+      "clip_id": "HQ_19d",
+      "catalog_status": "reserve",
+      "catalog_title": "Хотел показать ролик, а на экране оказалась Каролина",
+      "catalog_interval_ms": [
+        12783330,
+        12892650
+      ],
+      "catalog_reason": "На экране действительно сменяются разные превью. Действие в Marvel, которым он завершает реакцию, в проверенных кадрах не видно.",
+      "status": "reserve",
+      "files": {
+        "decision": "data/review/editorial/19d/decision.json"
+      },
+      "reason": "Переключение роликов повторяет техническую тему 19a. Для отдельной шутки про Marvel нужен показ действия, которого в проверенных кадрах нет."
+    },
+    {
+      "candidate_id": "19g",
+      "clip_id": "HQ_19g",
+      "catalog_status": "reserve",
+      "catalog_title": "Бабушка, которой он не мог не поставить лайк",
+      "catalog_interval_ms": [
+        13033790,
+        13066390
+      ],
+      "catalog_reason": "В речи нет конкретного действия героини. Нужен кадр для самостоятельной развязки.",
+      "status": "reserve",
+      "files": {
+        "decision": "data/review/editorial/19g/decision.json"
+      },
+      "reason": "Можно показать ролик и реакцию на него, но из просмотра не выделяется конкретное действие, которое объясняет финальный лайк."
+    }
+  ],
+  "indexed_source_verification": "data/review/_work/seek_cache_verification.json"
+}

@@ -1,0 +1,162 @@
+{
+  "schema_version": 1,
+  "source": {
+    "vod_id": "2876630043",
+    "file": "data/vods/2876630043.mp4"
+  },
+  "editorial": {
+    "candidate_id": "17e",
+    "hero": "Evelone",
+    "source_plan": "data/review/codex_pilot/full_hq/data/review/contest/clips/PUB_17e/edit_plan.json",
+    "source_plan_sha256": "b56f061de99e6d53ef991012d30052b910166883f6acd867e61e635d191116aa",
+    "layout_family": "solo",
+    "layout_choice": "SQUARE",
+    "static_layout": true,
+    "caption_mode": "whole phrases",
+    "source_ad_rects": [],
+    "source_timebase": "HQ playback milliseconds",
+    "caption_timing": "saved HQ words as-is; no 480p shift",
+    "changes": "Reuse approved sound intervals; static image and whole-phrase captions"
+  },
+  "clips": [
+    {
+      "id": "BATCH_17e",
+      "title": "Не смог выбрать цвет и заказал все три",
+      "export_size": [
+        1080,
+        1920
+      ],
+      "safe_margins": {
+        "left": 0.07222222222222222,
+        "right": 0.21666666666666667,
+        "top": 0,
+        "bottom": 0.3046875
+      },
+      "segments": [
+        {
+          "start_ms": 11465430,
+          "end_ms": 11469800,
+          "framing": {
+            "name": "solo_square",
+            "panels": [
+              {
+                "crop": [
+                  104,
+                  596,
+                  280,
+                  280
+                ],
+                "place": [
+                  40,
+                  180,
+                  540,
+                  540
+                ]
+              }
+            ]
+          },
+          "captions": [
+            {
+              "start_ms": 11465430,
+              "end_ms": 11466930,
+              "lines": [
+                "Какой цвет телефона",
+                "выбрать?"
+              ]
+            },
+            {
+              "start_ms": 11467490,
+              "end_ms": 11469800,
+              "lines": [
+                "Я ещё не смог",
+                "определиться с цветом."
+              ]
+            }
+          ]
+        },
+        {
+          "start_ms": 11473910,
+          "end_ms": 11479670,
+          "framing": {
+            "name": "solo_square",
+            "panels": [
+              {
+                "crop": [
+                  104,
+                  596,
+                  280,
+                  280
+                ],
+                "place": [
+                  40,
+                  180,
+                  540,
+                  540
+                ]
+              }
+            ]
+          },
+          "captions": [
+            {
+              "start_ms": 11474300,
+              "end_ms": 11476100,
+              "lines": [
+                "Какой цвет: то ли",
+                "он будет красный,"
+              ]
+            },
+            {
+              "start_ms": 11476260,
+              "end_ms": 11478330,
+              "lines": [
+                "то ли бордовый,",
+                "то ли через жопу."
+              ]
+            },
+            {
+              "start_ms": 11478380,
+              "end_ms": 11479670,
+              "lines": [
+                "И мне пришлось",
+                "заказать все три."
+              ]
+            }
+          ]
+        },
+        {
+          "start_ms": 11482380,
+          "end_ms": 11484120,
+          "framing": {
+            "name": "solo_square",
+            "panels": [
+              {
+                "crop": [
+                  104,
+                  596,
+                  280,
+                  280
+                ],
+                "place": [
+                  40,
+                  180,
+                  540,
+                  540
+                ]
+              }
+            ]
+          },
+          "captions": [
+            {
+              "start_ms": 11482490,
+              "end_ms": 11484120,
+              "lines": [
+                "Поэтому можете",
+                "меня пожалеть."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

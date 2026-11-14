@@ -1,0 +1,38 @@
+{
+  "kind": "estimate",
+  "mode": "organic feed",
+  "source": "https://www.krumzi.com/tools/safe-zone-checker",
+  "methodology": "https://help.krumzi.com/en/articles/5770763-safe-zone-checker",
+  "source_table_checked": "2026-11-02",
+  "reference_size_px": [
+    1080,
+    1920
+  ],
+  "phone_screenshot": null,
+  "platforms": {
+    "TikTok": {
+      "top": 240,
+      "bottom": 380,
+      "left": 65,
+      "right": 65,
+      "rail_top": 780,
+      "rail_right": 200
+    },
+    "Shorts": {
+      "top": 240,
+      "bottom": 320,
+      "left": 70,
+      "right": 70,
+      "rail_top": 1130,
+      "rail_right": 230
+    }
+  },
+  "ui_attribution": {
+    "top": "status and feed navigation",
+    "bottom": "username, publication caption, audio and lower navigation",
+    "rail": "right interaction buttons",
+    "left_edge": "left crop guard",
+    "upper_right_edge": "right crop guard above the interaction buttons"
+  },
+  "usage": "Saved Krumzi organic-feed estimate; not a phone measurement"
+}

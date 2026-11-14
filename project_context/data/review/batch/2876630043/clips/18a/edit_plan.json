@@ -1,0 +1,262 @@
+{
+  "schema_version": 1,
+  "source": {
+    "vod_id": "2876630043",
+    "file": "data/vods/2876630043.mp4"
+  },
+  "editorial": {
+    "candidate_id": "18a",
+    "hero": "Evelone",
+    "source_plan": "data/review/codex_pilot/full_hq/data/review/editorial/18a/edit_plan.json",
+    "source_plan_sha256": "56908b3c202cc8ae5767dc2ba45d5ff743ae7b1401c929c90a377df2554bf07b",
+    "layout_family": "product",
+    "layout_choice": "WATCH_PRICE",
+    "static_layout": true,
+    "caption_mode": "whole phrases",
+    "source_ad_rects": [],
+    "source_timebase": "HQ playback milliseconds",
+    "caption_timing": "saved HQ words as-is; no 480p shift",
+    "changes": "New selected phrase windows; local word draft required for complete Hermès line.",
+    "fresh_review": {
+      "draft": "data/review/batch/2876630043/clips/18a/word_draft_v2.json",
+      "edits": "data/review/batch/2876630043/clips/18a/sol_edits_v2.json",
+      "note": "Cut-straddling recognizer noise w008/w009 removed; corrections bound to saved HQ audio IDs."
+    }
+  },
+  "clips": [
+    {
+      "id": "BATCH_18a",
+      "title": "«Дешёвый» подарок — часы с ремешком Hermès",
+      "export_size": [
+        1080,
+        1920
+      ],
+      "safe_margins": {
+        "left": 0.07222222222222222,
+        "right": 0.21666666666666667,
+        "top": 0,
+        "bottom": 0.203125
+      },
+      "segments": [
+        {
+          "start_ms": 11518180,
+          "end_ms": 11519750,
+          "framing": {
+            "name": "product_watch_price",
+            "panels": [
+              {
+                "crop": [
+                  0,
+                  596,
+                  504,
+                  280
+                ],
+                "place": [
+                  40,
+                  180,
+                  540,
+                  300
+                ]
+              },
+              {
+                "crop": [
+                  510,
+                  320,
+                  400,
+                  500
+                ],
+                "place": [
+                  48,
+                  620,
+                  224,
+                  280
+                ]
+              },
+              {
+                "crop": [
+                  950,
+                  412,
+                  88,
+                  24
+                ],
+                "place": [
+                  300,
+                  620,
+                  176,
+                  48
+                ]
+              }
+            ],
+            "masks": [
+              [
+                48,
+                620,
+                224,
+                280
+              ],
+              [
+                300,
+                620,
+                176,
+                48
+              ]
+            ]
+          },
+          "captions": [
+            {
+              "start_ms": 11518180,
+              "end_ms": 11519750,
+              "lines": [
+                "«Недорогой» подарок?"
+              ]
+            }
+          ]
+        },
+        {
+          "start_ms": 11535400,
+          "end_ms": 11539400,
+          "framing": {
+            "name": "product_watch_price",
+            "panels": [
+              {
+                "crop": [
+                  0,
+                  596,
+                  504,
+                  280
+                ],
+                "place": [
+                  40,
+                  180,
+                  540,
+                  300
+                ]
+              },
+              {
+                "crop": [
+                  760,
+                  380,
+                  480,
+                  600
+                ],
+                "place": [
+                  48,
+                  620,
+                  224,
+                  280
+                ]
+              },
+              {
+                "crop": [
+                  950,
+                  412,
+                  88,
+                  24
+                ],
+                "place": [
+                  300,
+                  620,
+                  176,
+                  48
+                ]
+              }
+            ],
+            "masks": [
+              [
+                48,
+                620,
+                224,
+                280
+              ],
+              [
+                300,
+                620,
+                176,
+                48
+              ]
+            ]
+          },
+          "captions": [
+            {
+              "start_ms": 11535910,
+              "end_ms": 11536770,
+              "lines": [
+                "Дешёвый подарок."
+              ]
+            },
+            {
+              "start_ms": 11537010,
+              "end_ms": 11539200,
+              "lines": [
+                "Apple Watch в",
+                "коллаборации с Hermès."
+              ]
+            }
+          ]
+        },
+        {
+          "start_ms": 11605500,
+          "end_ms": 11607600,
+          "framing": {
+            "name": "product_watch_price",
+            "panels": [
+              {
+                "crop": [
+                  0,
+                  596,
+                  504,
+                  280
+                ],
+                "place": [
+                  40,
+                  180,
+                  540,
+                  300
+                ]
+              },
+              {
+                "crop": [
+                  510,
+                  320,
+                  400,
+                  500
+                ],
+                "place": [
+                  48,
+                  620,
+                  224,
+                  280
+                ]
+              },
+              {
+                "crop": [
+                  950,
+                  412,
+                  88,
+                  24
+                ],
+                "place": [
+                  300,
+                  620,
+                  176,
+                  48
+                ]
+              }
+            ],
+            "masks": []
+          },
+          "captions": [
+            {
+              "start_ms": 11605590,
+              "end_ms": 11607500,
+              "lines": [
+                "Преордер.",
+                "1 400 — старт."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

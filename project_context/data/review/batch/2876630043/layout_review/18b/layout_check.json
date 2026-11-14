@@ -1,0 +1,738 @@
+{
+  "clip_id": "BATCH_18b_v2",
+  "status": "passed_local_estimate_mobile_pending",
+  "source_of_borders": {
+    "stage": "Original BATCH_18b edit plan / stock master render, before overview assembly",
+    "plan": "data/review/batch/2876630043/clips/18b/edit_plan.json",
+    "layout_choice": "SQUARE",
+    "old_source_crop_xywh": [
+      104,
+      0,
+      280,
+      280
+    ],
+    "old_place_reference_xywh": [
+      40,
+      180,
+      540,
+      540
+    ],
+    "old_place_output_xywh": [
+      60,
+      270,
+      810,
+      810
+    ],
+    "old_camera_canvas_coverage_percent": 31.640625,
+    "overview_resized_camera": false,
+    "comparison": [
+      {
+        "master_frame": 0,
+        "overview_frame": 596,
+        "master_camera_active_bounds": [
+          60,
+          270,
+          810,
+          810
+        ],
+        "overview_camera_active_bounds": [
+          60,
+          270,
+          810,
+          810
+        ],
+        "roi_mae": 0.6059879083473048
+      },
+      {
+        "master_frame": 133,
+        "overview_frame": 729,
+        "master_camera_active_bounds": [
+          60,
+          270,
+          810,
+          810
+        ],
+        "overview_camera_active_bounds": [
+          60,
+          270,
+          810,
+          810
+        ],
+        "roi_mae": 1.1162973124015647
+      },
+      {
+        "master_frame": 265,
+        "overview_frame": 861,
+        "master_camera_active_bounds": [
+          60,
+          270,
+          810,
+          810
+        ],
+        "overview_camera_active_bounds": [
+          60,
+          270,
+          810,
+          810
+        ],
+        "roi_mae": 1.1241492658639436
+      }
+    ],
+    "explanation_ru": "Широкие поля появились при выборе статичной компоновки SQUARE и сохранении исходного edit_plan: камера 280 × 280 помещалась в панель 810 × 810 с позицией (60, 270), оставшуюся часть холста заполнял штатный pad рендера. Обзор делает trim/fps/concat и добавляет подписи, но не уменьшает камеру. На трёх совпадающих кадрах мастера и обзора фактическая область изображения одинаковая: 810 × 810."
+  },
+  "before": {
+    "canvas_px": [
+      1080,
+      1920
+    ],
+    "video_image_px": [
+      810,
+      810
+    ],
+    "image_position_xy": [
+      60,
+      270
+    ],
+    "master": "<LOCAL_PROJECT>\\data\\review\\codex_pilot\\full_hq\\data\\review\\mvp\\2876630043\\BATCH_18b\\BATCH_18b.mp4",
+    "padding_px": {
+      "left": 60,
+      "top": 270,
+      "right": 210,
+      "bottom": 840
+    }
+  },
+  "after": {
+    "canvas_px": [
+      1080,
+      1920
+    ],
+    "video_image_px": [
+      1080,
+      1920
+    ],
+    "image_position_xy": [
+      0,
+      0
+    ],
+    "source_camera_window_xywh": [
+      0,
+      0,
+      504,
+      280
+    ],
+    "source_crop_xywh": [
+      144,
+      20,
+      144,
+      256
+    ],
+    "static_crop": true,
+    "horizontal_scale": 7.5,
+    "vertical_scale": 7.5,
+    "aspect_error": 0,
+    "master": "<LOCAL_PROJECT>\\data\\review\\codex_pilot\\full_hq\\data\\review\\mvp\\2876630043\\BATCH_18b_v2\\BATCH_18b_v2.mp4",
+    "plan": "<LOCAL_PROJECT>\\data\\review\\batch\\2876630043\\layout_review\\18b\\edit_plan.json",
+    "full_canvas_edge_checks_passed_frames": 266,
+    "padding_px": {
+      "left": 0,
+      "top": 0,
+      "right": 0,
+      "bottom": 0
+    },
+    "camera_canvas_coverage_percent": 100
+  },
+  "media": {
+    "full_decode": true,
+    "decoded_video_frames": 266,
+    "format_duration_seconds": 8.88,
+    "video_duration_seconds": 8.866667,
+    "audio_duration_seconds": 8.88,
+    "same_video_frame_count_and_duration": true,
+    "source_intervals_ms": [
+      [
+        11781420,
+        11790300
+      ]
+    ],
+    "codec": [
+      "h264",
+      "aac"
+    ],
+    "fps": "30/1",
+    "sample_rate": 48000,
+    "channels": 2
+  },
+  "audio": {
+    "stream_copied_from_parent": "<LOCAL_PROJECT>\\data\\review\\codex_pilot\\full_hq\\data\\review\\mvp\\2876630043\\BATCH_18b\\BATCH_18b.mp4",
+    "aac_packets_equal": true,
+    "packet_count": 418,
+    "packet_pts_dts_duration_padding_equal": true,
+    "decoded_pcm_identical": true,
+    "decoded_samples_per_channel": 426240,
+    "human_listening": false,
+    "no_new_audio_cuts": true
+  },
+  "captions": {
+    "text_changed": false,
+    "whole_phrases": true,
+    "max_lines": 1,
+    "events": 4,
+    "measured_active_frames": 238,
+    "outline_and_shadow_included": true,
+    "fixed_position": "upper room background, above head",
+    "measured_bounds_by_frame": "<LOCAL_PROJECT>\\data\\review\\batch\\2876630043\\layout_review\\18b\\caption_bounds.json",
+    "ui_conflicts": {
+      "TikTok": [],
+      "Shorts": []
+    },
+    "head_envelope_conflicts": [],
+    "reflow": "<LOCAL_PROJECT>\\data\\review\\batch\\2876630043\\layout_review\\18b\\caption_reflow.json",
+    "actual_text_envelope_xyxy": [
+      204,
+      274,
+      722,
+      341
+    ]
+  },
+  "face": {
+    "method": "Conservative manual envelope, checked visually on output contacts; not automatic detection",
+    "source_face_xywh": [
+      168,
+      120,
+      89,
+      103
+    ],
+    "output_face_xywh": [
+      180.0,
+      750.0,
+      667.5,
+      772.5
+    ],
+    "source_head_and_headphones_xywh": [
+      149,
+      67,
+      136,
+      157
+    ],
+    "output_head_xywh": [
+      37.5,
+      352.5,
+      1020.0,
+      1177.5
+    ],
+    "head_wholly_inside_crop": true,
+    "face_ui_conflicts": {
+      "TikTok": {},
+      "Shorts": {}
+    },
+    "headphones_and_background_may_enter_ui": true
+  },
+  "ui_profiles": {
+    "file": "<LOCAL_PROJECT>\\data\\review\\batch\\2876630043\\ui_profiles.json",
+    "source": "https://www.krumzi.com/tools/safe-zone-checker",
+    "kind": "Krumzi calculated estimates, not a phone preview",
+    "platforms": [
+      "TikTok",
+      "Shorts"
+    ],
+    "mobile_preview": false
+  },
+  "visual_review": {
+    "status": "passed_on_full_timeline_contact_sampling",
+    "prepared_frames": [
+      0,
+      3,
+      6,
+      9,
+      12,
+      15,
+      18,
+      21,
+      24,
+      27,
+      30,
+      33,
+      36,
+      39,
+      42,
+      45,
+      48,
+      51,
+      54,
+      57,
+      60,
+      63,
+      66,
+      69,
+      72,
+      75,
+      78,
+      81,
+      84,
+      87,
+      90,
+      93,
+      96,
+      99,
+      102,
+      105,
+      108,
+      111,
+      114,
+      117,
+      120,
+      123,
+      126,
+      129,
+      132,
+      135,
+      138,
+      141,
+      144,
+      147,
+      150,
+      153,
+      156,
+      159,
+      162,
+      165,
+      168,
+      171,
+      174,
+      177,
+      180,
+      183,
+      186,
+      189,
+      192,
+      195,
+      198,
+      201,
+      204,
+      207,
+      210,
+      213,
+      216,
+      219,
+      222,
+      225,
+      228,
+      231,
+      234,
+      237,
+      240,
+      243,
+      246,
+      249,
+      252,
+      255,
+      258,
+      261,
+      264,
+      265
+    ],
+    "interval_step_seconds": 0.1,
+    "last_frame_included": true,
+    "key_frames_native_png": [
+      0,
+      24,
+      81,
+      133,
+      192,
+      265
+    ],
+    "controls": [
+      "<LOCAL_PROJECT>\\data\\review\\batch\\2876630043\\layout_review\\18b\\full_clip_control_00.png",
+      "<LOCAL_PROJECT>\\data\\review\\batch\\2876630043\\layout_review\\18b\\full_clip_control_01.png",
+      "<LOCAL_PROJECT>\\data\\review\\batch\\2876630043\\layout_review\\18b\\full_clip_control_02.png"
+    ],
+    "inspected_frames": [
+      0,
+      3,
+      6,
+      9,
+      12,
+      15,
+      18,
+      21,
+      24,
+      27,
+      30,
+      33,
+      36,
+      39,
+      42,
+      45,
+      48,
+      51,
+      54,
+      57,
+      60,
+      63,
+      66,
+      69,
+      72,
+      75,
+      78,
+      81,
+      84,
+      87,
+      90,
+      93,
+      96,
+      99,
+      102,
+      105,
+      108,
+      111,
+      114,
+      117,
+      120,
+      123,
+      126,
+      129,
+      132,
+      135,
+      138,
+      141,
+      144,
+      147,
+      150,
+      153,
+      156,
+      159,
+      162,
+      165,
+      168,
+      171,
+      174,
+      177,
+      180,
+      183,
+      186,
+      189,
+      192,
+      195,
+      198,
+      201,
+      204,
+      207,
+      210,
+      213,
+      216,
+      219,
+      222,
+      225,
+      228,
+      231,
+      234,
+      237,
+      240,
+      243,
+      246,
+      249,
+      252,
+      255,
+      258,
+      261,
+      264,
+      265
+    ],
+    "frames_inspected": 90,
+    "inspect_scope": "All three contact sheets (every third decoded frame and last frame), plus six larger key frames; full native-resolution video decoding checked all 266 frames.",
+    "observations_ru": [
+      "Камера заполняет весь холст без полей, постоянный кроп внутри исходного окна камеры.",
+      "Голова и волосы сохранены; наушники и второстепенный фон могут заходить в зоны UI, лицо не пересекает расчётный UI.",
+      "Титры с обводкой читаются над головой; не накладываются на лицо и не пересекают расчётные зоны TikTok и Shorts.",
+      "Начало, жест у виска и заключительное сравнение с ПК проверены.",
+      "Рекламных баннеров в выбранном окне камеры на контрольных кадрах не видно."
+    ],
+    "human_listening": false,
+    "mobile_preview": false
+  },
+  "original_files_unchanged": {
+    "batch_index": true,
+    "old_master": true,
+    "old_plan": true,
+    "overview": true,
+    "renderer": true
+  },
+  "code_changed": false,
+  "new_dependencies": false,
+  "new_recognition_calls": 0,
+  "changed_files": [
+    {
+      "path": "<LOCAL_PROJECT>/data/review/batch/2876630043/layout_review/18b/caption_bounds.json",
+      "bytes": 11812,
+      "change": "added",
+      "sha256": "975328ebbe706b60b28078641a76b110628e13fcc642e46b0544b21988b37e0d"
+    },
+    {
+      "path": "<LOCAL_PROJECT>/data/review/batch/2876630043/layout_review/18b/caption_reflow.json",
+      "bytes": 1295,
+      "change": "added",
+      "sha256": "550cd85b753bff9773891972ed1b9719b6c4a5d57cdb453bb666b84fc8358a0b"
+    },
+    {
+      "path": "<LOCAL_PROJECT>/data/review/batch/2876630043/layout_review/18b/check_v2.py",
+      "bytes": 13185,
+      "change": "added",
+      "sha256": "faafb795f31f6a17751ee3ab7dcf705c0c4ca72a73a621f8b19a45d20c913b3f"
+    },
+    {
+      "path": "<LOCAL_PROJECT>/data/review/batch/2876630043/layout_review/18b/control_keyframes.png",
+      "bytes": 2594953,
+      "change": "added",
+      "sha256": "6acda333e80af6fd8ed1490efffdda3211af61e73634a1703c74697d4433e297"
+    },
+    {
+      "path": "<LOCAL_PROJECT>/data/review/batch/2876630043/layout_review/18b/edit_plan.json",
+      "bytes": 3120,
+      "change": "added",
+      "sha256": "507ea5d282b81bb8b3ab0bfb2570d379d16b4ff3fd3720ae1acada2ce49ee4d5"
+    },
+    {
+      "path": "<LOCAL_PROJECT>/data/review/batch/2876630043/layout_review/18b/ffprobe.json",
+      "bytes": 3586,
+      "change": "added",
+      "sha256": "ecc7bae4181fd80ece39f2f759827224e4b2921cd5c93560137c5c7e9d0097b1"
+    },
+    {
+      "path": "<LOCAL_PROJECT>/data/review/batch/2876630043/layout_review/18b/final_frame_000.png",
+      "bytes": 1687511,
+      "change": "added",
+      "sha256": "fba9396b617ce2b2488469dbcb33f410279f5183ae10e43edea22ad1ca55d272"
+    },
+    {
+      "path": "<LOCAL_PROJECT>/data/review/batch/2876630043/layout_review/18b/final_frame_024.png",
+      "bytes": 1861274,
+      "change": "added",
+      "sha256": "27753f0e4b5ba9135733c0fcd5eafa633061013bcf2953679ee65c83778806e9"
+    },
+    {
+      "path": "<LOCAL_PROJECT>/data/review/batch/2876630043/layout_review/18b/final_frame_081.png",
+      "bytes": 1788597,
+      "change": "added",
+      "sha256": "301d4ac5efbb0bdebe0d028639f90e2e29671de44869ad9d4b6e7c390c3e2aed"
+    },
+    {
+      "path": "<LOCAL_PROJECT>/data/review/batch/2876630043/layout_review/18b/final_frame_133.png",
+      "bytes": 1883870,
+      "change": "added",
+      "sha256": "c3cab649b6ca52290883a8e9e13e3778a89be5cf79f333a8bb29141d84cd7e5f"
+    },
+    {
+      "path": "<LOCAL_PROJECT>/data/review/batch/2876630043/layout_review/18b/final_frame_192.png",
+      "bytes": 1879883,
+      "change": "added",
+      "sha256": "24eb7219aaf1a48a9ee675d076273993bc9db6003ffb71c77b5fea934006546b"
+    },
+    {
+      "path": "<LOCAL_PROJECT>/data/review/batch/2876630043/layout_review/18b/final_frame_265.png",
+      "bytes": 1787006,
+      "change": "added",
+      "sha256": "4cccb76933c12984980ab2ad779479df689f89740e2714891c42283e08ad041a"
+    },
+    {
+      "path": "<LOCAL_PROJECT>/data/review/batch/2876630043/layout_review/18b/first_render_frame_000.png",
+      "bytes": 1679398,
+      "change": "added",
+      "sha256": "75418ba6c011fb31fdadaee091ded04f79be3826dd9909623aaba0c750ac8ada"
+    },
+    {
+      "path": "<LOCAL_PROJECT>/data/review/batch/2876630043/layout_review/18b/full_clip_control_00.png",
+      "bytes": 3575900,
+      "change": "added",
+      "sha256": "05ef654711837f52c12a4d36874c8aa2ccb4558ac0afcde33a3dbd5514f55f86"
+    },
+    {
+      "path": "<LOCAL_PROJECT>/data/review/batch/2876630043/layout_review/18b/full_clip_control_01.png",
+      "bytes": 3646006,
+      "change": "added",
+      "sha256": "8641c22ca95f9e0c1f09f57591aa365bcc4a9f79848931ef968fe31468f67071"
+    },
+    {
+      "path": "<LOCAL_PROJECT>/data/review/batch/2876630043/layout_review/18b/full_clip_control_02.png",
+      "bytes": 3588569,
+      "change": "added",
+      "sha256": "bcd6e49a878115f43796095702e360927203d92588a14bb876993bcd65f7d605"
+    },
+    {
+      "path": "<LOCAL_PROJECT>/data/review/batch/2876630043/layout_review/18b/input_snapshot.json",
+      "bytes": 7521,
+      "change": "added",
+      "sha256": "4359ac15442a7fe86968952897e88a404c58f4277f6f68fa4fd6a6ae48413473"
+    },
+    {
+      "path": "<LOCAL_PROJECT>/data/review/batch/2876630043/layout_review/18b/inputs.json",
+      "bytes": 609,
+      "change": "added",
+      "sha256": "dfb44356e8e7024ae81a01128622ee1cc7f9aec726bed5f794238891e97653db"
+    },
+    {
+      "path": "<LOCAL_PROJECT>/data/review/batch/2876630043/layout_review/18b/layout_check.json",
+      "change": "added",
+      "sha256_note": "Self-referential report; omitted"
+    },
+    {
+      "path": "<LOCAL_PROJECT>/data/review/batch/2876630043/layout_review/18b/master_comparison.png",
+      "bytes": 938864,
+      "change": "added",
+      "sha256": "e15290deec85950c5be8c48cb4fc70b4c7119b9d1f1875be795d4f104283b9a1"
+    },
+    {
+      "path": "<LOCAL_PROJECT>/data/review/batch/2876630043/layout_review/18b/overview_comparison.png",
+      "bytes": 970016,
+      "change": "added",
+      "sha256": "eb3feeeaa46ee6d583e0b3d727091ce1114bc407df719d0f5b6f949900e6ef0d"
+    },
+    {
+      "path": "<LOCAL_PROJECT>/data/review/batch/2876630043/layout_review/18b/portrait_options.png",
+      "bytes": 3595586,
+      "change": "added",
+      "sha256": "b0f313dcd6613b2d542d4df3e5d1093bf43efaa0714df3e9bf5a14d77952e45d"
+    },
+    {
+      "path": "<LOCAL_PROJECT>/data/review/batch/2876630043/layout_review/18b/render_v2.py",
+      "bytes": 4870,
+      "change": "added",
+      "sha256": "ca378640e1f77ecca1b2f1945ec13a0173d1f4940252045f11ee9537cb75905e"
+    },
+    {
+      "path": "<LOCAL_PROJECT>/data/review/batch/2876630043/layout_review/18b/REVIEW.md",
+      "bytes": 4612,
+      "change": "added",
+      "sha256": "eb00d30d5883499784748119c058bec1cffa2b1083f2670e36543062b61bdbcd"
+    },
+    {
+      "path": "<LOCAL_PROJECT>/data/review/batch/2876630043/layout_review/18b/source_camera_00.png",
+      "bytes": 256375,
+      "change": "added",
+      "sha256": "87f5cbdb9c9e7a9dea79d553d846613b8e5a31150cf91fa54c0f1ea68276efbe"
+    },
+    {
+      "path": "<LOCAL_PROJECT>/data/review/batch/2876630043/layout_review/18b/source_camera_01.png",
+      "bytes": 251436,
+      "change": "added",
+      "sha256": "883440a193977b52eea5d0197f057e0d0ee1c0c225e87d69bddd568c169ddd90"
+    },
+    {
+      "path": "<LOCAL_PROJECT>/data/review/batch/2876630043/layout_review/18b/source_camera_02.png",
+      "bytes": 248025,
+      "change": "added",
+      "sha256": "44eaa06e4a1d419ca999d3be14b27d5bb292a044479985585de0965dc063474f"
+    },
+    {
+      "path": "<LOCAL_PROJECT>/data/review/batch/2876630043/layout_review/18b/source_camera_03.png",
+      "bytes": 255718,
+      "change": "added",
+      "sha256": "d2c26967f4b58820ea0c746643963b92effbbe3fec66c1a16da2a97416d612f7"
+    },
+    {
+      "path": "<LOCAL_PROJECT>/data/review/batch/2876630043/layout_review/18b/source_camera_04.png",
+      "bytes": 257301,
+      "change": "added",
+      "sha256": "87a9f2c14bac217306c117051cf4f79ae9eee101fa8575d4a82791aef4522953"
+    },
+    {
+      "path": "<LOCAL_PROJECT>/data/review/batch/2876630043/layout_review/18b/source_camera_05.png",
+      "bytes": 249143,
+      "change": "added",
+      "sha256": "e077d7d7f822fd970aa2d502eb154539fa1981c07573d41dd9407e460ddb1659"
+    },
+    {
+      "path": "<LOCAL_PROJECT>/data/review/batch/2876630043/layout_review/18b/source_camera_06.png",
+      "bytes": 255620,
+      "change": "added",
+      "sha256": "5410b7b5e9cc91c53ebae9f194c943e729f2956c47c80f44322f403696bc96ac"
+    },
+    {
+      "path": "<LOCAL_PROJECT>/data/review/batch/2876630043/layout_review/18b/source_camera_07.png",
+      "bytes": 254077,
+      "change": "added",
+      "sha256": "74d8d7892832283c0adcffd6ece4d3a6f614ef82e71346374756ec83d48cfffe"
+    },
+    {
+      "path": "<LOCAL_PROJECT>/data/review/batch/2876630043/layout_review/18b/source_camera_08.png",
+      "bytes": 256852,
+      "change": "added",
+      "sha256": "04bef2bdb1be2ca218d25097fdc57dd3a348f357bdcf0ed5a44e4d79cc304e50"
+    },
+    {
+      "path": "<LOCAL_PROJECT>/data/review/batch/2876630043/layout_review/18b/source_camera_09.png",
+      "bytes": 241379,
+      "change": "added",
+      "sha256": "31ad424932fcf35ce786dd8187bd7a654d0ad9ca3f54b5641c3bd51d92909b17"
+    },
+    {
+      "path": "<LOCAL_PROJECT>/data/review/batch/2876630043/layout_review/18b/source_camera_10.png",
+      "bytes": 256700,
+      "change": "added",
+      "sha256": "ac277a6b03a72dc4067211b668758d39cf57f317cf31b88caeec5a4603647f06"
+    },
+    {
+      "path": "<LOCAL_PROJECT>/data/review/batch/2876630043/layout_review/18b/source_camera_11.png",
+      "bytes": 234711,
+      "change": "added",
+      "sha256": "2f1edb1215147250cc95900f834b564180a71ae19bf9715130157f274e6c7876"
+    },
+    {
+      "path": "<LOCAL_PROJECT>/data/review/batch/2876630043/layout_review/18b/source_camera_contact.png",
+      "bytes": 2945032,
+      "change": "added",
+      "sha256": "98f144d9f0dbb220c478121bbdf9b039274ac888a620d2d6e19d94795eb73313"
+    },
+    {
+      "path": "<LOCAL_PROJECT>/data/review/batch/2876630043/layout_review/18b/work/crop_y24_first_pass/BATCH_18b_v2.ass",
+      "bytes": 1094,
+      "change": "added",
+      "sha256": "b6f3e374d55ff502c9d91828a99f85dcab10e798109490aeafdb5c23895a10af"
+    },
+    {
+      "path": "<LOCAL_PROJECT>/data/review/batch/2876630043/layout_review/18b/work/crop_y24_first_pass/BATCH_18b_v2.mp4",
+      "bytes": 7995597,
+      "change": "added",
+      "sha256": "398872ae460472a536c032adc6f554a7b0d2f46d401615dae64b764ccd2d6331"
+    },
+    {
+      "path": "<LOCAL_PROJECT>/data/review/batch/2876630043/layout_review/18b/work/crop_y24_first_pass/manifest.json",
+      "bytes": 1055,
+      "change": "added",
+      "sha256": "80a74222cd1f0c1d82c7650fa475b91075c36ad3d8f4c91dff7398db20ed3759"
+    },
+    {
+      "path": "<LOCAL_PROJECT>/data/review/codex_pilot/full_hq/data/review/mvp/2876630043/BATCH_18b_v2/BATCH_18b_v2.ass",
+      "bytes": 1094,
+      "change": "added",
+      "sha256": "b6f3e374d55ff502c9d91828a99f85dcab10e798109490aeafdb5c23895a10af"
+    },
+    {
+      "path": "<LOCAL_PROJECT>/data/review/codex_pilot/full_hq/data/review/mvp/2876630043/BATCH_18b_v2/BATCH_18b_v2.mp4",
+      "bytes": 7999461,
+      "change": "added",
+      "sha256": "45ff99438d09f776b916a46760fe7b6c606bc2795eb3c2119ae6695d0329c915"
+    },
+    {
+      "path": "<LOCAL_PROJECT>/data/review/codex_pilot/full_hq/data/review/mvp/2876630043/BATCH_18b_v2/manifest.json",
+      "bytes": 1055,
+      "change": "added",
+      "sha256": "418bc1aec8f713fb6119daa48e298fa756485392c254c330fab0bfb596cdd47c"
+    }
+  ],
+  "checked_at": "2026-11-12T04:21:21.529811+00:00",
+  "hashes": {
+    "mp4_sha256": "45ff99438d09f776b916a46760fe7b6c606bc2795eb3c2119ae6695d0329c915",
+    "ass_sha256": "b6f3e374d55ff502c9d91828a99f85dcab10e798109490aeafdb5c23895a10af",
+    "plan_sha256": "507ea5d282b81bb8b3ab0bfb2570d379d16b4ff3fd3720ae1acada2ce49ee4d5"
+  },
+  "batch_index_updated": false,
+  "batch_index_note": "The task allows writes only in the two new folders; original batch index, master and overview were left unchanged. Use after.master for the corrected export.",
+  "render_entry_point": {
+    "module": "slicing.render_plan.render_plan",
+    "same_function_as_cli_edit_plan": true,
+    "wrapper": "<LOCAL_PROJECT>\\data\\review\\batch\\2876630043\\layout_review\\18b\\render_v2.py",
+    "work_directory": "<LOCAL_PROJECT>\\data\\review\\batch\\2876630043\\layout_review\\18b\\work",
+    "code_changes": false
+  },
+  "intermediate_note": "work/crop_y24_first_pass and first_render_frame_000.png are rejected local first-pass artifacts. The current master is the after.master path with crop Y=20; this adds clearance between the caption and head envelope."
+}

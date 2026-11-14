@@ -1,0 +1,105 @@
+{
+  "schema_version": 1,
+  "source": {
+    "vod_id": "2876630043",
+    "file": "data/vods/2876630043.mp4"
+  },
+  "editorial": {
+    "candidate_id": "18b",
+    "hero": "Evelone",
+    "source_plan": "data/review/codex_pilot/full_hq/data/review/editorial/18b/edit_plan.json",
+    "source_plan_sha256": "344fae85e6711e9486d03b31c2c62cf6c20187987ca9526ccf62a1d54cc34fd2",
+    "layout_family": "solo",
+    "layout_choice": "FULL_PORTRAIT",
+    "static_layout": true,
+    "caption_mode": "whole phrases",
+    "source_ad_rects": [],
+    "source_timebase": "HQ playback milliseconds",
+    "caption_timing": "saved HQ words as-is; no 480p shift",
+    "changes": "Picture and caption placement/reflow only. Same utterances, source interval, duration and approved AAC packets.",
+    "parent_clip": "BATCH_18b",
+    "parent_plan": "data/review/batch/2876630043/clips/18b/edit_plan.json",
+    "parent_plan_sha256": "25f411f7d9d3e703c06bf4c35fa5fcef474ea238148bc8e1a8199494bc42ea3c",
+    "source_camera_window_xywh": [
+      0,
+      0,
+      504,
+      280
+    ],
+    "crop_selection": "One constant exact 9:16 crop wholly inside the source camera window; no padding or stretching.",
+    "caption_placement": "Fixed upper background above the head. Last two-line phrase split at saved HQ w012/w013 boundary (clip 6400 ms).",
+    "ui_profiles": "data/review/batch/2876630043/ui_profiles.json",
+    "ui_status": "Saved Krumzi organic-feed estimates; mobile preview not performed."
+  },
+  "clips": [
+    {
+      "id": "BATCH_18b_v2",
+      "title": "Телефон по цене игрового ПК",
+      "export_size": [
+        1080,
+        1920
+      ],
+      "safe_margins": {
+        "left": 0.07222222222222222,
+        "right": 0.21666666666666667,
+        "top": 0,
+        "bottom": 0.8125
+      },
+      "segments": [
+        {
+          "start_ms": 11781420,
+          "end_ms": 11790300,
+          "framing": {
+            "name": "static_monologue_full_portrait",
+            "panels": [
+              {
+                "crop": [
+                  144,
+                  20,
+                  144,
+                  256
+                ],
+                "place": [
+                  0,
+                  0,
+                  720,
+                  1280
+                ]
+              }
+            ]
+          },
+          "captions": [
+            {
+              "start_ms": 11781420,
+              "end_ms": 11782920,
+              "lines": [
+                "3 200 за телефон?"
+              ]
+            },
+            {
+              "start_ms": 11783540,
+              "end_ms": 11786270,
+              "lines": [
+                "3 200 за телефон."
+              ]
+            },
+            {
+              "start_ms": 11786560,
+              "end_ms": 11787820,
+              "lines": [
+                "То есть 3 200 —"
+              ]
+            },
+            {
+              "start_ms": 11787820,
+              "end_ms": 11790300,
+              "lines": [
+                "это прям ПК уже."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

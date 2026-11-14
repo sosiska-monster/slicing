@@ -1,0 +1,3386 @@
+{
+  "schema_version": 1,
+  "vod_id": "2876630043",
+  "paths_relative_to": "full_hq",
+  "source": "data/vods/2876630043.mp4",
+  "source_resolution": [
+    1920,
+    1080
+  ],
+  "source_index": "data/review/index.json",
+  "source_index_sha256": "29bbaa57f4d34cefaf5b6a6c095eb6e90c74a45ace5d539a4883795e602ff0a0",
+  "safe_areas": "data/review/contest/safe_areas.json",
+  "application_checklist": "data/review/contest/application_checklist.md",
+  "publication_status": "local_only",
+  "episodes": [
+    {
+      "candidate_id": "12g",
+      "source_clip_id": "HQ_12g",
+      "catalog_status": "ready",
+      "catalog_title": "«Тр-р-р, народ!» — старое приветствие за 75 000 ₽",
+      "catalog_interval_ms": [
+        8078017,
+        8146530
+      ],
+      "source_index_status": "ready",
+      "status": "reserve",
+      "reason": "Илья показывает своё приветствие, выбирает D и получает 75 000 ₽. В HQ‑кадрах жест, выбор и зелёный результат принадлежат Илье. Реплика Evelone про купленное шоу не образует отдельной дуги.",
+      "roles": {
+        "hook": "Илью спрашивают, как начинались его прошлые видео. Один из вариантов имитирует фирменное приветствие с раскатистым «тр-р-р».",
+        "action": "Илья показывает своё приветствие, выбирает D и получает 75 000 ₽. В HQ‑кадрах жест, выбор и зелёный результат принадлежат Илье. Реплика Evelone про купленное шоу не образует отдельной дуги.",
+        "payoff": "Игра подсвечивает приветствие с «народ» зелёным, Илья выигрывает 75 000 ₽."
+      },
+      "evidence": [
+        {
+          "source_ms": 8085017,
+          "observation": "Илью спрашивают, как начинались его прошлые видео. Один из вариантов имитирует фирменное приветствие с раскатистым «тр-р-р»."
+        },
+        {
+          "source_ms": 8142017,
+          "observation": "Игра подсвечивает приветствие с «народ» зелёным, Илья выигрывает 75 000 ₽."
+        }
+      ],
+      "decision": "data/review/contest/editorial/12g.json"
+    },
+    {
+      "candidate_id": "10d",
+      "source_clip_id": "HQ_10d",
+      "catalog_status": "ready",
+      "catalog_title": "Свадьба за семь миллиардов и отменённый артист",
+      "catalog_interval_ms": [
+        6803110,
+        6858820
+      ],
+      "source_index_status": "ready",
+      "status": "ready",
+      "reason": "Короткая версия строится на двух репликах Evelone. Он называет нарочито огромную цену свадьбы и объясняет её полётом на Boeing. Существующая версия уводит развязку к шутке ShadowKekW про отмену.",
+      "roles": {
+        "hook": "Evelone называет семь миллиардов за свадьбу.",
+        "action": "Evelone развивает выдуманную смету деталью про транспорт.",
+        "payoff": "Evelone говорит про жениха и невесту на Boeing, ShadowKekW реагирует."
+      },
+      "evidence": [
+        {
+          "source_ms": 6834517,
+          "observation": "Evelone произносит сумму, ShadowKekW слушает."
+        },
+        {
+          "source_ms": 6841167,
+          "observation": "В реплике Evelone звучит Boeing."
+        },
+        {
+          "source_ms": 6857300,
+          "observation": "В полной версии финальную реплику про отмену говорит ShadowKekW. Закончить до этого обмена."
+        }
+      ],
+      "decision": "data/review/contest/editorial/10d.json",
+      "clip_id": "PUB_10d",
+      "format": "dialogue",
+      "publication": {
+        "tiktok": {
+          "description": "Evelone в шутку прикинул стоимость свадьбы и выбрал транспорт для жениха и невесты.\n\n#evelone twitch: evelone2004",
+          "date": null,
+          "account": null,
+          "url": null,
+          "organic_views": null,
+          "statistics": null
+        },
+        "youtube_shorts": {
+          "title": "Свадьба за семь миллиардов | #evelone twitch: evelone2004",
+          "date": null,
+          "account": null,
+          "url": null,
+          "organic_views": null,
+          "statistics": null
+        }
+      },
+      "files": {
+        "plan": "data/review/contest/clips/PUB_10d/edit_plan.json",
+        "draft": "data/review/contest/clips/PUB_10d/word_draft.json",
+        "edits": "data/review/contest/clips/PUB_10d/sol_edits.json",
+        "qa": "data/review/contest/clips/PUB_10d/qa.json",
+        "visual_review": "data/review/contest/clips/PUB_10d/visual_review.json",
+        "mp4": "data/review/mvp/2876630043/PUB_10d/PUB_10d.mp4",
+        "ass": "data/review/mvp/2876630043/PUB_10d/PUB_10d.ass",
+        "manifest": "data/review/mvp/2876630043/PUB_10d/manifest.json"
+      },
+      "source_segments_ms": [
+        [
+          6833500,
+          6835840
+        ],
+        [
+          6839680,
+          6842460
+        ]
+      ],
+      "planned_duration_ms": 5120,
+      "audio": {
+        "mode": "new_hq_cut_local_whisper",
+        "parent_mp4": "data/review/mvp/2876630043/HQ_10d/HQ_10d.mp4",
+        "offset_ms": 0,
+        "aac_payload_sha256": "54075ab11f31927c2492f70c74f0d044dad3e0928db4c390e882dffbb0ffad95",
+        "decoded_pcm_sha256": "04cf7b8315333575b15026cb2a047ab094920ad900b7dde447497cc90e72b71e"
+      },
+      "duration_s": 5.133333
+    },
+    {
+      "candidate_id": "17d",
+      "source_clip_id": "HQ_17d",
+      "catalog_status": "ready",
+      "catalog_title": "Складной телефон, планшет и селфи",
+      "catalog_interval_ms": [
+        11231960,
+        11333690
+      ],
+      "source_index_status": "ready",
+      "status": "ready",
+      "reason": "Эвелон сам раскладывает телефон и показывает, как на внешнем экране видно себя при съёмке. Все три этапа читаются внутри его камеры.",
+      "roles": {
+        "hook": "Показывает сложенный телефон в руке",
+        "action": "Раскрывает до размера небольшого планшета и поворачивает внешний экран в камеру",
+        "payoff": "На экране виден предпросмотр селфи, Эвелон объясняет зачем он нужен"
+      },
+      "evidence": [
+        {
+          "source_ms": 11272500,
+          "observation": "Телефон в руках Эвелона в нижней левой камере."
+        },
+        {
+          "source_ms": 11283000,
+          "observation": "Эвелон раскрывает телефон, в реплике сравнивает с планшетом."
+        },
+        {
+          "source_ms": 11302500,
+          "observation": "Подносит внешний экран к камере, предпросмотр виден без фонового YouTube."
+        },
+        {
+          "source_ms": 11309700,
+          "observation": "Поясняет, что видишь себя и фотографируешься."
+        }
+      ],
+      "decision": "data/review/contest/editorial/17d.json",
+      "clip_id": "PUB_17d",
+      "format": "demo",
+      "publication": {
+        "tiktok": {
+          "description": "Эвелон раскладывает телефон до размера планшета и показывает, как внешний экран помогает сделать селфи.\n\n#evelone twitch: evelone2004",
+          "date": null,
+          "account": null,
+          "url": null,
+          "organic_views": null,
+          "statistics": null
+        },
+        "youtube_shorts": {
+          "title": "Как Эвелон делает селфи на складной телефон | #evelone twitch: evelone2004",
+          "date": null,
+          "account": null,
+          "url": null,
+          "organic_views": null,
+          "statistics": null
+        }
+      },
+      "files": {
+        "plan": "data/review/contest/clips/PUB_17d/edit_plan.json",
+        "draft": "data/review/contest/clips/PUB_17d/word_draft.json",
+        "edits": "data/review/contest/clips/PUB_17d/sol_edits.json",
+        "qa": "data/review/contest/clips/PUB_17d/qa.json",
+        "visual_review": "data/review/contest/clips/PUB_17d/visual_review.json",
+        "mp4": "data/review/mvp/2876630043/PUB_17d/PUB_17d.mp4",
+        "ass": "data/review/mvp/2876630043/PUB_17d/PUB_17d.ass",
+        "manifest": "data/review/mvp/2876630043/PUB_17d/manifest.json",
+        "guided_frames": "data/review/contest/clips/PUB_17d/guides.png"
+      },
+      "source_segments_ms": [
+        [
+          11271440,
+          11274680
+        ],
+        [
+          11282100,
+          11284380
+        ],
+        [
+          11297840,
+          11304080
+        ],
+        [
+          11308140,
+          11310530
+        ]
+      ],
+      "planned_duration_ms": 14150,
+      "audio": {
+        "mode": "saved_hq_track",
+        "parent_mp4": "data/review/mvp/2876630043/HQ_17d/HQ_17d.mp4",
+        "offset_ms": 0,
+        "aac_payload_sha256": "a06b39a142fea7d26af984b48f4aa6117ea1825414a71aa7dd496792c870f61a",
+        "decoded_pcm_sha256": "3fd9877714564e4c000c7a470db8a7125fbd80e5805bfce0890debe6ddda2b4c",
+        "verified_identical_to_parent": true,
+        "muxed_saved_track": false
+      },
+      "duration_s": 14.166667
+    },
+    {
+      "candidate_id": "01b",
+      "source_clip_id": "HQ_01b",
+      "catalog_status": "ready",
+      "catalog_title": "Красная подсветка как декорация",
+      "catalog_interval_ms": [
+        87520,
+        97100
+      ],
+      "source_index_status": "ready",
+      "status": "reserve",
+      "reason": "Соль монолога — сексуальная шутка про комнату. Если убрать её, красная подсветка остаётся наблюдением без развязки.",
+      "roles": {
+        "hook": "Замечает, что комната выглядит как red room.",
+        "action": "Подводка на общем плане комнаты. / Реплика с развязкой.",
+        "payoff": "Добавляет, будто здесь собираются грязно ебаться."
+      },
+      "evidence": [
+        {
+          "source_ms": 87500,
+          "observation": "Замечает, что комната выглядит как red room."
+        },
+        {
+          "source_ms": 95280,
+          "observation": "Добавляет, будто здесь собираются грязно ебаться."
+        }
+      ],
+      "decision": "data/review/contest/editorial/01b.json"
+    },
+    {
+      "candidate_id": "01d",
+      "source_clip_id": "HQ_01d",
+      "catalog_status": "ready",
+      "catalog_title": "Почему зрители додумывают медиаконфликты",
+      "catalog_interval_ms": [
+        225230,
+        278840
+      ],
+      "source_index_status": "ready",
+      "status": "reserve",
+      "reason": "В центре публичная ссора и поиск виноватых зрителями. Аналогия с угадыванием фраз всё равно возвращает к оскорблениям.",
+      "roles": {
+        "hook": "Конфликт мусолится в интернете.",
+        "action": "Публичный конфликт и недосказанность. / Как зритель угадывает слова и назначает виноватых.",
+        "payoff": "Зритель достраивает фразу и назначает виноватыми сразу всех."
+      },
+      "evidence": [
+        {
+          "source_ms": 231390,
+          "observation": "Конфликт мусолится в интернете."
+        },
+        {
+          "source_ms": 267840,
+          "observation": "Зритель достраивает фразу и назначает виноватыми сразу всех."
+        }
+      ],
+      "decision": "data/review/contest/editorial/01d.json"
+    },
+    {
+      "candidate_id": "01e",
+      "source_clip_id": "HQ_01e",
+      "catalog_status": "ready",
+      "catalog_title": "Ссора Деки и База из-за игры два на два",
+      "catalog_interval_ms": [
+        355320,
+        435680
+      ],
+      "source_index_status": "ready",
+      "status": "reserve",
+      "reason": "Эвелон пересказывает ссору Деки и База. Поворот про игру 2 на 2 объясняет конфликт, а весь смысл строится на нём.",
+      "roles": {
+        "hook": "Говорит, что ссора была из-за полной фигни.",
+        "action": "Оценка масштаба ссоры. / Кто поссорился и почему не дождались друг друга. / Игра 2 на 2 и попытка успокоить игроков.",
+        "payoff": "Всё свелось к игре два на два."
+      },
+      "evidence": [
+        {
+          "source_ms": 364990,
+          "observation": "Говорит, что ссора была из-за полной фигни."
+        },
+        {
+          "source_ms": 425960,
+          "observation": "Всё свелось к игре два на два."
+        }
+      ],
+      "decision": "data/review/contest/editorial/01e.json"
+    },
+    {
+      "candidate_id": "01f",
+      "source_clip_id": "HQ_01f",
+      "catalog_status": "ready",
+      "catalog_title": "Затянул сбор состава и потерял возможность забрать игрока",
+      "catalog_interval_ms": [
+        436640,
+        575100
+      ],
+      "source_index_status": "ready",
+      "status": "reserve",
+      "reason": "Эвелон рассказывает о своей ошибке, но «Дэн был мой, уже Дэн не мой» привязано к спору о переходе между составами.",
+      "roles": {
+        "hook": "Мы просто с этим тянули, тянули.",
+        "action": "Затянувшийся сбор состава. / Дэн играет одну игру за другой. / В новом составе пошли результаты, забрать игрока уже поздно.",
+        "payoff": "Уже Дэн не мой."
+      },
+      "evidence": [
+        {
+          "source_ms": 436640,
+          "observation": "Мы просто с этим тянули, тянули."
+        },
+        {
+          "source_ms": 574020,
+          "observation": "Уже Дэн не мой."
+        }
+      ],
+      "decision": "data/review/contest/editorial/01f.json"
+    },
+    {
+      "candidate_id": "01g",
+      "source_clip_id": "HQ_01g",
+      "catalog_status": "ready",
+      "catalog_title": "Предложили проходку на мейджор",
+      "catalog_interval_ms": [
+        649430,
+        715160
+      ],
+      "source_index_status": "ready",
+      "status": "reserve",
+      "reason": "Длинная рефлексия о проходке в контексте спорного сбора состава. В конце Эвелон отказывается, когда «что-то не сходится», без ясного основания внутри клипа.",
+      "roles": {
+        "hook": "Мне предлагают проходку на мейджор.",
+        "action": "Предложение проходки. / Соблазн хайпа и сомнения. / Какой состав мог бы собрать. / Окончательное решение.",
+        "payoff": "Время тянется, он решает отказаться."
+      },
+      "evidence": [
+        {
+          "source_ms": 654790,
+          "observation": "Мне предлагают проходку на мейджор."
+        },
+        {
+          "source_ms": 703000,
+          "observation": "Время тянется, он решает отказаться."
+        }
+      ],
+      "decision": "data/review/contest/editorial/01g.json"
+    },
+    {
+      "candidate_id": "02a",
+      "source_clip_id": "HQ_02a",
+      "catalog_status": "ready",
+      "catalog_title": "Команда фидила, зато он фармил деньги",
+      "catalog_interval_ms": [
+        759320,
+        804890
+      ],
+      "source_index_status": "ready",
+      "status": "reserve",
+      "reason": "Самоирония про «фарм» переходит в прямое упоминание 1win и заработка на трансляции. Удаление этой реплики лишает графики их комического смысла.",
+      "roles": {
+        "hook": "Соло, честно, на фоне победы 55:53.",
+        "action": "Победа и «Соло, честно». / Команда фидила, а он фармил. / Падение и рост на графике команды. / Линии игроков и шутка про рекламный фарм.",
+        "payoff": "Фармил деньги с рекламы на трансляции."
+      },
+      "evidence": [
+        {
+          "source_ms": 763640,
+          "observation": "Соло, честно, на фоне победы 55:53."
+        },
+        {
+          "source_ms": 796130,
+          "observation": "Фармил деньги с рекламы на трансляции."
+        }
+      ],
+      "decision": "data/review/contest/editorial/02a.json"
+    },
+    {
+      "candidate_id": "02b",
+      "source_clip_id": "HQ_02b",
+      "catalog_status": "ready",
+      "catalog_title": "После ухода игрока — какой разговор стоило провести",
+      "catalog_interval_ms": [
+        808750,
+        948170
+      ],
+      "source_index_status": "ready",
+      "status": "reserve",
+      "reason": "Эвелон предлагает поддержать Тёму, но новость об уходе и реакция на спор внутри команды задают весь эпизод.",
+      "roles": {
+        "hook": "Выходит пост об уходе Тёмы из WT.",
+        "action": "Неожиданный пост об уходе из WT. / Почему новость удивила. / Как начать личный разговор и что сказать Тёме. / Поддержка могла изменить разговор.",
+        "payoff": "Поддержать Тёму. Разговор был бы другой."
+      },
+      "evidence": [
+        {
+          "source_ms": 808750,
+          "observation": "Выходит пост об уходе Тёмы из WT."
+        },
+        {
+          "source_ms": 939370,
+          "observation": "Поддержать Тёму. Разговор был бы другой."
+        }
+      ],
+      "decision": "data/review/contest/editorial/02b.json"
+    },
+    {
+      "candidate_id": "02c",
+      "source_clip_id": "HQ_02c",
+      "catalog_status": "ready",
+      "catalog_title": "Публичный пост вместо разговора в личке",
+      "catalog_interval_ms": [
+        1019060,
+        1150200
+      ],
+      "source_index_status": "ready",
+      "status": "reserve",
+      "reason": "Личный пример Эвелона со Славой мог бы быть отдельным разговором, но здесь он объясняет и оценивает публичный пост Вани про Рому.",
+      "roles": {
+        "hook": "Выходит пост Вани про Рому.",
+        "action": "Что именно вышло публично. / Ищет сообщение от Вани и вспоминает собственную ошибку со Славой. / Что стоило сделать вместо публичного поста.",
+        "payoff": "На своём примере со Славой объясняет, как личный разговор мог снять конфликт до публикации."
+      },
+      "evidence": [
+        {
+          "source_ms": 1021910,
+          "observation": "Выходит пост Вани про Рому."
+        },
+        {
+          "source_ms": 1140100,
+          "observation": "На своём примере со Славой объясняет, как личный разговор мог снять конфликт до публикации."
+        }
+      ],
+      "decision": "data/review/contest/editorial/02c.json"
+    },
+    {
+      "candidate_id": "02e",
+      "source_clip_id": "HQ_02e",
+      "catalog_status": "ready",
+      "catalog_title": "Почему разошлись со Строго",
+      "catalog_interval_ms": [
+        1274040,
+        1389870
+      ],
+      "source_index_status": "ready",
+      "status": "reserve",
+      "reason": "Весь клип отвечает на вопрос об отношениях со Строго. Сцена с Faceit тоже работает только как пример отдаления.",
+      "roles": {
+        "hook": "Строго говорил, что вы с Максом отдаляетесь от него?",
+        "action": "Вопрос о словах Строго и короткий ответ. / У каждого свои планы на шоу. / Не получилось попасть в лобби Faceit. / Объясняет, почему понимал важность рейтинга. / Подводит итог отношениям.",
+        "payoff": "Немножко разъехались, и всё."
+      },
+      "evidence": [
+        {
+          "source_ms": 1277120,
+          "observation": "Строго говорил, что вы с Максом отдаляетесь от него?"
+        },
+        {
+          "source_ms": 1385550,
+          "observation": "Немножко разъехались, и всё."
+        }
+      ],
+      "decision": "data/review/contest/editorial/02e.json"
+    },
+    {
+      "candidate_id": "03a",
+      "source_clip_id": "HQ_03a",
+      "catalog_status": "ready",
+      "catalog_title": "Договорились кастить мейджор, но оба поняли молчание по-разному",
+      "catalog_interval_ms": [
+        1405840,
+        1504480
+      ],
+      "source_index_status": "ready",
+      "status": "reserve",
+      "reason": "Самостоятельная история Эвелона о недопонимании, но кульминация всё равно строится на выяснении, почему Строго избегал совместных кастов, внутри блока о разногласиях.",
+      "roles": {
+        "hook": "Договорились вести мейджор вместе, но приглашения долго не было, а первый звонок закончился выходом из шумного канала.",
+        "action": "Договорились кастить мейджор. / Долго нет сообщений, потом Ваня зовёт на матч. / В голосовом канале шумно, Ваня замутился. / Пишет перед финалом и узнаёт, почему Ваня его больше не звал.",
+        "payoff": "Один решил, что неинтересен для кастов, другой стеснялся звать занятого человека. Разговор вскрыл взаимное недопонимание."
+      },
+      "evidence": [
+        {
+          "source_ms": 1410990,
+          "observation": "Договорились вести мейджор вместе, но приглашения долго не было, а первый звонок закончился выходом из шумного канала."
+        },
+        {
+          "source_ms": 1482280,
+          "observation": "Один решил, что неинтересен для кастов, другой стеснялся звать занятого человека. Разговор вскрыл взаимное недопонимание."
+        }
+      ],
+      "decision": "data/review/contest/editorial/03a.json"
+    },
+    {
+      "candidate_id": "03d",
+      "source_clip_id": "HQ_03d",
+      "catalog_status": "ready",
+      "catalog_title": "Тост и план на свадьбу Эксайла",
+      "catalog_interval_ms": [
+        1860120,
+        1881280
+      ],
+      "source_index_status": "ready",
+      "status": "reserve",
+      "reason": "Эвелон ведёт монолог от тоста до обращения к охране, однако шутка строится на намерении напиться и испортить свадьбу. Без этой реплики обращение к охране теряет смысл.",
+      "roles": {
+        "hook": "В шутку сообщает, что готовит тост на свадьбу.",
+        "action": "Готовит тост на свадьбу Эксайла. / План с Куертовым и предупреждение охране.",
+        "payoff": "Описывает абсурдную цель на первые 30 минут с Куэртовым и обращается к охране."
+      },
+      "evidence": [
+        {
+          "source_ms": 1860120,
+          "observation": "В шутку сообщает, что готовит тост на свадьбу."
+        },
+        {
+          "source_ms": 1868030,
+          "observation": "Описывает абсурдную цель на первые 30 минут с Куэртовым и обращается к охране."
+        }
+      ],
+      "decision": "data/review/contest/editorial/03d.json"
+    },
+    {
+      "candidate_id": "03g",
+      "source_clip_id": "HQ_03g",
+      "catalog_status": "ready",
+      "catalog_title": "Предсказал, как Максим возьмёт трубку",
+      "catalog_interval_ms": [
+        2005820,
+        2044740
+      ],
+      "source_index_status": "ready",
+      "status": "reserve",
+      "reason": "Эвелон предсказывает ответ и реагирует в камере, но прогноз сбывается исключительно через грубый выпад Максима. Без него итог эксперимента пропадает.",
+      "roles": {
+        "hook": "Сейчас зайду. Он будет злой.",
+        "action": "Прогноз перед звонком. / Подключение и ответ Максима.",
+        "payoff": "Максим отвечает резкой репликой, и прогноз сбывается сразу."
+      },
+      "evidence": [
+        {
+          "source_ms": 2023900,
+          "observation": "Сейчас зайду. Он будет злой."
+        },
+        {
+          "source_ms": 2036350,
+          "observation": "Максим отвечает резкой репликой, и прогноз сбывается сразу."
+        }
+      ],
+      "decision": "data/review/contest/editorial/03g.json"
+    },
+    {
+      "candidate_id": "03i",
+      "source_clip_id": "HQ_03i",
+      "catalog_status": "ready",
+      "catalog_title": "Макс узнал про новый состав в бане",
+      "catalog_interval_ms": [
+        2072900,
+        2105960
+      ],
+      "source_index_status": "ready",
+      "status": "reserve",
+      "reason": "Макс пересказывает обвинение и опровергает его историей из бани. Клип держится на конфликте вокруг WT и на чужой развязке.",
+      "roles": {
+        "hook": "Максу пишут, что в комментариях его обвиняют в развале WT.",
+        "action": "Максу пересказывают обвинение. / Макс отвечает, что узнал состав только в бане.",
+        "payoff": "Говорит, что сам впервые спросил у Дэна о составе по дороге в баню и только там его узнал."
+      },
+      "evidence": [
+        {
+          "source_ms": 2072900,
+          "observation": "Максу пишут, что в комментариях его обвиняют в развале WT."
+        },
+        {
+          "source_ms": 2099920,
+          "observation": "Говорит, что сам впервые спросил у Дэна о составе по дороге в баню и только там его узнал."
+        }
+      ],
+      "decision": "data/review/contest/editorial/03i.json"
+    },
+    {
+      "candidate_id": "04a",
+      "source_clip_id": "HQ_04a",
+      "catalog_status": "ready",
+      "catalog_title": "Заберу тысячу на первом вопросе и возьму подсказку",
+      "catalog_interval_ms": [
+        2200410,
+        2224330
+      ],
+      "source_index_status": "ready",
+      "status": "reserve",
+      "reason": "Эвелон задаёт правила и отвечает на вопрос о сумме. Комический ход «заберу тысячу и ещё возьму подсказку» принадлежит участнику.",
+      "roles": {
+        "hook": "После слов об элементарных первых вопросах спрашивает, с какой суммы можно забрать деньги.",
+        "action": "Что после А и можно ли забрать тысячу. / Решает забрать тысячу и ещё потратить подсказку.",
+        "payoff": "На предложение забрать даже тысячу решает остановиться на первом вопросе и шутит, что ещё попросит подсказку."
+      },
+      "evidence": [
+        {
+          "source_ms": 2203590,
+          "observation": "После слов об элементарных первых вопросах спрашивает, с какой суммы можно забрать деньги."
+        },
+        {
+          "source_ms": 2217010,
+          "observation": "На предложение забрать даже тысячу решает остановиться на первом вопросе и шутит, что ещё попросит подсказку."
+        }
+      ],
+      "decision": "data/review/contest/editorial/04a.json"
+    },
+    {
+      "candidate_id": "04e",
+      "source_clip_id": "HQ_04e",
+      "catalog_status": "ready",
+      "catalog_title": "Как выторговали несгораемую сумму 300 000 ₽",
+      "catalog_interval_ms": [
+        2588770,
+        2714310
+      ],
+      "source_index_status": "ready",
+      "status": "reserve",
+      "reason": "Эвелон объясняет гарантию и торгуется, но ставки 500 и 300 тысяч предлагает Максим. Подтверждение ведущего служит пояснением к решению участника, а табло показывает прежнюю сумму.",
+      "roles": {
+        "hook": "Ведущий предлагает изменить заранее выбранные несгораемые суммы.",
+        "action": "Стартовые несгораемые суммы. / Предлагает поднять 150 до 500 тысяч. / Ведущий сначала даёт выбрать одну сумму. / Торгуются за вторую сумму. / Соглашаются поднять 150 до 300 тысяч и объясняют, что это гарантия.",
+        "payoff": "В разговоре договариваются поднять верхнюю несгораемую сумму со 150 до 300 тысяч. В этих кадрах табло сохраняет старую настройку, а сумму 300 000 ₽ ведущий подтверждает после игры."
+      },
+      "evidence": [
+        {
+          "source_ms": 2588770,
+          "observation": "Ведущий предлагает изменить заранее выбранные несгораемые суммы."
+        },
+        {
+          "source_ms": 2661910,
+          "observation": "В разговоре договариваются поднять верхнюю несгораемую сумму со 150 до 300 тысяч. В этих кадрах табло сохраняет старую настройку, а сумму 300 000 ₽ ведущий подтверждает после игры."
+        }
+      ],
+      "decision": "data/review/contest/editorial/04e.json"
+    },
+    {
+      "candidate_id": "05a",
+      "source_clip_id": "HQ_05a",
+      "catalog_status": "ready",
+      "catalog_title": "Первый вопрос — закон Ома",
+      "catalog_interval_ms": [
+        2784250,
+        2906410
+      ],
+      "source_index_status": "ready",
+      "status": "reserve",
+      "reason": "Эвелон ведёт раунд, Максим выводит формулу и выбирает ответ, а результат и аплодисменты подводят итог решению Максима.",
+      "roles": {
+        "hook": "Ведущий сразу зачитывает первый вопрос, на экране появляется формула.",
+        "action": "Вопрос о законе Ома и появление первой формулы / Максим проговаривает определение и выводит формулу / Максим выбирает первый вариант, A становится жёлтым / Открывается ответ и оба аплодируют",
+        "payoff": "A зеленеет, 1 000 ₽ и аплодисменты."
+      },
+      "evidence": [
+        {
+          "source_ms": 2800580,
+          "observation": "Ведущий сразу зачитывает первый вопрос, на экране появляется формула."
+        },
+        {
+          "source_ms": 2898017,
+          "observation": "A зеленеет, 1 000 ₽ и аплодисменты."
+        }
+      ],
+      "decision": "data/review/contest/editorial/05a.json"
+    },
+    {
+      "candidate_id": "05b",
+      "source_clip_id": "HQ_05b",
+      "catalog_status": "ready",
+      "catalog_title": "Ведущий сам запутался в своих правилах",
+      "catalog_interval_ms": [
+        2915660,
+        2945950
+      ],
+      "source_index_status": "ready",
+      "status": "ready",
+      "reason": "Эвелон сам прерывает викторину, сверяет правила с чатом и ловит себя на том, что правила написал он. Улыбка Максима поддерживает развязку.",
+      "roles": {
+        "hook": "Эвелон: «Стоп!»",
+        "action": "Эвелон спрашивает, можно ли вывести выигрыш, и проверяет себя через чат.",
+        "payoff": "Эвелон признаётся: «Я же правила составлял». Максим улыбается."
+      },
+      "evidence": [
+        {
+          "source_ms": 2925700,
+          "observation": "Первое «Стоп!». В HQ 2926000 Эвелон справа, Максим слева, посередине лестница."
+        },
+        {
+          "source_ms": 2935410,
+          "observation": "Первое «я составлял правила» по словарному черновику."
+        },
+        {
+          "source_ms": 2941570,
+          "observation": "Повтор «я же правила составлял» после сомнения насчёт 300 тысяч. В кадрах HQ 2926000 и 2940800 на камерах нет рекламной плашки."
+        }
+      ],
+      "decision": "data/review/contest/editorial/05b.json",
+      "clip_id": "PUB_05b",
+      "format": "dialogue",
+      "publication": {
+        "tiktok": {
+          "description": "После первого выигрыша Эвелон прерывает игру и просит чат помочь вспомнить, что он сам написал.\n\n#evelone twitch: evelone2004",
+          "date": null,
+          "account": null,
+          "url": null,
+          "organic_views": null,
+          "statistics": null
+        },
+        "youtube_shorts": {
+          "title": "Эвелон забыл правила собственной викторины | #evelone twitch: evelone2004",
+          "date": null,
+          "account": null,
+          "url": null,
+          "organic_views": null,
+          "statistics": null
+        }
+      },
+      "files": {
+        "plan": "data/review/contest/clips/PUB_05b/edit_plan.json",
+        "draft": "data/review/contest/clips/PUB_05b/word_draft.json",
+        "edits": "data/review/contest/clips/PUB_05b/sol_edits.json",
+        "qa": "data/review/contest/clips/PUB_05b/qa.json",
+        "visual_review": "data/review/contest/clips/PUB_05b/visual_review.json",
+        "mp4": "data/review/mvp/2876630043/PUB_05b/PUB_05b.mp4",
+        "ass": "data/review/mvp/2876630043/PUB_05b/PUB_05b.ass",
+        "manifest": "data/review/mvp/2876630043/PUB_05b/manifest.json",
+        "guided_frames": "data/review/contest/clips/PUB_05b/guides.png"
+      },
+      "source_segments_ms": [
+        [
+          2925700,
+          2930910
+        ],
+        [
+          2932260,
+          2943450
+        ]
+      ],
+      "planned_duration_ms": 16400,
+      "audio": {
+        "mode": "saved_hq_track",
+        "parent_mp4": "data/review/mvp/2876630043/HQ_05b/HQ_05b.mp4",
+        "offset_ms": 0,
+        "aac_payload_sha256": "c5eb0506d9d65c3fa9fd18be231b6f91d66e255c8e83a7a67e1a1eb6f50ab3fe",
+        "decoded_pcm_sha256": "dd08586fb02f1259bd0fac49b7020badaf5b555b2fb0aace6173592c1faa661b",
+        "verified_identical_to_parent": true,
+        "muxed_saved_track": false
+      },
+      "duration_s": 16.4
+    },
+    {
+      "candidate_id": "05d",
+      "source_clip_id": "HQ_05d",
+      "catalog_status": "ready",
+      "catalog_title": "Первый Major по CS:GO за 2 000 ₽",
+      "catalog_interval_ms": [
+        2984570,
+        3150000
+      ],
+      "source_index_status": "ready",
+      "status": "reserve",
+      "reason": "Эвелон зачитывает вопрос и объявляет результат. Выбор Fnatic, ожидание и облегчение принадлежат Максиму.",
+      "roles": {
+        "hook": "Максим спрашивает, не приплыли ли они уже на двух тысячах.",
+        "action": "Максим опасается вылететь уже на втором вопросе / Вопрос и четыре команды / Максим колеблется между NiP и Fnatic / Максим выбирает Fnatic и переживает, что ответ ошибочный / Жёлтый Fnatic становится зелёным",
+        "payoff": "Fnatic зелёный, выигрыш 2 000 ₽, Максим откидывается с облегчением."
+      },
+      "evidence": [
+        {
+          "source_ms": 3002500,
+          "observation": "Максим спрашивает, не приплыли ли они уже на двух тысячах."
+        },
+        {
+          "source_ms": 3145017,
+          "observation": "Fnatic зелёный, выигрыш 2 000 ₽, Максим откидывается с облегчением."
+        }
+      ],
+      "decision": "data/review/contest/editorial/05d.json"
+    },
+    {
+      "candidate_id": "05e",
+      "source_clip_id": "HQ_05e",
+      "catalog_status": "ready",
+      "catalog_title": "Меркурий, Венера и вторая жизнь",
+      "catalog_interval_ms": [
+        3218060,
+        3454580
+      ],
+      "source_index_status": "ready",
+      "status": "reserve",
+      "reason": "Даже вариант о второй жизни зависит от выбора Максима: он решает ответить «Меркурий», и его реакция на зелёный ответ завершает сцену.",
+      "roles": {
+        "hook": "Максим шутит, что космос вообще не существует.",
+        "action": "Крупно реплика про космос / Ведущий читает вопрос и варианты, Максим реагирует / Два оставшихся в голове Максима варианта / Максим предлагает вторую жизнь и Меркурий / Ведущий говорит, что вторую жизнь можно применить потом, и спрашивает об ответе / Максим закрывает лицо при жёлтом Меркурии / Появляется выигрыш, вторую жизнь сохранили",
+        "payoff": "Меркурий зелёный, на табло 3 000 ₽, Максим поднимает руки и сохраняет вторую жизнь."
+      },
+      "evidence": [
+        {
+          "source_ms": 3261980,
+          "observation": "Максим шутит, что космос вообще не существует."
+        },
+        {
+          "source_ms": 3439017,
+          "observation": "Меркурий зелёный, на табло 3 000 ₽, Максим поднимает руки и сохраняет вторую жизнь."
+        }
+      ],
+      "decision": "data/review/contest/editorial/05e.json"
+    },
+    {
+      "candidate_id": "06a",
+      "source_clip_id": "HQ_06a",
+      "catalog_status": "ready",
+      "catalog_title": "Будапешт или Бухарест",
+      "catalog_interval_ms": [
+        3498350,
+        3586600
+      ],
+      "source_index_status": "ready",
+      "status": "reserve",
+      "reason": "Максим путает столицы, вспоминает поездки и сам выбирает Венгрию. Реплика ведущего только подтверждает результат.",
+      "roles": {
+        "hook": "Максим говорит, что путает Будапешт и Бухарест.",
+        "action": "Максим признаётся, что путает столицы / Возвращаемся к вопросу и ставке / Максим вспоминает поездки / Разводит Бухарест и Будапешт, выбирает Венгрию / Зелёная Венгрия, сумма и реакция Максима",
+        "payoff": "Венгрия зеленеет, выигрыш 5 000 ₽, Максим радуется, что разобрался."
+      },
+      "evidence": [
+        {
+          "source_ms": 3505560,
+          "observation": "Максим говорит, что путает Будапешт и Бухарест."
+        },
+        {
+          "source_ms": 3578617,
+          "observation": "Венгрия зеленеет, выигрыш 5 000 ₽, Максим радуется, что разобрался."
+        }
+      ],
+      "decision": "data/review/contest/editorial/06a.json"
+    },
+    {
+      "candidate_id": "06c",
+      "source_clip_id": "HQ_06c",
+      "catalog_status": "ready",
+      "catalog_title": "Без доброго пива — подсказка 50/50",
+      "catalog_interval_ms": [
+        3661400,
+        3877580
+      ],
+      "source_index_status": "ready",
+      "status": "reserve",
+      "reason": "Ведущий читает поговорку и убирает варианты. Максим выбирает ответ и завершает шутку просьбой вернуть 50/50.",
+      "roles": {
+        "hook": "Ведущий зачитывает неожиданный вариант A и Максим реагирует.",
+        "action": "Первый неожиданный вариант и реакция / Ведущий читает поговорку / Максим называет два правдоподобных окончания / Перед 50/50 видны все варианты / После 50/50 остались только B и D / Максим выбирает про душу разлива / Выигрыш и просьба вернуть подсказку",
+        "payoff": "B зеленеет, 10 000 ₽, Максим просит вернуть 50/50."
+      },
+      "evidence": [
+        {
+          "source_ms": 3666720,
+          "observation": "Ведущий зачитывает неожиданный вариант A и Максим реагирует."
+        },
+        {
+          "source_ms": 3855117,
+          "observation": "B зеленеет, 10 000 ₽, Максим просит вернуть 50/50."
+        }
+      ],
+      "decision": "data/review/contest/editorial/06c.json"
+    },
+    {
+      "candidate_id": "06d",
+      "source_clip_id": "HQ_06d",
+      "catalog_status": "ready",
+      "catalog_title": "Памятник с книгой в Саратове",
+      "catalog_interval_ms": [
+        3928370,
+        4050350
+      ],
+      "source_index_status": "ready",
+      "status": "reserve",
+      "reason": "Книга на памятнике, рассуждение и выбор первой учительницы принадлежат Максиму, а ведущий подтверждает его ответ.",
+      "roles": {
+        "hook": "Крупно памятник и слова Максима про открытую книгу.",
+        "action": "Открытая книга как улика / Вопрос о памятнике в Саратове / Сопоставление фигуры с книгой и вариантов про семью / Максим выбирает первую учительницу / Первая учительница зеленеет, Максим вскидывает руки",
+        "payoff": "Зелёная «Первой учительнице», 15 000 ₽ и поднятые руки."
+      },
+      "evidence": [
+        {
+          "source_ms": 3966390,
+          "observation": "Крупно памятник и слова Максима про открытую книгу."
+        },
+        {
+          "source_ms": 4009283,
+          "observation": "Зелёная «Первой учительнице», 15 000 ₽ и поднятые руки."
+        }
+      ],
+      "decision": "data/review/contest/editorial/06d.json"
+    },
+    {
+      "candidate_id": "06e",
+      "source_clip_id": "HQ_06e",
+      "catalog_status": "ready",
+      "catalog_title": "Бык-Солевоз за 25 000 ₽",
+      "catalog_interval_ms": [
+        4070980,
+        4129580
+      ],
+      "source_index_status": "ready",
+      "status": "reserve",
+      "reason": "Альтернативный монтаж мог бы открыть сцену ложной подсветкой «Бык-Баратрум», но в проверенном кадре её смысл задаёт крик Максима. Без его верного ответа исправление подсветки и выигрыш повисают.",
+      "roles": {
+        "hook": "Максим протестует, пока жёлтым выделен «Бык-Баратрум».",
+        "action": "Жёлтый шуточный вариант и резкая реакция Максима / Вопрос и первый вариант / Максим вспоминает солевой путь и объясняет ответ / Подтверждение и сумма выигрыша",
+        "payoff": "Зелёный «Бык-Солевоз», ведущий объявляет 25 000 ₽."
+      },
+      "evidence": [
+        {
+          "source_ms": 4115350,
+          "observation": "Максим протестует, пока жёлтым выделен «Бык-Баратрум»."
+        },
+        {
+          "source_ms": 4127300,
+          "observation": "Зелёный «Бык-Солевоз», ведущий объявляет 25 000 ₽."
+        }
+      ],
+      "decision": "data/review/contest/editorial/06e.json"
+    },
+    {
+      "candidate_id": "06f",
+      "source_clip_id": "HQ_06f",
+      "catalog_status": "ready",
+      "catalog_title": "Почему этот вопрос легче первого",
+      "catalog_interval_ms": [
+        4130580,
+        4142010
+      ],
+      "source_index_status": "reserve",
+      "status": "reserve",
+      "reason": "Сравнение сложности вопросов — перебивка, смысл зависит от только что сыгранных раундов.",
+      "roles": {
+        "hook": "Почему этот вопрос легче первого",
+        "action": "Развитие по каталожному интервалу",
+        "payoff": "Сравнение сложности вопросов — перебивка, смысл зависит от только что сыгранных раундов."
+      },
+      "evidence": [
+        {
+          "source_ms": 4130580,
+          "observation": "Сравнение сложности вопросов — перебивка, смысл зависит от только что сыгранных раундов."
+        }
+      ],
+      "decision": "data/review/contest/editorial/06f.json"
+    },
+    {
+      "candidate_id": "07a",
+      "source_clip_id": "HQ_07a",
+      "catalog_status": "ready",
+      "catalog_title": "Аль денте за 50 000 ₽",
+      "catalog_interval_ms": [
+        4165300,
+        4222060
+      ],
+      "source_index_status": "ready",
+      "status": "reserve",
+      "reason": "Эвелон переключает подсветку и объявляет выигрыш, но Максим знает определение, отказывается от ложного варианта и радуется результату.",
+      "roles": {
+        "hook": "Реплика «Способ жарки мяса» и вариант B.",
+        "action": "Крупно способ жарки мяса / Вопрос и быстрый ответ Максима / Ведущий уточняет, готов ли Максим ответить / Жёлтый вариант про мясо сменяется вариантом про пасту / Зелёный ответ, сумма и поднятые руки",
+        "payoff": "C зеленеет, Максим поднимает руки, на табло 50 000 ₽."
+      },
+      "evidence": [
+        {
+          "source_ms": 4185407,
+          "observation": "Реплика «Способ жарки мяса» и вариант B."
+        },
+        {
+          "source_ms": 4221450,
+          "observation": "C зеленеет, Максим поднимает руки, на табло 50 000 ₽."
+        }
+      ],
+      "decision": "data/review/contest/editorial/07a.json"
+    },
+    {
+      "candidate_id": "07b",
+      "source_clip_id": "HQ_07b",
+      "catalog_status": "ready",
+      "catalog_title": "Четыре кольца и вопрос с двумя «жопами»",
+      "catalog_interval_ms": [
+        4254940,
+        4337060
+      ],
+      "source_index_status": "ready",
+      "status": "reserve",
+      "reason": "Шутка заложена в формулировке про эмблему, а развязка — выбор Audi игроком. У Evelone только комментарий о простоте вопроса.",
+      "roles": {
+        "hook": "Вопрос спрашивает, какая эмблема напоминает две стоящие рядом «жопы Shadowkekw».",
+        "action": "Шутка заложена в формулировке про эмблему, а развязка — выбор Audi игроком. У Evelone только комментарий о простоте вопроса.",
+        "payoff": "Останавливаются на Audi. Ведущий признаёт, что вопрос за такую сумму вышел лёгким."
+      },
+      "evidence": [
+        {
+          "source_ms": 4254940,
+          "observation": "Вопрос спрашивает, какая эмблема напоминает две стоящие рядом «жопы Shadowkekw»."
+        },
+        {
+          "source_ms": 4315750,
+          "observation": "Останавливаются на Audi. Ведущий признаёт, что вопрос за такую сумму вышел лёгким."
+        }
+      ],
+      "decision": "data/review/contest/editorial/07b.json"
+    },
+    {
+      "candidate_id": "07c",
+      "source_clip_id": "HQ_07c",
+      "catalog_status": "ready",
+      "catalog_title": "Что быстрее в вакууме — свет или крик Юли",
+      "catalog_interval_ms": [
+        4346490,
+        4451850
+      ],
+      "source_index_status": "ready",
+      "status": "reserve",
+      "reason": "Максим выбирает свет и объясняет, почему знал ответ. Шутливый вариант про крик Юли не даёт ведущему собственного действия.",
+      "roles": {
+        "hook": "Среди вариантов к вопросу о скорости в вакууме есть крик Юли.",
+        "action": "Максим выбирает свет и объясняет, почему знал ответ. Шутливый вариант про крик Юли не даёт ведущему собственного действия.",
+        "payoff": "Максим выбирает свет и получает подтверждение, затем объясняет, что недавно интересовался темой."
+      },
+      "evidence": [
+        {
+          "source_ms": 4346490,
+          "observation": "Среди вариантов к вопросу о скорости в вакууме есть крик Юли."
+        },
+        {
+          "source_ms": 4428750,
+          "observation": "Максим выбирает свет и получает подтверждение, затем объясняет, что недавно интересовался темой."
+        }
+      ],
+      "decision": "data/review/contest/editorial/07c.json"
+    },
+    {
+      "candidate_id": "07d",
+      "source_clip_id": "HQ_07d",
+      "catalog_status": "ready",
+      "catalog_title": "В Сербию не ездили на море",
+      "catalog_interval_ms": [
+        4475250,
+        4595160
+      ],
+      "source_index_status": "ready",
+      "status": "reserve",
+      "reason": "Максим перебирает страны и сам выводит Сербию из воспоминаний о карте и поездках. Подтверждение относится к его догадке.",
+      "roles": {
+        "hook": "На вопрос о стране без выхода к морю Максим меняет версии и предлагает вспомнить карту.",
+        "action": "Максим перебирает страны и сам выводит Сербию из воспоминаний о карте и поездках. Подтверждение относится к его догадке.",
+        "payoff": "Рассуждает, что не помнит поездок на море в Сербии, и этот ответ оказывается верным."
+      },
+      "evidence": [
+        {
+          "source_ms": 4475250,
+          "observation": "На вопрос о стране без выхода к морю Максим меняет версии и предлагает вспомнить карту."
+        },
+        {
+          "source_ms": 4559350,
+          "observation": "Рассуждает, что не помнит поездок на море в Сербии, и этот ответ оказывается верным."
+        }
+      ],
+      "decision": "data/review/contest/editorial/07d.json"
+    },
+    {
+      "candidate_id": "07e",
+      "source_clip_id": "HQ_07e",
+      "catalog_status": "ready",
+      "catalog_title": "Следующие цифры π и мем «67»",
+      "catalog_interval_ms": [
+        4602190,
+        4799970
+      ],
+      "source_index_status": "ready",
+      "status": "reserve",
+      "reason": "Максим колеблется между 25 и 15 и вспоминает нужные цифры. Мем про 67 не меняет, кому принадлежит выигрыш.",
+      "roles": {
+        "hook": "На вопрос о цифрах после 3,14 дистрактор «67» становится шуткой, а игрок мечется между 25 и 15.",
+        "action": "Максим колеблется между 25 и 15 и вспоминает нужные цифры. Мем про 67 не меняет, кому принадлежит выигрыш.",
+        "payoff": "Доверяется обрывку воспоминания, выбирает 15 и доходит до 200 000 ₽."
+      },
+      "evidence": [
+        {
+          "source_ms": 4603250,
+          "observation": "На вопрос о цифрах после 3,14 дистрактор «67» становится шуткой, а игрок мечется между 25 и 15."
+        },
+        {
+          "source_ms": 4783017,
+          "observation": "Доверяется обрывку воспоминания, выбирает 15 и доходит до 200 000 ₽."
+        }
+      ],
+      "decision": "data/review/contest/editorial/07e.json"
+    },
+    {
+      "candidate_id": "08a",
+      "source_clip_id": "HQ_08a",
+      "catalog_status": "ready",
+      "catalog_title": "Песто, ошибка за 300 000 ₽ и сгоревшая вторая жизнь",
+      "catalog_interval_ms": [
+        4798110,
+        5199210
+      ],
+      "source_index_status": "ready",
+      "status": "reserve",
+      "reason": "Ветка с применением жизни зависит от длинного контекста, а существующий монтаж ведёт к ошибке Максима на эспаньоле. Шутка про нулевой выигрыш строится на его проигрыше.",
+      "roles": {
+        "hook": "После уверенности в запасных шансах игрок получает вопрос о французских материнских соусах и спорит между песто и эспаньолем.",
+        "action": "Ветка с применением жизни зависит от длинного контекста, а существующий монтаж ведёт к ошибке Максима на эспаньоле. Шутка про нулевой выигрыш строится на его проигрыше.",
+        "payoff": "Выбранный эспаньоль оказывается ошибкой. Выясняется, как игра списывает вторую жизнь, а ведущий шутит про нулевой выигрыш."
+      },
+      "evidence": [
+        {
+          "source_ms": 4840770,
+          "observation": "После уверенности в запасных шансах игрок получает вопрос о французских материнских соусах и спорит между песто и эспаньолем."
+        },
+        {
+          "source_ms": 4993317,
+          "observation": "Выбранный эспаньоль оказывается ошибкой. Выясняется, как игра списывает вторую жизнь, а ведущий шутит про нулевой выигрыш."
+        }
+      ],
+      "decision": "data/review/contest/editorial/08a.json"
+    },
+    {
+      "candidate_id": "08b",
+      "source_clip_id": "HQ_08b",
+      "catalog_status": "ready",
+      "catalog_title": "Двенадцать тысяч голосов за три попытки",
+      "catalog_interval_ms": [
+        5199910,
+        5446000
+      ],
+      "source_index_status": "ready",
+      "status": "reserve",
+      "reason": "Зал даёт вариант «3», Максим доверяет голосованию и выигрывает. Ведущий озвучивает перевес, но решения принимает игрок.",
+      "roles": {
+        "hook": "Сложный вопрос о числе попыток заставляет впервые положиться на зал.",
+        "action": "Зал даёт вариант «3», Максим доверяет голосованию и выигрывает. Ведущий озвучивает перевес, но решения принимает игрок.",
+        "payoff": "Ведущий говорит примерно о 12 тысячах голосов за один вариант. Максим выбирает C, «3». Табло подтверждает выигрыш 400 000 ₽."
+      },
+      "evidence": [
+        {
+          "source_ms": 5199910,
+          "observation": "Сложный вопрос о числе попыток заставляет впервые положиться на зал."
+        },
+        {
+          "source_ms": 5440517,
+          "observation": "Ведущий говорит примерно о 12 тысячах голосов за один вариант. Максим выбирает C, «3». Табло подтверждает выигрыш 400 000 ₽."
+        }
+      ],
+      "decision": "data/review/contest/editorial/08b.json"
+    },
+    {
+      "candidate_id": "08c",
+      "source_clip_id": "HQ_08c",
+      "catalog_status": "ready",
+      "catalog_title": "Четыре пояса и неожиданный комментарий",
+      "catalog_interval_ms": [
+        5463520,
+        5482990
+      ],
+      "source_index_status": "ready",
+      "status": "reserve",
+      "reason": "Ответ на шутку Evelone про четыре пояса — резкая реплика Максима. Перебивка держится на подколе.",
+      "roles": {
+        "hook": "Максим приводит в пример свой опыт соревнований по тхэквондо и четыре пояса.",
+        "action": "Ответ на шутку Evelone про четыре пояса — резкая реплика Максима. Перебивка держится на подколе.",
+        "payoff": "Ведущий превращает спортивное достижение в шутку о том, зачем понадобились четыре пояса. Максим резко отвечает."
+      },
+      "evidence": [
+        {
+          "source_ms": 5463520,
+          "observation": "Максим приводит в пример свой опыт соревнований по тхэквондо и четыре пояса."
+        },
+        {
+          "source_ms": 5476600,
+          "observation": "Ведущий превращает спортивное достижение в шутку о том, зачем понадобились четыре пояса. Максим резко отвечает."
+        }
+      ],
+      "decision": "data/review/contest/editorial/08c.json"
+    },
+    {
+      "candidate_id": "09a",
+      "source_clip_id": "HQ_09a",
+      "catalog_status": "ready",
+      "catalog_title": "Индекс «Буханки» и звонок Рафику",
+      "catalog_interval_ms": [
+        5537090,
+        5877710
+      ],
+      "source_index_status": "ready",
+      "status": "reserve",
+      "reason": "Рафик предлагает УАЗ‑452 и меняет выбор Максима. Развязка показывает пользу звонка, а ведущий остаётся модератором.",
+      "roles": {
+        "hook": "Максим должен узнать индекс УАЗа и перебирает версии, хотя когда-то хотел купить «Буханку».",
+        "action": "Рафик предлагает УАЗ‑452 и меняет выбор Максима. Развязка показывает пользу звонка, а ведущий остаётся модератором.",
+        "payoff": "Рафик в разговоре называет 452. Максим признаёт, что сам выбрал бы 3151. В результате УАЗ-452 подтверждён на табло, выигрыш 500 000 ₽."
+      },
+      "evidence": [
+        {
+          "source_ms": 5551730,
+          "observation": "Максим должен узнать индекс УАЗа и перебирает версии, хотя когда-то хотел купить «Буханку»."
+        },
+        {
+          "source_ms": 5826017,
+          "observation": "Рафик в разговоре называет 452. Максим признаёт, что сам выбрал бы 3151. В результате УАЗ-452 подтверждён на табло, выигрыш 500 000 ₽."
+        }
+      ],
+      "decision": "data/review/contest/editorial/09a.json"
+    },
+    {
+      "candidate_id": "09b",
+      "source_clip_id": "HQ_09b",
+      "catalog_status": "ready",
+      "catalog_title": "Веллингтон за 750 000 ₽ через ассоциацию с говядиной",
+      "catalog_interval_ms": [
+        5884370,
+        6133720
+      ],
+      "source_index_status": "ready",
+      "status": "reserve",
+      "reason": "Ассоциация с блюдом помогает Максиму самому выбрать Веллингтон. Результат подтверждает его догадку.",
+      "roles": {
+        "hook": "Максим уверен, что знает столицу Новой Зеландии, но путается между Веллингтоном и Гамильтоном.",
+        "action": "Ассоциация с блюдом помогает Максиму самому выбрать Веллингтон. Результат подтверждает его догадку.",
+        "payoff": "Идёт за ассоциацией с названием блюда и выбирает Веллингтон. Ведущий подтверждает 750 000 ₽."
+      },
+      "evidence": [
+        {
+          "source_ms": 5884370,
+          "observation": "Максим уверен, что знает столицу Новой Зеландии, но путается между Веллингтоном и Гамильтоном."
+        },
+        {
+          "source_ms": 6058850,
+          "observation": "Идёт за ассоциацией с названием блюда и выбирает Веллингтон. Ведущий подтверждает 750 000 ₽."
+        }
+      ],
+      "decision": "data/review/contest/editorial/09b.json"
+    },
+    {
+      "candidate_id": "10a",
+      "source_clip_id": "HQ_10a",
+      "catalog_status": "ready",
+      "catalog_title": "Рискнул 750 тысячами на финальном вопросе о двигателе",
+      "catalog_interval_ms": [
+        6134320,
+        6508260
+      ],
+      "source_index_status": "ready",
+      "status": "reserve",
+      "reason": "Максим решает рискнуть 750 000 ₽, выбирает двигатель и ошибается. Ведущий подтверждает несгораемую сумму после проигрыша.",
+      "roles": {
+        "hook": "Считает, что выгоднее забрать 750 000 ₽, но решает пойти на миллион в тестовом шоу.",
+        "action": "Максим решает рискнуть 750 000 ₽, выбирает двигатель и ошибается. Ведущий подтверждает несгораемую сумму после проигрыша.",
+        "payoff": "Выбирает роторный двигатель, табло показывает ошибку и дизельный ответ. Максим говорит, что расстроился из-за незнания, ведущий подтверждает несгораемые 300 000 ₽."
+      },
+      "evidence": [
+        {
+          "source_ms": 6176170,
+          "observation": "Считает, что выгоднее забрать 750 000 ₽, но решает пойти на миллион в тестовом шоу."
+        },
+        {
+          "source_ms": 6366417,
+          "observation": "Выбирает роторный двигатель, табло показывает ошибку и дизельный ответ. Максим говорит, что расстроился из-за незнания, ведущий подтверждает несгораемые 300 000 ₽."
+        }
+      ],
+      "decision": "data/review/contest/editorial/10a.json"
+    },
+    {
+      "candidate_id": "10b",
+      "source_clip_id": "HQ_10b",
+      "catalog_status": "ready",
+      "catalog_title": "Как сбалансировать вопросы, чтобы не пришлось угадывать",
+      "catalog_interval_ms": [
+        6518250,
+        6650240
+      ],
+      "source_index_status": "reserve",
+      "status": "reserve",
+      "reason": "Evelone объясняет, зачем давал игроку шанс вывести ответ логически. Объяснение привязано к прошедшей игре и остаётся без новой развязки.",
+      "roles": {
+        "hook": "После игры Максим говорит, что пересмотрел бы баланс вопросов.",
+        "action": "Evelone объясняет, зачем давал игроку шанс вывести ответ логически. Объяснение привязано к прошедшей игре и остаётся без новой развязки.",
+        "payoff": "Ведущий объясняет, что старался дать игроку шанс дойти логикой и избежать раунда, где всё решает случайность."
+      },
+      "evidence": [
+        {
+          "source_ms": 6523740,
+          "observation": "После игры Максим говорит, что пересмотрел бы баланс вопросов."
+        },
+        {
+          "source_ms": 6641780,
+          "observation": "Ведущий объясняет, что старался дать игроку шанс дойти логикой и избежать раунда, где всё решает случайность."
+        }
+      ],
+      "decision": "data/review/contest/editorial/10b.json"
+    },
+    {
+      "candidate_id": "10c",
+      "source_clip_id": "HQ_10c",
+      "catalog_status": "ready",
+      "catalog_title": "Почему не забрал приз и куда предложили отправить 300 000 ₽",
+      "catalog_interval_ms": [
+        6686540,
+        6802790
+      ],
+      "source_index_status": "ready",
+      "status": "ready",
+      "reason": "Evelone предлагает направить выигрыш на розыгрыш, задаёт понятный формат и получает согласие Максима.",
+      "roles": {
+        "hook": "Evelone предлагает разыграть 300 тысяч рублей.",
+        "action": "Evelone формулирует условие: десять победителей по 30 тысяч.",
+        "payoff": "Максим соглашается провести розыгрыш позже."
+      },
+      "evidence": [
+        {
+          "source_ms": 6781040,
+          "observation": "В разговоре звучит предложение разыграть 300 тысяч."
+        },
+        {
+          "source_ms": 6784080,
+          "observation": "Формат десяти призов по 30 тысяч."
+        },
+        {
+          "source_ms": 6786500,
+          "observation": "Максим соглашается, оговаривают, что розыгрыш будет позже."
+        }
+      ],
+      "decision": "data/review/contest/editorial/10c.json",
+      "clip_id": "PUB_10c",
+      "format": "dialogue",
+      "publication": {
+        "tiktok": {
+          "description": "Эвелон предлагает разыграть 300 000 ₽ среди десяти победителей. Максим согласен провести розыгрыш позже.\n\n#evelone twitch: evelone2004",
+          "date": null,
+          "account": null,
+          "url": null,
+          "organic_views": null,
+          "statistics": null
+        },
+        "youtube_shorts": {
+          "title": "Что Evelone предложил сделать с призом | #evelone twitch: evelone2004",
+          "date": null,
+          "account": null,
+          "url": null,
+          "organic_views": null,
+          "statistics": null
+        }
+      },
+      "files": {
+        "plan": "data/review/contest/clips/PUB_10c/edit_plan.json",
+        "draft": "data/review/contest/clips/PUB_10c/word_draft.json",
+        "edits": "data/review/contest/clips/PUB_10c/sol_edits.json",
+        "qa": "data/review/contest/clips/PUB_10c/qa.json",
+        "visual_review": "data/review/contest/clips/PUB_10c/visual_review.json",
+        "mp4": "data/review/mvp/2876630043/PUB_10c/PUB_10c.mp4",
+        "ass": "data/review/mvp/2876630043/PUB_10c/PUB_10c.ass",
+        "manifest": "data/review/mvp/2876630043/PUB_10c/manifest.json"
+      },
+      "source_segments_ms": [
+        [
+          6779040,
+          6786420
+        ],
+        [
+          6786420,
+          6790780
+        ]
+      ],
+      "planned_duration_ms": 11740,
+      "audio": {
+        "mode": "new_hq_cut_local_whisper",
+        "parent_mp4": "data/review/mvp/2876630043/HQ_10c/HQ_10c.mp4",
+        "offset_ms": 0,
+        "aac_payload_sha256": "c0bcabff0779c472e6b861e597b5896f646447dee3647936589d5dd2323ad4c5",
+        "decoded_pcm_sha256": "d4e8ffc7074efa3025fc2e94fad1f904d0be6a0b7fcb03a5be548034f99f4524"
+      },
+      "duration_s": 11.74
+    },
+    {
+      "candidate_id": "11a",
+      "source_clip_id": "HQ_11a",
+      "catalog_status": "ready",
+      "catalog_title": "Легендарная машина «Хозяев» — Копатыч",
+      "catalog_interval_ms": [
+        7104140,
+        7188420
+      ],
+      "source_index_status": "ready",
+      "status": "reserve",
+      "reason": "Илья вспоминает клички машин и выбирает Копатыча. Сравнение Evelone с законом Ома идёт после результата.",
+      "roles": {
+        "hook": "Первый вопрос Ильи о легендарной машине. Он сразу вспоминает историю каждой из похожих кличек.",
+        "action": "Илья вспоминает клички машин и выбирает Копатыча. Сравнение Evelone с законом Ома идёт после результата.",
+        "payoff": "Выбирает Копатыча. Ведущий отмечает, что Илья знает историю «Хозяев», и сравнивает вопрос с законом Ома у Максима."
+      },
+      "evidence": [
+        {
+          "source_ms": 7104140,
+          "observation": "Первый вопрос Ильи о легендарной машине. Он сразу вспоминает историю каждой из похожих кличек."
+        },
+        {
+          "source_ms": 7178917,
+          "observation": "Выбирает Копатыча. Ведущий отмечает, что Илья знает историю «Хозяев», и сравнивает вопрос с законом Ома у Максима."
+        }
+      ],
+      "decision": "data/review/contest/editorial/11a.json"
+    },
+    {
+      "candidate_id": "11b",
+      "source_clip_id": "HQ_11b",
+      "catalog_status": "ready",
+      "catalog_title": "Вопрос про доктора из One Piece",
+      "catalog_interval_ms": [
+        7230920,
+        7274990
+      ],
+      "source_index_status": "ready",
+      "status": "reserve",
+      "reason": "Илья узнаёт Чоппера до чтения вариантов и подтверждает свой выбор. Камера и вопрос ведут к его узнаванию.",
+      "roles": {
+        "hook": "По картинке предлагают узнать персонажа. Илья узнаёт Чоппера ещё до чтения всех вариантов.",
+        "action": "Илья узнаёт Чоппера до чтения вариантов и подтверждает свой выбор. Камера и вопрос ведут к его узнаванию.",
+        "payoff": "Тони Тони Чоппер оказывается верным, Илья говорит, что для него такой вопрос нельзя было провалить."
+      },
+      "evidence": [
+        {
+          "source_ms": 7230920,
+          "observation": "По картинке предлагают узнать персонажа. Илья узнаёт Чоппера ещё до чтения всех вариантов."
+        },
+        {
+          "source_ms": 7256183,
+          "observation": "Тони Тони Чоппер оказывается верным, Илья говорит, что для него такой вопрос нельзя было провалить."
+        }
+      ],
+      "decision": "data/review/contest/editorial/11b.json"
+    },
+    {
+      "candidate_id": "11c",
+      "source_clip_id": "HQ_11c",
+      "catalog_status": "ready",
+      "catalog_title": "Геофизика и попытка сбить со школьной программы",
+      "catalog_interval_ms": [
+        7282250,
+        7374690
+      ],
+      "source_index_status": "ready",
+      "status": "reserve",
+      "reason": "Evelone пробует поколебать уверенность игрока, но действие и развязка строятся на выборе Ильёй геофизики.",
+      "roles": {
+        "hook": "Илья рассуждает, что в школе не было геофизики. Ведущий пробует сбить его репликой про химию и изменения программы.",
+        "action": "Evelone пробует поколебать уверенность игрока, но действие и развязка строятся на выборе Ильёй геофизики.",
+        "payoff": "Выбирает геофизику и получает подтверждение, хотя перед ответом начал сомневаться."
+      },
+      "evidence": [
+        {
+          "source_ms": 7282250,
+          "observation": "Илья рассуждает, что в школе не было геофизики. Ведущий пробует сбить его репликой про химию и изменения программы."
+        },
+        {
+          "source_ms": 7367983,
+          "observation": "Выбирает геофизику и получает подтверждение, хотя перед ответом начал сомневаться."
+        }
+      ],
+      "decision": "data/review/contest/editorial/11c.json"
+    },
+    {
+      "candidate_id": "11d",
+      "source_clip_id": "HQ_11d",
+      "catalog_status": "ready",
+      "catalog_title": "Если не выиграешь, не летим на свадьбу",
+      "catalog_interval_ms": [
+        7376010,
+        7404870
+      ],
+      "source_index_status": "ready",
+      "status": "reserve",
+      "reason": "Evelone придумывает условие поездки на свадьбу, но Илья перехватывает шутку и закрывает диалог репликой про свадебный подарок.",
+      "roles": {
+        "hook": "Ведущий сообщает Илье условие, будто друзья не полетят на свадьбу, если он не выиграет.",
+        "action": "Evelone придумывает условие поездки на свадьбу, но Илья перехватывает шутку и закрывает диалог репликой про свадебный подарок.",
+        "payoff": "Илья переворачивает условие и спрашивает, получается ли, что приз и будет его подарком."
+      },
+      "evidence": [
+        {
+          "source_ms": 7388230,
+          "observation": "Ведущий сообщает Илье условие, будто друзья не полетят на свадьбу, если он не выиграет."
+        },
+        {
+          "source_ms": 7397710,
+          "observation": "Илья переворачивает условие и спрашивает, получается ли, что приз и будет его подарком."
+        }
+      ],
+      "decision": "data/review/contest/editorial/11d.json"
+    },
+    {
+      "candidate_id": "11e",
+      "source_clip_id": "HQ_11e",
+      "catalog_status": "ready",
+      "catalog_title": "Правило второй жизни исправили прямо в эфире",
+      "catalog_interval_ms": [
+        7405210,
+        7454120
+      ],
+      "source_index_status": "reserve",
+      "status": "reserve",
+      "reason": "Разработчик меняет механику, Evelone передаёт правило. В этом эпизоде его объяснение не приводит к самостоятельному игровому результату.",
+      "roles": {
+        "hook": "Разработчик передаёт новую механику. Ведущий говорит, что её уже поменяли для Ильи по ходу тестовой игры.",
+        "action": "Разработчик меняет механику, Evelone передаёт правило. В этом эпизоде его объяснение не приводит к самостоятельному игровому результату.",
+        "payoff": "Теперь подсказку надо включить заранее. После «как будто честно» звучит короткое «нет»."
+      },
+      "evidence": [
+        {
+          "source_ms": 7413860,
+          "observation": "Разработчик передаёт новую механику. Ведущий говорит, что её уже поменяли для Ильи по ходу тестовой игры."
+        },
+        {
+          "source_ms": 7443950,
+          "observation": "Теперь подсказку надо включить заранее. После «как будто честно» звучит короткое «нет»."
+        }
+      ],
+      "decision": "data/review/contest/editorial/11e.json"
+    },
+    {
+      "candidate_id": "11f",
+      "source_clip_id": "HQ_11f",
+      "catalog_status": "ready",
+      "catalog_title": "Не смотрел «Наруто», но знает главных героев",
+      "catalog_interval_ms": [
+        7463590,
+        7543870
+      ],
+      "source_index_status": "ready",
+      "status": "reserve",
+      "reason": "Илья называет Наруто и Саске, хотя не смотрел аниме, и получает 5 000 ₽. Реплика Evelone про смену лишь комментарий после ответа.",
+      "roles": {
+        "hook": "Вопрос о двух героях «Наруто». Илья говорит, что сам аниме не смотрел, но сразу называет Наруто и Саске.",
+        "action": "Илья называет Наруто и Саске, хотя не смотрел аниме, и получает 5 000 ₽. Реплика Evelone про смену лишь комментарий после ответа.",
+        "payoff": "Выбор подтверждается и на табло появляется 5 000 ₽, которые ведущий сравнивает с оплатой смены."
+      },
+      "evidence": [
+        {
+          "source_ms": 7463590,
+          "observation": "Вопрос о двух героях «Наруто». Илья говорит, что сам аниме не смотрел, но сразу называет Наруто и Саске."
+        },
+        {
+          "source_ms": 7532517,
+          "observation": "Выбор подтверждается и на табло появляется 5 000 ₽, которые ведущий сравнивает с оплатой смены."
+        }
+      ],
+      "decision": "data/review/contest/editorial/11f.json"
+    },
+    {
+      "candidate_id": "12a",
+      "source_clip_id": "HQ_12a",
+      "catalog_status": "ready",
+      "catalog_title": "Самый популярный ролик и подготовка перед викториной",
+      "catalog_interval_ms": [
+        7572830,
+        7625100
+      ],
+      "source_index_status": "ready",
+      "status": "reserve",
+      "reason": "Илья проверил свой канал, узнаёт ролик и сам называет просмотры. Табло подтверждает его результат.",
+      "roles": {
+        "hook": "Илья перед игрой проверял свой канал и сразу узнаёт вопрос о самом просматриваемом из предложенных роликов.",
+        "action": "Илья проверил свой канал, узнаёт ролик и сам называет просмотры. Табло подтверждает его результат.",
+        "payoff": "Зелёным становится «Кто больше встретит знаменитостей в Дубае», за который Илья называл около 17 млн просмотров. Выигрыш 10 000 ₽."
+      },
+      "evidence": [
+        {
+          "source_ms": 7580850,
+          "observation": "Илья перед игрой проверял свой канал и сразу узнаёт вопрос о самом просматриваемом из предложенных роликов."
+        },
+        {
+          "source_ms": 7623150,
+          "observation": "Зелёным становится «Кто больше встретит знаменитостей в Дубае», за который Илья называл около 17 млн просмотров. Выигрыш 10 000 ₽."
+        }
+      ],
+      "decision": "data/review/contest/editorial/12a.json"
+    },
+    {
+      "candidate_id": "12c",
+      "source_clip_id": "HQ_12c",
+      "catalog_status": "ready",
+      "catalog_title": "Лучшая косметика по опросу зрителей своего канала",
+      "catalog_interval_ms": [
+        7677120,
+        7773030
+      ],
+      "source_index_status": "ready",
+      "status": "reserve",
+      "reason": "Илья узнаёт собственный бренд среди вариантов и выигрывает. Комментарий Evelone про лёгкость вопроса не меняет дугу.",
+      "roles": {
+        "hook": "Вопрос о косметике на Wildberries опирается на опрос зрителей Ильи, а среди вариантов есть его собственный бренд.",
+        "action": "Илья узнаёт собственный бренд среди вариантов и выигрывает. Комментарий Evelone про лёгкость вопроса не меняет дугу.",
+        "payoff": "Выбирает бренд с собственным именем. Ведущий объясняет, что не хотел заканчивать игру быстро."
+      },
+      "evidence": [
+        {
+          "source_ms": 7677120,
+          "observation": "Вопрос о косметике на Wildberries опирается на опрос зрителей Ильи, а среди вариантов есть его собственный бренд."
+        },
+        {
+          "source_ms": 7768483,
+          "observation": "Выбирает бренд с собственным именем. Ведущий объясняет, что не хотел заканчивать игру быстро."
+        }
+      ],
+      "decision": "data/review/contest/editorial/12c.json"
+    },
+    {
+      "candidate_id": "12d",
+      "source_clip_id": "HQ_12d",
+      "catalog_status": "ready",
+      "catalog_title": "Второе имя Эксайла",
+      "catalog_interval_ms": [
+        7796890,
+        7913140
+      ],
+      "source_index_status": "ready",
+      "status": "reserve",
+      "reason": "Шутливый вопрос о втором имени и выбор «Пупуни» раскрывают Илью. Результат подтверждает его ответ.",
+      "roles": {
+        "hook": "Вопрос о втором имени Ильи сопровождают очевидно шуточные варианты и предложение позвонить другу.",
+        "action": "Шутливый вопрос о втором имени и выбор «Пупуни» раскрывают Илью. Результат подтверждает его ответ.",
+        "payoff": "Выбирает вариант «Пупуня», игра засчитывает его и показывает 25 000 ₽. Затем обсуждают необычно лёгкие вопросы Ильи."
+      },
+      "evidence": [
+        {
+          "source_ms": 7800000,
+          "observation": "Вопрос о втором имени Ильи сопровождают очевидно шуточные варианты и предложение позвонить другу."
+        },
+        {
+          "source_ms": 7885017,
+          "observation": "Выбирает вариант «Пупуня», игра засчитывает его и показывает 25 000 ₽. Затем обсуждают необычно лёгкие вопросы Ильи."
+        }
+      ],
+      "decision": "data/review/contest/editorial/12d.json"
+    },
+    {
+      "candidate_id": "12e",
+      "source_clip_id": "HQ_12e",
+      "catalog_status": "ready",
+      "catalog_title": "Вопрос о собственной женитьбе за 50 000 ₽",
+      "catalog_interval_ms": [
+        7925390,
+        8057950
+      ],
+      "source_index_status": "ready",
+      "status": "reserve",
+      "reason": "Вопрос про Каролину персонален для Ильи. Он распознаёт лёгкий вопрос и получает полтинник, а Evelone объясняет его простоту.",
+      "roles": {
+        "hook": "Илью спрашивают, кого он выбрал для женитьбы вместо DaBaby. Он предполагает, что ведущий просто хочет подарить ему миллион.",
+        "action": "Вопрос про Каролину персонален для Ильи. Он распознаёт лёгкий вопрос и получает полтинник, а Evelone объясняет его простоту.",
+        "payoff": "Выбирает Каролину. Ведущий признаёт, что не мог сделать этот вопрос сложным, и объявляет полтинник."
+      },
+      "evidence": [
+        {
+          "source_ms": 7932690,
+          "observation": "Илью спрашивают, кого он выбрал для женитьбы вместо DaBaby. Он предполагает, что ведущий просто хочет подарить ему миллион."
+        },
+        {
+          "source_ms": 8050017,
+          "observation": "Выбирает Каролину. Ведущий признаёт, что не мог сделать этот вопрос сложным, и объявляет полтинник."
+        }
+      ],
+      "decision": "data/review/contest/editorial/12e.json"
+    },
+    {
+      "candidate_id": "12f",
+      "source_clip_id": "HQ_12f",
+      "catalog_status": "ready",
+      "catalog_title": "Второй по просмотрам ролик на собственном канале",
+      "catalog_interval_ms": [
+        8157700,
+        8229590
+      ],
+      "source_index_status": "ready",
+      "status": "reserve",
+      "reason": "Илья сопоставляет просмотры и выбирает свой ролик. Подтверждение 100 000 ₽ завершает его рассуждение.",
+      "roles": {
+        "hook": "Илью спрашивают про второе по популярности видео. Он сравнивает просмотры конкретных роликов, включая свежий.",
+        "action": "Илья сопоставляет просмотры и выбирает свой ролик. Подтверждение 100 000 ₽ завершает его рассуждение.",
+        "payoff": "Выбирает «Угадай настоящего врача». Игра засчитывает ответ за 100 000 ₽, ведущий шутит о простоте вопросов."
+      },
+      "evidence": [
+        {
+          "source_ms": 8157700,
+          "observation": "Илью спрашивают про второе по популярности видео. Он сравнивает просмотры конкретных роликов, включая свежий."
+        },
+        {
+          "source_ms": 8216717,
+          "observation": "Выбирает «Угадай настоящего врача». Игра засчитывает ответ за 100 000 ₽, ведущий шутит о простоте вопросов."
+        }
+      ],
+      "decision": "data/review/contest/editorial/12f.json"
+    },
+    {
+      "candidate_id": "13a",
+      "source_clip_id": "HQ_13a",
+      "catalog_status": "ready",
+      "catalog_title": "BPM и татуировка с пятнадцати лет",
+      "catalog_interval_ms": [
+        8243810,
+        8340740
+      ],
+      "source_index_status": "ready",
+      "status": "reserve",
+      "reason": "Илья сам показывает татуировку, расшифровывает BPM и выбирает ответ. Реплика Evelone даёт короткий испуг, но не определяет результат.",
+      "roles": {
+        "hook": "Вопрос об аббревиатуре BPM попадает в тему, которую Илья знает по музыке и татуировке.",
+        "action": "Илья сам показывает татуировку, расшифровывает BPM и выбирает ответ. Реплика Evelone даёт короткий испуг, но не определяет результат.",
+        "payoff": "Выбирает Beats Per Minute и на секунду пугается реплики ведущего. Татуировка остаётся поводом для шуток."
+      },
+      "evidence": [
+        {
+          "source_ms": 8243810,
+          "observation": "Вопрос об аббревиатуре BPM попадает в тему, которую Илья знает по музыке и татуировке."
+        },
+        {
+          "source_ms": 8321650,
+          "observation": "Выбирает Beats Per Minute и на секунду пугается реплики ведущего. Татуировка остаётся поводом для шуток."
+        }
+      ],
+      "decision": "data/review/contest/editorial/13a.json"
+    },
+    {
+      "candidate_id": "13b",
+      "source_clip_id": "HQ_13b",
+      "catalog_status": "ready",
+      "catalog_title": "Кто написал Hunter × Hunter",
+      "catalog_interval_ms": [
+        8356420,
+        8422670
+      ],
+      "source_index_status": "ready",
+      "status": "reserve",
+      "reason": "Илья сопоставляет мангак с работами и выбирает Тогаси методом исключения. Ведущий после подтверждения комментирует сложность.",
+      "roles": {
+        "hook": "Илья видит список мангак и соотносит троих с One Piece, «Наруто» и «Атакой титанов».",
+        "action": "Илья сопоставляет мангак с работами и выбирает Тогаси методом исключения. Ведущий после подтверждения комментирует сложность.",
+        "payoff": "Методом исключения выбирает Ёсихиро Тогаси. Ведущий признаёт, что вопрос мог быть первым."
+      },
+      "evidence": [
+        {
+          "source_ms": 8356420,
+          "observation": "Илья видит список мангак и соотносит троих с One Piece, «Наруто» и «Атакой титанов»."
+        },
+        {
+          "source_ms": 8407783,
+          "observation": "Методом исключения выбирает Ёсихиро Тогаси. Ведущий признаёт, что вопрос мог быть первым."
+        }
+      ],
+      "decision": "data/review/contest/editorial/13b.json"
+    },
+    {
+      "candidate_id": "13c",
+      "source_clip_id": "HQ_13c",
+      "catalog_status": "ready",
+      "catalog_title": "Как зовут Marshmello",
+      "catalog_interval_ms": [
+        8422670,
+        8532850
+      ],
+      "source_index_status": "ready",
+      "status": "reserve",
+      "reason": "Илья узнаёт настоящее имя музыканта и отвечает быстрее, чем ожидает Evelone. Выигрыш закрывает историю знания игрока.",
+      "roles": {
+        "hook": "Среди нескольких имён предлагают узнать настоящее имя музыканта. Ведущий ожидает затруднения.",
+        "action": "Илья узнаёт настоящее имя музыканта и отвечает быстрее, чем ожидает Evelone. Выигрыш закрывает историю знания игрока.",
+        "payoff": "Илья быстро называет Кристофера Комстока. Ведущий снова шутит, что вопросы специально упростили."
+      },
+      "evidence": [
+        {
+          "source_ms": 8459500,
+          "observation": "Среди нескольких имён предлагают узнать настоящее имя музыканта. Ведущий ожидает затруднения."
+        },
+        {
+          "source_ms": 8502017,
+          "observation": "Илья быстро называет Кристофера Комстока. Ведущий снова шутит, что вопросы специально упростили."
+        }
+      ],
+      "decision": "data/review/contest/editorial/13c.json"
+    },
+    {
+      "candidate_id": "14a",
+      "source_clip_id": "HQ_14a",
+      "catalog_status": "ready",
+      "catalog_title": "Что появилось раньше — Google или Mozilla Firefox",
+      "catalog_interval_ms": [
+        8540500,
+        8919530
+      ],
+      "source_index_status": "ready",
+      "status": "reserve",
+      "reason": "Илья рассуждает о браузерах, берёт 50/50 и выбирает Firefox. Спор чата о корректности и оговорка ведущего добавляют неоднозначность.",
+      "roles": {
+        "hook": "Впервые сложный для Ильи вопрос заставляет спорить о браузере и поисковике. Он боится, что 50/50 оставит именно два спорных варианта.",
+        "action": "Илья рассуждает о браузерах, берёт 50/50 и выбирает Firefox. Спор чата о корректности и оговорка ведущего добавляют неоднозначность.",
+        "payoff": "50/50 оставляет Firefox и Instagram. Илья выбирает Firefox, который игра отмечает зелёным за 400 000 ₽. Позднее в чате оспаривают ответ, ведущий оговаривает, что он засчитан в рамках шоу."
+      },
+      "evidence": [
+        {
+          "source_ms": 8540500,
+          "observation": "Впервые сложный для Ильи вопрос заставляет спорить о браузере и поисковике. Он боится, что 50/50 оставит именно два спорных варианта."
+        },
+        {
+          "source_ms": 8907617,
+          "observation": "50/50 оставляет Firefox и Instagram. Илья выбирает Firefox, который игра отмечает зелёным за 400 000 ₽. Позднее в чате оспаривают ответ, ведущий оговаривает, что он засчитан в рамках шоу."
+        }
+      ],
+      "decision": "data/review/contest/editorial/14a.json"
+    },
+    {
+      "candidate_id": "13d",
+      "source_clip_id": "HQ_13d",
+      "catalog_status": "ready",
+      "catalog_title": "Узнал, что подсказку на миллион не сберечь",
+      "catalog_interval_ms": [
+        8558250,
+        8701210
+      ],
+      "source_index_status": "reserve",
+      "status": "reserve",
+      "reason": "Ведущий уточняет, что подсказка недоступна только в финале. В пределах этого эпизода её применение и последствия отсутствуют.",
+      "roles": {
+        "hook": "Илья пытается рассчитать, как сохранить вторую жизнь для вопроса на миллион.",
+        "action": "Ведущий уточняет, что подсказка недоступна только в финале. В пределах этого эпизода её применение и последствия отсутствуют.",
+        "payoff": "В ходе теста ведущий получает уточнение и сообщает, что подсказки разрешены на любом вопросе, кроме финального."
+      },
+      "evidence": [
+        {
+          "source_ms": 8564360,
+          "observation": "Илья пытается рассчитать, как сохранить вторую жизнь для вопроса на миллион."
+        },
+        {
+          "source_ms": 8688110,
+          "observation": "В ходе теста ведущий получает уточнение и сообщает, что подсказки разрешены на любом вопросе, кроме финального."
+        }
+      ],
+      "decision": "data/review/contest/editorial/13d.json"
+    },
+    {
+      "candidate_id": "14b",
+      "source_clip_id": "HQ_14b",
+      "catalog_status": "ready",
+      "catalog_title": "Министр одиночества и голосование чата",
+      "catalog_interval_ms": [
+        8933490,
+        9194450
+      ],
+      "source_index_status": "ready",
+      "status": "reserve",
+      "reason": "Решение принимает Илья после совета чата. Ведущий озвучивает голоса, а сюжет опирается на вопрос о назначении министра.",
+      "roles": {
+        "hook": "Вопрос на 500 000 ₽ о том, какого министра впервые назначили в Японии в феврале 2021 года. Илья склоняется к одиночеству и берёт помощь зала.",
+        "action": "Решение принимает Илья после совета чата. Ведущий озвучивает голоса, а сюжет опирается на вопрос о назначении министра.",
+        "payoff": "По словам ведущего, чат с большим перевесом голосует за одиночество. Выбор засчитывают, объявляют полмиллиона."
+      },
+      "evidence": [
+        {
+          "source_ms": 8933490,
+          "observation": "Вопрос на 500 000 ₽ о том, какого министра впервые назначили в Японии в феврале 2021 года. Илья склоняется к одиночеству и берёт помощь зала."
+        },
+        {
+          "source_ms": 9188017,
+          "observation": "По словам ведущего, чат с большим перевесом голосует за одиночество. Выбор засчитывают, объявляют полмиллиона."
+        }
+      ],
+      "decision": "data/review/contest/editorial/14b.json"
+    },
+    {
+      "candidate_id": "15a",
+      "source_clip_id": "HQ_15a",
+      "catalog_status": "ready",
+      "catalog_title": "Яунде после серии звонков друзьям",
+      "catalog_interval_ms": [
+        9228430,
+        9598280
+      ],
+      "source_index_status": "ready",
+      "status": "reserve",
+      "reason": "Илья (Exile) ищет подсказку, отвечает и получает 750 000 ₽. Эвелон ведёт раунд и озвучивает результат Ильи.",
+      "roles": {
+        "hook": "Эвелон открывает вопрос о столице Камеруна",
+        "action": "Илья звонит друзьям и выбирает Яунде",
+        "payoff": "Правильный ответ и выигрыш Ильи"
+      },
+      "evidence": [
+        {
+          "source_ms": 9230550,
+          "observation": "Вопрос о столице Камеруна."
+        },
+        {
+          "source_ms": 9465983,
+          "observation": "При звонке на экране четыре варианта, включая «Яунде». Интерфейс звонка не выведен."
+        },
+        {
+          "source_ms": 9591383,
+          "observation": "B «Яунде» зелёный, выигрыш 750 000 ₽; Илья аплодирует."
+        },
+        {
+          "source_ms": 9228430,
+          "observation": "Каталог по репликам фиксирует, что друзьям звонит Илья."
+        },
+        {
+          "source_ms": 9591383,
+          "observation": "Проверено в HQ. Участник слева подписан Exile и аплодирует на зелёном ответе, Evelone справа."
+        }
+      ],
+      "decision": "data/review/contest/editorial/15a.json"
+    },
+    {
+      "candidate_id": "15b",
+      "source_clip_id": "HQ_15b",
+      "catalog_status": "ready",
+      "catalog_title": "Дата полёта на «Матизе» в вопросе на миллион",
+      "catalog_interval_ms": [
+        9590360,
+        10313430
+      ],
+      "source_index_status": "ready",
+      "status": "reserve",
+      "reason": "Это вопрос об эпизоде Ильи. Илья выбирает ответ и проигрывает раунд, Эвелон читает вопрос и объявляет исход.",
+      "roles": {
+        "hook": "Эвелон открывает вопрос о дате полёта на Матизе",
+        "action": "Илья вспоминает обстоятельства и выбирает дату",
+        "payoff": "Ответ Ильи красный, Эвелон объявляет результат"
+      },
+      "evidence": [
+        {
+          "source_ms": 9724883,
+          "observation": "Вопрос о дате полёта на «Матизе», Илья реагирует на открытие вопроса."
+        },
+        {
+          "source_ms": 10136317,
+          "observation": "Красный выбор «12 июня 2022», зелёный «27 июня 2022». Илья держится за голову."
+        },
+        {
+          "source_ms": 10305183,
+          "observation": "На экране ещё итог вопроса и 0 ₽. Несгораемая сумма 300 000 ₽ звучит устно."
+        },
+        {
+          "source_ms": 10135150,
+          "observation": "В монтажном черновике результат адресован участнику по имени: «Илюх, это неверно»."
+        },
+        {
+          "source_ms": 10136317,
+          "observation": "Проверено в HQ. Exile слева хватается за голову, Evelone справа улыбается, табло показывает 0 ₽."
+        }
+      ],
+      "decision": "data/review/contest/editorial/15b.json"
+    },
+    {
+      "candidate_id": "16a",
+      "source_clip_id": "HQ_16a",
+      "catalog_status": "ready",
+      "catalog_title": "После игры позвонил очевидцу полёта на «Матизе»",
+      "catalog_interval_ms": [
+        10516720,
+        10667810
+      ],
+      "source_index_status": "ready",
+      "status": "reserve",
+      "reason": "Разговор продолжает 15b и повторяет его исход. Новая дата или самостоятельная история очевидца в монтажном черновике не раскрывается.",
+      "roles": {
+        "hook": "Эвелон возвращается к вопросу о «Матизе»",
+        "action": "Спрашивает очевидца после игры",
+        "payoff": "Подтверждает, что сам ответил неверно"
+      },
+      "evidence": [
+        {
+          "source_ms": 10569770,
+          "observation": "На табло остался вопрос про Матиз; Илья обращается к Сане."
+        },
+        {
+          "source_ms": 10637610,
+          "observation": "Тот же красный ответ остаётся на табло, Илья реагирует на ответ Сани."
+        }
+      ],
+      "decision": "data/review/contest/editorial/16a.json"
+    },
+    {
+      "candidate_id": "16b",
+      "source_clip_id": "HQ_16b",
+      "catalog_status": "ready",
+      "catalog_title": "Почему ранний вылет в стриме нельзя переснять",
+      "catalog_interval_ms": [
+        10722640,
+        10783960
+      ],
+      "source_index_status": "ready",
+      "status": "reserve",
+      "reason": "Сохранённая речь обрывается на открытом «ну как будет это вообще». Здесь обсуждение возможного сценария без конкретного исхода.",
+      "roles": {
+        "hook": "Как сбалансировать вопросы викторины",
+        "action": "Эвелон сравнивает запись и прямой эфир",
+        "payoff": "Объясняет, почему участника нельзя провести через вопросы заново"
+      },
+      "evidence": [
+        {
+          "source_ms": 10737300,
+          "observation": "Окно ведущего слева на чёрном фоне."
+        },
+        {
+          "source_ms": 10773580,
+          "observation": "Ведущий продолжает сравнение в том же окне."
+        }
+      ],
+      "decision": "data/review/contest/editorial/16b.json"
+    },
+    {
+      "candidate_id": "17a",
+      "source_clip_id": "HQ_17a",
+      "catalog_status": "ready",
+      "catalog_title": "Когда после стрима обычно чего-то не хватает",
+      "catalog_interval_ms": [
+        10896040,
+        10930830
+      ],
+      "source_index_status": "ready",
+      "status": "reserve",
+      "reason": "Без предыдущего разговора непонятно, какой стрим и какой пилот сравнивают. Держится на оценке прежних выпусков.",
+      "roles": {
+        "hook": "Странное послевкусие после стрима",
+        "action": "Эвелон сравнивает эфир с пилотом",
+        "payoff": "Называет слишком простые вопросы"
+      },
+      "evidence": [
+        {
+          "source_ms": 10896040,
+          "observation": "Ведущий отвечает чату из окна камеры слева."
+        },
+        {
+          "source_ms": 10922750,
+          "observation": "Ведущий объясняет, чем этот пилот отличается."
+        }
+      ],
+      "decision": "data/review/contest/editorial/17a.json"
+    },
+    {
+      "candidate_id": "17b",
+      "source_clip_id": "HQ_17b",
+      "catalog_status": "ready",
+      "catalog_title": "Почему пока откладывает зелёную площадку",
+      "catalog_interval_ms": [
+        11105730,
+        11151790
+      ],
+      "source_index_status": "ready",
+      "status": "reserve",
+      "reason": "Основное содержание и мотивация связаны с азартными играми.",
+      "roles": {
+        "hook": "Хочет попробовать другую площадку",
+        "action": "Говорит об азарте и слотах",
+        "payoff": "Откладывает запуск до возвращения в режим"
+      },
+      "evidence": [
+        {
+          "source_ms": 11108720,
+          "observation": "Ведущий говорит с чатом."
+        },
+        {
+          "source_ms": 11127880,
+          "observation": "Ведущий жестом подчёркивает своё условие."
+        }
+      ],
+      "decision": "data/review/contest/editorial/17b.json"
+    },
+    {
+      "candidate_id": "17c",
+      "source_clip_id": "HQ_17c",
+      "catalog_status": "ready",
+      "catalog_title": "Чего ему не хватало без стримов",
+      "catalog_interval_ms": [
+        11191270,
+        11219350
+      ],
+      "source_index_status": "ready",
+      "status": "ready",
+      "reason": "Эвелон рассказывает, как ловил себя на желании спросить мнение чата даже вне эфира.",
+      "roles": {
+        "hook": "Спрашивает, чего не хватает без стримов",
+        "action": "Описывает привычку мысленно обращаться к чату",
+        "payoff": "Вне эфира вопрос так и остаётся незаданным"
+      },
+      "evidence": [
+        {
+          "source_ms": 11203030,
+          "observation": "Ведущий наклоняется к микрофону."
+        },
+        {
+          "source_ms": 11214270,
+          "observation": "Камера остаётся на ведущем, ответ звучит целиком."
+        }
+      ],
+      "decision": "data/review/contest/editorial/17c.json",
+      "clip_id": "PUB_17c",
+      "format": "solo",
+      "publication": {
+        "tiktok": {
+          "description": "Эвелон рассказывает, как ловил себя на желании спросить мнение чата даже вне эфира.\n\n#evelone twitch: evelone2004",
+          "date": null,
+          "account": null,
+          "url": null,
+          "organic_views": null,
+          "statistics": null
+        },
+        "youtube_shorts": {
+          "title": "Чего Эвелону не хватало без стримов | #evelone twitch: evelone2004",
+          "date": null,
+          "account": null,
+          "url": null,
+          "organic_views": null,
+          "statistics": null
+        }
+      },
+      "files": {
+        "plan": "data/review/contest/clips/PUB_17c/edit_plan.json",
+        "draft": "data/review/contest/clips/PUB_17c/word_draft.json",
+        "edits": "data/review/contest/clips/PUB_17c/sol_edits.json",
+        "qa": "data/review/contest/clips/PUB_17c/qa.json",
+        "visual_review": "data/review/contest/clips/PUB_17c/visual_review.json",
+        "mp4": "data/review/mvp/2876630043/PUB_17c/PUB_17c.mp4",
+        "ass": "data/review/mvp/2876630043/PUB_17c/PUB_17c.ass",
+        "manifest": "data/review/mvp/2876630043/PUB_17c/manifest.json"
+      },
+      "source_segments_ms": [
+        [
+          11203000,
+          11204340
+        ],
+        [
+          11204340,
+          11208200
+        ],
+        [
+          11208200,
+          11219350
+        ]
+      ],
+      "planned_duration_ms": 16350,
+      "audio": {
+        "mode": "saved_hq_track",
+        "parent_mp4": "data/review/mvp/2876630043/HQ_17c/HQ_17c.mp4",
+        "offset_ms": 0,
+        "aac_payload_sha256": "c65303a31711c2c34ab01247c6073de484babfacfb08f512b5ca94c38f94982a",
+        "decoded_pcm_sha256": "556268fe9412a3bf7e57824d9bfa3a429a26a070d2658c83f8125af22b7c30f0",
+        "verified_identical_to_parent": true,
+        "muxed_saved_track": true
+      },
+      "duration_s": 16.366667
+    },
+    {
+      "candidate_id": "17e",
+      "source_clip_id": "HQ_17e",
+      "catalog_status": "ready",
+      "catalog_title": "Не смог выбрать цвет и заказал все три",
+      "catalog_interval_ms": [
+        11406580,
+        11509720
+      ],
+      "source_index_status": "ready",
+      "status": "ready",
+      "reason": "Эвелон рассказывает, что сомневался в оттенке нового телефона и решил заказать все три цвета.",
+      "roles": {
+        "hook": "Уже заказал новый телефон, но не смог определиться с цветом",
+        "action": "Сравнивает, как на деле может выглядеть красный или бордовый",
+        "payoff": "Признаётся, что заказал все три"
+      },
+      "evidence": [
+        {
+          "source_ms": 11429983,
+          "observation": "Стример держит белый телефон перед камерой, в фоне открыт ролик о складном телефоне."
+        },
+        {
+          "source_ms": 11479717,
+          "observation": "В момент признания об уже заказанных цветах в браузере открыт ролик и окно Spotify. Подтверждение заказа на экране не показано."
+        }
+      ],
+      "decision": "data/review/contest/editorial/17e.json",
+      "clip_id": "PUB_17e",
+      "format": "solo",
+      "publication": {
+        "tiktok": {
+          "description": "Эвелон рассказывает, что сомневался в оттенке нового телефона и решил заказать все три цвета.\n\n#evelone twitch: evelone2004",
+          "date": null,
+          "account": null,
+          "url": null,
+          "organic_views": null,
+          "statistics": null
+        },
+        "youtube_shorts": {
+          "title": "Эвелон заказал телефон во всех трёх цветах | #evelone twitch: evelone2004",
+          "date": null,
+          "account": null,
+          "url": null,
+          "organic_views": null,
+          "statistics": null
+        }
+      },
+      "files": {
+        "plan": "data/review/contest/clips/PUB_17e/edit_plan.json",
+        "draft": "data/review/contest/clips/PUB_17e/word_draft.json",
+        "edits": "data/review/contest/clips/PUB_17e/sol_edits.json",
+        "qa": "data/review/contest/clips/PUB_17e/qa.json",
+        "visual_review": "data/review/contest/clips/PUB_17e/visual_review.json",
+        "mp4": "data/review/mvp/2876630043/PUB_17e/PUB_17e.mp4",
+        "ass": "data/review/mvp/2876630043/PUB_17e/PUB_17e.ass",
+        "manifest": "data/review/mvp/2876630043/PUB_17e/manifest.json"
+      },
+      "source_segments_ms": [
+        [
+          11465430,
+          11469800
+        ],
+        [
+          11473910,
+          11479670
+        ],
+        [
+          11482380,
+          11484120
+        ]
+      ],
+      "planned_duration_ms": 11870,
+      "audio": {
+        "mode": "new_hq_cut_local_whisper",
+        "parent_mp4": "data/review/mvp/2876630043/HQ_17e/HQ_17e.mp4",
+        "offset_ms": 0,
+        "aac_payload_sha256": "da01b816be8887171e81eb765832a1c7329d0f2d5fe9da63a69d54df12739d08",
+        "decoded_pcm_sha256": "efaea4428393c1611d65ca2f7c8f02a0b9fd41d2cfe8793599b073e26c5895e2"
+      },
+      "duration_s": 11.87
+    },
+    {
+      "candidate_id": "18a",
+      "source_clip_id": "HQ_18a",
+      "catalog_status": "ready",
+      "catalog_title": "«Дешёвый» подарок — часы с ремешком Hermès",
+      "catalog_interval_ms": [
+        11512480,
+        11617680
+      ],
+      "source_index_status": "ready",
+      "status": "reserve",
+      "reason": "Клип держится на ценовом контрасте и карточке товара. Сумма в кадре не читается, личное действие кроме просмотра не показано.",
+      "roles": {
+        "hook": "Обещает показать недорогой подарок",
+        "action": "Листает карточку Apple Watch Hermès",
+        "payoff": "Называет стартовую сумму"
+      },
+      "evidence": [
+        {
+          "source_ms": 11536317,
+          "observation": "В браузере страница Apple Watch Hermès с крупным фото часов."
+        },
+        {
+          "source_ms": 11549250,
+          "observation": "Показывает крупные изображения серебристого ремешка Hermès."
+        },
+        {
+          "source_ms": 11606083,
+          "observation": "Открыта карточка Apple Watch Hermès Series 12. Уверенно прочитать выбранную сумму в кадре не удалось."
+        }
+      ],
+      "decision": "data/review/contest/editorial/18a.json"
+    },
+    {
+      "candidate_id": "18b",
+      "source_clip_id": "HQ_18b",
+      "catalog_status": "ready",
+      "catalog_title": "Телефон по цене игрового ПК",
+      "catalog_interval_ms": [
+        11692360,
+        11813720
+      ],
+      "source_index_status": "ready",
+      "status": "reserve",
+      "reason": "Вся мысль умещается в сравнении цен на одном кадре. Покупки, сборки или отдельного результата нет.",
+      "roles": {
+        "hook": "Реагирует на цену складного телефона",
+        "action": "Сравнивает сумму с бюджетом игрового компьютера",
+        "payoff": "Говорит, что за эти деньги можно собрать ПК"
+      },
+      "evidence": [
+        {
+          "source_ms": 11714783,
+          "observation": "Страница о складном телефоне, виден блок про аккумулятор."
+        },
+        {
+          "source_ms": 11784250,
+          "observation": "На экране макет складного телефона и варианты объёма памяти, включая 2 ТБ. Сумма около 3 200 долларов и сравнение с ПК звучат в реплике."
+        }
+      ],
+      "decision": "data/review/contest/editorial/18b.json"
+    },
+    {
+      "candidate_id": "18d",
+      "source_clip_id": "HQ_18d",
+      "catalog_status": "ready",
+      "catalog_title": "Стал бы ты пропускать скучное время",
+      "catalog_interval_ms": [
+        11898660,
+        11976220
+      ],
+      "source_index_status": "ready",
+      "status": "ready",
+      "reason": "Что будет, если пропускать работу и школу, а сон оставить? Эвелон прикидывает, сколько часов останется.",
+      "roles": {
+        "hook": "Что если можно было бы пропускать скучное время?",
+        "action": "Предлагает вычесть работу или школу и сон",
+        "payoff": "Приходит к выводу, что на жизнь осталось бы около пяти часов"
+      },
+      "evidence": [
+        {
+          "source_ms": 11907550,
+          "observation": "Камера ведущего в верхнем левом углу браузера."
+        },
+        {
+          "source_ms": 11966940,
+          "observation": "Верхнее окно остаётся на ведущем, который перечисляет потерянное время."
+        }
+      ],
+      "decision": "data/review/contest/editorial/18d.json",
+      "clip_id": "PUB_18d",
+      "format": "solo",
+      "publication": {
+        "tiktok": {
+          "description": "Что будет, если пропускать работу и школу, а сон оставить? Эвелон прикидывает, сколько часов останется.\n\n#evelone twitch: evelone2004",
+          "date": null,
+          "account": null,
+          "url": null,
+          "organic_views": null,
+          "statistics": null
+        },
+        "youtube_shorts": {
+          "title": "Эвелон посчитал, сколько жизни осталось бы с кнопкой перемотки | #evelone twitch: evelone2004",
+          "date": null,
+          "account": null,
+          "url": null,
+          "organic_views": null,
+          "statistics": null
+        }
+      },
+      "files": {
+        "plan": "data/review/contest/clips/PUB_18d/edit_plan.json",
+        "draft": "data/review/contest/clips/PUB_18d/word_draft.json",
+        "edits": "data/review/contest/clips/PUB_18d/sol_edits.json",
+        "qa": "data/review/contest/clips/PUB_18d/qa.json",
+        "visual_review": "data/review/contest/clips/PUB_18d/visual_review.json",
+        "mp4": "data/review/mvp/2876630043/PUB_18d/PUB_18d.mp4",
+        "ass": "data/review/mvp/2876630043/PUB_18d/PUB_18d.ass",
+        "manifest": "data/review/mvp/2876630043/PUB_18d/manifest.json"
+      },
+      "source_segments_ms": [
+        [
+          11907490,
+          11913350
+        ],
+        [
+          11936590,
+          11941030
+        ],
+        [
+          11960100,
+          11972980
+        ]
+      ],
+      "planned_duration_ms": 23180,
+      "audio": {
+        "mode": "saved_hq_track",
+        "parent_mp4": "data/review/mvp/2876630043/HQ_18d/HQ_18d.mp4",
+        "offset_ms": 0,
+        "aac_payload_sha256": "a978bcf0648964265ac38015e508a3ef88eb411c8c077eb337f123786b430cba",
+        "decoded_pcm_sha256": "95dcb2dc1ae5004ec7b7d5ae2ea3a57f5281b8cb7e5ca18dec19af09240c292e",
+        "verified_identical_to_parent": true,
+        "muxed_saved_track": false
+      },
+      "duration_s": 23.18
+    },
+    {
+      "candidate_id": "18e",
+      "source_clip_id": "HQ_18e",
+      "catalog_status": "ready",
+      "catalog_title": "Чат помог настроить таунт, и герой танцует под трек",
+      "catalog_interval_ms": [
+        11977070,
+        12195200
+      ],
+      "source_index_status": "ready",
+      "status": "ready",
+      "reason": "Эвелон сам запускает эмоцию в деморежиме Dota. Видимый результат — анимация героя и реакция Эвелона.",
+      "roles": {
+        "hook": "Эвелон пытается понять, как включить эмоцию",
+        "action": "Настраивает действие Taunt Item в своей Dota",
+        "payoff": "Герой танцует в деморежиме, Эвелон реагирует"
+      },
+      "evidence": [
+        {
+          "source_ms": 11989350,
+          "observation": "Открыты страница аксессуара и Spotify; ведущий вспоминает трек."
+        },
+        {
+          "source_ms": 12102983,
+          "observation": "Открыты горячие клавиши Dota, в списке есть действие Taunt Item."
+        },
+        {
+          "source_ms": 12169917,
+          "observation": "В деморежиме Dota герой поднимает посох."
+        },
+        {
+          "source_ms": 12171317,
+          "observation": "Герой разводит руки, меняется поза и направление посоха."
+        },
+        {
+          "source_ms": 12172050,
+          "observation": "На том же герое видны частицы и следующая поза анимации."
+        },
+        {
+          "source_ms": 12179400,
+          "observation": "Проверено в HQ. Dota остаётся на экране, в верхней левой камере Эвелон реагирует. Окна Spotify или стороннего видео в кадре нет."
+        }
+      ],
+      "decision": "data/review/contest/editorial/18e.json",
+      "clip_id": "PUB_18e",
+      "format": "game",
+      "publication": {
+        "tiktok": {
+          "description": "Эвелон разбирается, как включить эмоцию в Dota, и показывает танец героя в деморежиме.\n\n#evelone twitch: evelone2004",
+          "date": null,
+          "account": null,
+          "url": null,
+          "organic_views": null,
+          "statistics": null
+        },
+        "youtube_shorts": {
+          "title": "Эвелон нашёл танец героя в Dota | #evelone twitch: evelone2004",
+          "date": null,
+          "account": null,
+          "url": null,
+          "organic_views": null,
+          "statistics": null
+        }
+      },
+      "files": {
+        "plan": "data/review/contest/clips/PUB_18e/edit_plan.json",
+        "draft": "data/review/contest/clips/PUB_18e/word_draft.json",
+        "edits": "data/review/contest/clips/PUB_18e/sol_edits.json",
+        "qa": "data/review/contest/clips/PUB_18e/qa.json",
+        "visual_review": "data/review/contest/clips/PUB_18e/visual_review.json",
+        "mp4": "data/review/mvp/2876630043/PUB_18e/PUB_18e.mp4",
+        "ass": "data/review/mvp/2876630043/PUB_18e/PUB_18e.ass",
+        "manifest": "data/review/mvp/2876630043/PUB_18e/manifest.json"
+      },
+      "source_segments_ms": [
+        [
+          11989350,
+          11992100
+        ],
+        [
+          12169020,
+          12174980
+        ]
+      ],
+      "planned_duration_ms": 8710,
+      "audio": {
+        "mode": "new_hq_cut_local_whisper",
+        "parent_mp4": "data/review/mvp/2876630043/HQ_18e/HQ_18e.mp4",
+        "offset_ms": 0,
+        "aac_payload_sha256": "a7fb6b7944dc421bad6449184917abcae73c57ba1548b57ac62d80ee0607b2e0",
+        "decoded_pcm_sha256": "6910dadb4f36bfb7272caf7d7395efca559a81d31fa011af1423358628af645e"
+      },
+      "duration_s": 8.71,
+      "before_publication": [
+        "Check provenance of any background music in the original audio and applicable /rules."
+      ]
+    },
+    {
+      "candidate_id": "19a",
+      "source_clip_id": "HQ_19a",
+      "catalog_status": "ready",
+      "catalog_title": "Включается другой TikTok — решение с целым браузером",
+      "catalog_interval_ms": [
+        12420300,
+        12545850
+      ],
+      "source_index_status": "ready",
+      "status": "reserve",
+      "reason": "Технический результат виден только в браузере с чужим видео. В камере остаётся несколько коротких реплик.",
+      "roles": {
+        "hook": "Вместо выбранного TikTok открывается другой",
+        "action": "Пробует захватить целый браузер",
+        "payoff": "На экране начинает отображаться другой клип"
+      },
+      "evidence": [
+        {
+          "source_ms": 12432550,
+          "observation": "В окне TikTok виден вертикальный ролик с человеком у оранжевой машины в момент реплики о другом ролике."
+        },
+        {
+          "source_ms": 12475083,
+          "observation": "На фоне видна целиком страница браузера Twitch, а не отдельное старое окно."
+        },
+        {
+          "source_ms": 12532383,
+          "observation": "После объявления, что получилось, в захвате браузера виден вертикальный клип с Dota."
+        }
+      ],
+      "decision": "data/review/contest/editorial/19a.json"
+    },
+    {
+      "candidate_id": "19e",
+      "source_clip_id": "HQ_19e",
+      "catalog_status": "ready",
+      "catalog_title": "Заказал сладости, получил набор для шашлыков",
+      "catalog_interval_ms": [
+        12905100,
+        12942640
+      ],
+      "source_index_status": "ready",
+      "status": "ready",
+      "reason": "Вместо сладостей и молока Эвелону привезли мясо, овощи и уголь. Он сразу придумал, что с этим делать.",
+      "roles": {
+        "hook": "Эвелон говорит, что однажды ему перепутали заказ",
+        "action": "Перечисляет, что заказывал и что привезли",
+        "payoff": "Решает, что теперь можно пожарить шашлык"
+      },
+      "evidence": [
+        {
+          "source_ms": 12913683,
+          "observation": "В вертикальном ролике виден курьер и подпись «я на курьеров никогда не пизжу». Историю о шашлыках ведущий рассказывает голосом."
+        },
+        {
+          "source_ms": 12913683,
+          "observation": "Ведущий смотрит ролик о курьере."
+        },
+        {
+          "source_ms": 12928970,
+          "observation": "Ведущий переводит обсуждение в личную шутку о шашлыках."
+        }
+      ],
+      "decision": "data/review/contest/editorial/19e.json",
+      "clip_id": "PUB_19e",
+      "format": "solo",
+      "publication": {
+        "tiktok": {
+          "description": "Вместо сладостей и молока Эвелону привезли мясо, овощи и уголь. Он сразу придумал, что с этим делать.\n\n#evelone twitch: evelone2004",
+          "date": null,
+          "account": null,
+          "url": null,
+          "organic_views": null,
+          "statistics": null
+        },
+        "youtube_shorts": {
+          "title": "Эвелон заказал сладости, а получил набор для шашлыка | #evelone twitch: evelone2004",
+          "date": null,
+          "account": null,
+          "url": null,
+          "organic_views": null,
+          "statistics": null
+        }
+      },
+      "files": {
+        "plan": "data/review/contest/clips/PUB_19e/edit_plan.json",
+        "draft": "data/review/contest/clips/PUB_19e/word_draft.json",
+        "edits": "data/review/contest/clips/PUB_19e/sol_edits.json",
+        "qa": "data/review/contest/clips/PUB_19e/qa.json",
+        "visual_review": "data/review/contest/clips/PUB_19e/visual_review.json",
+        "mp4": "data/review/mvp/2876630043/PUB_19e/PUB_19e.mp4",
+        "ass": "data/review/mvp/2876630043/PUB_19e/PUB_19e.ass",
+        "manifest": "data/review/mvp/2876630043/PUB_19e/manifest.json"
+      },
+      "source_segments_ms": [
+        [
+          12917010,
+          12923830
+        ],
+        [
+          12923830,
+          12934100
+        ]
+      ],
+      "planned_duration_ms": 17090,
+      "audio": {
+        "mode": "saved_hq_track",
+        "parent_mp4": "data/review/mvp/2876630043/HQ_19e/HQ_19e.mp4",
+        "offset_ms": 0,
+        "aac_payload_sha256": "a5df5d42e17cf4435330f1d20c9495f4255f0de5b56618cd988fc41c63a2430e",
+        "decoded_pcm_sha256": "ac6327fdc218bcc1896e6b57f87e22e549e8782accb78ebc4ed859a7ed445e5f",
+        "verified_identical_to_parent": true,
+        "muxed_saved_track": true
+      },
+      "duration_s": 17.1
+    },
+    {
+      "candidate_id": "19f",
+      "source_clip_id": "HQ_19f",
+      "catalog_status": "ready",
+      "catalog_title": "«Продолжаю не исполнять» и мечта видеть без очков",
+      "catalog_interval_ms": [
+        12943480,
+        13009020
+      ],
+      "source_index_status": "ready",
+      "status": "reserve",
+      "reason": "Мечта принадлежит герою TikTok, а шутка зависит от его картинки.",
+      "roles": {
+        "hook": "Эвелон обещает не смеяться",
+        "action": "Реагирует на TikTok о мечте видеть без очков",
+        "payoff": "Смеётся и повторяет реплику из ролика"
+      },
+      "evidence": [
+        {
+          "source_ms": 12987283,
+          "observation": "В TikTok виден мужчина в красной куртке и подпись про 13 лет в очках и мечту видеть без них. Стример закрывает лицо рукой."
+        },
+        {
+          "source_ms": 12994317,
+          "observation": "Тот же ролик продолжается комической деформацией лица мужчины. Фраза о неисполнении мечты слышна в этом эпизоде."
+        }
+      ],
+      "decision": "data/review/contest/editorial/19f.json"
+    },
+    {
+      "candidate_id": "19h",
+      "source_clip_id": "HQ_19h",
+      "catalog_status": "ready",
+      "catalog_title": "Оценка ауры и комментарии к последнему ролику",
+      "catalog_interval_ms": [
+        13151170,
+        13259180
+      ],
+      "source_index_status": "ready",
+      "status": "reserve",
+      "reason": "Трюк и комментарии привязаны к чужому вертикальному видео. Эвелон выступает зрителем.",
+      "roles": {
+        "hook": "Предлагает оценить ауру",
+        "action": "Смотрит трюк и открывает комментарии",
+        "payoff": "Хвалит комментарии"
+      },
+      "evidence": [
+        {
+          "source_ms": 13178783,
+          "observation": "В вертикальном видео мужчина держится за подвесные рукоятки."
+        },
+        {
+          "source_ms": 13246617,
+          "observation": "Ведущий открывает комментарии поверх того же ролика."
+        },
+        {
+          "source_ms": 13255500,
+          "observation": "Ведущий вернулся в браузер и завершает оценку, говоря о комментариях."
+        }
+      ],
+      "decision": "data/review/contest/editorial/19h.json"
+    },
+    {
+      "candidate_id": "01c",
+      "source_clip_id": "HQ_01c",
+      "catalog_status": "reserve",
+      "catalog_title": "Попытка повторить финал ролика Ромы",
+      "catalog_interval_ms": [
+        109520,
+        173460
+      ],
+      "source_index_status": "reserve",
+      "status": "reserve",
+      "reason": "Сцена построена на повторе чужого ролика, а проверенный кадр с предполагаемым жестом чёрный.",
+      "roles": {
+        "hook": "Попытка повторить финал ролика Ромы",
+        "action": "Развитие по каталожному интервалу",
+        "payoff": "Сцена построена на повторе чужого ролика, а проверенный кадр с предполагаемым жестом чёрный."
+      },
+      "evidence": [
+        {
+          "source_ms": 109520,
+          "observation": "Слышно, что он собирается повторить финал, но кадр в момент реакции чёрный. Сам жест и исходный фрагмент в проверенных точках не видны."
+        }
+      ],
+      "decision": "data/review/contest/editorial/01c.json"
+    },
+    {
+      "candidate_id": "02d",
+      "source_clip_id": "HQ_02d",
+      "catalog_status": "reserve",
+      "catalog_title": "Уход из команды как шанс собрать новый состав",
+      "catalog_interval_ms": [
+        1154790,
+        1197910
+      ],
+      "source_index_status": "reserve",
+      "status": "reserve",
+      "reason": "Краткая оценка командного раскола и его последствий без самостоятельного поворота или действия Эвелона.",
+      "roles": {
+        "hook": "Уход из команды как шанс собрать новый состав",
+        "action": "Развитие по каталожному интервалу",
+        "payoff": "Краткая оценка командного раскола и его последствий без самостоятельного поворота или действия Эвелона."
+      },
+      "evidence": [
+        {
+          "source_ms": 1154790,
+          "observation": "Это короткая оценка последствий, во многом повторяет вывод предыдущего обсуждения."
+        }
+      ],
+      "decision": "data/review/contest/editorial/02d.json"
+    },
+    {
+      "candidate_id": "03b",
+      "source_clip_id": "HQ_03b",
+      "catalog_status": "reserve",
+      "catalog_title": "Запрещает ли Рома общаться со Строго",
+      "catalog_interval_ms": [
+        1647840,
+        1696550
+      ],
+      "source_index_status": "reserve",
+      "status": "reserve",
+      "reason": "Возвращает к теме конфликта со Строго, а формулировка о запрете требует точной передачи интонации и контекста.",
+      "roles": {
+        "hook": "Запрещает ли Рома общаться со Строго",
+        "action": "Развитие по каталожному интервалу",
+        "payoff": "Возвращает к теме конфликта со Строго, а формулировка о запрете требует точной передачи интонации и контекста."
+      },
+      "evidence": [
+        {
+          "source_ms": 1647840,
+          "observation": "Перекликается с 02e, интонация важна для правильного прочтения шутки."
+        }
+      ],
+      "decision": "data/review/contest/editorial/03b.json"
+    },
+    {
+      "candidate_id": "03c",
+      "source_clip_id": "HQ_03c",
+      "catalog_status": "reserve",
+      "catalog_title": "Рейд от Читбана после разговора о нём",
+      "catalog_interval_ms": [
+        1697630,
+        1743430
+      ],
+      "source_index_status": "reserve",
+      "status": "reserve",
+      "reason": "Рейд запускает Читбан, уведомление в проверенных точках отсутствует, а продолжение от Эвелона не образует ясного финала.",
+      "roles": {
+        "hook": "Рейд от Читбана после разговора о нём",
+        "action": "Развитие по каталожному интервалу",
+        "payoff": "Рейд запускает Читбан, уведомление в проверенных точках отсутствует, а продолжение от Эвелона не образует ясного финала."
+      },
+      "evidence": [
+        {
+          "source_ms": 1697630,
+          "observation": "Рейд назван вслух, но в проверенных кадрах уведомления нет. Последняя реплика о том, что произошло через три года, распознана неясно."
+        }
+      ],
+      "decision": "data/review/contest/editorial/03c.json"
+    },
+    {
+      "candidate_id": "03e",
+      "source_clip_id": "HQ_03e",
+      "catalog_status": "reserve",
+      "catalog_title": "Просьба профинансировать новых donk",
+      "catalog_interval_ms": [
+        1892300,
+        1915620
+      ],
+      "source_index_status": "reserve",
+      "status": "reserve",
+      "reason": "В расшифровке неясны адресат и ключевая часть шутки. Просьба про новых donk не образует завершённую сцену.",
+      "roles": {
+        "hook": "Просьба профинансировать новых donk",
+        "action": "Развитие по каталожному интервалу",
+        "payoff": "В расшифровке неясны адресат и ключевая часть шутки. Просьба про новых donk не образует завершённую сцену."
+      },
+      "evidence": [
+        {
+          "source_ms": 1892300,
+          "observation": "Имя адресата и часть шутки искажены в расшифровке."
+        }
+      ],
+      "decision": "data/review/contest/editorial/03e.json"
+    },
+    {
+      "candidate_id": "03f",
+      "source_clip_id": "HQ_03f",
+      "catalog_status": "reserve",
+      "catalog_title": "Курьеры в TikTok-монтаже",
+      "catalog_interval_ms": [
+        1920040,
+        1945040
+      ],
+      "source_index_status": "reserve",
+      "status": "reserve",
+      "reason": "Для понимания шутки нужна чужая TikTok-нарезка. Реплики Эвелона сами по себе не восстанавливают действие и развязку.",
+      "roles": {
+        "hook": "Курьеры в TikTok-монтаже",
+        "action": "Развитие по каталожному интервалу",
+        "payoff": "Для понимания шутки нужна чужая TikTok-нарезка. Реплики Эвелона сами по себе не восстанавливают действие и развязку."
+      },
+      "evidence": [
+        {
+          "source_ms": 1920040,
+          "observation": "Для понятной развязки нужен контекст нарезки, из одной расшифровки он не восстанавливается."
+        }
+      ],
+      "decision": "data/review/contest/editorial/03f.json"
+    },
+    {
+      "candidate_id": "03h",
+      "source_clip_id": "HQ_03h",
+      "catalog_status": "reserve",
+      "catalog_title": "Спросил про ванную, ответ получил про одеяло",
+      "catalog_interval_ms": [
+        2055520,
+        2072140
+      ],
+      "source_index_status": "ready",
+      "status": "reserve",
+      "reason": "Вопрос Эвелона заводит разговор, а смешной ответ про одеяло полностью у Максима.",
+      "roles": {
+        "hook": "Спросил про ванную, ответ получил про одеяло",
+        "action": "Начать на прямом вопросе про ванну. / Оставить цельное «Нет» и ответ про одеяло.",
+        "payoff": "Вопрос Эвелона заводит разговор, а смешной ответ про одеяло полностью у Максима."
+      },
+      "evidence": [
+        {
+          "source_ms": 2055520,
+          "observation": "Начало шутки распознано с существенными пропусками."
+        }
+      ],
+      "decision": "data/review/contest/editorial/03h.json"
+    },
+    {
+      "candidate_id": "04b",
+      "source_clip_id": "HQ_04b",
+      "catalog_status": "reserve",
+      "catalog_title": "Красивую камеру попросили, настройки оказались неожиданными",
+      "catalog_interval_ms": [
+        2227730,
+        2300940
+      ],
+      "source_index_status": "reserve",
+      "status": "reserve",
+      "reason": "Камеры появляются, но неясно, что именно в настройках вызывает реакцию, поэтому шутку нельзя точно собрать из подводки и финала.",
+      "roles": {
+        "hook": "Красивую камеру попросили, настройки оказались неожиданными",
+        "action": "Развитие по каталожному интервалу",
+        "payoff": "Камеры появляются, но неясно, что именно в настройках вызывает реакцию, поэтому шутку нельзя точно собрать из подводки и финала."
+      },
+      "evidence": [
+        {
+          "source_ms": 2227730,
+          "observation": "Появление живых камер подтверждено. Предмет реплики о том, как Максим выглядит, распознан недостаточно ясно для отдельной шутки."
+        }
+      ],
+      "decision": "data/review/contest/editorial/04b.json"
+    },
+    {
+      "candidate_id": "04c",
+      "source_clip_id": "HQ_04c",
+      "catalog_status": "reserve",
+      "catalog_title": "Фейк про Смешариков",
+      "catalog_interval_ms": [
+        2324780,
+        2348280
+      ],
+      "source_index_status": "reserve",
+      "status": "reserve",
+      "reason": "Без контекста фейка и надёжной расшифровки последней фразы отдельный клип будет зависеть от догадки зрителя.",
+      "roles": {
+        "hook": "Фейк про Смешариков",
+        "action": "Развитие по каталожному интервалу",
+        "payoff": "Без контекста фейка и надёжной расшифровки последней фразы отдельный клип будет зависеть от догадки зрителя."
+      },
+      "evidence": [
+        {
+          "source_ms": 2324780,
+          "observation": "Расшифровка не даёт надёжной последней реплики и исходного контекста фейка."
+        }
+      ],
+      "decision": "data/review/contest/editorial/04c.json"
+    },
+    {
+      "candidate_id": "04d",
+      "source_clip_id": "HQ_04d",
+      "catalog_status": "reserve",
+      "catalog_title": "Первые выпуски телевикторины в поиске",
+      "catalog_interval_ms": [
+        2435500,
+        2496840
+      ],
+      "source_index_status": "reserve",
+      "status": "reserve",
+      "reason": "В проверенных кадрах заставка игры, а не поисковая выдача, на которую реагируют. Эвелон не получает отдельной завершённой сцены.",
+      "roles": {
+        "hook": "Первые выпуски телевикторины в поиске",
+        "action": "Развитие по каталожному интервалу",
+        "payoff": "В проверенных кадрах заставка игры, а не поисковая выдача, на которую реагируют. Эвелон не получает отдельной завершённой сцены."
+      },
+      "evidence": [
+        {
+          "source_ms": 2435500,
+          "observation": "Реакция на выдачу описана голосом, но в обеих проверенных точках зритель видит заставку игры, а не выдачу поиска."
+        }
+      ],
+      "decision": "data/review/contest/editorial/04d.json"
+    },
+    {
+      "candidate_id": "04f",
+      "source_clip_id": "HQ_04f",
+      "catalog_status": "reserve",
+      "catalog_title": "Какого умного друга можно позвать",
+      "catalog_interval_ms": [
+        2750930,
+        2772840
+      ],
+      "source_index_status": "reserve",
+      "status": "reserve",
+      "reason": "Вопрос о звонке даёт подводку, но ключевое слово шутки распознано плохо и самостоятельная развязка не подтверждается.",
+      "roles": {
+        "hook": "Какого умного друга можно позвать",
+        "action": "Развитие по каталожному интервалу",
+        "payoff": "Вопрос о звонке даёт подводку, но ключевое слово шутки распознано плохо и самостоятельная развязка не подтверждается."
+      },
+      "evidence": [
+        {
+          "source_ms": 2750930,
+          "observation": "Ключевое слово шутки распознано плохо, нужен звук для точной передачи."
+        }
+      ],
+      "decision": "data/review/contest/editorial/04f.json"
+    },
+    {
+      "candidate_id": "05c",
+      "source_clip_id": "HQ_05c",
+      "catalog_status": "reserve",
+      "catalog_title": "Две тысячи как чаевые курьеру",
+      "catalog_interval_ms": [
+        2975190,
+        2988690
+      ],
+      "source_index_status": "ready",
+      "status": "ready",
+      "reason": "Эвелон задаёт вопрос о ставке и сам сравнивает её с чаевыми курьеру. Максим отвечает коротким согласием, без которого шутка сохраняется.",
+      "roles": {
+        "hook": "Эвелон спрашивает Максима, видел ли тот две тысячи рублей.",
+        "action": "Эвелон выжидает после ответа Максима.",
+        "payoff": "Эвелон сравнивает ставку с чаевыми курьеру. Максим кивает и соглашается."
+      },
+      "evidence": [
+        {
+          "source_ms": 2975130,
+          "observation": "Первое обращение «Максон». В HQ 2975300 между камерами видно 2 000 ₽."
+        },
+        {
+          "source_ms": 2982940,
+          "observation": "Эвелон произносит «курьеру», Максим отвечает около 2984840. В HQ 2984400 центр показывает «Вопрос 2», видимой рекламы на камерах нет."
+        }
+      ],
+      "decision": "data/review/contest/editorial/05c.json",
+      "clip_id": "PUB_05c",
+      "format": "dialogue",
+      "publication": {
+        "tiktok": {
+          "description": "Эвелон сравнивает ставку второго вопроса с чаевыми курьеру.\n\n#evelone twitch: evelone2004",
+          "date": null,
+          "account": null,
+          "url": null,
+          "organic_views": null,
+          "statistics": null
+        },
+        "youtube_shorts": {
+          "title": "Что для Макса две тысячи рублей? | #evelone twitch: evelone2004",
+          "date": null,
+          "account": null,
+          "url": null,
+          "organic_views": null,
+          "statistics": null
+        }
+      },
+      "files": {
+        "plan": "data/review/contest/clips/PUB_05c/edit_plan.json",
+        "draft": "data/review/contest/clips/PUB_05c/word_draft.json",
+        "edits": "data/review/contest/clips/PUB_05c/sol_edits.json",
+        "qa": "data/review/contest/clips/PUB_05c/qa.json",
+        "visual_review": "data/review/contest/clips/PUB_05c/visual_review.json",
+        "mp4": "data/review/mvp/2876630043/PUB_05c/PUB_05c.mp4",
+        "ass": "data/review/mvp/2876630043/PUB_05c/PUB_05c.ass",
+        "manifest": "data/review/mvp/2876630043/PUB_05c/manifest.json"
+      },
+      "source_segments_ms": [
+        [
+          2975130,
+          2977030
+        ],
+        [
+          2977030,
+          2977910
+        ],
+        [
+          2978870,
+          2981050
+        ],
+        [
+          2981800,
+          2985310
+        ]
+      ],
+      "planned_duration_ms": 8470,
+      "audio": {
+        "mode": "saved_hq_track",
+        "parent_mp4": "data/review/mvp/2876630043/HQ_05c/HQ_05c.mp4",
+        "offset_ms": 0,
+        "aac_payload_sha256": "603ecfdf3ce906bb9119ffc6cc13909ab7b4f9dc9a4c6bd4b36fab14f55244dd",
+        "decoded_pcm_sha256": "b087f6d2fc2a78f553615066b83c28f070d0e881e04463706864b25f64270e6c",
+        "verified_identical_to_parent": true,
+        "muxed_saved_track": true
+      },
+      "duration_s": 8.47
+    },
+    {
+      "candidate_id": "06b",
+      "source_clip_id": "HQ_06b",
+      "catalog_status": "reserve",
+      "catalog_title": "Чтобы не спорили о подсказках, закрывают чат",
+      "catalog_interval_ms": [
+        3597090,
+        3656860
+      ],
+      "source_index_status": "reserve",
+      "status": "reserve",
+      "reason": "Есть решение убрать чат, но эффект действия на стороне участника в проверенных материалах не подтверждён. Изолированный эпизод начинается со спора о подсказках.",
+      "roles": {
+        "hook": "Чтобы не спорили о подсказках, закрывают чат",
+        "action": "Развитие по каталожному интервалу",
+        "payoff": "Есть решение убрать чат, но эффект действия на стороне участника в проверенных материалах не подтверждён. Изолированный эпизод начинается со спора о подсказках."
+      },
+      "evidence": [
+        {
+          "source_ms": 3597090,
+          "observation": "Решение есть, но на трансляции не обязательно видна панель чата на стороне Максима."
+        }
+      ],
+      "decision": "data/review/contest/editorial/06b.json"
+    },
+    {
+      "candidate_id": "06g",
+      "source_clip_id": "HQ_06g",
+      "catalog_status": "reserve",
+      "catalog_title": "На что потратить 50 000 ₽",
+      "catalog_interval_ms": [
+        4144180,
+        4161530
+      ],
+      "source_index_status": "reserve",
+      "status": "reserve",
+      "reason": "Перебивка между раундами. Название покупки, на котором держится шутка, неразборчиво.",
+      "roles": {
+        "hook": "На что потратить 50 000 ₽",
+        "action": "Развитие по каталожному интервалу",
+        "payoff": "Перебивка между раундами. Название покупки, на котором держится шутка, неразборчиво."
+      },
+      "evidence": [
+        {
+          "source_ms": 4144180,
+          "observation": "Название покупки в готовой расшифровке неразборчиво. Это перебивка между раундами."
+        }
+      ],
+      "decision": "data/review/contest/editorial/06g.json"
+    },
+    {
+      "candidate_id": "08d",
+      "source_clip_id": "HQ_08d",
+      "catalog_status": "reserve",
+      "catalog_title": "Викторина с дедушкой",
+      "catalog_interval_ms": [
+        5494840,
+        5536850
+      ],
+      "source_index_status": "reserve",
+      "status": "reserve",
+      "reason": "Ностальгическую историю ведёт Максим, а вопрос Evelone о дедушке ведёт в неловкую и неразборчивую концовку.",
+      "roles": {
+        "hook": "Разговор о том, что один вопрос теперь стоит 100 тысяч, вызывает воспоминание об игре с дедушкой у телевизора.",
+        "action": "Ностальгическую историю ведёт Максим, а вопрос Evelone о дедушке ведёт в неловкую и неразборчивую концовку.",
+        "payoff": "Ведущий спрашивает, где сейчас дедушка. Разговор неловко обрывается и возвращается к игре."
+      },
+      "evidence": [
+        {
+          "source_ms": 5505170,
+          "observation": "Разговор о том, что один вопрос теперь стоит 100 тысяч, вызывает воспоминание об игре с дедушкой у телевизора."
+        },
+        {
+          "source_ms": 5522870,
+          "observation": "Ведущий спрашивает, где сейчас дедушка. Разговор неловко обрывается и возвращается к игре."
+        }
+      ],
+      "decision": "data/review/contest/editorial/08d.json"
+    },
+    {
+      "candidate_id": "12b",
+      "source_clip_id": "HQ_12b",
+      "catalog_status": "reserve",
+      "catalog_title": "Десять тысяч — на один бургер",
+      "catalog_interval_ms": [
+        7626010,
+        7673120
+      ],
+      "source_index_status": "reserve",
+      "status": "reserve",
+      "reason": "Evelone открывает разговор вопросом про еду на десятку. Ответ про бургер принадлежит Илье, спор о ценах остаётся незавершённым.",
+      "roles": {
+        "hook": "Ведущий спрашивает, куда пойти вкусно поесть с выигранной десяткой.",
+        "action": "Evelone открывает разговор вопросом про еду на десятку. Ответ про бургер принадлежит Илье, спор о ценах остаётся незавершённым.",
+        "payoff": "Илья отвечает, что заказал бы только один бургер из-за цены, после чего его оценку оспаривают."
+      },
+      "evidence": [
+        {
+          "source_ms": 7626010,
+          "observation": "Ведущий спрашивает, куда пойти вкусно поесть с выигранной десяткой."
+        },
+        {
+          "source_ms": 7645550,
+          "observation": "Илья отвечает, что заказал бы только один бургер из-за цены, после чего его оценку оспаривают."
+        }
+      ],
+      "decision": "data/review/contest/editorial/12b.json"
+    },
+    {
+      "candidate_id": "16c",
+      "source_clip_id": "HQ_16c",
+      "catalog_status": "reserve",
+      "catalog_title": "В следующей викторине оба напарника должны согласиться",
+      "catalog_interval_ms": [
+        10456730,
+        10516520
+      ],
+      "source_index_status": "reserve",
+      "status": "reserve",
+      "reason": "Анонс без сыгранного раунда или результата.",
+      "roles": {
+        "hook": "Идея парной викторины",
+        "action": "Обсуждает согласование ответа",
+        "payoff": "Озвучивает правило будущей игры"
+      },
+      "evidence": [
+        {
+          "source_ms": 10456730,
+          "observation": "В следующей викторине оба напарника должны согласиться. Анонс формата и предположение, в этом фрагменте парная игра не происходит."
+        }
+      ],
+      "decision": "data/review/contest/editorial/16c.json"
+    },
+    {
+      "candidate_id": "18c",
+      "source_clip_id": "HQ_18c",
+      "catalog_status": "reserve",
+      "catalog_title": "Розыгрыш с битой, за который он обещает заплатить",
+      "catalog_interval_ms": [
+        11831660,
+        11872500
+      ],
+      "source_index_status": "reserve",
+      "status": "reserve",
+      "reason": "Обещание строится вокруг агрессивного розыгрыша, который не состоялся в исходнике.",
+      "roles": {
+        "hook": "Обещает деньги за розыгрыш",
+        "action": "Описывает гипотетический розыгрыш с битой",
+        "payoff": "Розыгрыша в эфире нет"
+      },
+      "evidence": [
+        {
+          "source_ms": 11831660,
+          "observation": "Розыгрыш с битой, за который он обещает заплатить. Это гипотетический рассказ. Самого розыгрыша в VOD нет."
+        }
+      ],
+      "decision": "data/review/contest/editorial/18c.json"
+    },
+    {
+      "candidate_id": "18f",
+      "source_clip_id": "HQ_18f",
+      "catalog_status": "reserve",
+      "catalog_title": "Танк в ролике про пик окна на Mirage",
+      "catalog_interval_ms": [
+        12362517,
+        12388017
+      ],
+      "source_index_status": "ready",
+      "status": "reserve",
+      "reason": "Шутку целиком несёт чужой ролик, а Эвелон не выполняет действие сам.",
+      "roles": {
+        "hook": "Подводка про окно на Mirage",
+        "action": "Танк из чужого ролика едет в переулке",
+        "payoff": "Видео останавливается на наведении ствола"
+      },
+      "evidence": [
+        {
+          "source_ms": 12362517,
+          "observation": "Родная надпись над танком в переулке."
+        },
+        {
+          "source_ms": 12375017,
+          "observation": "Танк у синего здания."
+        },
+        {
+          "source_ms": 12382517,
+          "observation": "Танк боком, ствол направлен в сторону окна."
+        },
+        {
+          "source_ms": 12385800,
+          "observation": "После разворота источник остановлен на том же кадре."
+        }
+      ],
+      "decision": "data/review/contest/editorial/18f.json"
+    },
+    {
+      "candidate_id": "19b",
+      "source_clip_id": "HQ_19b",
+      "catalog_status": "reserve",
+      "catalog_title": "Что было в чемодане",
+      "catalog_interval_ms": [
+        12587430,
+        12651120
+      ],
+      "source_index_status": "reserve",
+      "status": "reserve",
+      "reason": "Без кадров ролика вопрос теряет смысл, а подтверждённого ответа нет.",
+      "roles": {
+        "hook": "Заинтересовался чемоданом",
+        "action": "Смотрит чужой ролик",
+        "payoff": "Содержимое не устанавливается"
+      },
+      "evidence": [
+        {
+          "source_ms": 12587430,
+          "observation": "Что было в чемодане. Кадры подтверждают показ ролика и реакцию. Раскрытие, кто или что оказалось в чемодане, по кадрам и речи надёжно не устанавливается."
+        }
+      ],
+      "decision": "data/review/contest/editorial/19b.json"
+    },
+    {
+      "candidate_id": "19c",
+      "source_clip_id": "HQ_19c",
+      "catalog_status": "reserve",
+      "catalog_title": "Почему в интернете сравнили Игоря Чайку с Гриффином",
+      "catalog_interval_ms": [
+        12675750,
+        12724290
+      ],
+      "source_index_status": "reserve",
+      "status": "reserve",
+      "reason": "Политический контекст и зависимость от чужого мема.",
+      "roles": {
+        "hook": "Подводка к чужому мему",
+        "action": "Пересказывает сравнение Игоря Чайки с Гриффином",
+        "payoff": "Отдельного исхода нет"
+      },
+      "evidence": [
+        {
+          "source_ms": 12675750,
+          "observation": "Почему в интернете сравнили Игоря Чайку с Гриффином. Это пересказ чужого мема. Из речи неясно, был ли показан исходный ролик и где отдельная развязка."
+        }
+      ],
+      "decision": "data/review/contest/editorial/19c.json"
+    },
+    {
+      "candidate_id": "19d",
+      "source_clip_id": "HQ_19d",
+      "catalog_status": "reserve",
+      "catalog_title": "Хотел показать ролик, а на экране оказалась Каролина",
+      "catalog_interval_ms": [
+        12783330,
+        12892650
+      ],
+      "source_index_status": "reserve",
+      "status": "reserve",
+      "reason": "Клип держится на чужих роликах и случайной подмене картинки.",
+      "roles": {
+        "hook": "Обещает показать конкретный ролик",
+        "action": "На экране сменяются превью",
+        "payoff": "Результат действия в Marvel не подтверждён"
+      },
+      "evidence": [
+        {
+          "source_ms": 12783330,
+          "observation": "Хотел показать ролик, а на экране оказалась Каролина. На экране действительно сменяются разные превью. Действие в Marvel, которым он завершает реакцию, в проверенных кадрах не видно."
+        }
+      ],
+      "decision": "data/review/contest/editorial/19d.json"
+    },
+    {
+      "candidate_id": "19g",
+      "source_clip_id": "HQ_19g",
+      "catalog_status": "reserve",
+      "catalog_title": "Бабушка, которой он не мог не поставить лайк",
+      "catalog_interval_ms": [
+        13033790,
+        13066390
+      ],
+      "source_index_status": "reserve",
+      "status": "reserve",
+      "reason": "По речи невозможно восстановить поступок героини, который объяснил бы реакцию.",
+      "roles": {
+        "hook": "Эвелон говорит, что поставил лайк",
+        "action": "Реагирует на ролик о бабушке",
+        "payoff": "Самостоятельная развязка не подтверждена"
+      },
+      "evidence": [
+        {
+          "source_ms": 13033790,
+          "observation": "Бабушка, которой он не мог не поставить лайк. В речи нет конкретного действия героини. Нужен кадр для самостоятельной развязки."
+        }
+      ],
+      "decision": "data/review/contest/editorial/19g.json"
+    }
+  ],
+  "counts": {
+    "total": 96,
+    "ready": 10,
+    "reserve": 86,
+    "remaining": 0
+  },
+  "next_unfinished": null,
+  "report": "data/review/contest/REVIEW.md",
+  "source_verification": "data/review/contest/source_verification.json",
+  "render_change": {
+    "diff": "data/review/contest/render_plan.diff",
+    "tests": "data/review/contest/tests.txt",
+    "baseline": "pre-change snapshot, Git HEAD unavailable"
+  },
+  "examples": [
+    {
+      "clip_id": "PUB_05b",
+      "format": "dialogue",
+      "mp4": "data/review/mvp/2876630043/PUB_05b/PUB_05b.mp4",
+      "guided_frames": "data/review/contest/clips/PUB_05b/guides.png"
+    },
+    {
+      "clip_id": "PUB_17d",
+      "format": "demo",
+      "mp4": "data/review/mvp/2876630043/PUB_17d/PUB_17d.mp4",
+      "guided_frames": "data/review/contest/clips/PUB_17d/guides.png"
+    }
+  ],
+  "local_qa": {
+    "decoded_mp4": 10,
+    "width": 720,
+    "height": 1280,
+    "fps": 30,
+    "decoded_video_frames": 3993,
+    "seams": 17,
+    "source_boundaries": 49,
+    "frames_with_verified_masks": 1064,
+    "safe_bounds_ltrb": [
+      36,
+      96,
+      576,
+      820
+    ],
+    "largest_speech_bottom_y": 807,
+    "mobile_preview_required": true
+  }
+}

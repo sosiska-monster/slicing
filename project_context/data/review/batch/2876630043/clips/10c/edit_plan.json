@@ -1,0 +1,203 @@
+{
+  "schema_version": 1,
+  "source": {
+    "vod_id": "2876630043",
+    "file": "data/vods/2876630043.mp4"
+  },
+  "editorial": {
+    "candidate_id": "10c",
+    "hero": "Evelone",
+    "source_plan": "data/review/codex_pilot/full_hq/data/review/contest/clips/PUB_10c/edit_plan.json",
+    "source_plan_sha256": "4c4c668e52d9fe2a392dc2033872fb4d299b23f206e14287164f3d37e8f92d5b",
+    "layout_family": "two_equal",
+    "layout_choice": "LOW",
+    "static_layout": true,
+    "caption_mode": "whole phrases",
+    "source_ad_rects": [
+      [
+        548,
+        466,
+        100,
+        66
+      ],
+      [
+        530,
+        530,
+        118,
+        66
+      ],
+      [
+        820,
+        194,
+        298,
+        370
+      ]
+    ],
+    "source_timebase": "HQ playback milliseconds",
+    "caption_timing": "saved HQ words as-is; no 480p shift",
+    "changes": "Reuse approved sound intervals; static image and whole-phrase captions"
+  },
+  "clips": [
+    {
+      "id": "BATCH_10c",
+      "title": "Почему не забрал приз и куда предложили отправить 300 000 ₽",
+      "export_size": [
+        1080,
+        1920
+      ],
+      "safe_margins": {
+        "left": 0.07222222222222222,
+        "right": 0.21666666666666667,
+        "top": 0,
+        "bottom": 0.41484375
+      },
+      "segments": [
+        {
+          "start_ms": 6779040,
+          "end_ms": 6786420,
+          "framing": {
+            "name": "two_equal_low",
+            "panels": [
+              {
+                "crop": [
+                  1286,
+                  140,
+                  540,
+                  404
+                ],
+                "place": [
+                  0,
+                  0,
+                  720,
+                  538
+                ]
+              },
+              {
+                "crop": [
+                  60,
+                  300,
+                  540,
+                  404
+                ],
+                "place": [
+                  0,
+                  742,
+                  720,
+                  538
+                ]
+              }
+            ],
+            "masks": [
+              [
+                650,
+                962,
+                70,
+                90
+              ],
+              [
+                626,
+                1048,
+                94,
+                90
+              ]
+            ]
+          },
+          "captions": [
+            {
+              "start_ms": 6779040,
+              "end_ms": 6780540,
+              "lines": [
+                "300 000 —",
+                "десяти победителям?"
+              ]
+            },
+            {
+              "start_ms": 6781740,
+              "end_ms": 6782940,
+              "lines": [
+                "Просто 300 тысяч рублей.",
+                "Нет."
+              ]
+            },
+            {
+              "start_ms": 6784040,
+              "end_ms": 6785540,
+              "lines": [
+                "10 победителей по 30",
+                "тысяч."
+              ]
+            }
+          ]
+        },
+        {
+          "start_ms": 6786420,
+          "end_ms": 6790780,
+          "framing": {
+            "name": "two_equal_low",
+            "panels": [
+              {
+                "crop": [
+                  1286,
+                  140,
+                  540,
+                  404
+                ],
+                "place": [
+                  0,
+                  0,
+                  720,
+                  538
+                ]
+              },
+              {
+                "crop": [
+                  60,
+                  300,
+                  540,
+                  404
+                ],
+                "place": [
+                  0,
+                  742,
+                  720,
+                  538
+                ]
+              }
+            ],
+            "masks": [
+              [
+                650,
+                962,
+                70,
+                90
+              ],
+              [
+                626,
+                1048,
+                94,
+                90
+              ]
+            ]
+          },
+          "captions": [
+            {
+              "start_ms": 6786460,
+              "end_ms": 6789610,
+              "lines": [
+                "А что такое? Давай,",
+                "давай, давай разыграем,"
+              ]
+            },
+            {
+              "start_ms": 6789620,
+              "end_ms": 6790480,
+              "lines": [
+                "только не сейчас."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
